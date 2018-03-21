@@ -1,5 +1,7 @@
 ---
 layout: single
+sidebar:
+  nav: "manual"
 ---
 
 # Welcome
@@ -28,3 +30,5 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * You can also **record a video without broadcasting.** Great for practicing, or pre-recording presentations.
   
 Incredible, right? Must be difficult? *Challenge accepted.*
+
+sys reqs, install and uninstall add here #todo

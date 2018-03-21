@@ -1,5 +1,7 @@
 ---
 layout: single
+sidebar:
+  nav: "tutorial-1"
 ---
 
 # Your First Facebook Live Stream

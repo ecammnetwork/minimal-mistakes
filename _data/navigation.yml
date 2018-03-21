@@ -6,9 +6,14 @@ main:
     url: /docs/ecamm-live-first-facebook-live/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+manual:
+  - title: "Introduction"
+    url: /docs/ecamm-live-manual/001-manual-intro
+  - title: "Your First Time Around with Ecamm Live"
+    url: /docs/ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+
+tutorial-1:
+  - title: "Introduction"
+    url: /docs/ecamm-live-first-facebook-live/001-first-facebook-live-intro
+  - title: "Before You Broadcast"
+    url: /docs/ecamm-live-first-facebook-live/002-before-you-broadcast

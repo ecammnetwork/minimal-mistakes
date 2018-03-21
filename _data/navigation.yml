@@ -2,6 +2,8 @@
 main:
   - title: "Ecamm Live Manual"
     url: /docs/ecamm-live-manual/
+  - title: "First Facebook Live Tutorial"
+    url: /docs/ecamm-live-first-facebook-live/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

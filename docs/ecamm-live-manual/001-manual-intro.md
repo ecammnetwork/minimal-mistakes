@@ -32,3 +32,22 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 Incredible, right? Must be difficult? *Challenge accepted.*
 
 sys reqs, install and uninstall add here #todo
+
+## System Requirements
+
+* A Mac 
+* A microphone
+* A compatible video camera (including built-in webcams)
+* macOS 10.11 or newer
+* An internet connection with an upload speed of at least 1 Mbps.
+  * 4 Mbps is required for HD quality.
+* A Mac with hardware-accelerated video encoding (most Macs manufactured after 2010).
+* For Facebook Live, you must have a Facebook account (to use other services that use RTMP, you must have an account with that service).
+
+## Installing Ecamm Live
+
+Double-click on the Ecamm Live app icon. Ecamm Live will offer to move itself to the Applications folder if needed.
+
+## Uninstalling Ecamm Live
+
+To uninstall Ecamm Live, drag the app’s icon to the trash icon in the Mac’s Dock area.

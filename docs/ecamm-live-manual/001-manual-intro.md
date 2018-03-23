@@ -31,8 +31,6 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
   
 Incredible, right? Must be difficult? *Challenge accepted.*
 
-sys reqs, install and uninstall add here #todo
-
 ## System Requirements
 
 * A Mac 

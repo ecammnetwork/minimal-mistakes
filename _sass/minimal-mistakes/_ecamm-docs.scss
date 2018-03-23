@@ -1,0 +1,52 @@
+/* kbd, samp, ins, :before style for inserting images describing menus */
+
+kbd > .key {
+	display: inline-block;
+	color: #fff;
+	font: $monospace;
+	font-size: $type-size-6;
+	background: rgba(48,51,54,.85);
+	border-radius: .3em;
+	padding: 0 .5em;
+	margin: 0 .1em;
+	line-height: 20px;
+	vertical-align: 1px;
+	}
+	 
+samp,
+ul samp,
+li > samp {
+	display: inline-block;
+	padding: .25em .25em 0 .25em;
+	margin-top: -1em;
+	line-height: 20px;
+// 	vertical-align: 1px;
+	color: rgba(4,15,26,.8);
+	font: $sans-serif;
+	font-size: $type-size-6;
+	background: rgba(38,52,74,.05);
+	border: 1px solid rgba(38,52,74,.05);
+	border-radius: .25em;
+	}
+
+samp.uielement::before {
+	content: '';
+	display: inline-block;
+	width: 29px;
+	height: 20px;
+	}
+
+samp.uielement.sound-levels::before {
+	background-image:url(/assets/img/sound-levels.png);
+	background-repeat:no-repeat;
+	background-size: 29px 20px;
+	background-position: bottom -3px;
+	margin-bottom: -0.25em;
+}
+
+// .concept.for-things:before,.uielement.for-things:before {
+//  -webkit-background-size:90px 450px;
+//  -moz-background-size:90px 450px;
+//  background-size:90px 450px;
+//  background-position:30px 30px
+// }

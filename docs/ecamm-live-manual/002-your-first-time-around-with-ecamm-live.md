@@ -69,3 +69,4 @@ Record
 When logged into Facebook, the bottom left corner of the Main Window includes a {Pin icon}#todo location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.
 
 Note: We have [a detailed section on Facebook Live](#link) later in this manual.  We discuss Custom Stream Keys and how to connect to other video services in the [Broadcasting to Other Services](#link) section.
+{:.notice--info}

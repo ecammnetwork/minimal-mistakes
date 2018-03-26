@@ -3,8 +3,8 @@
 kbd > .key {
 	display: inline-block;
 	color: #fff;
-	font: $monospace;
-	font-size: $type-size-6;
+	font-family: $system-font-family;
+	font-size: $type-size-5-5;
 	background: rgba(48,51,54,.85);
 	border-radius: .3em;
 	padding: 0 .5em;
@@ -12,18 +12,18 @@ kbd > .key {
 	line-height: 20px;
 	vertical-align: 1px;
 	}
-	 
+
 samp,
 ul samp,
 li > samp {
 	display: inline-block;
-	padding: .25em .25em 0 .25em;
+	padding: .2em .25em .2em .25em;
 	margin-top: -1em;
 	line-height: 20px;
-// 	vertical-align: 1px;
+//   vertical-align: bottom;
 	color: rgba(4,15,26,.8);
-	font: $sans-serif;
-	font-size: $type-size-6;
+	font-family: $system-font-family;
+	font-size: $type-size-5-5;
 	background: rgba(38,52,74,.05);
 	border: 1px solid rgba(38,52,74,.05);
 	border-radius: .25em;

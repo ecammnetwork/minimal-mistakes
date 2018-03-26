@@ -70,3 +70,9 @@ When logged into Facebook, the bottom left corner of the Main Window includes a 
 
 Note: We have [a detailed section on Facebook Live](#link) later in this manual.  We discuss Custom Stream Keys and how to connect to other video services in the [Broadcasting to Other Services](#link) section.
 {:.notice--info}
+
+Demo text for testing key styles follows.
+
+* Type <kbd>⌘</kbd><kbd>N</kbd>.
+
+When you create a new text overlay, a style sheet will appear. Start typing to enter text. You can hold the <kbd>Shift</kbd> key and press the <kbd>Return</kbd> key to insert a line break.

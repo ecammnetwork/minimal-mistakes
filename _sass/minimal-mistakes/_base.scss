@@ -13,6 +13,8 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-size: 1rem;
+  font-weight: $body-text-weight;
   line-height: 1.5;
 
   &.overflow--hidden {

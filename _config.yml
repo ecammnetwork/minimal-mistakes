@@ -178,7 +178,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "docs/*/"
+      path: "docs"
       type: ""
     values:
       layout: "single"
@@ -188,5 +188,5 @@ defaults:
       share: false
       related: false
       sidebar:
-        nav: manual
+        nav: "manual"
       toc: true

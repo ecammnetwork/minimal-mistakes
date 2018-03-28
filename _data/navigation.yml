@@ -13,6 +13,8 @@ manual:
     url: /docs/ecamm-live-manual/002-your-first-time-around-with-ecamm-live
   - title: "Using Overlays"
     url: /docs/ecamm-live-manual/003-overlays
+  - title: "Source Modes"
+    url: /docs/ecamm-live-manual/004-source-modes
 
 tutorial-1:
   - title: "Introduction"

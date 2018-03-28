@@ -11,6 +11,8 @@ manual:
     url: /docs/ecamm-live-manual/001-manual-intro
   - title: "Your First Time Around with Ecamm Live"
     url: /docs/ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+  - title: "Using Overlays"
+    url: /docs/ecamm-live-manual/003-overlays
 
 tutorial-1:
   - title: "Introduction"

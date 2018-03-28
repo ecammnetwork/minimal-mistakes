@@ -156,36 +156,37 @@ whitelist:
   - jemoji
 
 # Collections
+collections_dir: docs
 collections:
-  docs/ecamm-live-manual:
+  ecamm-live-manual:
     permalink: "/:collection/:path/"
     output: "true"
-  docs/ecamm-live-first-facebook-live:
+  ecamm-live-first-facebook-live:
     permalink: "/:collection/:path/"
     output: "true"
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
+      layout: "single"
       author_profile: false
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-defaults:
-  # _docs
   - scope:
-      path: ""
-      type: docs
+      path: "docs/*/"
+      type: ""
     values:
-      layout: single
+      layout: "single"
       author_profile: false
       read_time: true
       comments: # true
       share: false
       related: false
+      sidebar:
+        nav: manual
+      toc: true

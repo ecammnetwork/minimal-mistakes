@@ -1,7 +1,5 @@
 ---
-layout: single
-sidebar:
-  nav: "manual"
+
 ---
 # Using Overlays
 
@@ -47,11 +45,11 @@ Would you like to show your company logo in the corner of your broadcast? That�
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Select the <samp>New Image Overlay</samp> button at the bottom the <samp>Overlays</samp> Window
-* Type <kbd>shift</kbd>-<kbd>⌘</kbd>-<kbd>N</kbd> while in the Main Window.
+* Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window.
 
 A File Selection Sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG or GIF. Animated GIFs are also supported—let’s use that last one responsibly, shall we? 
 
-ProTip: When creating an image in an external graphics application for an overlay, PNG is a great format. PNG saves losslessly (without visible degradation from data compression), and can have an alpha channel (allowing parts of the image to be transparent). This can add an additional pro touch to your onscreen look. If you’re interested in a fancy “lower third” or “chyron” graphic, create a PNG in your graphics editor of choice and use it as an Image Overlay in Ecamm Live.
+**ProTip:** When creating an image in an external graphics application for an overlay, PNG is a great format. PNG saves losslessly (without visible degradation from data compression), and can have an alpha channel (allowing parts of the image to be transparent). This can add an additional pro touch to your onscreen look. If you’re interested in a fancy “lower third” or “chyron” graphic, create a PNG in your graphics editor of choice and use it as an Image Overlay in Ecamm Live.
 {:.notice--info}
 
 ### Editing Image Overlays
@@ -84,7 +82,7 @@ A Text Editing Sheet appears, providing all of the same visual styling options a
 
 ### Editing Countdown Overlays
 
-Use the same controls available to [Text Overlays](link to Editing Text Overlays)
+You have the same controls as [Text Overlays](link to Editing Text Overlays).
 
 ## Overlay Quick Resize Options
 
@@ -99,11 +97,11 @@ If you’re using a mouse, you can put your cursor over top of the Overlay and s
 
 The Overlays Window offers several options for managing your Overlays. 
 
-To delete an overlay, select any item in the list and press your delete key, drag to the trash icon, or click the trash icon. The item will vanish. Trash an overlay by mistake? Don’t panic. Edit > Undo or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
+To delete an overlay, select any item in the list and press your delete key, drag to the trash icon, or click the trash icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> > <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 
 You can show or hide a given overlay by clicking its #todo:image? eyeball icon. You can reorder the overlays by dragging them up or down. This can be helpful for organization, but if you have any overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 
 If you need to further organize, you can create folders to group overlays. Press the {folder icon}\#todo Folder+ icon to create a new folder. Drag overlays onto the folders to organize.
 
-Note: Overlays are always auto-saved as you create and edit them.
+**Note:** Overlays are always auto-saved as you create and edit them.
 {:.notice--info}

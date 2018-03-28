@@ -168,25 +168,25 @@ collections:
 # Defaults
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: "_docs"
+      type: "docs/ecamm-live-manual"
     values:
       layout: "single"
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  - scope:
-      path: "docs"
-      type: ""
-    values:
-      layout: "single"
-      author_profile: false
-      read_time: true
-      comments: # true
-      share: false
-      related: false
-      sidebar:
-        nav: "manual"
-      toc: true
+#      author_profile: false
+#      read_time: true
+#      comments: # true
+#      share: false
+#      related: false
+#      sidebar:
+#        nav: "manual"
+#      toc: true
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "single"
+#      author_profile: false
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true

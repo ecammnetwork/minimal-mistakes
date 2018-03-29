@@ -156,7 +156,7 @@ whitelist:
   - jemoji
 
 # Collections
-collections_dir: docs
+collections_dir: _docs
 collections:
   ecamm-live-manual:
     permalink: "/:collection/:path/"
@@ -169,7 +169,7 @@ collections:
 defaults:
   - scope:
       path: "_docs"
-      type: "docs/ecamm-live-manual"
+      type: ""
     values:
       layout: "single"
 #      author_profile: false

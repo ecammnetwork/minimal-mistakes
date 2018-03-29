@@ -1,5 +1,5 @@
 ---
-title: Using Overlays
+
 ---
 # Using Overlays
 

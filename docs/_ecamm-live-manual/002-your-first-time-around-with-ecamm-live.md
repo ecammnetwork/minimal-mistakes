@@ -1,7 +1,5 @@
 ---
-layout: single
-sidebar:
-  nav: "manual"
+
 ---
 
 ## Your First Time Around with Ecamm Live

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 
 ## Broadcasting to RTMP-based Services

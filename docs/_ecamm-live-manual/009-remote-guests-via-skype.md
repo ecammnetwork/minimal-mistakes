@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 ## Remote Guests with Skype and Call Recorder
 

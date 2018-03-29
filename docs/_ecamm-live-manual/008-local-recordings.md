@@ -1,5 +1,5 @@
 ---
-layout: single
+
 ---
 
 ## Local Recordings of Your Broadcasts

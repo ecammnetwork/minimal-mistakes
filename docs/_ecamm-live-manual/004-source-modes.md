@@ -1,8 +1,5 @@
 ---
-layout: single
-sidebar:
-  nav: "manual"
-toc: true
+
 ---
 
 ## Using Source Modes

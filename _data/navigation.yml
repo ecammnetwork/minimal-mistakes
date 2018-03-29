@@ -1,11 +1,10 @@
 # main links
 main:
   - title: "Ecamm Live Manual"
-    url: /docs/ecamm-live-manual/
+    url: /ecamm-live-manual/index
   - title: "First Facebook Live Tutorial"
-    url: /docs/ecamm-live-first-facebook-live/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /ecamm-live-first-facebook-live/index
+
 manual:
   - title: "Introduction"
     url: /docs/ecamm-live-manual/001-manual-intro

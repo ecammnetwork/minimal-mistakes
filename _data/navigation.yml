@@ -1,19 +1,32 @@
 # main links
 main:
   - title: "Ecamm Live Manual"
-    url: /docs/ecamm-live-manual/
+    url: /ecamm-live-manual/index
   - title: "First Facebook Live Tutorial"
-    url: /docs/ecamm-live-first-facebook-live/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /ecamm-live-first-facebook-live/index
+
 manual:
   - title: "Introduction"
-    url: /docs/ecamm-live-manual/001-manual-intro
+    url: /ecamm-live-manual/001-manual-intro
   - title: "Your First Time Around with Ecamm Live"
-    url: /docs/ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+    url: /ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+  - title: "Using Overlays"
+    url: /ecamm-live-manual/003-overlays
+  - title: "Source Modes"
+    url: /ecamm-live-manual/004-source-modes
+  - title: "Scenes"
+    url: /ecamm-live-manual/005-scenes
+  - title: "Broadcast to Facebook"
+    url: /ecamm-live-manual/006-broadcast-to-facebook/
+  - title: "Broadcast to RTMP-based Services"
+    url: /ecamm-live-manual/007-broadcast-to-rtmp
+  - title: "Local Recordings of Your Broadcasts"
+    url: /ecamm-live-manual/008-local-recordings
+  - title: "Remote Guests via Skype"
+    url: /ecamm-live-manual/009-remote-guests-via-skype
 
 tutorial-1:
   - title: "Introduction"
-    url: /docs/ecamm-live-first-facebook-live/001-first-facebook-live-intro
+    url: /ecamm-live-first-facebook-live/001-first-facebook-live-intro
   - title: "Before You Broadcast"
-    url: /docs/ecamm-live-first-facebook-live/002-before-you-broadcast
+    url: /ecamm-live-first-facebook-live/002-before-you-broadcast

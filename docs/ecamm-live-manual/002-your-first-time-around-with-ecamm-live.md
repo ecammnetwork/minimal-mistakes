@@ -2,6 +2,8 @@
 layout: single
 sidebar:
   nav: "manual"
+toc: true
+toc_label: "On This Page"
 ---
 
 ## Your First Time Around with Ecamm Live

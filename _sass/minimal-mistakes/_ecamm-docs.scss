@@ -43,15 +43,31 @@ samp.uielement.sound-levels::before {
 
 span.inline_icon {
 	display: inline-block;
-	background: rgba(120,120,120,.7);
-	background-size: 50%;
-	background-repeat:no-repeat;
-	background-position: center;
-	padding: 1em;
 	margin-right: 0.2em;
 	margin-left: 0.2em;
+	vertical-align:middle;
+}
+
+span.inline_icon.graybutton {
+	background: rgba(120,120,120,.7);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 50%;
+	padding: 1em;
 	border: 0px;
 	border-radius: .2em;
-	vertical-align:middle;
-	line-height: 1.5em;
+}
+
+span.inline_icon.inverted {
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 50%;
+	margin-right: -0.3em;
+	margin-left: -0.3em;
+	padding: 0.5em 1em 0.5em 1em;
+	-webkit-filter: invert(100);
+	-moz-filter: invert(100);
+	-o-filter: invert(100);
+	-ms-filter: invert(100);
+	filter: invert(100);
 }

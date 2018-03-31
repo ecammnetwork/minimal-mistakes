@@ -28,20 +28,20 @@ At the top left of the Main Window is the <samp>Scenes</samp> pull-down button. 
 
 At the top center of the Main Window you’ll find Ecamm Live’s three primary modes— we call them Sources— you can use in your broadcast.
 
-{% inlineicon cam %} Camera
+{% inlineicon cam 20 graybutton %} Camera
 
-{% inlineicon screen %} Screen Share
+{% inlineicon screen 20 graybutton %} Screen Share
 
-{% inlineicon video %} Video File
+{% inlineicon video 20 graybutton %} Video File
 
 The above links go to the manual sections for each source and explain each in exhaustive detail.
 {:.notice--info}
 
 The top right of the Main Window contains two icons, the <samp>Sound Levels</samp> button, and the <samp>Overlays</samp> button. Both show or hide the windows for each tool.
 
-{% inlineicon sliders 45 %} Sound Levels
+{% inlineicon sliders 45 graybutton %} Sound Levels
 
-{% inlineicon overlays 65 %} Overlays
+{% inlineicon overlays 65 graybutton %} Overlays
 
 The above links go to the manual sections for each source and explain each in detail.
 {:.notice--info}
@@ -65,7 +65,7 @@ Go Live
 Record
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>
 
-When logged into Facebook, the bottom left corner of the Main Window includes a {% inlineicon locbutton %}  location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.
+When logged into Facebook, the bottom left corner of the Main Window includes a {% inlineicon locbutton 20 inverted%}  location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.
 
 Note: We have [a detailed section on Facebook Live](#link) later in this manual.  We discuss Custom Stream Keys and how to connect to other video services in the [Broadcasting to Other Services](#link) section.
 {:.notice--info}

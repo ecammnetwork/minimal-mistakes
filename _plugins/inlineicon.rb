@@ -4,10 +4,11 @@ module Jekyll
         @variables = variables.split(" ")
         @srcfile = @variables[0]
         @width = @variables[1]
+        @subclass = @variables[2]
         super
     end
     def render(context)
-      "<span class='inline_icon' style='background-image:url(/assets/img/#{@srcfile}.png); width:#{@width}px;'></span>"
+      "<span class='inline_icon #{@subclass}' style='background-image:url(/assets/img/#{@srcfile}.png); width:#{@width}px;'></span>"
     end
   end
 end

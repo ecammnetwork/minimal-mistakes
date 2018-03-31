@@ -8,6 +8,7 @@ kbd {
 	background: rgba(48,51,54,.85);
 	border-radius: .3em;
 	line-height: 1.5em;
+	margin-right:1px;
   padding: 0 .25em;
 	}
 
@@ -38,4 +39,19 @@ samp.uielement.sound-levels::before {
 	background-size: 29px 20px;
 	background-position: bottom -3px;
 	margin-bottom: -0.25em;
+}
+
+span.inline_icon {
+	display: inline-block;
+	background: rgba(120,120,120,.7);
+	background-size: 50%;
+	background-repeat:no-repeat;
+	background-position: center;
+	padding: 1em;
+	margin-right: 0.2em;
+	margin-left: 0.2em;
+	border: 0px;
+	border-radius: .2em;
+	vertical-align:middle;
+	line-height: 1.5em;
 }

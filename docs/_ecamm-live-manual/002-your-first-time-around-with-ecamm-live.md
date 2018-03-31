@@ -26,21 +26,22 @@ Note: If you’re not going to use Ecamm Live with Facebook, logging in is optio
 
 At the top left of the Main Window is the <samp>Scenes</samp> pull-down button. The text of the button shows the name of your currently active Scene. Any other Scenes you’ve created are listed within the menu, giving you fast access to switching scenes during a stream or recording. Reference our section on Scenes more details on what Scenes are, and how to use them.
 
-At the top center of the Main Window you’ll find Ecamm Live’s 3 primary modes— we call them Sources— you can use in your broadcast.
+At the top center of the Main Window you’ll find Ecamm Live’s three primary modes— we call them Sources— you can use in your broadcast.
 
-{camera icon}#todo - Camera
-{display icon}#todo - Screen Share
-{camera icon}#todo - Video File
-#todo - build a list style for these types of illustrated, unordered lists. Call it .icon-list?
+{% inlineicon cam %} Camera
+
+{% inlineicon screen %} Screen Share
+
+{% inlineicon video %} Video File
 
 The above links go to the manual sections for each source and explain each in exhaustive detail.
 {:.notice--info}
 
 The top right of the Main Window contains two icons, the <samp>Sound Levels</samp> button, and the <samp>Overlays</samp> button. Both show or hide the windows for each tool.
 
-{sound icon}#todo - Sound Levels
-{Overlays icon}#todo - Overlays
-#todo .icon-list
+{% inlineicon sliders 45 %} Sound Levels
+
+{% inlineicon overlays 65 %} Overlays
 
 The above links go to the manual sections for each source and explain each in detail.
 {:.notice--info}
@@ -64,7 +65,7 @@ Go Live
 Record
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>
 
-When logged into Facebook, the bottom left corner of the Main Window includes a {Pin icon}#todo location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.
+When logged into Facebook, the bottom left corner of the Main Window includes a {% inlineicon locbutton %}  location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.
 
 Note: We have [a detailed section on Facebook Live](#link) later in this manual.  We discuss Custom Stream Keys and how to connect to other video services in the [Broadcasting to Other Services](#link) section.
 {:.notice--info}

@@ -30,9 +30,9 @@ Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will ap
 
 To position a text overlay, place your cursor in the middle of the overlay and drag. If you’d like to adjust the overlay’s size, hover your cursor in the bottom right-hand corner of the overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any overlay.
 
-If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
+If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
 
-If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x %} hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
+If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x 30 %} hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
 
 To resize an overlay after creating it, place your cursor over the right edge of the overlay. When the cursor switched to a double arrow, drag to resize. 
 
@@ -54,7 +54,7 @@ A File Selection Sheet will appear, allowing you to find and select one image fi
 
 To reposition the Text overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor above an edge, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse or trackpad’s scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
-If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
+If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x 30 %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
 
 ## Facebook Comment Overlays
 

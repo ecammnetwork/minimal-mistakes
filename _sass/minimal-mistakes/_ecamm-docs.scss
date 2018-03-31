@@ -42,6 +42,10 @@ samp.uielement.sound-levels::before {
 }
 
 span.inline_icon {
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 90%;
+	padding: 0.7em;
 	display: inline-block;
 	margin-right: 0.2em;
 	margin-left: 0.2em;

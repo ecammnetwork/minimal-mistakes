@@ -20,7 +20,7 @@ You may consume your cloud data storage pretty quickly if you keep the Ecamm Rec
 
 These concerns apply to any cloud storage provider (Dropbox, Google Drive, OneDrive, Box, etc.) you may have setup to mirror your Documents folder, or if you choose to place the Ecamm Live Recordings folder in a location that automatically uploads files. That said, if storage space and internet bandwidth are not concerns of yours, there's no reason you can't use these services with the Ecamm Live Recordings folder. We recommend experimenting with the best fit for your situation.
 
-You may change your Recordings storage location by selecting <samp>Recording</samp> > <samp>Choose Recordings Folder…</samp> from the menu bar at the top of your display.
+You may change your Recordings storage location by selecting <samp>Recording</samp> ➝ <samp>Choose Recordings Folder…</samp> from the menu bar at the top of your display.
 
 </aside>
 

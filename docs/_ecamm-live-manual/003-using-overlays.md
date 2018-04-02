@@ -14,7 +14,7 @@ Almost any need for text on the screen can be addressed with Text Overlays. Ther
 * Click the {% inlineicon addtext 20 inverted %} button at the bottom the Overlays Window,
 * Type <kbd>⌘</kbd><kbd>N</kbd>.
 
-Copy text from anywhere on your Mac. <samp>Edit</samp> menu > <samp>Paste</samp> as Overlay will allow you to paste in plain or styled text.
+Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste</samp> as Overlay will allow you to paste in plain or styled text.
 
 When you create a new Text Overlay, a Text Editing Sheet will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, text opacity (how much you can “see through” the text), background color and background opacity. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
 
@@ -95,7 +95,7 @@ If you’re using a mouse, you can put your cursor over top of the Overlay and s
 
 The Overlays Window offers several options for managing your Overlays.
 
-To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %} icon, or click the {% inlineicon trash 15 inverted %} icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> > <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back.
+To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %} icon, or click the {% inlineicon trash 15 inverted %} icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back.
 
 You can show or hide a given overlay by clicking its {% inlineicon visible 20 inverted %} icon. You can reorder the overlays by dragging them up or down. This can be helpful for organization, but if you have any overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 

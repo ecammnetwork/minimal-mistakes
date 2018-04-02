@@ -22,9 +22,9 @@ Ecamm Live can detect and use many types of cameras. We've built in special supp
 
 For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon DSLR cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use if after installing the free and open source [CameraLive](https://github.com/v002/v002-Camera-Live/releases) software. Once it's installed, connect your Canon DSLR to your Mac's USB port. Quit the Canon EOS Utility if it automatically opens, and then start CameraLive. It should recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. Currently, no other DSLRs or mirrorless cameras are supported, unless it provides HDMI out, in which case you can use the Blackmagic method above.
 
-#### Support for 360º Cameras
+#### Support for 360° Cameras
 
-Ecamm Live supports streaming from 360º cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360º Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image _may_ work.
+Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image _may_ work.
 
 #### Want to use your iPhone or iPad Camera?
 

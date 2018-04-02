@@ -9,7 +9,7 @@ kbd {
 	border-radius: .3em;
 	line-height: 1.5em;
 	margin-right:1px;
-  padding: 0 .25em;
+	padding: 0 .25em;
 	}
 
 samp,
@@ -32,6 +32,12 @@ samp.uielement::before {
 	width: 29px;
 	height: 20px;
 	}
+
+.blue {
+		background: rgb(73,124,251);
+		color: white;
+		border: 0px
+}
 
 samp.uielement.sound-levels::before {
 	background-image:url(/assets/img/sound-levels.png);

@@ -15,7 +15,7 @@ The Main Window is your monitor of what your audience sees, with exception to th
 
 The smaller windows are for control of [Sound Levels](), [Scenes](), [Overlays](), and [Facebook Comments and Reactions.]() If you dismiss any of these windows, you can bring them back by visiting the <samp>Windows</samp> menu at the very top of your Mac’s display.  Additionally, each of these windows has a keyboard shortcut assigned for easy access.
 
-At the center bottom of the Main Window is a blue <samp>Login</samp> window, which will allow us to connect you to Facebook for broadcasting and scheduling broadcasts.
+At the center bottom of the Main Window is a blue <samp class="blue">Login</samp> button, which will allow us to connect you to Facebook for broadcasting and scheduling broadcasts.
 
 Note: If you’re not going to use Ecamm Live with Facebook, logging in is optional. You can still record to your Mac, and stream to services that use [RTMP](link to manual § on topic) with no need to log into Facebook.
 {:.notice--info}
@@ -56,13 +56,13 @@ Lastly, if you select <samp>Record Only</samp>, all the other options fade away,
 
 The bottom center of the Main Window holds the big blue button which depending on the destinations settings can read,
 
-Log in
+<samp class="blue">Login</samp>
 : (Discussed above)[#anchor] If you’re not logged in, but have the <samp>Destination</samp> set to <samp>Facebook</samp>
 
-Go Live
+<samp class="blue">Go Live</samp>
 : If you’re logged into Facebook and have the <samp>Destination</samp> set to <samp>Facebook</samp>, or if you’re using a stream key.
 
-Record
+<samp class="blue">Record</samp>
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>
 
 When logged into Facebook, the bottom left corner of the Main Window includes a {% inlineicon locbutton 20 inverted%}  location pin and description field. Text entered in the description field will become the text of the post that accompanies your Facebook Live broadcast.

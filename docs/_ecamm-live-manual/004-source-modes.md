@@ -6,11 +6,11 @@
 
 There are 3 primary things you can show with Ecamm Live on your broadcast, a camera, your Mac's display, or a local video file. We call these Sources. Quickly access your Sources at the top center of the Main Window.
 
-{camera icon}#todo
+{% inlineicon cam 20 graybutton %}Camera Icon{% endinlineicon %}  Camera
 
-{screen share icon}#todo
+{% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} Screen Share
 
-{local video icon}#todo
+{% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} Video File
 
 ### Camera
 
@@ -40,7 +40,7 @@ If you have video sources connected to your Mac that you _do not_ want available
 
 ### Screen Share
 
-The {screen share icon}#todo center icon in the Source bar activates Screen Share mode. When this is selected, a Control Bar will be shown at the bottom of the Main Window to select one of 4 options for Screen Share mode:
+The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center icon in the Source bar activates Screen Share mode. When this is selected, a Control Bar will be shown at the bottom of the Main Window to select one of 4 options for Screen Share mode:
 
 1.  <samp>Current Application</samp> — this is the default mode. Whichever app on your Mac is currently foremost, and all of its visible windows, will be broadcast. 
 1.  <samp>Entire Screen</samp> — select any attached display to show everything on that desktop. 
@@ -75,7 +75,7 @@ You can show your live camera in the broadcast while screen sharing with [the Pi
 
 ### Video Files
 
-When you need to play a video file within your live broadcast, use the third icon in the Sources Bar, the {video icon}#todo Video icon. Clicking this the first time will display a file browser, allowing you to locate and select a video file for feedback.
+When you need to play a video file within your live broadcast, use the third icon in the Sources Bar, the {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} icon. Clicking this the first time will display a file browser, allowing you to locate and select a video file for feedback.
 
 On subsequent clicks of the Video icon, you'll see a  menu appear instead, with additional options. <samp>Choose File</samp> brings up the File Browser to choose a new video. A <samp>Recent</samp> section lists any videos you've previously selected during this broadcast. Selecting a video from this list will immediately play the video filling your broadcast window. If your <samp>Recent Videos</samp> section needs a clean up, select <samp>Clear Recent Items</samp>. 
 
@@ -96,14 +96,14 @@ We are not lawyers, but when playing videos you did not create yourself, be awar
 
 #### In Screen share mode
 
-The leftmost icon {PiP icon}#todo of the Screen Share control bar toggles the visibility of the camera Picture-in-Picture (PiP) box.
+The leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} of the Screen Share control bar toggles the visibility of the camera Picture-in-Picture (PiP) box.
 
-In Screen share mode, your microphone is automatically enabled whether or not the PiP window is not on screen. You can mute or unmute your mic audio by clicking the {need mic icon?}#todo microphone icon within the Screen share control bar.
+In Screen share mode, your microphone is automatically enabled whether or not the PiP window is not on screen. You can mute or unmute your mic audio by clicking the {% inlineicon mic 20 inverted %}Microphone Button{% endinlineicon %} icon within the Screen share control bar.
 
 
 #### In Video mode
 
-To use or hide the PiP box, click the leftmost icon {PiP icon}#todo  in the video control bar. 
+To use or hide the PiP box, click the leftmost icon {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the video control bar. 
 
 In video playback mode, your microphone is automatically muted when the PiP window is not on screen. Only the video's audio will play. When the PiP window is brought back, your audio is automatically unmuted. You can unmute (and mute again) your mic audio while a video is playing and the PiP is hidden by clicking the microphone icon within the video control bar.
 

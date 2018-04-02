@@ -2,7 +2,7 @@
 
 ---
 
-## Using Scenes
+<!-- ## Using Scenes -->
 
 Scenes allow you to quickly switch between presets—including overlays, source modes, and more—during a live stream.
 

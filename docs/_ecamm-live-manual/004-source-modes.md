@@ -2,8 +2,6 @@
 
 ---
 
-## Using Source Modes
-
 There are 3 primary things you can show with Ecamm Live on your broadcast, a camera, your Mac's display, or a local video file. We call these Sources. Quickly access your Sources at the top center of the Main Window.
 
 {camera icon}#todo

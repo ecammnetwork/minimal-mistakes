@@ -2,7 +2,7 @@
 
 ---
 
-## Local Recordings of Your Broadcasts
+<!-- ## Local Recordings of Your Broadcasts -->
 
 By default, Ecamm Live keeps a local, full-quality recording of every broadcast you produce through the app.
 

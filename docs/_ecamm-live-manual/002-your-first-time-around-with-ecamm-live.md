@@ -2,7 +2,7 @@
 
 ---
 
-## Your First Time Around with Ecamm Live
+<!-- ## Your First Time Around with Ecamm Live -->
 
 See also the [First Facebook Live tutorial](/docs/ecamm-live-first-facebook-live/001-first-facebook-live-intro.md) for the bare essentials from first-run to your first Facebook Live broadcast.
 {:.notice--info}

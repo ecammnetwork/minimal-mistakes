@@ -7,7 +7,7 @@ main:
 
 manual:
   - title: "Introduction"
-    url: /ecamm-live-manual/001-manual-intro
+    url: /ecamm-live-manual/001-welcome
   - title: "Your First Time Around with Ecamm Live"
     url: /ecamm-live-manual/002-your-first-time-around-with-ecamm-live
   - title: "Using Overlays"

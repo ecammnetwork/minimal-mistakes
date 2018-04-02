@@ -2,8 +2,6 @@
 
 ---
 
-# Welcome
-
 Welcome to the Ecamm Live User’s Manual. In this manual, you’ll learn…
 * The capabilities of Ecamm Live and what advantages you gain by using it.
 * In-depth description of all the features and tools of the app, and where to find the all the primary features.

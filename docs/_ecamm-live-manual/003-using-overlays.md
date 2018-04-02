@@ -1,7 +1,7 @@
 ---
 
 ---
-# Using Overlays
+<!-- # Using Overlays -->
 
 Overlays are styled text and images in your broadcast. You can access Overlays by clicking the {% inlineicon overlays 65 graybutton %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. There are four types of Overlays:
 

@@ -2,26 +2,24 @@
 
 ---
 
-## Broadcast Destinations
-
-Ecamm Live broadcasts to one live streaming service at a time. Restream.io users can use that service to stream to multiple services simultaneously, and Restream.io works with Ecamm Live as [an RTMP service.](rtmp section) Note that Facebook Live's terms specifically prohibit streaming to both Facebook and any other service simultaneously.
-
-## Facebook Live
+<!-- ## Broadcast Destinations -->
+<!-- ## Facebook Live -->
 
 Ecamm Live has a strong focus on creating Facebook Live broadcasts. Let's take a look at the options available.
 
-(see also the [First Facebook Live tutorial](docs/ecamm-live-first-facebook-live) for the bare essentials from first-run to your first Facebook Live broadcast)
+_See also_ the [First Facebook Live tutorial](docs/ecamm-live-first-facebook-live) for the bare essentials from first-run to your first Facebook Live broadcast.
+{: .notice}
 
-* <samp>Login</samp> - Click to login to Facebook and connect the app.
-* <samp>Go Live</samp> -  you've already logged into Facebook (or have set up a [Custom Stream Key](007-broadcast-to-rtmp)). Click to begin a live broadcast.
-* <samp>Preview</samp> - you've already logged into Facebook, and have scheduled an upcoming Live broadcast.
-* <samp>Record</samp> - you're in local recording mode, which will only save your work to a local video file on your Mac, and broadcast nothing.
+* <samp class="blue">Login</samp> - Click to login to Facebook and connect the app.
+* <samp class="blue">Go Live</samp> -  you've already logged into Facebook (or have set up a [Custom Stream Key](007-broadcast-to-rtmp)). Click to begin a live broadcast.
+* <samp class="blue">Preview</samp> - you've already logged into Facebook, and have scheduled an upcoming Live broadcast.
+* <samp class="blue">Record</samp> - you're in local recording mode, which will only save your work to a local video file on your Mac, and broadcast nothing.
 
 What the button displays depends on what you have set in the menus in the bottom-right corner of the Main Window. In the bottom-right menus, for <samp>Destination</samp> select <samp>Facebook</samp>. If you're not logged into Facebook, you'll see <samp>Login</samp> appear on the big blue button. Click it and log in now.
 
 ### Login to Facebook
 
-Click the blue Login button to summon Facebook's secure Login form. Enter your credentials, and if you use Two-factor Authentication, you'll be asked for that code as well.
+Click the blue <samp class="blue">Login</samp> button to summon Facebook's secure Login form. Enter your credentials, and if you use Two-factor Authentication, you'll be asked for that code as well.
 
 Once logged in, Ecamm Live will then ask for permission to post to your timeline and other locations within Facebook. This is necessary to publish live streams. If you manage Pages or Groups (for example for a business or other organization), Ecamm Live will also prompt for permission to manage Pages and Groups.
 
@@ -39,13 +37,13 @@ Clicking the map pin allows you to tell Facebook where you're broadcasting from,
 
 ### If you choose to Go Live Now
 
-You can click the big blue button labeled <samp>Go Live</samp>, and you'll be broadcasting to the world. 
+You can click the big blue button labeled <samp class="blue">Go Live</samp>, and you'll be broadcasting to the world. 
 
 ### If you choose to create a New Scheduled Live
 
 Once you have scheduled a Live broadcast, any pending broadcasts are listed in the bottom right corner menus. In the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a trash can for cancelling the scheduled broadcast.
 
-Before the countdown reaches zero, the big blue button displays <samp>Preview</samp>. Pressing <samp>Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
+Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
 ### Broadcasting to Groups and Events
 
@@ -67,13 +65,13 @@ Live broadcasts have a significant delay. This is delay is not generated by Ecam
 
 ### Ending a Facebook Live Broadcast
 
-Click <samp>Finish</samp>.
+Click <samp class="blue">Finish</samp>.
 
 (Well, that was brief.)
 
 ### After a Facebook Live Broadcast
 
-After clicking <samp>Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
+After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
 On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, Event, etc. Facebook does this automatically.
 
@@ -128,6 +126,13 @@ Facebook policies require creators and publishers to tag their business partners
 #### Sound Effects
 
 Ecamm Live will play a sound when comments arrive, but not insert them into the audio feed of the broadcast. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> ➝ <samp>Sound Effects</samp> (the checkmark will will disappear).
+
+
+<aside class="notice" markdown="1">
+#### Broadcasting to Facebook and Other Services Simultaneously
+
+Ecamm Live broadcasts to one live streaming service at a time. Restream.io users can use that service to stream to multiple services simultaneously, and Restream.io works with Ecamm Live as [an RTMP service.](rtmp section) Note that Facebook Live's terms specifically prohibit streaming to both Facebook and any other service simultaneously.
+</aside>
 
 <aside class="notice--warning" markdown="1">
 #### Don't Get into Trouble—a legal aside

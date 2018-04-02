@@ -1,7 +1,7 @@
 ---
 
 ---
-## Remote Guests with Skype and Call Recorder
+<!-- ## Remote Guests with Skype and Call Recorder -->
 
 One of the most popular features of Ecamm Live is the ability to have as many as five remote guests appear on your broadcast. This bit of magic requires an application from Ecamm, [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/) which is an additional purchase.
 

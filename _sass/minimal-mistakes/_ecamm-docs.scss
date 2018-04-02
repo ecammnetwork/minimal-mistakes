@@ -8,7 +8,8 @@ kbd {
 	background: rgba(48,51,54,.85);
 	border-radius: .3em;
 	line-height: 1.5em;
-  padding: 0 .25em;
+	margin-right:1px;
+	padding: 0 .25em;
 	}
 
 samp,
@@ -32,10 +33,51 @@ samp.uielement::before {
 	height: 20px;
 	}
 
+.blue {
+		background: rgb(73,124,251);
+		color: white;
+		border: 0px
+}
+
 samp.uielement.sound-levels::before {
 	background-image:url(/assets/img/sound-levels.png);
 	background-repeat:no-repeat;
 	background-size: 29px 20px;
 	background-position: bottom -3px;
 	margin-bottom: -0.25em;
+}
+
+span.inline_icon {
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 90%;
+	padding: 0.7em;
+	display: inline-block;
+	margin-right: 0.2em;
+	margin-left: 0.2em;
+	vertical-align:middle;
+}
+
+span.inline_icon.graybutton {
+	background: rgba(120,120,120,.7);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 50%;
+	padding: 1em;
+	border: 0px;
+	border-radius: .2em;
+}
+
+span.inline_icon.inverted {
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 50%;
+	margin-right: -0.3em;
+	margin-left: -0.3em;
+	padding: 0.5em 1em 0.5em 1em;
+	-webkit-filter: invert(100);
+	-moz-filter: invert(100);
+	-o-filter: invert(100);
+	-ms-filter: invert(100);
+	filter: invert(100);
 }

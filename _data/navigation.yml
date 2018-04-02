@@ -11,11 +11,11 @@ manual:
   - title: "Your First Time Around with Ecamm Live"
     url: /ecamm-live-manual/002-your-first-time-around-with-ecamm-live
   - title: "Using Overlays"
-    url: /ecamm-live-manual/003-overlays
+    url: /ecamm-live-manual/003-using-overlays
   - title: "Source Modes"
     url: /ecamm-live-manual/004-source-modes
-  - title: "Scenes"
-    url: /ecamm-live-manual/005-scenes
+  - title: "Using Scenes"
+    url: /ecamm-live-manual/005-using-scenes
   - title: "Broadcast to Facebook"
     url: /ecamm-live-manual/006-broadcast-to-facebook/
   - title: "Broadcast to RTMP-based Services"

@@ -8,7 +8,7 @@ Welcome to the Ecamm Live User’s Manual. In this manual, you’ll learn…
 * The capabilities of Ecamm Live and what advantages you gain by using it.
 * In-depth description of all the features and tools of the app, and where to find the all the primary features.
 
-## What can Ecamm Live do? Why should I use it instead of the basic tools services like Facebook Live offer?
+## What can Ecamm Live do?
 
 Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* technology. Compatible services include YouTube, Periscope, restream.io, and others.
 

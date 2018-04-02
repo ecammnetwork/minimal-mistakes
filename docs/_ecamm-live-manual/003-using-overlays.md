@@ -20,7 +20,7 @@ When you create a new Text Overlay, a Text Editing Sheet will appear. Start typi
 
 \#todo: insert image with different line styles in a single text overlay
 
-You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 button and select from the menu.
+You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu.
 
 The background size and shape is set automatically for you, and adjusts to scale with the size of your text. You can change the color and the opacity of the background by clicking the style button after the <samp>Background:</samp> label. Click this button again to return to text editing options.
 
@@ -30,9 +30,9 @@ Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will ap
 
 To position a text overlay, place your cursor in the middle of the overlay and drag. If you’d like to adjust the overlay’s size, hover your cursor in the bottom right-hand corner of the overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any overlay.
 
-If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
+If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil 20 %} pencil icon brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
 
-If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x 30 %} hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
+If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x 20 %} X icon hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} eye icon next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
 
 To resize an overlay after creating it, place your cursor over the right edge of the overlay. When the cursor switched to a double arrow, drag to resize.
 
@@ -42,7 +42,7 @@ Would you like to show your company logo in the corner of your broadcast? That�
 
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addimage 50 inverted %} button at the bottom the <samp>Overlays</samp> Window
+* Click the {% inlineicon addimage 50 inverted %} add image button at the bottom the <samp>Overlays</samp> Window
 * Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window.
 
 A File Selection Sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG or GIF. Animated GIFs are also supported—let’s use that last one responsibly, shall we?
@@ -54,7 +54,7 @@ A File Selection Sheet will appear, allowing you to find and select one image fi
 
 To reposition the Text overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor above an edge, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse or trackpad’s scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
-If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x 30 %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
+If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x 30 %} X icon will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} eye icon next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
 
 ## Facebook Comment Overlays
 
@@ -64,7 +64,7 @@ You can also click the <samp>Create Overlay</samp> button in the Comments & Reac
 
 ### Editing Facebook Comment Overlays
 
-The text in a comment overlay can be edited and styled just like a [Text Overlay](link to Editing Text Overlays). Once a Comment Overlay is styled, future comments remember this styling indefinitely, unless you restyle it.
+The text in a comment overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling indefinitely, unless you restyle it.
 
 ## Countdown Overlays
 
@@ -74,13 +74,13 @@ There are 3 ways you can display a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the #todo:image Overlays pull-down button in the Main Window
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addcountdown 50 inverted %} button at the bottom the Overlays Window.
+* Click the {% inlineicon addcountdown 50 inverted %} add countdown button at the bottom the Overlays Window.
 
 A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. You can edit the End Time and text alignment. Ecamm Live will display a countdown to the chosen End Time. Press <samp>Save</samp> to display your timer within the Main Window.
 
 ### Editing Countdown Overlays
 
-You have the same controls as [Text Overlays](link to Editing Text Overlays).
+You have the same controls as [Text Overlay](#editing-text-overlays).
 
 ## Overlay Quick Resize Options
 
@@ -95,11 +95,11 @@ If you’re using a mouse, you can put your cursor over top of the Overlay and s
 
 The Overlays Window offers several options for managing your Overlays.
 
-To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %} icon, or click the {% inlineicon trash 15 inverted %} icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back.
+To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %} trash icon, or click the {% inlineicon trash 15 inverted %} trash icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back.
 
 You can show or hide a given overlay by clicking its {% inlineicon visible 20 inverted %} icon. You can reorder the overlays by dragging them up or down. This can be helpful for organization, but if you have any overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 
-If you need to further organize, you can create folders to group overlays. Click the {% inlineicon addgroup 50 inverted %} icon to create a new folder. Drag overlays onto the folders to organize.
+If you need to further organize, you can create folders to group overlays. Click the {% inlineicon addgroup 50 inverted %} add group icon to create a new folder. Drag overlays onto the folders to organize.
 
 **Note:** Overlays are always auto-saved as you create and edit them.
 {:.notice--info}

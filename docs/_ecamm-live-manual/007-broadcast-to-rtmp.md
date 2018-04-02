@@ -23,7 +23,7 @@ Once you're accepted, part way down the Live Dashboard page (you may have to scr
 
 In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>Destination</samp> menu and select <samp>Custom Stream Key</samp>. Next, click the Post to menu, and fill in the Server URL and Stream Key that you copied from the YouTube Live Dashboard. Click <samp>Use Custom Stream Key</samp> to finish setup. Now you can press the blue <samp>Go Live</samp> button and broadcast to YouTube.
 
-Unlike Facebook, YouTube supports viewing in 1080p resolution. You can enable 1080p by selecting <samp>Options</samp> menu > <samp>Stream Size</samp> > <samp>1080p</samp>. Read more about your options in the [Use High Quality](#use-high-quality) section.
+Unlike Facebook, YouTube supports viewing in 1080p resolution. You can enable 1080p by selecting <samp>Options</samp> menu ➝ <samp>Stream Size</samp> ➝ <samp>1080p</samp>. Read more about your options in the [Use High Quality](#use-high-quality) section.
 
 ### Broadcast to Periscope with an RTMP Stream Key
 
@@ -33,7 +33,7 @@ In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>De
 
 Ecamm Live will store the information you enter for <samp>Custom Stream Keys</samp>. The next time you want to broadcast, these options will be available to select. The setup process is similar for other broadcasting services that use RTMP.
 
-When streaming to Periscope, you'll need to use 720p or less for your screen size. 720p is Ecamm Live's default, and you can make adjustments in <samp>Options</samp> menu > <samp>Stream Size</samp>.
+When streaming to Periscope, you'll need to use 720p or less for your screen size. 720p is Ecamm Live's default, and you can make adjustments in <samp>Options</samp> menu ➝ <samp>Stream Size</samp>.
 
 You'll need to turn off <samp>Use High Quality</samp> mode for Periscope, as the service imposes a maximum bit rate. Periscope also recommends using a smaller frame size for your broadcast. (A larger frame size will display a warning on the Periscope Producer page.)
 
@@ -59,11 +59,11 @@ WiFi is a radio-based connection, and while wonderfully freeing, is very suscept
 
 #### Use High Quality
 
-Ecamm Live streams at a bit rate that balances the amount of data we send over the internet and the visual clarity of your video. If you want to broadcast in higher fidelity, and your bandwidth can handle it, you can select <samp>Options</samp> menu > <samp>Use High Quality</samp>, or during a broadcast by clicking the <samp>HD</samp> button at the top of the screen. This will require a sustained minimum of 4 mbps (megabits per second) bandwidth over your internet connection. If at any point your connection cannot sustain this, Ecamm will automatically reduce the fidelity so that the broadcast may continue.
+Ecamm Live streams at a bit rate that balances the amount of data we send over the internet and the visual clarity of your video. If you want to broadcast in higher fidelity, and your bandwidth can handle it, you can select <samp>Options</samp> menu ➝ <samp>Use High Quality</samp>, or during a broadcast by clicking the <samp>HD</samp> button at the top of the screen. This will require a sustained minimum of 4 mbps (megabits per second) bandwidth over your internet connection. If at any point your connection cannot sustain this, Ecamm will automatically reduce the fidelity so that the broadcast may continue.
 
 #### Stream Size
 
-<samp>Options</samp> menu > <samp>Stream Size</samp>. Choose from 540p, 720p, or 1080p. 
+<samp>Options</samp> menu ➝ <samp>Stream Size</samp>. Choose from 540p, 720p, or 1080p. 
 
 Facebook's standard livestream size is 720p. You may wish to choose the smaller option for streaming to Periscope, or if your internet connection's upload speed is insufficient for 720p.
 
@@ -71,6 +71,6 @@ While Facebook will accept a 1080p video stream, it does not currently offer the
 
 #### Stream Aspect
 
-<samp>Options</samp> menu > <samp>Stream Aspect</samp>. Choose from Wide (16x9), Classic (4x3), Square, and Tall (9x16), or choose the Aspect ratio of your Mac's display. The last option allows you to use 360º Cameras.
+<samp>Options</samp> menu ➝ <samp>Stream Aspect</samp>. Choose from Wide (16x9), Classic (4x3), Square, and Tall (9x16), or choose the Aspect ratio of your Mac's display. The last option allows you to use 360° Cameras.
 
 Think of "aspect" as "shape"—9x16 is like a mobile display held in portrait orientation. 16x9 is like an HDTV screen, and 4x3 is like standard definition televisions before HD. Square is, well, square.

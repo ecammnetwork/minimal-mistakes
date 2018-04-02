@@ -33,7 +33,7 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 * <samp>Broadcast to</samp> — This menu appears where you've selected your Profile in the menu above, and controls the privacy of your Live broadcast. You may select Only Me, Friends, Friends of Friends or Everyone. 
 * <samp>Go Live</samp> — this controls when your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> If you choose the latter, you'll see a sheet appear to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on  Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement  will turn into a live video post.
 
-For the announcement post, in the bottom left corner of the screen, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu > <samp>Facebook Options</samp> > <samp>Show Title Field</samp>. This title only appears when a desktop browser viewer clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
+For the announcement post, in the bottom left corner of the screen, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears when a desktop browser viewer clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
 Clicking the map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement as well as place you on the Facebook Live map.
 
@@ -107,11 +107,11 @@ Ambient broadcasts—also called continuous broadcasts—are a special kind of l
 * Will disappear from your timeline immediately when the stream end 
 * Does not send notifications to followers
 
-Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the <samp>Options</samp> menu > <samp>Facebook Options</samp> > <samp>Ambient Broadcast</samp>.
+Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Ambient Broadcast</samp>.
 
 #### Secure Connection
 
-To enable extra security for your Facebook Live broadcasts, you may choose to encrypt your connection to Facebook. <samp>Options</samp> menu > <samp>Facebook Options</samp> > <samp>Use Secure Connection</samp>. It may also help to enable a secure connection if you're having trouble connecting to Facebook.
+To enable extra security for your Facebook Live broadcasts, you may choose to encrypt your connection to Facebook. <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Use Secure Connection</samp>. It may also help to enable a secure connection if you're having trouble connecting to Facebook.
 
 #### Getting Code for Embedding Your Broadcast
 
@@ -119,15 +119,15 @@ The video player your Live broadcast resides in can be embedded into other place
 
 #### Disallow Embedding
 
-The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or out on the open web, but there are times you may prefer to disallow it. <samp>Options</samp> menu > <samp>Facebook Options</samp> > <samp>Disallow Embedding</samp>.
+The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or out on the open web, but there are times you may prefer to disallow it. <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Disallow Embedding</samp>.
 
 #### Broadcasting Branded Content
 
-Facebook policies require creators and publishers to tag their business partners in their [branded content posts](https://www.facebook.com/help/publisher/1045927788843932?helpref=page_content#). When setting up a Live broadcast that involves a business partner, enter a Sponsor ID by selecting <samp>Options</samp> > <samp>Facebook Options</samp> > <samp>Include Sponsor ID</samp>. This option is only available when broadcasting to a business Page.  
+Facebook policies require creators and publishers to tag their business partners in their [branded content posts](https://www.facebook.com/help/publisher/1045927788843932?helpref=page_content#). When setting up a Live broadcast that involves a business partner, enter a Sponsor ID by selecting <samp>Options</samp> ➝ <samp>Facebook Options</samp> ➝ <samp>Include Sponsor ID</samp>. This option is only available when broadcasting to a business Page.  
 
 #### Sound Effects
 
-Ecamm Live will play a sound when comments arrive, but not insert them into the audio feed of the broadcast. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> > <samp>Sound Effects</samp> (the checkmark will will disappear).
+Ecamm Live will play a sound when comments arrive, but not insert them into the audio feed of the broadcast. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> ➝ <samp>Sound Effects</samp> (the checkmark will will disappear).
 
 <aside class="notice" markdown="1">
 #### Don't Get into Trouble—a legal aside

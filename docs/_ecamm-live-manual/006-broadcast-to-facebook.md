@@ -129,7 +129,7 @@ Facebook policies require creators and publishers to tag their business partners
 
 Ecamm Live will play a sound when comments arrive, but not insert them into the audio feed of the broadcast. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> ➝ <samp>Sound Effects</samp> (the checkmark will will disappear).
 
-<aside class="notice" markdown="1">
+<aside class="notice--warning" markdown="1">
 #### Don't Get into Trouble—a legal aside
 
 Facebook places restrictions upon the content you put in Live broadcasts. Restrictions include no placement of third-party video ads in your live video. For example, don't include bumpers, pre-roll, mid-roll or post-roll ads. Ensure any pre-recorded content is clearly distinguishable from live content. Don't broadcast copyrighted material—music, video, TV, etc.—that you don't own the rights to. Facebook monitors broadcasts. They will auto-detect copyrighted materials and disable your use of Facebook Live broadcasting. There may be additional restrictions, including some specific to your jurisdiction.

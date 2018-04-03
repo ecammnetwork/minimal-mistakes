@@ -75,19 +75,17 @@ After clicking <samp class="blue">Finish</samp> we'll present you with a message
 
 On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, Event, etc. Facebook does this automatically.
 
-{View Post icon}#todo View Post - click to reveal the post in your default web browser.
+{% inlineicon visible 15 inverted %}Trash Button{% endinlineicon %} View Post - click to reveal the post in your default web browser.
 
-{trash icon}#todo Delete Post - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
+{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
 
 The next two items concern a local Recording of your broadcast. Much more on Recordings in the following section, but for now…
 
-{Show File icon}#todo Show File - click to reveal the local video file in your Mac's Finder.
+{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File - click to reveal the local video file in your Mac's Finder.
 
-{Send to YouTube icon}#todo View Post - click to send the local video file to your YouTube Account.
+{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube - click to send the local video file to your YouTube Account.
 
-If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or 
-
-you can click to <samp>Go To YouTube</samp> to view your upload.
+If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
 ### Logging out of Facebook
 

@@ -1,6 +1,6 @@
 ---
 title: |
-  title Broadcast to RTMP-based Services
+  Broadcast to RTMP-based Services
 ---
 
 <!-- ## Broadcasting to RTMP-based Services -->

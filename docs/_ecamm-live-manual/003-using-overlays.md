@@ -30,15 +30,9 @@ Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will ap
 
 To position a text overlay, place your cursor in the middle of the overlay and drag. If you’d like to adjust the overlay’s size, hover your cursor in the bottom right-hand corner of the overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any overlay.
 
-<<<<<<< HEAD
 If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
 
 If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x 30 %}Close Button{% endinlineicon %} hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %}Visible Buttton{% endinlineicon %} next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
-=======
-If you’d like to change the text or visual style of the overlay, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon pencil 20 %} pencil icon brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
-
-If you would like to hide the Text Overlay from the screen, place your cursor over the overlay. Two icons will appear on its left. The {% inlineicon x 20 %} X icon hides the text overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} eye icon next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
->>>>>>> bwc/proto-markup
 
 To resize an overlay after creating it, place your cursor over the right edge of the overlay. When the cursor switched to a double arrow, drag to resize. 
 
@@ -48,11 +42,7 @@ Would you like to show your company logo in the corner of your broadcast? That�
 
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-<<<<<<< HEAD
 * Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
-=======
-* Click the {% inlineicon addimage 50 inverted %} add image button at the bottom the <samp>Overlays</samp> Window
->>>>>>> bwc/proto-markup
 * Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window.
 
 A File Selection Sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG or GIF. Animated GIFs are also supported—let’s use that last one responsibly, shall we? 
@@ -64,11 +54,7 @@ A File Selection Sheet will appear, allowing you to find and select one image fi
 
 To reposition the Text overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor above an edge, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse or trackpad’s scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
-<<<<<<< HEAD
 If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x 30 %}Close Button{% endinlineicon %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
-=======
-If you would like to hide the Image Overlay from the screen, place your cursor over the overlay. The {% inlineicon x 30 %} X icon will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %} eye icon next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
->>>>>>> bwc/proto-markup
 
 ## Facebook Comment Overlays
 
@@ -88,11 +74,7 @@ There are 3 ways you can display a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the #todo:image Overlays pull-down button in the Main Window
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-<<<<<<< HEAD
 * Click the {% inlineicon addcountdown 50 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the Overlays Window.
-=======
-* Click the {% inlineicon addcountdown 50 inverted %} add countdown button at the bottom the Overlays Window.
->>>>>>> bwc/proto-markup
 
 A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. You can edit the End Time and text alignment. Ecamm Live will display a countdown to the chosen End Time. Press <samp>Save</samp> to display your timer within the Main Window.
 
@@ -113,19 +95,11 @@ If you’re using a mouse, you can put your cursor over top of the Overlay and s
 
 The Overlays Window offers several options for managing your Overlays. 
 
-<<<<<<< HEAD
 To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
-=======
-To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %} trash icon, or click the {% inlineicon trash 15 inverted %} trash icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back.
->>>>>>> bwc/proto-markup
 
 You can show or hide a given overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the overlays by dragging them up or down. This can be helpful for organization, but if you have any overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 
-<<<<<<< HEAD
 If you need to further organize, you can create folders to group overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag overlays onto the folders to organize.
-=======
-If you need to further organize, you can create folders to group overlays. Click the {% inlineicon addgroup 50 inverted %} add group icon to create a new folder. Drag overlays onto the folders to organize.
->>>>>>> bwc/proto-markup
 
 **Note:** Overlays are always auto-saved as you create and edit them.
 {:.notice--info}

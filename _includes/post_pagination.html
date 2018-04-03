@@ -5,6 +5,10 @@
 {% if num > 0 %}
   {% assign nexttitle = nexttitle | remove_first: firstword %}
 {% endif %}
+{% if nexttitle == "Index" %}
+  {% assign nexttitle = nil %}
+{% endif %}
+
 
 {% assign prevtitle = page.previous.title %}
 {% assign words = prevtitle | split: ' ' %}

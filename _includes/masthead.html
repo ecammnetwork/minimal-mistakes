@@ -1,9 +1,24 @@
-<div class="masthead">
+<header role="banner" class="white-header" id="topheader">
+	<div class="wrapper clear">
+		<div class="logo">
+			<a href="http://www.ecamm.com/"><img src="//www.ecamm.com/images/logo_@2x.png" alt="Ecamm"></a>
+		</div>
+		
+		<nav role="navigation">
+			<ul class="clear">
+				<li><a href="http://www.ecamm.com/mac/">Products</a></li>
+				<li><a href="http://www.ecamm.com/support/">Support</a></li>
+				<li class="shop-button"><a href="https://www.ecamm.com/cgi-bin/shopping/cart">Cart</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+<div class="masthead page_title">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
-        <ul class="visible-links">
+<!--        <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -14,7 +29,7 @@
               <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
-        </ul>
+        </ul>-->
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">

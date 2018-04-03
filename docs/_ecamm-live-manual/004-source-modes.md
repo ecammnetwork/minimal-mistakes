@@ -113,7 +113,7 @@ When switching between Camera mode and other source modes with Picture-in-Pictur
 
 ### The Sound Levels Window
 
-The Sound Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The Microphone Menu at the top of your display also provides options, including the Mute Microphone tool (Shift-⌘-M).
+The Sound Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The Microphone Menu at the top of your display also provides options, including the Mute Microphone tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
 
 A meter in the Sound Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is used, you can also adjust its levels with the Sound Window. [More on Skype Interviews later in this manual.](../009-remote-guests-via-skype)
 

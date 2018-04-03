@@ -35,11 +35,11 @@ For the announcement post, in the bottom left corner of the screen, you'll see a
 
 Clicking the map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement as well as place you on the Facebook Live map.
 
-### If you choose to Go Live Now
+### Going Live Now
 
-You can click the big blue button labeled <samp class="blue">Go Live</samp>, and you'll be broadcasting to the world. 
+Click the big blue button labeled <samp class="blue">Go Live</samp>, and you'll be broadcasting to the world. 
 
-### If you choose to create a New Scheduled Live
+### Creating a New Scheduled Live
 
 Once you have scheduled a Live broadcast, any pending broadcasts are listed in the bottom right corner menus. In the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a trash can for cancelling the scheduled broadcast.
 

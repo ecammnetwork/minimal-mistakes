@@ -50,7 +50,7 @@ There are 4 ways you can select a scene to display:
 
 If you want an overlay to appear in every scene, for example, a logo to appear in the corner of your video, select the the overlay in the Overlays Window, and drag it to the top of the window under the heading "Show in All Scenes". 
 
-**_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your scenes in chronological order before going live. Then you can use the arrow commands below to quickly jump to the next scene. For even more organization, see "Scene Groups" below.
+**_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your scenes in chronological order before going live. Then you can use the arrow commands below to quickly jump to the next scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
 {:.notice--info}
 
 ### Duplicating Scenes

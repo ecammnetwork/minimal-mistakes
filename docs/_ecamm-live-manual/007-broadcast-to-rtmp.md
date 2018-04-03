@@ -21,7 +21,7 @@ Visit [YouTube's Live Dashboard](https://www.youtube.com/live_dashboard), and lo
 
 Once you're accepted, part way down the Live Dashboard page (you may have to scroll), you should see a section entitled <samp>Encoder Setup</samp> with a Server URL and Stream name/key. Copy this information.
 
-In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>Destination</samp> menu and select <samp>Custom Stream Key</samp>. Next, click the Post to menu, and fill in the Server URL and Stream Key that you copied from the YouTube Live Dashboard. Click <samp>Use Custom Stream Key</samp> to finish setup. Now you can press the blue <samp>Go Live</samp> button and broadcast to YouTube.
+In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>Destination</samp> menu and select <samp>Custom Stream Key</samp>. Next, click the Post to menu, and fill in the Server URL and Stream Key that you copied from the YouTube Live Dashboard. Click <samp>Use Custom Stream Key</samp> to finish setup. Now you can press the <samp class="blue">Go Live</samp> button and broadcast to YouTube.
 
 Unlike Facebook, YouTube supports viewing in 1080p resolution. You can enable 1080p by selecting <samp>Options</samp> menu ➝ <samp>Stream Size</samp> ➝ <samp>1080p</samp>. Read more about your options in the [Use High Quality](#use-high-quality) section.
 
@@ -35,7 +35,7 @@ Ecamm Live will store the information you enter for <samp>Custom Stream Keys</sa
 
 When streaming to Periscope, you'll need to use 720p or less for your screen size. 720p is Ecamm Live's default, and you can make adjustments in <samp>Options</samp> menu ➝ <samp>Stream Size</samp>.
 
-You'll need to turn off <samp>Use High Quality</samp> mode for Periscope, as the service imposes a maximum bit rate. Periscope also recommends using a smaller frame size for your broadcast. (A larger frame size will display a warning on the Periscope Producer page.)
+You'll need to turn off <samp>Use High Quality</samp> mode for Periscope, as the service imposes a maximum bit rate. Periscope also recommends using a smaller frame size for your broadcast—a larger frame size will display a warning on the Periscope Producer page.
 
 ### Broadcast to Wowza with an RTMP Stream Key
 

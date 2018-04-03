@@ -21,12 +21,12 @@
 {% if page.previous or page.next %}
   <nav class="pagination">
     {% if page.previous %}
-      <a href="{{ page.previous.url | absolute_url }}" class="pagination--pager" title="{{ prevtitle | markdownify | strip_html }}">Previous ({{ prevtitle | markdownify | strip_html }})</a>
+      <a href="{{ page.previous.url | absolute_url }}" class="pagination--pager" title="{{ prevtitle | markdownify | strip_html | rstrip }}">Previous ({{ prevtitle | markdownify | strip_html | rstrip }})</a>
     {% else %}
 <!--      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>-->
     {% endif %}
     {% if nexttitle %}
-      <a href="{{ page.next.url | absolute_url }}" class="pagination--pager" title="{{ nexttitle | markdownify | strip_html }}">Next ({{ nexttitle | markdownify | strip_html }})</a>
+      <a href="{{ page.next.url | absolute_url }}" class="pagination--pager" title="{{ nexttitle | markdownify | strip_html | rstrip }}">Next ({{ nexttitle | markdownify | strip_html | rstrip }})</a>
     {% else %}
   <!--    <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>-->
     {% endif %}

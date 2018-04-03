@@ -19,8 +19,11 @@ layout: default
 
 {% assign words = page.title | split: ' ' %}
 {% assign firstword = words | first %}
-{% assign restofwords = page.title | remove_first: firstword %}
-
+{% assign restofwords = page.title %}
+{% assign num = firstword | plus: 0 %}
+{% if num > 0 %}
+  {% assign restofwords = page.title | remove_first: firstword %}
+{% endif %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}

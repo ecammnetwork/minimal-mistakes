@@ -1,14 +1,30 @@
+{% assign nexttitle = page.next.title %}
+{% assign words = nexttitle | split: ' ' %}
+{% assign firstword = words | first %}
+{% assign num = firstword | plus: 0 %}
+{% if num > 0 %}
+  {% assign nexttitle = nexttitle | remove_first: firstword %}
+{% endif %}
+
+{% assign prevtitle = page.previous.title %}
+{% assign words = prevtitle | split: ' ' %}
+{% assign firstword = words | first %}
+{% assign num = firstword | plus: 0 %}
+{% if num > 0 %}
+  {% assign prevtitle = prevtitle | remove_first: firstword %}
+{% endif %}
+
 {% if page.previous or page.next %}
   <nav class="pagination">
     {% if page.previous %}
-      <a href="{{ page.previous.url | absolute_url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+      <a href="{{ page.previous.url | absolute_url }}" class="pagination--pager" title="{{ prevtitle | markdownify | strip_html }}">Previous ({{ prevtitle | markdownify | strip_html }})</a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+<!--      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>-->
     {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url | absolute_url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {% if nexttitle %}
+      <a href="{{ page.next.url | absolute_url }}" class="pagination--pager" title="{{ nexttitle | markdownify | strip_html }}">Next ({{ nexttitle | markdownify | strip_html }})</a>
     {% else %}
-      <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+  <!--    <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>-->
     {% endif %}
   </nav>
 {% endif %}

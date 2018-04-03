@@ -81,7 +81,7 @@ Trash a scene by mistake? Don't panic. <samp>Edit</samp> ➝ <samp>Undo</samp>. 
 
 ### Saving, Exporting, and Importing Scenes
 
-When you create or modify a scene, it is auto-saved. If you quit the Ecamm Live, and later reopen, all scenes and settings will be just as you left them. Ecamm Live can, however, import and export scenes. This allows you to backup your work in a file or share your scenes to another computer, You may also wish to keep around different sets of scenes if you have multiple broadcasts with different setups. Ecamm Live scene files have an "ecammlive" file extension.
+When you create or modify a scene, it is auto-saved. If you quit Ecamm Live, and later reopen, all scenes and settings will be just as you left them. Ecamm Live can, however, import and export scenes. This allows you to backup your work in a file or share your scenes to another computer, You may also wish to keep around different sets of scenes if you have multiple broadcasts with different setups. Ecamm Live scene files have an "ecammlive" file extension.
 
 _Suggested Figure_: an image of a .ecammlive file.
 

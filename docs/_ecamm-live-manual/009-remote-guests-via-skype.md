@@ -5,7 +5,7 @@
 
 One of the most popular features of Ecamm Live is the ability to have as many as five remote guests appear on your broadcast. This bit of magic requires an application from Ecamm, [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/) which is an additional purchase.
 
-### Preparing for your Remote Guests
+## Preparing for your Remote Guests
 
 If you haven't already, install Skype for Mac, and then install [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/). If you've never used Skype before, you'll need to sign up for an account, as well. When those are set,
 
@@ -25,7 +25,7 @@ You can select up to 5 Skype guests. Each guest will appear separately in your v
 
 In the Sound Levels window, all Skype guest audio is available as a single, mixed source. You can mute or adjust the volume of the Skype call independent of your own audio. Before broadcasting consider helping your guests adjust their microphones to have similar audio levels.
 
-### Scenes Tip for Interviews
+## Scenes Tip for Interviews
 
 The fastest way to switch from an interview's introduction to a view of you and your guests is to store the interview screen's different looks within Scenes. The basic idea is to have one scene for each look. One possible set up could be…
 

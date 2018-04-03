@@ -6,7 +6,7 @@
 
 By default, Ecamm Live keeps a local, full-quality recording of every broadcast you produce through the app.
 
-### Retrieving Your Past Recordings
+## Retrieving Your Past Recordings
 
 The <samp>Recording</samp> Menu at the top of your display holds the tools you need to enable or disable automatic recording, a way to get at your past recordings, and even change the location of where you want your recordings saved. By default, Ecamm Live saves your recorded videos in a subfolder of your macOS user's Documents folder. 
 

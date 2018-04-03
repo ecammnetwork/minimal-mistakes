@@ -7,7 +7,7 @@ One of the most popular features of Ecamm Live is the ability to have as many as
 
 ### Preparing for your Remote Guests
 
-If you haven't already, install Skype for Mac, and then install [Call Recorder for Skype]([http://www.ecamm.com/mac/callrecorder/](http://www.ecamm.com/mac/callrecorder/)). If you've never used Skype before, you'll need to sign up for an account, as well. When those are set,
+If you haven't already, install Skype for Mac, and then install [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/). If you've never used Skype before, you'll need to sign up for an account, as well. When those are set,
 
 1. Launch Ecamm Live.
 1. Launch Skype

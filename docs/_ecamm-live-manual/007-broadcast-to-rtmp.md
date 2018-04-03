@@ -1,6 +1,5 @@
 ---
-title: |
-  Broadcast to RTMP-based Services
+title: Broadcast to RTMP-based Services
 ---
 
 <!-- ## Broadcasting to RTMP-based Services -->
@@ -40,7 +39,7 @@ You'll need to turn off <samp>Use High Quality</samp> mode for Periscope, as the
 
 ### Broadcast to Wowza with an RTMP Stream Key
 
-If you need to broadcast to Wowza Streaming Cloud, there are a few extra steps to set up your stream on Wowza's site. We have instructions to walk you through [Streaming to Wowza Streaming Cloud]([http://ecamm.com/support/article/2218/streaming-to-wowza-streaming-cloud/](http://ecamm.com/support/article/2218/streaming-to-wowza-streaming-cloud/)) available to guide you.
+If you need to broadcast to Wowza Streaming Cloud, there are a few extra steps to set up your stream on Wowza's site. We have instructions to walk you through [Streaming to Wowza Streaming Cloud](http://ecamm.com/support/article/2218/streaming-to-wowza-streaming-cloud/) available to guide you.
 
 <aside markdown="1" class="notice">
 #### A Technical Aside about Internet Connections

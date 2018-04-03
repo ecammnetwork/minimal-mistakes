@@ -14,7 +14,7 @@ The <samp>Recording</samp> Menu at the top of your display holds the tools you n
 
 #### An Aside on the Location of your Recordings
 
-If you have a cloud storage service mirroring the location of the Ecamm Live Recordings folder, you should be aware this could impact the quality of your live broadcasts. For example, Apple offers a feature for their iCloud cloud storage product called [iCloud Desktop and Documents]([https://support.apple.com/en-us/HT206985](https://support.apple.com/en-us/HT206985)) which mirrors the Documents folder to iCloud automatically. The Documents folder is where Ecamm Live stores your Recordings by default.
+If you have a cloud storage service mirroring the location of the Ecamm Live Recordings folder, you should be aware this could impact the quality of your live broadcasts. For example, Apple offers a feature for their iCloud cloud storage product called [iCloud Desktop and Documents](https://support.apple.com/en-us/HT206985) which mirrors the Documents folder to iCloud automatically. The Documents folder is where Ecamm Live stores your Recordings by default.
 
 You may consume your cloud data storage pretty quickly if you keep the Ecamm Recordings folder in a cloud-sync'd folder—videos tend to be large files. Second, if you are recording while streaming—which is the default behavior—you will be both uploading your stream to the internet and, simultaneously, you'll be uploading the recording to your cloud storage. This may saturate your internet connection's upload capabilities, which could degrade the quality and stability of your feed.
 

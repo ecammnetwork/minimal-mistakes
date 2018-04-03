@@ -7,11 +7,11 @@
 
 Ecamm Live has a strong focus on creating Facebook Live broadcasts. Let's take a look at the options available.
 
-_See also_ the [First Facebook Live tutorial](docs/ecamm-live-first-facebook-live) for the bare essentials from first-run to your first Facebook Live broadcast.
+_See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-first-facebook-live-intro/) for the bare essentials from first-run to your first Facebook Live broadcast.
 {: .notice}
 
 * <samp class="blue">Login</samp> - Click to login to Facebook and connect the app.
-* <samp class="blue">Go Live</samp> -  you've already logged into Facebook (or have set up a [Custom Stream Key](007-broadcast-to-rtmp)). Click to begin a live broadcast.
+* <samp class="blue">Go Live</samp> -  you've already logged into Facebook (or have set up a [Custom Stream Key](../007-broadcast-to-rtmp)). Click to begin a live broadcast.
 * <samp class="blue">Preview</samp> - you've already logged into Facebook, and have scheduled an upcoming Live broadcast.
 * <samp class="blue">Record</samp> - you're in local recording mode, which will only save your work to a local video file on your Mac, and broadcast nothing.
 
@@ -75,17 +75,17 @@ After clicking <samp class="blue">Finish</samp> we'll present you with a message
 
 On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, Event, etc. Facebook does this automatically.
 
-{% inlineicon visible 15 inverted %}Trash Button{% endinlineicon %} View Post - click to reveal the post in your default web browser.
+<samp>{% inlineicon visible 15 inverted %}Trash Button{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
 
-{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
+<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
 
 The next two items concern a local Recording of your broadcast. Much more on Recordings in the following section, but for now…
 
-{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File - click to reveal the local video file in your Mac's Finder.
+<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac's Finder.
 
-{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube - click to send the local video file to your YouTube Account.
+<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
 
-If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
+If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
 ### Logging out of Facebook
 
@@ -129,7 +129,7 @@ Ecamm Live will play a sound when comments arrive, but not insert them into the 
 <aside class="notice" markdown="1">
 #### Broadcasting to Facebook and Other Services Simultaneously
 
-Ecamm Live broadcasts to one live streaming service at a time. Restream.io users can use that service to stream to multiple services simultaneously, and Restream.io works with Ecamm Live as [an RTMP service.](rtmp section) Note that Facebook Live's terms specifically prohibit streaming to both Facebook and any other service simultaneously.
+Ecamm Live broadcasts to one live streaming service at a time. Restream.io users can use that service to stream to multiple services simultaneously, and Restream.io works with Ecamm Live as [an RTMP service.](../007-broadcast-to-rtmp) Note that Facebook Live's terms specifically prohibit streaming to both Facebook and any other service simultaneously.
 </aside>
 
 <aside class="notice--warning" markdown="1">

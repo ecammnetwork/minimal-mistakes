@@ -91,7 +91,7 @@ There are two methods to export a file that contains all the settings of a scene
 
 1. **Drag and drop** - select one or more scenes in the Scenes window, and drag them to the Desktop. To select more than one at once, hold the <kbd>shift</kbd> key while clicking each scene.
     * Each selected scene will appear as a separate file on your Desktop, named the same as the scene it represents.
-1. **Share button** - select one or more scenes in the scene window, then click the {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} button at the bottom of the Scenes window. A Save sheet will appear so you can name your file and select where to save it. 
+1. **Share button** - select one or more scenes in the scene window, then click the {% inlineicon share 10 inverted %}Export Button Icon{% endinlineicon %} button at the bottom of the Scenes window. A Save sheet will appear so you can name your file and select where to save it. 
     * Note that this option can save _multiple scenes in a single file._
 
 #### Importing a Scene from a File

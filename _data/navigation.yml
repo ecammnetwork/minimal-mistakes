@@ -27,6 +27,14 @@ manual:
 
 tutorial-1:
   - title: "Introduction"
-    url: /ecamm-live-first-facebook-live/001-first-facebook-live-intro
+    url: /ecamm-live-first-facebook-live/001-introduction
   - title: "Before You Broadcast"
     url: /ecamm-live-first-facebook-live/002-before-you-broadcast
+  - title: "Starting and Ending Your Broadcast"
+    url: /ecamm-live-first-facebook-live/003-starting-ending
+  - title: "After Your Broadcast Ends"
+    url: /ecamm-live-first-facebook-live/004-after-broadcast
+  - title: "Second Broadcast with Overlays and Scenes"
+    url: /ecamm-live-first-facebook-live/005-second-broadcast-overlays-scenes
+  - title: "Recap: Your Takeaways "
+    url: /ecamm-live-first-facebook-live/006-recap

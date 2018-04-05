@@ -189,5 +189,5 @@ defaults:
       share: false
       related: false
       sidebar:
-       nav: "manual"
+       nav: "tutorial-1"
       toc: true

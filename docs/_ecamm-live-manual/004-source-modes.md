@@ -11,25 +11,25 @@ There are 3 primary things you can show with Ecamm Live on your broadcast, a cam
 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} Video File
 
-### Camera
+## Camera
 
 The leftmost icon in the Source bar accesses Camera mode. With this selected, video from a camera is displayed in the Main Window. If you have more than one camera source available (for example, a built-in webcam and an external video camera attached to your Mac via USB) then Ecamm Live will display a video source switcher at the bottom. When only one video source is detected by Ecamm Live, the video switcher on the Main Window will be hidden.
 
-#### Support for HDMI and DSLR Cameras
+### Support for HDMI and DSLR Cameras
 
 Ecamm Live can detect and use many types of cameras. We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular HDMI input device is the [Blackmagic Design UltraStudio Mini Recorder.](https://www.amazon.com/Blackmagic-Design-UltraStudio-Mini-Recorder/dp/B009D91314) Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live.
 
 For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon DSLR cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use if after installing the free and open source [CameraLive](https://github.com/v002/v002-Camera-Live/releases) software. Once it's installed, connect your Canon DSLR to your Mac's USB port. Quit the Canon EOS Utility if it automatically opens, and then start CameraLive. It should recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. Currently, no other DSLRs or mirrorless cameras are supported, unless it provides HDMI out, in which case you can use the Blackmagic method above.
 
-#### Support for 360° Cameras
+### Support for 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image _may_ work.
 
-#### Want to use your iPhone or iPad Camera?
+### Want to use your iPhone or iPad Camera?
 
 Some customers have reported success using the third-party iOS app, _EpocCam_ by [Kinoni.](http://www.kinoni.com/) This requires installing both the _Mac OS X beta drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage.](http://www.kinoni.com) We don't support this, your mileage may vary.
 
-#### Video Source Switcher
+### Video Source Switcher
 
 The video source switcher allows you to broadcast one or more video sources. Select one video source to fill the Main Window with that video. If you would like to display more than one video source at the same time, hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the videos at equal size—up to nine sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live with your interview, you'll want to ensure your participants are aligned within their cropped video boxes.
 
@@ -37,7 +37,7 @@ The video switcher bar can be dragged anywhere within the Main Window. When you'
 
 If you have video sources connected to your Mac that you _do not_ want available to you during a broadcast, you may hide (or unhide) sources in <samp>Camera</samp> ➝ <samp>Include In Switcher</samp> ➝ un/check sources listed here. Remember, if you remove all but one source, the video switcher will be hidden. All detected sources will always be displayed within the Camera menu at the top of the screen.
 
-### Screen Share
+## Screen Share
 
 The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center icon in the Source bar activates Screen Share mode. When this is selected, a Control Bar will be shown at the bottom of the Main Window to select one of 4 options for Screen Share mode:
 
@@ -54,12 +54,11 @@ With Screen Share mode selected, you see what the audience sees within the Main 
 **_Note:_** In all screen sharing modes Ecamm Live's windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
 {:.notice--info}
 
-#### For Macs with More than One Display
+### For Macs with More than One Display
 
 If you select items to share that span more than one display, Ecamm Live will intelligently scale them down to fit the broadcast. You should experiment to ensure the windows are large enough for your audience to see. 
 
-
-#### Zooming in screen share mode
+### Zooming in screen share mode
 
 Zoom by using the <samp>+</samp> and <samp>–</samp> buttons in the control bar. The zoom will move in (or out) from the center of the Main Window. {#todo - verify} You can also zoom using the scroll function of your mouse or trackpad, while your cursor is over the Ecamm Live Main Window. Using a mouse or trackpad allows you to zoom to the current position of the cursor.  
 
@@ -67,12 +66,11 @@ If you use a mouse, scroll "up" to zoom in, or scroll "down" to zoom out. Which 
 
 If you use a trackpad, you can use the pinch-to-zoom gesture. With your cursor placed over the Ecamm Live Main Window, spread two fingers apart to zoom in towards your cursor. Pinch two fingers together to zoom out. Once zoomed, move around the screen using two fingers together on the trackpad.
 
-#todo (at publishing time) verify the zooming and scrolling for all devices because this changed in recent builds
+{#todo} (at publishing time) verify the zooming and scrolling for all devices because this changed in recent builds
 
 You can show your live camera in the broadcast while screen sharing with [the Picture-in-Picture tool.](#picture-in-picture-for-screen-share-and-video-mode)
 
-
-### Video Files
+## Video Files
 
 When you need to play a video file within your live broadcast, use the third icon in the Sources Bar, the {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} icon. Clicking this the first time will display a file browser, allowing you to locate and select a video file for feedback.
 
@@ -143,7 +141,7 @@ Video sources and audio sources are completely independent. If you switch betwee
 
 <aside class="notice" markdown="1">
 
-#### An Aside on Audio Quality {#an-aside-on-audio-quality}
+### An Aside on Audio Quality {#an-aside-on-audio-quality}
 
 An old adage about video production is "Viewers will tolerate mediocre video quality if the audio is good, but poor audio is never tolerated."
 

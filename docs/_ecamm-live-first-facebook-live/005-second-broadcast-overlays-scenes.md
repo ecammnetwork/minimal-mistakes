@@ -1,5 +1,5 @@
 ---
-title: "Bonus: Your Second Broadcast—with Overlays and Scenes"
+title: "Your Second Broadcast—with Overlays and Scenes"
 ---
 
 Now that you have the basics, let's add two more core features of Ecamm Live, Overlays and Scenes. Overlays are anything you can place overtop of your broadcast. This can be text (including Facebook Comments, and countdown timers) or images. Scenes are pre-selected groups of overlays that you can switch to in a single click (or keyboard shortcut).

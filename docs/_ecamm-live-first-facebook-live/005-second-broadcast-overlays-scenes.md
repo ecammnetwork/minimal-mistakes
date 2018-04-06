@@ -25,22 +25,22 @@ Open your Scenes window if it's not already visible. At the top of your display,
 
 Scenes can be blank, but most Scenes will have at least one Overlay. So let's create an Overlay with our name. Open your Overlays window if it's not already visible. At the top of your display, select <samp>Overlays</samp> ➝ <samp>Show Overlays Window</samp>.
 
-At the bottom of the Overlays window, click the New Text Overlay Button {T+ icon}#todo. A style sheet appears over the Main Window. Type your name into the Text field. Experiment with a few style options, like typeface and color. Click <samp>Add</samp> when you're ready.
+At the bottom of the Overlays window, click the {% inlineicon addtext 20 graybutton %}Add Text Overlay{% endinlineicon %} New Text Overlay button. A style sheet appears over the Main Window. Type your name into the Text field. Experiment with a few style options, like typeface and color. Click <samp>Add</samp> when you're ready.
 
 Your Text Overlay appears in the middle of the Main Window. You may drag it wherever you like. If your camera switcher bar appears, you can drag that out of the way, if needed. If the Overlay needs to be resized, you can drag from bottom-right corner, or use the pinch/zoom gesture on a trackpad to do so.
 
 _See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/003-using-overlays/#text-overlays)
 {:.notice}
 
-You can add as many Overlays as you'd like to your Scene. Let's add a second—an image you can use for your logo. We'll start by clicking the Image Overlay {Image+ icon}#todo. Button. A file selection browser will appear over the Main Window. Select your image, then click "Open" to have it appear on the Main Window. You can now drag it into position, and resize as needed.
+You can add as many Overlays as you'd like to your Scene. Let's add a second—an image you can use for your logo. We'll start by clicking the {% inlineicon addimage 20 graybutton %}Add Image Overlay{% endinlineicon %} Image Overlay Button. A file selection browser will appear over the Main Window. Select your image, then click <samp>Open</samp> to have it appear on the Main Window. You can now drag it into position, and resize as needed.
 
-These two overlays are now  listed under the "Show in Current Scene" heading in the Overlays menu. You have the option of dragging any Overlay up to the "Show in All Scenes" sections. When you create new scenes afterwards, these will automatically appear in those scenes. Since this is handy for something like a logo, let's drag the Image Overlay into the Show in All Scenes area.
+These two overlays are now listed under the <samp>Overlays</samp> menu ➝ <samp>Show in Current Scene</samp> heading. You have the option of dragging any Overlay up to the "Show in All Scenes" sections. When you create new scenes afterwards, these will automatically appear in those scenes. Since this is handy for something like a logo, let's drag the Image Overlay into the Show in All Scenes area.
 
 ## Build Scene 2 — Your Main Presentation
 
 In Scenes Window, click the <samp>+</samp> icon to create a new Scene. The Main Window will switch to the new scene immediately. Name your new scene. If you have your logo Overlay set to "Show in All Scenes", it will appear on the Main Window in the same place as in the previous scene.
 
-Return to the Overlays Window. Click the New Text Overlay Button {T+ icon}#todo to create a new Overlay, edit it to your liking, and save it. Move it to your desired position within the Main Window.
+Return to the Overlays Window. Click the {% inlineicon addtext 20 graybutton %}Add Text Overlay{% endinlineicon %} New Text Overlay Button to create a new Overlay, edit it to your liking, and save it. Move it to your desired position within the Main Window.
 
 In the Scenes Window, select the previous Scene—click the {icon}#todo icon to the left of the Scene name to activate it. Note how the Main Window changes. Notice how each scene automatically gets its own numbered keyboard shortcut, <kbd title="command">⌘</kbd>1–9, according to the order of the scenes, top-to-bottom. If your Scenes Window is hidden, you can still use the keyboard shortcuts or the Scenes dropdown menu in the Main Window or at the top of your display.
 

@@ -71,6 +71,12 @@
   }
 }
 
+@media only screen and (min-width: 999px) {
+	.masthead__menu {
+	  margin-top: 90px;
+	}
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;

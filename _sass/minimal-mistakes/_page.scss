@@ -20,11 +20,13 @@
   }
 }
 
-:target:before {
-  content:"";
-  display:block;
-  height:100px; /* fixed header height*/
-  margin:-100px 0 0; /* negative fixed header height */
+@media only screen and (min-width: 999px) {
+	:target:before {
+	  content:"";
+	  display:block;
+	  height:100px; /* fixed header height*/
+	  margin:-100px 0 0; /* negative fixed header height */
+	}
 }
 
 .page {

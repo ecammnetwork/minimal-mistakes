@@ -25,7 +25,7 @@ Set these options to your liking. Let's review a few more settings before clicki
 
 Top center of the Main Window is your source switcher. Your options, left-to-right, are cameras, screen sharing, or local video. For this tutorial, we'll do a one-camera setup, and we'll leave the other source options alone for now.
 
-Select the {camera icon}#todo camera icon, if it's not already. The main window should be filled with a live preview of your camera's video. If you have more than one camera attached right now, a Video Source Switcher appears on screen. You can see live previews of video from all available sources. Click a preview to switch to that source. Video sources can be hidden from the switcher. If a source is missing, check the Cameras Menu at the top of your display. Camera > Include in switcher > un/check sources listed here. 
+Select the {% inlineicon cam 20 graybutton %}Camera Icon{% endinlineicon %} camera icon, if it's not already. The main window should be filled with a live preview of your camera's video. If you have more than one camera attached right now, a Video Source Switcher appears on screen. You can see live previews of video from all available sources. Click a preview to switch to that source. Video sources can be hidden from the switcher. If a source is missing, check the Cameras Menu at the top of your display. Camera > Include in switcher > un/check sources listed here. 
 
 _See also:_ [Video Source Switcher section of our manual](../../ecamm-live-manual/004-source-modes/#video-source-switcher)
 {:.notice}

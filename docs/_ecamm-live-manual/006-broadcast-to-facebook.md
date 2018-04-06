@@ -2,7 +2,7 @@
 
 ---
 
-_See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-first-facebook-live-intro/) for the bare essentials from first-run to your first Facebook Live broadcast.
+_See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction/) for the bare essentials from first-run to your first Facebook Live broadcast.
 {: .notice}
 
 ## Main Window Facebook Live Options

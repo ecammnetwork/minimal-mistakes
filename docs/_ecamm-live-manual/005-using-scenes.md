@@ -34,7 +34,7 @@ There are 4 ways you can select a scene to display:
 
 1. Select one in the Scenes pull-down button in the Main Window
 1. Select one in the Scenes menu at the top of the screen.
-1. Select one in the Scenes Window—you must click its icon to trigger the scene.
+1. Select one in the Scenes Window—you must click its {% inlineicon run-scene 30 %}run scene{% endinlineicon %} icon to trigger the scene.
 1. Keyboard shortcut for Scenes 1–9 (<kbd title="command">⌘</kbd>+digit)
 1. Keyboard shortcut for next or previous scenes
     * <kbd title="command">⌘</kbd> <kbd>→</kbd> Next (higher number, lower in Scenes window) 

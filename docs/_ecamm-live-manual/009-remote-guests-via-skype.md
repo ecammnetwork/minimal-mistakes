@@ -12,18 +12,19 @@ If you haven't already, install Skype for Mac, and then install [Call Recorder f
 1. Launch Ecamm Live.
 1. Launch Skype
    * This will automatically bring up Call Recorder as well.
-1. Start a video call with a guest.
-1. Ecamm Live will automatically detect the presence of a Skype video call, presenting each guest as an individual camera source.
+1. Start a call with a guest.
+1. Ecamm Live will automatically detect the presence of a Skype video call, presenting each guest as an individual source in the Source Switcher.
+1. Each guest's audio will be immediately connected to Ecamm Live.
 
 If any of the above items don't happen automatically, quit Ecamm Live. Make sure that Ecamm Call Recorder for Skype was installed first, and that it runs properly with a Skype call. Then launch Ecamm Live again.
 
-You can select up to 5 Skype guests. Each guest will appear separately in your video switcher at the bottom of Ecamm Live's Main Window. Shift-click to select each guest's video source to automatically create a split screen. The broadcast will divide equally amongst as many sources you select, in addition to your own lovely visage. 
+Each guest will appear separately in your Source Switcher at the bottom of Ecamm Live's Main Window. Shift-click to select multiple sources, and we'll automatically create a split screen. The broadcast will divide equally amongst as many sources you select, up to 9 boxes, including your own lovely visage, should you choose. If one of your guests is audio-only, their box will show a Skype logo in the Source Switcher. You can choose to display this on screen, but if you don't, their audio will still be automatically available in your broadcast.
 
 #todo Add a screenshot of UI with Skype guests in the video switcher.
 
 #todo Add a screenshot of Main Window with Skype Guest Split Screen.
 
-In the Sound Levels window, all Skype guest audio is available as a single, mixed source. You can mute or adjust the volume of the Skype call independent of your own audio. Before broadcasting consider helping your guests adjust their microphones to have similar audio levels.
+In the Sound Levels window, all Skype guest audio is available as a single, mixed source. You can adjust the volume of the Skype call independent of your own audio. Before broadcasting consider helping your guests adjust their microphones to have similar audio levels. By default, all Skype guest audio is piped into Ecamm Live, regardless of whether a remote guest's video is visible in your broadcast.
 
 ## Scenes Tip for Interviews
 

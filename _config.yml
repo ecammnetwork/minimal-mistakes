@@ -164,6 +164,9 @@ collections:
   ecamm-live-first-facebook-live:
     permalink: "/:collection/:path/"
     output: "true"
+  feedback:
+    permalink: "/:collection/:path/"
+    output: "true"
 
 # Defaults
 defaults:
@@ -173,7 +176,7 @@ defaults:
     values:
       layout: "single"
       author_profile: false
-      read_time: true
+      read_time: false
       share: false
       related: false
       sidebar:
@@ -185,9 +188,18 @@ defaults:
     values:
       layout: "single"
       author_profile: false
-      read_time: true
+      read_time: false
       share: false
       related: false
       sidebar:
        nav: "tutorial-1"
       toc: true
+  - scope:
+      path: ""
+      type: "feedback"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: false
+      share: false
+      related: false

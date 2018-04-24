@@ -11,4 +11,4 @@ Second, you can add another degree of polish to your broadcast with Overlays. Fi
 
 Remember, [our Ecamm Live Manual](/ecamm-live-manual/001-introduction) is stocked with a lot more detail, and it's always available.
 
-Let us know about your experience with this tutorial. Was it helpful? Did you have a problem or find an error? [Please reach out with your feedback.](#) We are always eager to hear from our customers.
+Let us know about your experience with this tutorial. Was it helpful? Did you have a problem or find an error? [Please reach out with your feedback.](/feedback/index/) We are always eager to hear from our customers.

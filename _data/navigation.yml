@@ -38,3 +38,17 @@ tutorial-1:
     url: /ecamm-live-first-facebook-live/005-second-broadcast-overlays-scenes
   - title: "Recap: Your Takeaways"
     url: /ecamm-live-first-facebook-live/006-recap
+  - title: "Send Us Feedback About This Tutorial"
+    url: /feedback/index
+
+##post-manual-menu:
+# - title: "Send Us Feedback About This Manual"
+#   url: /feedback/index
+# - title: "Facebook Live Tutorial"
+#   url: /ecamm-live-first-facebook-live/001-introduction
+
+##post-tutorial-1-menu:
+# - title: "Send Us Feedback About This Tutorial"
+#   url: /feedback/index
+# - title: "Ecamm Live Manual"
+#   url: /ecamm-live-manual/001-welcome

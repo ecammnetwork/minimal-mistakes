@@ -18,7 +18,8 @@ Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste</sam
 
 When you create a new Text Overlay, a Text Editing Sheet will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, text opacity (how much you can “see through” the text), background color and background opacity. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
  
-\#todo: insert image with different line styles in a single text overlay
+[![Figure\: Text Overlay Editor Sheet Annotated](/assets/img/text-overlay-editor-sheet-annotated.png "Click for full-size image.")
+](/assets/img/text-overlay-editor-sheet-annotated.png)
 
 You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu.
 

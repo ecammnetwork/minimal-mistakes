@@ -20,7 +20,8 @@ At the center bottom of the Main Window is a blue <samp class="blue">Login</samp
 Note: If you’re not going to use Ecamm Live with Facebook, logging in is optional. You can still record to your Mac, and stream to services that use [RTMP](../007-broadcast-to-rtmp) with no need to log into Facebook.
 {:.notice--info}
 
-#todo Suggested Figure: Annotated Main Window with tools labeled
+[![Figure\: Annotated Main Window with tools labeled](/assets/img/main-window-annotated.png "Click for full-size image.")
+](/assets/img/main-window-annotated.png)
 
 ## Tools within the Main Window
 

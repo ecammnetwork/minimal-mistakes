@@ -42,7 +42,7 @@ In Scenes Window, click the <samp>+</samp> icon to create a new Scene. The Main 
 
 Return to the Overlays Window. Click the {% inlineicon addtext 20 graybutton %}Add Text Overlay{% endinlineicon %} New Text Overlay Button to create a new Overlay, edit it to your liking, and save it. Move it to your desired position within the Main Window.
 
-In the Scenes Window, select the previous Scene—click the {icon}#todo icon to the left of the Scene name to activate it. Note how the Main Window changes. Notice how each scene automatically gets its own numbered keyboard shortcut, <kbd title="command">⌘</kbd>1–9, according to the order of the scenes, top-to-bottom. If your Scenes Window is hidden, you can still use the keyboard shortcuts or the Scenes dropdown menu in the Main Window or at the top of your display.
+In the Scenes Window, select the previous Scene—click the {% inlineicon run-scene 40 %}Run Scene{% endinlineicon %} icon to the left of the Scene name to activate it. Note how the Main Window changes. Notice how each scene automatically gets its own numbered keyboard shortcut, <kbd title="command">⌘</kbd>1–9, according to the order of the scenes, top-to-bottom. If your Scenes Window is hidden, you can still use the keyboard shortcuts or the Scenes dropdown menu in the Main Window or at the top of your display.
 
 **_Note:_** Make sure you press the <kbd title="command">⌘</kbd> key to activate the Scenes keyboard shortcuts. Pressing the number only will select _different camera sources_ in the same manner.
 {:.notice}

@@ -62,11 +62,11 @@ If you select items to share that span more than one display, Ecamm Live will in
 
 Zoom by using the <samp>+</samp> and <samp>–</samp> buttons in the control bar. The zoom will move in (or out) from the center of the Main Window. {#todo - verify} You can also zoom using the scroll function of your mouse or trackpad, while your cursor is over the Ecamm Live Main Window. Using a mouse or trackpad allows you to zoom to the current position of the cursor.  
 
-If you use a mouse, scroll "up" to zoom in, or scroll "down" to zoom out. Which direction is which depends on the settings in your Mac's System Preferences. #todo how do you pan once zoomed with a mouse?
+If you use a mouse, scroll "up" to zoom in, or scroll "down" to zoom out. Which direction is which depends on the settings in your Mac's System Preferences. {#todo - verify - how do you pan once zoomed with a mouse?}
 
 If you use a trackpad, you can use the pinch-to-zoom gesture. With your cursor placed over the Ecamm Live Main Window, spread two fingers apart to zoom in towards your cursor. Pinch two fingers together to zoom out. Once zoomed, move around the screen using two fingers together on the trackpad.
 
-{#todo} (at publishing time) verify the zooming and scrolling for all devices because this changed in recent builds
+{#todo (at publishing time) verify the zooming and scrolling for all devices because this changed in recent builds}
 
 You can show your live camera in the broadcast while screen sharing with [the Picture-in-Picture tool.](#picture-in-picture-for-screen-share-and-video-mode)
 

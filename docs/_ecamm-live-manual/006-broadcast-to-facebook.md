@@ -56,7 +56,7 @@ For example, The Ecamm Live Community Facebook Group URL is
 
 Ecamm Live will remember your Groups and Events for future broadcasts.
 
-{}#todo: Suggested figure: screenshot of entering a full URL for an Event.
+{#todo: Suggested figure: screenshot of entering a full URL for an Event. Animated?}
 
 <aside markdown="1" class="notice">
 #### A note about delay in Live broadcasts

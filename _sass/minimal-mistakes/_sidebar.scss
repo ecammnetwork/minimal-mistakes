@@ -70,9 +70,9 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: absolute;
-    top: 0;
-    right: 0;
+	position: -webkit-sticky;
+	float: right;
+	top: 6.75em;
     width: $right-sidebar-width-narrow;
     margin-right: (-1 * $right-sidebar-width-narrow) - 16px;
     padding-left: 1em;

@@ -72,9 +72,9 @@ If you need to display a countdown timer on screen, use a Countdown Overlay.
 
 There are 3 ways you can display a Countdown Overlay:
 
-* Select <samp>New Countdown Overlay</samp> in the #todo:image Overlays pull-down button in the Main Window
+* Select <samp>New Countdown Overlay</samp> in the{% inlineicon overlays 70 inverted %}Overlays pull-down button{% endinlineicon %}Overlays pull-down button in the Main Window
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addcountdown 50 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the Overlays Window.
+* Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %}add countdown button at the bottom the Overlays Window.
 
 A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. You can edit the End Time and text alignment. Ecamm Live will display a countdown to the chosen End Time. Press <samp>Save</samp> to display your timer within the Main Window.
 
@@ -88,8 +88,11 @@ Does any Overlay need a quick resize while on screen? Place your cursor over an 
 
 If you’re using a mouse, you can put your cursor over top of the Overlay and scroll to change the size. If you’re using a trackpad, use the “pinch” or “spread” zooming gestures.
 
-{Pinch zoom figure}\#todo
-{spread zoom figure}\#todo
+![Pinch to shrink](/assets/img/pinch-zoom.png){: height="100px" width="100px"}
+—Pinch to shrink
+
+![Spread to enlarge](/assets/img/spread-zoom.png){: height="100px" width="100px"}
+—Spread to enlarge
 
 ## Managing Your Overlays
 

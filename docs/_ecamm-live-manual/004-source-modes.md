@@ -49,6 +49,10 @@ The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center i
 
 The control bar is only visible when Ecamm Live is the foremost window, and the cursor has moved within the Main Window in the last 5 seconds. After 5 seconds, or if your cursor leaves the window, the bar will hide. To see it again, move your cursor anywhere within the Main Window.
 
+[![Figure\: Screen Share Mode Main Window Annotated](/assets/img/screen-share-annotated.png "Click for full-size image.")
+](/assets/img/screen-share-annotated.png)
+
+
 With Screen Share mode selected, you see what the audience sees within the Main Window, but to interact with the items you're displaying, you must control them directly. You will not be able to interact with an app window, for instance, by clicking on it within the Main Window. While you're clicking around your Mac and broadcasting, you can have a floating control bar for Ecamm Live. To turn this on or off, click <samp>Options</samp> menu ➝ <samp>Show Controls in Other Apps</samp>. The control bar will be hidden when Ecamm Live is the foreground application.
 
 **_Note:_** In all screen sharing modes Ecamm Live's windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
@@ -82,7 +86,8 @@ Audio from the video will be broadcast automatically, but your microphone will b
 
 While the video plays, you can control it with the video control bar. Only you can see the controller, it is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the Sound Levels Window.
 
-_Suggested Figure_: Annotated Main Window with PiP and Video Control Bar visible and labeled.
+[![Figure\: Video Playback Mode Annotated Main Window ](/assets/img/video-playback-mode-annotated.png "Click for full-size image.")
+](/assets/img/video-playback-mode-annotated.png)
 
 We are not lawyers, but when playing videos you did not create yourself, be aware of copyright law and usage rights in your jurisdiction.
 {:.notice--warning}
@@ -113,6 +118,8 @@ When switching between Camera mode and other source modes with Picture-in-Pictur
 ### The Sound Levels Window
 
 The Sound Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The Microphone Menu at the top of your display also provides options, including the Mute Microphone tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
+
+![Sound Levels Window in Video Playback Mode](/assets/img/sound-levels.png "Sound Levels Window in Video Playback Mode"){: width="400px"}
 
 A meter in the Sound Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is used, you can also adjust its levels with the Sound Window. [More on Skype Interviews later in this manual.](../009-remote-guests-via-skype)
 

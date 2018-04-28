@@ -97,7 +97,9 @@ If you’re using a mouse, you can put your cursor over top of the Overlay and s
 
 ## Managing Your Overlays
 
-The Overlays Window offers several options for managing your Overlays. 
+The Overlays Window offers several options for managing your Overlays.
+
+![Figure\: Overlays Window](/assets/img/overlays-window.png "With two overlays in the current scene."){: width="300px"}
 
 To delete an overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 

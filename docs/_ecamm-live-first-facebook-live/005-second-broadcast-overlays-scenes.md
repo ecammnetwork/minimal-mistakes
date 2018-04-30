@@ -69,7 +69,7 @@ You've done this before. You're practically a pro at this point. Let's just outl
 
 1.  Double check that your Scenes are listed in your preferred order. Select your first scene.
 1.  Start your broadcast. Press <samp class="blue">Go Live</samp>.
-1.  When ready, switch to your 2nd scene by clicking the Scene icon within the Scenes Window, or by selecting it in the <samp>Scenes</samp> dropdown menu.
+1.  When ready, switch to your 2nd scene by clicking the {% inlineicon run-scene 30 %}run scene{% endinlineicon %}Scene icon within the Scenes Window, or by selecting it in the <samp>Scenes</samp> dropdown menu.
 1.  When ready, switch to your 3rd scene with <kbd title="command">⌘</kbd><kbd>3</kbd>.
 1.  Press <samp class="blue">Finish</samp> to end your broadcast.
 

@@ -23,14 +23,21 @@ Let's make 3 Scenes for your broadcast, with a few Overlays each.
 
 Open your Scenes window if it's not already visible. At the top of your display, select <samp>Scenes</samp> menu ➝ <samp>Show Scenes Window</samp>. There is a default scene available. You can rename it by clicking directly on the Scene name twice. Give your Scene an obvious, unique name like "Introduction". Clear Scene names are useful since you'll be selecting them on the fly in front of an audience. You want that to be as easy as possible.
 
-
 ![Figure\: The Scenes Window with scenes listed.](/assets/img/scenes-window.png "The Scenes Window"){:width="400px"}
 
 Scenes can be blank, but most Scenes will have at least one Overlay. So let's create an Overlay with our name. Open your Overlays window if it's not already visible. At the top of your display, select <samp>Overlays</samp> ➝ <samp>Show Overlays Window</samp>.
 
+![Figure\: The Overlays Window with overlays listed.](/assets/img/overlays-window.png "The Scenes Window"){:width="400px"}
+
 At the bottom of the Overlays window, click the {% inlineicon addtext 20 graybutton %}Add Text Overlay{% endinlineicon %} New Text Overlay button. A style sheet appears over the Main Window. Type your name into the Text field. Experiment with a few style options, like typeface and color. Click <samp>Add</samp> when you're ready.
 
 Your Text Overlay appears in the middle of the Main Window. You may drag it wherever you like. If your camera switcher bar appears, you can drag that out of the way, if needed. If the Overlay needs to be resized, you can drag from bottom-right corner, or use the pinch/zoom gesture on a trackpad to do so.
+
+![Pinch to shrink](/assets/img/pinch-zoom.png){: height="100px" width="100px"}
+—Pinch to shrink
+
+![Spread to enlarge](/assets/img/spread-zoom.png){: height="100px" width="100px"}
+—Spread to enlarge
 
 _See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/003-using-overlays/#text-overlays)
 {:.notice}

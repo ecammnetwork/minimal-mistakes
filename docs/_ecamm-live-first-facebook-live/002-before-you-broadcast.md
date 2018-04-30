@@ -22,7 +22,7 @@ Facebook has many areas you may broadcast, and additional privacy settings avail
 
 [![Figure\: Post As Menu Options labeled](/assets/img/facebook-destination-post-as-menu.png "Post As Options"){:width="400px"}
 
-* <samp>Post to:</samp> — this controls where your Facebook Live broadcast will appear, and your options depend upon who you're posting as. Options include your Profile, and Pages and Groups you administer. Additionally, for some locations like your profile, you'll see several privacy options to choose from, like <samp>Profile (Just Friends)</samp>, which allow you to restrict your audience.
+* <samp>Post to:</samp> — this controls where your Facebook Live broadcast will appear, and your options depend upon who you're posting as. Options include your Profile, and Pages and Groups you administer. Additionally, for some locations like your profile, you'll see several privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
  
 * <samp>Go Live:</samp> — this controls when your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> For this tutorial, we'll use <samp>Now</samp>.
 

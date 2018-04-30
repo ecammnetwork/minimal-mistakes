@@ -4,6 +4,8 @@ title: "Before You Broadcast: A Basic Setup for Facebook Live"
 
 At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <samp>Facebook</samp>
 
+![Figure\: Destination Menus Options for Facebook labeled](/assets/img/facebook-destination-menus.png "Destination Options for Facebook"){:width="400px"}
+
 If you're logged into Facebook via Ecamm Live already, and your button reads "Go Live", skip to the next section for more about [Setting Where and to Whom You're Broadcasting]().
 
 If you haven’t logged into Facebook through Ecamm Live yet, now is the time. Click the big blue <samp class="blue">Login</samp> button, and follow through the prompts to connect the app to Facebook.
@@ -18,15 +20,18 @@ Facebook has many areas you may broadcast, and additional privacy settings avail
  
 * <samp>Post as:</samp> — here you select whether you post as your personal account, or as another entity, such as a business or organization's page. 
 
+[![Figure\: Post As Menu Options labeled](/assets/img/facebook-destination-post-as-menu.png "Post As Options"){:width="400px"}
+
 * <samp>Post to:</samp> — this controls where your Facebook Live broadcast will appear, and your options depend upon who you're posting as. Options include your Profile, and Pages and Groups you administer. Additionally, for some locations like your profile, you'll see several privacy options to choose from, like <samp>Profile (Just Friends)</samp>, which allow you to restrict your audience.
  
 * <samp>Go Live:</samp> — this controls when your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> For this tutorial, we'll use <samp>Now</samp>.
 
+<!-- 
 _See also:_ [Facebook Live section of our manual](../../ecamm-live-manual/006-broadcast-to-facebook)
 {:.notice}
+ -->
 
 Set these options to your liking. Let's review a few more settings before clicking <samp class="blue">Go Live</samp>.
-
 
 ## Your Video Source
 

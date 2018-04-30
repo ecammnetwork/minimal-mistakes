@@ -2,7 +2,7 @@
 title: "Your Second Broadcast—with Overlays and Scenes"
 ---
 
-Now that you have the basics, let's add two more core features of Ecamm Live, Overlays and Scenes. Overlays are anything you can place overtop of your broadcast. This can be text (including Facebook Comments, and countdown timers) or images. Scenes are pre-selected groups of overlays that you can switch to in a single click (or keyboard shortcut).
+Now that you have the basics, let's add two more core features of Ecamm Live, **Overlays** and **Scenes**. Overlays are anything you can place overtop of your broadcast. This can be text (including Facebook Comments, and countdown timers) or images. Scenes are pre-selected groups of overlays that you can switch to in a single click (or keyboard shortcut).
 
 ## Prepare your stream
 
@@ -22,6 +22,9 @@ Let's make 3 Scenes for your broadcast, with a few Overlays each.
 ## Build Scene 1 — Your Introduction
 
 Open your Scenes window if it's not already visible. At the top of your display, select <samp>Scenes</samp> menu ➝ <samp>Show Scenes Window</samp>. There is a default scene available. You can rename it by clicking directly on the Scene name twice. Give your Scene an obvious, unique name like "Introduction". Clear Scene names are useful since you'll be selecting them on the fly in front of an audience. You want that to be as easy as possible.
+
+
+![Figure\: The Scenes Window with scenes listed.](/assets/img/scenes-window.png "The Scenes Window"){:width="400px"}
 
 Scenes can be blank, but most Scenes will have at least one Overlay. So let's create an Overlay with our name. Open your Overlays window if it's not already visible. At the top of your display, select <samp>Overlays</samp> ➝ <samp>Show Overlays Window</samp>.
 

@@ -17,7 +17,7 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * **Create Picture-in-picture video** boxes on top of your stream.
 * Set the shape of your stream, go wide, tall, or squarish.
 * Create Scenes which are preset groups of almost any of the above features, which you can **trigger with a click or keyboard shortcut.**
-* Schedule Facebook Live broadcasts from within the app and broadcast to your Profile, Pages, Groups, and Events.
+* Schedule Facebook Live broadcasts from within the app and broadcast to your Profile, Pages, and Groups.
 * All streams are **automatically recorded** to a file on your Mac.
 * You can also **record a video without broadcasting.** Great for practicing, or pre-recording presentations.
   

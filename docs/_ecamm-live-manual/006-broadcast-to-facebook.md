@@ -7,12 +7,11 @@ _See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/00
 
 ## Main Window Facebook Live Options
 
-Bottom-center of the Main Window can hold a blue button with several different options:
+At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <samp>Facebook</samp>. A big blue button at the bottom-center of the Main Window will display one of several different options:
 
 * <samp class="blue">Login</samp> — click to login to Facebook and connect the app.
-* <samp class="blue">Go Live</samp> —  you've already logged into Facebook (or have set up a [Custom Stream Key](../007-broadcast-to-rtmp)). Click to begin a live broadcast.
-* <samp class="blue">Preview</samp> — you've already logged into Facebook, and have scheduled an upcoming Live broadcast.
-* <samp class="blue">Record</samp> — you're in local recording mode, which will only save your work to a local video file on your Mac, and broadcast nothing.
+* <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
+* <samp class="blue">Preview</samp> — you're logged into Facebook, and have scheduled an upcoming Live broadcast.
 
 What the button displays depends on what you have set in the menus in the bottom-right corner of the Main Window. In the bottom-right menus, for <samp>Destination</samp> select <samp>Facebook</samp>. If you're not logged into Facebook, you'll see <samp class="blue">Login</samp> appear on the big blue button. Click it and log in now.
 

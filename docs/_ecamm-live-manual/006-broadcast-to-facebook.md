@@ -13,8 +13,6 @@ At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <
 * <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
 * <samp class="blue">Preview</samp> — you're logged into Facebook, and have scheduled an upcoming Live broadcast.
 
-What the button displays depends on what you have set in the menus in the bottom-right corner of the Main Window. In the bottom-right menus, for <samp>Destination</samp> select <samp>Facebook</samp>. If you're not logged into Facebook, you'll see <samp class="blue">Login</samp> appear on the big blue button. Click it and log in now.
-
 ### Login to Facebook
 
 Click the blue <samp class="blue">Login</samp> button to summon Facebook's secure Login form. Enter your credentials, and if you use Two-factor Authentication, you'll be asked for that code as well.
@@ -25,9 +23,15 @@ If you need to change these permissions later, visit the [Facebook App settings 
 
 Once you're logged in, you're only one click away from your first Facebook Live broadcast. However, you'll want to verify where and how you are broadcasting to Facebook first. In the bottom right corner, you'll see several pull down menus appearing below the <samp>Destination</samp> menu.
 
-* <samp>Post to</samp> — this controls where your Facebook Live broadcast will appear, and your options vary depending on how you've used Facebook. Ecamm Live will list whatever Facebook says you have access to. Options that could appear here include your Profile, your Pages, your Groups, and your Events. For more, see [Broadcasting to Groups and Events.](#broadcasting-to-groups-and-events)
-* <samp>Broadcast to</samp> — This menu appears where you've selected your Profile in the menu above, and controls the privacy of your Live broadcast. You may select Only Me, Friends, Friends of Friends or Everyone. 
-* <samp>Go Live</samp> — this controls when your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> If you choose the latter, you'll see a sheet appear to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on  Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement  will turn into a live video post.
+![Figure\: Destination Menus Options for Facebook labeled](/assets/img/facebook-destination-menus.png "Destination Options for Facebook"){:width="400px"}
+
+* <samp>Post as</samp> — Select **who** the broadcast will appear from. You can post as your account, or as another entity, such as a business or organization's page. Ecamm Live will list out the options Facebook says you have access to post as.
+
+![Figure\: Post As Menu Options labeled](/assets/img/facebook-destination-post-as-menu.png "Post As Options"){:width="400px"}
+
+* <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. Options include your Profile, and Pages and Groups you administer. Additionally, for some locations like your profile, you'll see several privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
+
+* <samp>Go Live</samp> — Select **when** your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> If you choose the latter, a sheet appears to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on  Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement  will turn into a live video post.
 
 For the announcement post, in the bottom left corner of the screen, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears when a desktop browser viewer clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
@@ -43,19 +47,9 @@ Once you have scheduled a Live broadcast, any pending broadcasts are listed in t
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
-### Broadcasting to Groups and Events
+### Broadcasting to Pages and Groups
 
-Ecamm Live will automatically list Pages and Groups that you manage. When broadcasting to a Group or Event, you must first be an administrator of the destination. If you have trouble broadcasting, check if you are an admin. If you are the admin of a Page and you're trying to broadcast to the Page's Group please verify you are listed as an admin of the group as well.  This is not necessarily the case when using Facebook's web-based Live broadcast tools, but it is a limitation Facebook imposes on apps and services that use their API, such as Ecamm Live.
-
-If you need to broadcast to a Group or Event that does not appear in your <samp>Post to</samp> menu, you can select the <samp>Add a Facebook Group</samp> or <samp>Add a Facebook Event</samp> option from the Post to menu. This will reveal a sheet where you can enter the web address of the Group or Event. Open the destination in your web browser, then copy the URL, and paste it into this sheet. Then press the Add button.
-
-For example, The Ecamm Live Community Facebook Group URL is
-
-[https://www.facebook.com/groups/ecammlive](https://www.facebook.com/groups/ecammlive)
-
-Ecamm Live will remember your Groups and Events for future broadcasts.
-
-{#todo: Suggested figure: screenshot of entering a full URL for an Event. Animated?}
+Ecamm Live will automatically list Pages and Groups that you manage in the <samp>Post to</samp> menu. When broadcasting to a Page or a Group, you must first be an administrator of the destination. If you have trouble broadcasting, check if you are an admin. If you are the admin of a Page and you're trying to broadcast to the Page's Group please verify you are listed as an admin of the group as well. This is not necessarily the case when using Facebook's web-based Live broadcast tools, but it is a limitation Facebook imposes on apps and services that use their API, such as Ecamm Live. Additionally, broadcasting to Events is no longer supported by Facebook through the API.
 
 <aside markdown="1" class="notice">
 #### A note about delay in Live broadcasts
@@ -73,7 +67,7 @@ Click <samp class="blue">Finish</samp>.
 
 After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
-On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, Event, etc. Facebook does this automatically.
+On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, etc. Facebook does this automatically.
 
 <samp>{% inlineicon visible 15 inverted %}Trash Button{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
 

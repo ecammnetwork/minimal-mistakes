@@ -15,7 +15,7 @@ Once you have an audience, if they choose to send comments or reactions, you'll 
 
 Ecamm Live will style the Comment Overlay with the default style, or your most recently used style. Place your cursor over the Comment Overlay to see editing controls. Click the {% inlineicon pencil 20 graybutton %}Pencil Icon{% endinlineicon %} pencil icon if you want to edit its style. You can move it around by dragging it, and resize it by dragging at the edge of the Overlay, by using the scroll feature of your mouse, or pinching/spreading your fingers on a trackpad. When you're done with the Comment Overlay, hover your cursor over it, and then click the {% inlineicon x 20 graybutton %}X icon{% endinlineicon %} X icon to remove it.
 
-**Note:** When broadcasting to certain locations, Facebook does not allow for comments and reactions to be sent out via API (which is the path through which Ecamm Live communicates with Facebook). When that is the case, you may receive comments and reactions, but your Comments and Reactions Window will be empty.
+**Note:** When broadcasting to certain locations, Facebook does not allow comments to be sent out via API (which is the path through which Ecamm Live communicates with Facebook). When that is the case, your audience may send comments and reactions, but only reactions will appear in your Comments and Reactions Window.
 {:.notice}
 
 ## Ending a Facebook Live Broadcast

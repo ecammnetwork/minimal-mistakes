@@ -49,7 +49,11 @@ Before the countdown reaches zero, the big blue button displays <samp class="blu
 
 ### Broadcasting to Pages and Groups
 
-Ecamm Live will automatically list Pages and Groups that you manage in the <samp>Post to</samp> menu. When broadcasting to a Page or a Group, you must first be an administrator of the destination. If you have trouble broadcasting, check if you are an admin. If you are the admin of a Page and you're trying to broadcast to the Page's Group please verify you are listed as an admin of the group as well. This is not necessarily the case when using Facebook's web-based Live broadcast tools, but it is a limitation Facebook imposes on apps and services that use their API, such as Ecamm Live. Additionally, broadcasting to Events is no longer supported by Facebook through the API.
+Ecamm Live lists Pages and Groups that you administer in the <samp>Post to</samp> menu. When broadcasting to a Page or a Group, you must first be an administrator of the destination. If you have trouble broadcasting, check if you are an admin. If you are the admin of a Page and you're trying to broadcast to the Page's Group please verify you are listed as an admin of the Group as well.
+
+### Broadcasting to Events
+
+As of April 2018, Facebook has removed the ability for 3rd party apps, like Ecamm Live, to broadcast to Events.
 
 <aside markdown="1" class="notice">
 #### A note about delay in Live broadcasts

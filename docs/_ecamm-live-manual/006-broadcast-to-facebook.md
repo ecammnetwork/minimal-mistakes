@@ -31,19 +31,25 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 
 * <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. Options include your Profile, and Pages and Groups you administer. Additionally, for some locations like your profile, you'll see several privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
 
-* <samp>Go Live</samp> — Select **when** your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp> If you choose the latter, a sheet appears to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on  Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement  will turn into a live video post.
-
-For the announcement post, in the bottom left corner of the screen, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears when a desktop browser viewer clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
-
-Clicking the map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement as well as place you on the Facebook Live map.
+* <samp>Go Live</samp> — Select **when** your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp>
 
 ### Going Live Now
 
-Click the big blue button labeled <samp class="blue">Go Live</samp>, and you'll be broadcasting to the world. 
+If you select <samp>Go Live</samp> ➝ <samp>Now</samp> you may click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately, or first create a Facebook Post to accompany the video.
+
+To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
+
+Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement as well as place you on the Facebook Live map.
+
+Once you've added the content for the post, click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately.
 
 ### Creating a New Scheduled Live
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the bottom right corner menus. In the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a trash can for cancelling the scheduled broadcast.
+If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet appears to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement will turn into a live video post. If you'd like an image to accompany the announcement, drag an image onto the circular icon on the right side of the post editor. You may click the {% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin icon to add a location for the broadcast.
+
+[![Figure\: Scheduled Live Announcement Post Editor, annotated](/assets/img/facebook-scheduled-live-editor.png "Scheduled Live Announcement Post Editor. Click for full-size image.")](/assets/img/facebook-scheduled-live-editor.png)
+
+Once you have scheduled a Live broadcast, any pending broadcasts are listed in the bottom right corner menus. In the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 

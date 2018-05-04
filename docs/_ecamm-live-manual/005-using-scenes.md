@@ -28,6 +28,8 @@ Overlays are always auto-saved as you create and edit them. If you want to creat
 1. You may name your Scene within the Scenes window. If the scene is not selected, double-click the title to rename it. 
 1. With your new Scene selected, apply all the overlays and settings you wish to have set within the Scene. If you have existing overlays in different scenes, try dragging and dropping overlays from the Overlays window for simpler setup.
 
+[![Figure\: The Scenes Window, with three scenes, annotated](/assets/img/scene-window-annotated.png "Click to enlarge.")](/assets/img/scene-window-annotated.png)
+
 ### Switching Scenes
 
 There are 4 ways you can select a scene to display:
@@ -70,6 +72,10 @@ Could your scenes list use some organization? Simply drag scenes around to re-or
 1. Drag to place the folder within the list.
 1. Drag Scenes to the folder. 
 1. Repeat as desired.
+
+### Locking Scenes
+
+To prevent a scene from being edited or deleted by mistake, you can lock it by clicking the {% inlineicon lock 10 %}lock icon{% endinlineicon %} lock icon next to the scene title.
 
 ### Deleting Scenes
 

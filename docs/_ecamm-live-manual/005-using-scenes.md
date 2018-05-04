@@ -75,7 +75,7 @@ Could your scenes list use some organization? Simply drag scenes around to re-or
 
 ### Locking Scenes
 
-To prevent a scene from being edited or deleted by mistake, you can lock it by clicking the {% inlineicon lock 10 %}lock icon{% endinlineicon %} lock icon next to the scene title.
+To prevent a scene from being edited or deleted by mistake, you can lock it by clicking the {% inlineicon lock 5 %}lock icon{% endinlineicon %} lock icon next to the scene title.
 
 ### Deleting Scenes
 
@@ -89,7 +89,7 @@ Trash a scene by mistake? Don't panic. <samp>Edit</samp> ➝ <samp>Undo</samp>. 
 
 When you create or modify a scene, it is auto-saved. If you quit Ecamm Live, and later reopen, all scenes and settings will be just as you left them. Ecamm Live can, however, import and export scenes. This allows you to backup your work in a file or share your scenes to another computer, You may also wish to keep around different sets of scenes if you have multiple broadcasts with different setups. Ecamm Live scene files have an "ecammlive" file extension.
 
-![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png)
+![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png "It’s a Scenes file!")
 
 #### Exporting a Scene
 

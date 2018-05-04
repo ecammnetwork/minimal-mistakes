@@ -28,6 +28,8 @@ Overlays are always auto-saved as you create and edit them. If you want to creat
 1. You may name your Scene within the Scenes window. If the scene is not selected, double-click the title to rename it. 
 1. With your new Scene selected, apply all the overlays and settings you wish to have set within the Scene. If you have existing overlays in different scenes, try dragging and dropping overlays from the Overlays window for simpler setup.
 
+[![Figure\: The Scenes Window, with three scenes, annotated](/assets/img/scene-window-annotated.png "Click to enlarge.")](/assets/img/scene-window-annotated.png)
+
 ### Switching Scenes
 
 There are 4 ways you can select a scene to display:
@@ -71,6 +73,10 @@ Could your scenes list use some organization? Simply drag scenes around to re-or
 1. Drag Scenes to the folder. 
 1. Repeat as desired.
 
+### Locking Scenes
+
+To prevent a scene from being edited or deleted by mistake, you can lock it by clicking the {% inlineicon lock 5 %}lock icon{% endinlineicon %} lock icon next to the scene title.
+
 ### Deleting Scenes
 
 With the Scene selected in the Scene Window,
@@ -83,7 +89,7 @@ Trash a scene by mistake? Don't panic. <samp>Edit</samp> ➝ <samp>Undo</samp>. 
 
 When you create or modify a scene, it is auto-saved. If you quit Ecamm Live, and later reopen, all scenes and settings will be just as you left them. Ecamm Live can, however, import and export scenes. This allows you to backup your work in a file or share your scenes to another computer, You may also wish to keep around different sets of scenes if you have multiple broadcasts with different setups. Ecamm Live scene files have an "ecammlive" file extension.
 
-![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png)
+![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png "It’s a Scenes file!")
 
 #### Exporting a Scene
 

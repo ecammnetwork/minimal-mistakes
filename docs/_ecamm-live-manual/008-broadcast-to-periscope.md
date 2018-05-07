@@ -79,7 +79,7 @@ After clicking <samp class="blue">Finish</samp> we'll present you with a message
 
 On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, etc. Facebook does this automatically.
 
-<samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
+<samp>{% inlineicon visible 15 inverted %}Trash Button{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
 

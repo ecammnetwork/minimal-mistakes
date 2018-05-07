@@ -95,7 +95,7 @@ If you've never used the YouTube feature, you'll be asked to sign in when you pr
 
 Ecamm Live will stay logged into Facebook unless you manually log out, or if you remove permissions for Ecamm Live in Facebook's account settings.
 
-If you'd like to log out of Facebook, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Click <samp>Log out</samp> and it will be so.
+If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Click <samp>Log out</samp> and it will be so.
 
 ## A Few Advanced Settings for Facebook Live
 

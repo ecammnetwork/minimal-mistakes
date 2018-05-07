@@ -6,7 +6,7 @@ Broadcasting to YouTube starts in the <samp>Destination</samp> menu, in the bott
 
 If you've never logged into YouTube with Ecamm Live, click <samp class="blue">Login</samp> now, and follow through the prompts.
 
-If you haven't broadcasted live to your YouTube account previously, you'll need to enable the option by visiting [your Live Dashboard first](<https://www.youtube.com/live_dashboard_splash>), before you'll be able to broadcast to YouTube.
+If you haven't broadcasted live to your YouTube account previously, you'll need to enable the option by visiting [your Live Dashboard first](<https://www.youtube.com/live_dashboard_splash>), before you'll be able to broadcast to YouTube. Otherwise, you'll see you a message to do so.
 
 ![Figure\: Screenshot of what happens if you've not enabled live streaming first when you try to broadcast.](/assets/img/yt-live-not-enabled.png "A warning message if your YouTube Live streaming is not yet enabled. "){:width="400px"}
 
@@ -28,6 +28,8 @@ Under the <samp>Destination</samp> menu, you have two options to set.
 
 <samp>Now (Unscheduled)</samp> will begin your video without a prior announcement.
 
+<samp>New Scheduled Live…</samp> \#todo NEEDS SECTION w/ screenshot.
+
 ## Ending a YouTube Live Broadcast
 
 Click <samp class="blue">Finish</samp>.
@@ -44,7 +46,7 @@ On YouTube, a recording of your Live broadcast is now available within your acco
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from YouTube. We'll double-check with you before we destroy it, as there is no undo.
 
-The next item concerns a local Recording of your broadcast.
+The next item concerns a local recording of your broadcast.
 
 <samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac's Finder.
 

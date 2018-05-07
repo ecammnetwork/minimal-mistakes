@@ -1,5 +1,5 @@
 ---
-
+title: Broadcast to YouTube
 ---
 
 Broadcasting to YouTube starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select <samp>YouTube</samp>. The YouTube Login button will appear at the bottom of the Main Window.
@@ -8,7 +8,7 @@ If you've never logged into YouTube with Ecamm Live, click <samp class="blue">Lo
 
 If you haven't broadcasted live to your YouTube account previously, you'll need to enable the option by visiting [your Live Dashboard first](<https://www.youtube.com/live_dashboard_splash>), before you'll be able to broadcast to YouTube.
 
-\#Todo - screenshot of what happens if you've not enabled live streaming first when you try to broadcast.
+![Figure\: Screenshot of what happens if you've not enabled live streaming first when you try to broadcast.](/assets/img/yt-live-not-enabled.png "A warning message if your YouTube Live streaming is not yet enabled. "){:width="400px"}
 
 Once you're logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you'll want to check out first.
 

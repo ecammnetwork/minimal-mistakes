@@ -27,7 +27,7 @@ In the Sound Levels window, all Skype guest audio is available as a single, mixe
 
 ## Scenes Tip for Interviews
 
-The fastest way to switch from an interview's introduction to a view of you and your guests is to store the interview screen's different looks within Scenes. The basic idea is to have one scene for each look. One possible set up could be…
+The fastest way to switch from an interview's introduction to a view of you and your guests is to store the interview screen's different looks within [Scenes](../005-using-scenes). The basic idea is to have one Scene for each look. One possible set up could be…
 
 1. Create an introductory Scene with just your camera source, and any overlays, as you introduce the guests.
 1. Create a second Scene that shows you and your guests in a split screen, with overlays for their names, titles, etc.

@@ -4,7 +4,7 @@ title: Broadcast to RTMP-based Services
 
 ## The RTMP Basics
 
-Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP.  Services that use RTMP include [Twitch](https://twitch.tv), [Restream.io](https://restream.io), and [Wowza](https://www.wowza.com/products/streaming-cloud).
+Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP. Services that use RTMP include [Twitch](https://twitch.tv), [Restream.io](https://restream.io), and [Wowza](https://www.wowza.com/products/streaming-cloud).
 
 To start streaming to a RTMP-capable service, you'll need two pieces of information:
 

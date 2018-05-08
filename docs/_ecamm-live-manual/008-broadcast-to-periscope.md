@@ -26,6 +26,14 @@ In addition to these 3 settings, there are a few more [advanced settings that pe
 
 There are no scheduled live broadcasts available on Periscope. Once you have your settings to your liking, click <samp class="blue">Go Live</samp> to start your broadcast immediately.
 
+## View Viewer Comments and Reactions
+
+During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+
+## Display Comments on Your Broadcast
+
+If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
+
 ## Ending a Periscope Broadcast
 
 Click <samp class="blue">Finish</samp>.

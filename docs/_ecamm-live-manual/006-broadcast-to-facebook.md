@@ -51,6 +51,14 @@ Once you have scheduled a Live broadcast, any pending broadcasts are listed in t
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
+## View Viewer Comments and Reactions
+
+During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+
+## Display Comments on Your Broadcast
+
+If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
+
 <aside markdown="1" class="notice">
 #### A note about delay in Live broadcasts
 

@@ -44,6 +44,14 @@ Once you have scheduled a Live broadcast, any pending broadcasts are listed in t
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast.
 
+## View Viewer Comments and Reactions
+
+During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+
+## Display Comments on Your Broadcast
+
+If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
+
 ## Ending a YouTube Live Broadcast
 
 Click <samp class="blue">Finish</samp>.

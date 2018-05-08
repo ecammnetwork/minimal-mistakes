@@ -63,7 +63,7 @@ If you’re broadcasting with Facebook Live, YouTube Live or Periscope, and you 
 
 You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
-### Editing Facebook Comment Overlays
+### Editing Comment Overlays
 
 The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-Overlays). Once a Comment Overlay is styled, future comments remember this styling.
 

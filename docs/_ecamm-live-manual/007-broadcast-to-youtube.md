@@ -40,9 +40,9 @@ If you want to announce a broadcast ahead of time, select <samp>Go Live</samp> â
 
 ![Figure\: YouTube Scheduled Live Post Editor](/assets/img/yt-live-scheduled-post-editor.png "YouTube Scheduled Live Post Editor")
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on YouTube. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
-Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on YouTube (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
+Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast.
 
 ## Ending a YouTube Live Broadcast
 
@@ -60,9 +60,7 @@ On YouTube, a recording of your Live broadcast is now available within your acco
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from YouTube. We'll double-check with you before we destroy it, as there is no undo.
 
-The next item concerns a local recording of your broadcast.
-
-<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac's Finder.
+<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - Ecamm Live automatically creates a local recording of your broadcast. Click this to reveal the local video file in your Mac's Finder.
 
 ## Logging out of YouTube
 

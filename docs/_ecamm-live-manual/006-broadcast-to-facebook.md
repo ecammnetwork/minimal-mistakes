@@ -5,9 +5,7 @@
 _See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction/) for the bare essentials from first-run to your first Facebook Live broadcast.
 {: .notice}
 
-## Main Window Facebook Live Options
-
-At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <samp>Facebook</samp>. A big blue button at the bottom-center of the Main Window will display one of several different options:
+In the <samp>Destination</samp> menu, select <samp>Facebook</samp>, in the bottom-right of the Main Window. A big blue button at the bottom-center of the Main Window will display one of several different options:
 
 * <samp class="blue">Login</samp> — click to login to Facebook and connect the app.
 * <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
@@ -35,7 +33,7 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 
 ### Going Live Now
 
-If you select <samp>Go Live</samp> ➝ <samp>Now</samp> you may click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately, or first create a Facebook Post to accompany the video.
+If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp> you may click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately, or first create a Facebook Post to accompany the video.
 
 To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
@@ -49,7 +47,7 @@ If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet 
 
 [![Figure\: Scheduled Live Announcement Post Editor, annotated](/assets/img/facebook-scheduled-live-editor.png "Scheduled Live Announcement Post Editor. Click for full-size image.")](/assets/img/facebook-scheduled-live-editor.png)
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the bottom right corner menus. In the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 

@@ -46,9 +46,9 @@ The above five links go to the manual sections for each source and explain each 
 
 The bottom right corner holds a selection of menus which control where your broadcasts go, and the options visible are dependent upon which settings you’ve selected.
 
-If you’re logged into Facebook, and have <samp>Destination: Facebook</samp> selected, you’ll see an assortment of options of where to broadcast. You can choose who can view your broadcast within Facebook, and control when to broadcast.
+If you’re logged into Facebook, YouTube or Periscope picked, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook, and control when to broadcast.
 
-If you select <samp>Custom Stream Key</samp>, a sheet will appear over the window with the settings required to [stream to a non-Facebook video platform.](../007-broadcast-to-rtmp)
+If you select <samp>Custom Stream Key</samp>, a sheet will appear over the window with the settings required to [stream to services other than Facebook, YouTube and Periscope.](../007-broadcast-to-rtmp)
 
 Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../008-local-recordings)
 

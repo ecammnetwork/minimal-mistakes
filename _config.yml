@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ecamm Live Documentation Site"
+title                    : "Ecamm Live User Guide"
 title_separator          : "-"
 name                     : "Ecamm Live"
 description              : "Learn the ins and outs of Ecamm Live"

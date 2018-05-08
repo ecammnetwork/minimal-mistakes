@@ -4,7 +4,7 @@ title: Broadcast to RTMP-based Services
 
 ## The RTMP Basics
 
-Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP.  Services that use RTMP include [YouTube Live](https://www.youtube.com/live), [Periscope](https://www.periscope.tv/) and [Restream.io](https://restream.io).
+Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP.  Services that use RTMP include [Twitch](https://twitch.tv), [Restream.io](https://restream.io), and [Wowza](https://www.wowza.com/products/streaming-cloud).
 
 To start streaming to a RTMP-capable service, you'll need two pieces of information:
 
@@ -13,29 +13,7 @@ To start streaming to a RTMP-capable service, you'll need two pieces of informat
 
 Every service is a little different with regard to finding this information. To connect to your service, in the bottom right corner of the Main Window, select <samp>Custom Stream Key</samp> from the <samp>Destination</samp> menu. A sheet will appear to accept your Server URL and Stream Key.
 
-**_Note:_** Certain Facebook-specific features of Ecamm Live—such as Facebook Comments and Reactions, and Scheduled Live broadcasts—are not available while streaming to RTMP services.
-
-## Broadcast to YouTube Live with an RTMP Stream Key
-
-Visit [YouTube's Live Dashboard](https://www.youtube.com/live_dashboard), and log in if you have not already. If you have not enabled Live streaming with your account previously, you will need to set that up now. This requires verifying your account, and a 24-hour waiting period before you're allowed in.
-
-Once you're accepted, part way down the Live Dashboard page (you may have to scroll), you should see a section entitled <samp>Encoder Setup</samp> with a Server URL and Stream name/key. Copy this information.
-
-In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>Destination</samp> menu and select <samp>Custom Stream Key</samp>. Next, click the Post to menu, and fill in the Server URL and Stream Key that you copied from the YouTube Live Dashboard. Click <samp>Use Custom Stream Key</samp> to finish setup. Now you can press the <samp class="blue">Go Live</samp> button and broadcast to YouTube.
-
-Unlike Facebook, YouTube supports viewing in 1080p resolution. You can enable 1080p by selecting <samp>Options</samp> menu ➝ <samp>Stream Size</samp> ➝ <samp>1080p</samp>. Read more about your options in the [Use High Quality](#use-high-quality) section.
-
-## Broadcast to Periscope with an RTMP Stream Key
-
-Visit [Periscope's Producer page](https://www.periscope.tv/account/producer), and log in if you have not already. On the Producer page, click the <samp>Create New Source</samp> button. You can create a new <samp>Normal Source</samp> or a <samp>360 Source</samp>. A box appears with a Server URL and a Stream Name / Stream Key. Copy this information.
-
-In Ecamm Live, at the bottom right corner of the Main Window, click the <samp>Destination</samp> menu and select <samp>Custom Stream Key</samp>. Next, click the <samp>Post to</samp> menu, and fill in the Server URL and Stream Key that you copied from the Periscope Producer page. Click Use <samp>Custom Stream Key</samp> to finish setup. Now you can press the blue <samp>Go Live</samp> button and broadcast to YouTube.
-
-Ecamm Live will store the information you enter for <samp>Custom Stream Keys</samp>. The next time you want to broadcast, these options will be available to select. The setup process is similar for other broadcasting services that use RTMP.
-
-When streaming to Periscope, you'll need to use 720p or less for your screen size. 720p is Ecamm Live's default, and you can make adjustments in <samp>Options</samp> menu ➝ <samp>Stream Size</samp>.
-
-You'll need to turn off <samp>Use High Quality</samp> mode for Periscope, as the service imposes a maximum bit rate. Periscope also recommends using a smaller frame size for your broadcast—a larger frame size will display a warning on the Periscope Producer page.
+**_Note:_** Certain features of Ecamm Live—such as Comments and Reactions, and Scheduled Live broadcasts—are not available while streaming to RTMP services.
 
 ## Broadcast to Wowza with an RTMP Stream Key
 

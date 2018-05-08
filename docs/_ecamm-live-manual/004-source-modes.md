@@ -45,7 +45,7 @@ The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center i
 1.  <samp>Entire Screen</samp> — select any attached display to show everything on that desktop. 
     1.  **Or** <samp>Display</samp> — if you have more than one display connected to your Mac, you'll be able to select them here.
 1.  <samp>Specific Application</samp> — select any one application and Ecamm Live will show all of its visible windows.
-1.  <samp>Specific Application Window</samp> — select any one application window and Ecamm Live will only show that within in the Main Window, automatically fitting the selected app window to the Main Window. Choose a specific application window in the submenu to the right of the application name in the Control Bar Show menu.
+1.  <samp>Specific Application Window</samp> — select any one application window and Ecamm Live will only show that within in the Main Window, automatically fitting the selected app window to the Main Window. Choose a specific application window in the submenu to the right of the application name in the Control Bar's Show menu.
 
 The control bar is only visible when Ecamm Live is the foremost window, and the cursor has moved within the Main Window in the last 5 seconds. After 5 seconds, or if your cursor leaves the window, the bar will hide. To see it again, move your cursor anywhere within the Main Window.
 
@@ -53,7 +53,7 @@ The control bar is only visible when Ecamm Live is the foremost window, and the 
 ](/assets/img/screen-share-annotated.png)
 
 
-With Screen Share mode selected, you see what the audience sees within the Main Window, but to interact with the items you're displaying, you must control them directly. You will not be able to interact with an app window, for instance, by clicking on it within the Main Window. 
+With Screen Share mode selected, you see what the audience sees within the Main Window, but to interact with the items you're displaying, you must control them directly. You will not be able to interact with an app, for instance, by clicking on it within the Main Window. 
 
 ### Controlling Ecamm Live While Using Other Apps
 

@@ -28,7 +28,7 @@ Overlays are always auto-saved as you create and edit them. If you want to creat
 1. You may name your Scene within the Scenes Window. If the Scene is not selected, double-click the title to rename it. 
 1. With your new Scene selected, apply all the overlays and settings you wish to have set within the Scene. If you have existing overlays in different Scenes, try dragging and dropping overlays from the Overlays window for simpler setup.
 
-[![Figure\: The Scenes Window, with three Scenes, annotated](/assets/img/scene-window-annotated.png "Click to enlarge.")](/assets/img/scene-window-annotated.png)
+[![Figure\: The Scenes Window, with three Scenes, annotated](/assets/img/scenes-window-annotated.png "Click to enlarge.")](/assets/img/scenes-window-annotated.png)
 
 ### Switching Scenes
 

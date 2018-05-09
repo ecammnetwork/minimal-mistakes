@@ -22,7 +22,7 @@ Select this option to have Periscope send a tweet inviting your Twitter follower
 
 Enabling a secure connection, perhaps obviously, provides security for your stream. This also can help if you’re having trouble with your connection to Periscope. Networks typically treat secure connections differently than standard connections. The opposite is also true: if you’re broadcasting with the secure connection and having trouble, you can disable this setting.
 
-In addition to these 3 settings, there are a few more [advanced settings that pertain to all broadcast destinations](http://localhost:4000/ecamm-live-manual/007-broadcast-to-rtmp/#a-few-additional-options-for-all-broadcasts).
+In addition to these 3 settings, there are a few more [advanced settings that pertain to all broadcast destinations](http://localhost:4000/ecamm-live-manual/009-broadcast-to-rtmp/#a-few-additional-options-for-all-broadcasts).
 
 There are no scheduled live broadcasts available on Periscope. Once you have your settings to your liking, click <samp class="blue">Go Live</samp> to start your broadcast immediately.
 

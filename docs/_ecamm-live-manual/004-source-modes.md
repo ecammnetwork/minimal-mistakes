@@ -45,9 +45,9 @@ The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center i
 1.  <samp>Entire Screen</samp> — select any attached display to show everything on that desktop. 
     1.  **Or** <samp>Display</samp> — if you have more than one display connected to your Mac, you'll be able to select them here.
 1.  <samp>Specific Application</samp> — select any one application and Ecamm Live will show all of its visible windows.
-1.  <samp>Specific Application Window</samp> — select any one application window and Ecamm Live will only show that within in the Main Window, automatically fitting the selected app window to the Main Window. Choose a specific application window in the submenu to the right of the application name in the Control Bar's Show menu.
+1.  <samp>Specific Application Window</samp> — select any one application window and Ecamm Live will only show that within in the Main Window, automatically fitting the selected app window to the Main Window. Choose a specific application window in the submenu to the right of the application name in the Control Bar's <samp>Show</samp> menu.
 
-The control bar is only visible when Ecamm Live is the foremost window, and the cursor has moved within the Main Window in the last 5 seconds. After 5 seconds, or if your cursor leaves the window, the bar will hide. To see it again, move your cursor anywhere within the Main Window.
+The Control Bar is only visible when Ecamm Live is the foremost window, and the cursor has moved within the Main Window in the last 5 seconds. After 5 seconds, or if your cursor leaves the window, the bar will hide. To see it again, move your cursor anywhere within the Main Window.
 
 [![Figure\: Screen Share Mode Main Window Annotated](/assets/img/screen-share-annotated.png "Click for full-size image.")
 ](/assets/img/screen-share-annotated.png)
@@ -64,11 +64,17 @@ While you're live, if you switch to another app, a small floating control window
 
 ### Zooming in Screen Share Mode
 
-Zoom by using the <samp>+</samp> and <samp>–</samp> buttons in the control bar. The zoom will move in (or out) from the center of the Main Window. You can also zoom using the scroll function of your mouse or zoom gesture on a trackpad, while your cursor is over the Ecamm Live Main Window. Using a mouse or trackpad allows you to zoom to the current position of the cursor.  
+Zoom by using the <samp>+</samp> and <samp>–</samp> buttons in the Control Bar. The zoom will move in (or out) from the center of the Main Window. You can also zoom using the scroll function of your mouse or zoom gesture on a trackpad, while your cursor is over the Ecamm Live Main Window. Using a mouse or trackpad allows you to zoom to the current position of the cursor.
 
 If you use a mouse, scroll "up" to zoom in, or scroll "down" to zoom out.
 
 If you use a trackpad, you can use the pinch-to-zoom gesture. With your cursor placed over the Ecamm Live Main Window, spread two fingers apart to zoom in towards your cursor. Pinch two fingers together to zoom out. Once zoomed, move around the screen using the scroll gesture on the trackpad (move two fingers).
+
+![Pinch to shrink](/assets/img/pinch-zoom.png){: height="100px" width="100px"}
+—Pinch to shrink
+
+![Spread to enlarge](/assets/img/spread-zoom.png){: height="100px" width="100px"}
+—Spread to enlarge
 
 You can show your live camera in the broadcast while screen sharing with [the Picture-in-Picture tool.](#picture-in-picture-for-screen-share-and-video-mode)
 
@@ -82,7 +88,7 @@ Your video will begin playing _immediately_ after selection. If you would prefer
 
 Audio from the video will be broadcast automatically, but your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture-for-screen-share-and-video-mode) for full details.
 
-While the video plays, you can control it with the video control bar. Only you can see the controller, it is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the Sound Levels Window.
+While the video plays, you can control it with the Video Control Bar. Only you can see the controller, it is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the Sound Levels Window.
 
 [![Figure\: Video Playback Mode Annotated Main Window ](/assets/img/video-playback-mode-annotated.png "Click for full-size image.")
 ](/assets/img/video-playback-mode-annotated.png)
@@ -115,11 +121,11 @@ When switching between Camera mode and other source modes with Picture-in-Pictur
 
 ### The Sound Levels Window
 
-The Sound Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The Microphone Menu at the top of your display also provides options, including the Mute Microphone tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
+The Sound Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Microphone</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
 
 ![Sound Levels Window in Video Playback Mode](/assets/img/sound-levels.jpg "Sound Levels Window in Video Playback Mode"){: width="360px"}
 
-A meter in the Sound Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is used, you can also adjust its levels with the Sound Window. [More on Skype Interviews later in this manual.](../009-remote-guests-via-skype)
+A meter in the Sound Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is used, you can also adjust its levels with the Sound Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype)
 
 ### How Ecamm Live Deals with Audio
 
@@ -129,7 +135,7 @@ If you need multiple external audio sources for your broadcast, use a hardware d
 
 #### Echo Cancellation
 
-If you are using your Mac's speakers during your broadcast, that may cause an echo when your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. Note that if you are using headphones, echo cancellation is disabled automatically.
+If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. If you are using headphones, echo cancellation is disabled automatically.
 
 When Echo Cancellation is enabled, Ecamm will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
 

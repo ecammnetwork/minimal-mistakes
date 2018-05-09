@@ -17,7 +17,7 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * **Create Picture-in-picture video** boxes on top of your stream.
 * Set the shape of your stream: go wide, tall, or square.
 * Create Scenes, which are preset groups of almost any of the above features, which you can **trigger with a click or keyboard shortcut.**
-* Schedule Facebook and YouTube live broadcasts from within the app.
+* Schedule Facebook and YouTube Live broadcasts from within the app.
 * All streams are **automatically recorded** to a file on your Mac.
 * You can also **record a video without broadcasting.** Great for practicing, or pre-recording presentations.
   
@@ -32,7 +32,7 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 * An internet connection with an upload speed of at least 1 Mbps.
   * 4 Mbps is required for HD quality.
 * A Mac with hardware-accelerated video encoding (most Macs manufactured after 2010).
-* For Facebook Live, you must have a Facebook account (to use other services that use RTMP, you must have an account with that service).
+* To broadcast to streaming services, you must have an account with that service.
 
 ## Installing Ecamm Live
 

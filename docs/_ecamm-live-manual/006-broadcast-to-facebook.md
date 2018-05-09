@@ -5,7 +5,7 @@
 _See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction/) for the bare essentials from first-run to your first Facebook Live broadcast.
 {: .notice}
 
-In the <samp>Destination</samp> menu, select <samp>Facebook</samp>, in the bottom-right of the Main Window. A big blue button at the bottom-center of the Main Window will display one of several different options:
+In the <samp>Destination</samp> menu in the bottom corner of the Main Window, select <samp>Facebook</samp>, in the bottom-right of the Main Window. A big blue button at the bottom-center of the Main Window will display one of several different options:
 
 * <samp class="blue">Login</samp> — click to login to Facebook and connect the app.
 * <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
@@ -13,11 +13,11 @@ In the <samp>Destination</samp> menu, select <samp>Facebook</samp>, in the botto
 
 ### Login to Facebook
 
-Click the blue <samp class="blue">Login</samp> button to summon Facebook's secure Login form. Enter your credentials, and if you use Two-factor Authentication, you'll be asked for that code as well.
+Click the blue <samp class="blue">Login</samp> button to summon Facebook's login screen. Enter your credentials, and if you use two-factor authentication, you'll be asked for that code as well.
 
 Once logged in, Ecamm Live will then ask for permission to post to your timeline and other locations within Facebook. This is necessary to publish live streams. If you manage Pages or Groups (for example for a business or other organization), Ecamm Live will also prompt for permission to manage Pages and Groups.
 
-If you need to change these permissions later, visit the [Facebook App settings webpage](https://www.facebook.com/settings?tab=applications) and click on <samp>Ecamm Live for Mac</samp>. If you have trouble broadcasting to a particular destination, come back to these settings within Facebook to ensure you're allowing access as intended.
+If you need to change these permissions later, visit the [Facebook Business Integrations page](https://www.facebook.com/settings?tab=business_tools) and click on <samp>Ecamm Live for Mac</samp>. If you have trouble broadcasting to a particular destination, come back to these settings within Facebook to ensure you're allowing access as intended.
 
 Once you're logged in, you're only one click away from your first Facebook Live broadcast. However, you'll want to verify where and how you are broadcasting to Facebook first. In the bottom right corner, you'll see several pull down menus appearing below the <samp>Destination</samp> menu.
 
@@ -37,7 +37,7 @@ If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp> you may cl
 
 To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
-Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement as well as place you on the Facebook Live map.
+Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement. If your broadcast is public, it will also place you on the [Facebook Live Map](https://www.facebook.com/live/discover/map/).
 
 Once you've added the content for the post, click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately.
 
@@ -45,15 +45,19 @@ Once you've added the content for the post, click the big blue button labeled <s
 
 If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet appears to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement will turn into a live video post. If you'd like an image to accompany the announcement, drag an image onto the circular icon on the right side of the post editor. You may click the {% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin icon to add a location for the broadcast.
 
+To enter a return (new line) in the description field, hold down shift while pressing return.
+
 [![Figure\: Scheduled Live Announcement Post Editor, annotated](/assets/img/facebook-scheduled-live-editor.png "Scheduled Live Announcement Post Editor. Click for full-size image.")](/assets/img/facebook-scheduled-live-editor.png)
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu in the bottom right corner. This list of scheduled broadcasts resides on Facebook, so if you quit Ecamm Live or use Ecamm Live on another Mac, you'll still see the same list of scheduled broadcasts here.
+
+When a pending broadcast is selected, in the bottom left corner of the Main Window you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
 ## View Viewer Comments and Reactions
 
-During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. If you don't see this window, pick it from <samp>Windows</samp> menu at the top of the screen. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
 ## Display Comments on Your Broadcast
 
@@ -75,17 +79,17 @@ Click <samp class="blue">Finish</samp>.
 
 After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
-On Facebook, a recording of your Live broadcast is now a post on where ever your stream was posted—Profile, Page, Group, etc. Facebook does this automatically.
+Your Live broadcast is now a post on Facebook.
 
 <samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
 
-The next two items concern a local Recording of your broadcast. Much more on Recordings in the following section, but for now…
+The next two items concern a local Recording of your broadcast. Much more on Recordings in the [Local Recordings](../010-local-recordings) section, but for now…
 
-<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac's Finder.
+<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the recording file in your Mac's Finder.
 
-<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
+<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to your YouTube account.
 
 If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
@@ -93,7 +97,7 @@ If you've never used the YouTube feature, you'll be asked to sign in when you pr
 
 Ecamm Live will stay logged into Facebook unless you manually log out, or if you remove permissions for Ecamm Live in Facebook's account settings.
 
-If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Click <samp>Log out</samp> and it will be so.
+If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Pick <samp>Log Out</samp>.
 
 ## A Few Advanced Settings for Facebook Live
 
@@ -101,8 +105,8 @@ If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is s
 
 Ambient broadcasts—also called continuous broadcasts—are a special kind of live stream that
 
-* Can exceed Facebook's four hour Live broadcast time limit 
-* Will disappear from your timeline immediately when the stream end 
+* Can exceed Facebook's four-hour Live broadcast time limit 
+* Will disappear from your timeline immediately when the stream ends 
 * Does not send notifications to followers
 
 Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Ambient Broadcast</samp>.
@@ -121,7 +125,7 @@ Facebook policies require creators and publishers to tag their business partners
 
 ### Sound Effects
 
-Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> ➝ <samp>Sound Effects</samp> (the checkmark will will disappear).
+Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated. If you don’t want Ecamm to make sound effects, select <samp>Options</samp> ➝ <samp>Sound Effects</samp> (the checkmark will disappear).
 
 <aside class="notice" markdown="1">
 #### Broadcasting to Facebook and Other Services Simultaneously

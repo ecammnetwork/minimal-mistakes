@@ -24,8 +24,8 @@ Overlays are always auto-saved as you create and edit them. If you want to creat
 
 1. There are two ways to create a Scene from scratch:
     * Scene Menu ➝ New Empty Scene
-    * Scene Window ➝ <samp>+</samp> button.
-1. You may name your Scene within the Scenes Window. If the Scene is not selected, double-click the title to rename it. 
+    * Scenes Window ➝ <samp>+</samp> button.
+1. You may name your Scene within the Scenes Window. Double-click the title in the Scenes Window to rename it. 
 1. With your new Scene selected, apply all the overlays and settings you wish to have set within the Scene. If you have existing overlays in different Scenes, try dragging and dropping overlays from the Overlays window for simpler setup.
 
 [![Figure\: The Scenes Window, with three Scenes, annotated](/assets/img/scenes-window-annotated.png "Click to enlarge.")](/assets/img/scenes-window-annotated.png)
@@ -52,7 +52,7 @@ There are 4 ways you can select a Scene to display:
 
 If you want an overlay to appear in every Scene, for example, a logo to appear in the corner of your video, select the the overlay in the Overlays Window, and drag it to the top of the window under the heading "Show in All Scenes". 
 
-**_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands below to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
+**_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands <kbd title="command">⌘</kbd> <kbd>→</kbd> and <kbd title="command">⌘</kbd> <kbd>←</kbd> to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
 {:.notice--info}
 
 ### Duplicating Scenes
@@ -79,7 +79,7 @@ To prevent a Scene from being edited or deleted by mistake, you can lock it by c
 
 ### Deleting Scenes
 
-With the Scene selected in the Scene Window,
+With the Scene selected in the Scenes Window,
 
 * Press <kbd>delete</kbd>. Or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. 
 
@@ -102,7 +102,7 @@ There are two methods to export a file that contains all the settings of a Scene
 
 #### Importing a Scene from a File
 
-Double-clicking any Ecamm Live Scene file will launch the app (if necessary) and immediately add the Scenes to your Scene window. Dragging a Scene file to the app's icon will do the same. If the app is already open, you can drag an Ecamm Live Scene file into the Main Window or Scenes Window to instantly import the Scene(s).
+Double-clicking any Ecamm Live Scene file will launch the app (if necessary) and immediately add the Scenes to your Scenes Window. Dragging a Scene file to the app's icon will do the same. If the app is already open, you can drag an Ecamm Live Scene file into the Main Window or Scenes Window to instantly import the Scene(s).
 
 #### What Is and Is Not in a Scene File
 

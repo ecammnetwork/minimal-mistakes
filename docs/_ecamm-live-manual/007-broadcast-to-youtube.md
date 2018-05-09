@@ -6,7 +6,7 @@ Broadcasting to YouTube starts in the <samp>Destination</samp> menu, in the bott
 
 If you've never logged into YouTube with Ecamm Live, click <samp class="blue">Login</samp> now, and follow through the prompts.
 
-If you haven't broadcasted live to your YouTube account previously, you'll need to enable the option by visiting [your Live Dashboard first](<https://www.youtube.com/live_dashboard_splash>), before you'll be able to broadcast to YouTube. Otherwise, you'll see you a message to do so.
+If you haven't broadcasted live to your YouTube account previously, you'll need to enable the option by visiting [your Live Dashboard first](<https://www.youtube.com/live_dashboard_splash>). Otherwise, you'll see a message to do so.
 
 ![Figure\: Screenshot of what happens if you've not enabled live streaming first when you try to broadcast.](/assets/img/yt-live-not-enabled.png "A warning message if your YouTube Live streaming is not yet enabled. "){:width="400px"}
 
@@ -28,7 +28,7 @@ Under the <samp>Destination</samp> menu, you have two options to set.
 
 <samp>Now (Unscheduled)</samp> will begin your video without a prior announcement.
 
-<samp>New Scheduled Live…</samp> will allow you to set a date and time for a live broadcast, as well as create a title and description.
+<samp>New Scheduled Live…</samp> will allow you to set a date and time for a live broadcast, as well as create a title, description and thumbnail image.
 
 ### Going Live Now
 
@@ -38,15 +38,17 @@ If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp>, give your
 
 If you want to announce a broadcast ahead of time, select <samp>Go Live</samp> ➝ <samp>New Scheduled Live…</samp>. An editor appears to allow you to set a date and time for a live broadcast, as well as create a title and description. You can also add an image to your announcement by dragging an image file onto the cicle on the right side of the post editor. Complete the process by clicking <samp>Schedule</samp>.
 
+To enter a return (new line) in the description field, hold down shift while pressing return.
+
 ![Figure\: YouTube Scheduled Live Post Editor](/assets/img/yt-live-scheduled-post-editor.png "YouTube Scheduled Live Post Editor")
 
 Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
-Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast.
+Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. To view your preview, pick <samp>View Post on YouTube</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen or press <kbd title="command">⌘</kbd><kbd>F</kbd> to visit the stream's Live Control Room on YouTube.  You'll see a window to view the preview.
 
-## View Viewer Comments and Reactions
+## View Live Chat Messages and Reactions
 
-During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During broadcasts, any YouTube live chat messages and reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
 ## Display Comments on Your Broadcast
 
@@ -68,16 +70,16 @@ Click <samp class="blue">Finish</samp>.
 
 After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
-On YouTube, a recording of your Live broadcast is now available within your account, according to your <samp>Broadcast to</samp> settings, automatically. 
+On YouTube, your Live broadcast is now a video on your channel. 
 
-<samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
+<samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the YouTube video in your default web browser.
 
-<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from YouTube. We'll double-check with you before we destroy it, as there is no undo.
+<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the video from YouTube. We'll double-check with you before we destroy it, as there is no undo.
 
-<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - Ecamm Live automatically creates a local recording of your broadcast. Click this to reveal the local video file in your Mac's Finder.
+<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - Ecamm Live automatically creates a local recording of your broadcast. Click this to reveal the video file in the Mac's Finder.
 
 ## Logging out of YouTube
 
 Ecamm Live will stay logged into YouTube unless you manually log out.
 
-If you'd like to log out of YouTube, with <samp>YouTube</samp> selected in the <samp>Destination</samp> menu, go to the Ecamm Live menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Click <samp>Log out</samp> and it will be so.
+If you'd like to log out of YouTube, with <samp>YouTube</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Pick <samp>Log Out</samp>.

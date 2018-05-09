@@ -42,13 +42,11 @@ To enter a return (new line) in the description field, hold down shift while pre
 
 ![Figure\: YouTube Scheduled Live Post Editor](/assets/img/yt-live-scheduled-post-editor.png "YouTube Scheduled Live Post Editor")
 
-After you schedule your broadcast, we'll show you a confirmation that it was created, and a note that you can go to YouTube's Advanced Settings for your Event, and change your promotion settings, if you choose.
+After you schedule your broadcast, we'll show you a confirmation that it was created. Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click <samp>OK</samp> instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu.
 
-![Figure\: YouTube Scheduled Live Post Confirmation](/assets/img/yt-scheduled-live-confirmation.png "YouTube Scheduled Live Post Confirmation")
+![Figure\: YouTube Scheduled Live Post Confirmation](/assets/img/yt-scheduled-live-confirmation.png "YouTube Scheduled Live Post Confirmation") 
 
-Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click OK instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu. 
-
-The Promotions settings are a bit buried, in the Advanced tab of your Event's Dashboard. Below is an image of what to look for:
+On YouTube's site, the Promotions settings are a bit buried, in the Advanced tab of your Event's Dashboard. Below is an image of what to look for:
 
 ![Figure\: YouTube Scheduled Live Channel Promotion](/assets/img/yt-advanced-promotion.png "YouTube Scheduled Live Channel Promotion")
 

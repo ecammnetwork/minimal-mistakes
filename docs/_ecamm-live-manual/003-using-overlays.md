@@ -39,7 +39,7 @@ To change the width of a text Overlay without changing the font size, place your
 
 ## Image Overlays
 
-Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a design program, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 4 other ways to create an Image Overlay:
+Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a graphics app, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 4 other ways to create an Image Overlay:
 
 * Select <samp>New Image Overlay</samp> in the {% inlineicon Overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
@@ -65,7 +65,7 @@ You can also click the tiny <samp>Add To Broadcast</samp> button below each comm
 
 ### Editing Comment Overlays
 
-The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-Overlays). Once a Comment Overlay is styled, future comments remember this styling.
+The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling.
 
 ## Countdown Overlays
 
@@ -81,7 +81,7 @@ A Text Editing Sheet appears, providing all of the same visual styling options a
 
 ### Editing Countdown Overlays
 
-You have the same controls as [Text Overlays](#editing-text-Overlays).
+You have the same controls as [Text Overlays](#editing-text-overlays).
 
 ## Overlay Quick Resize Options
 
@@ -99,7 +99,7 @@ If you’re using a mouse, you can put your cursor over an Overlay and scroll to
 
 The Overlays Window offers several options for managing your Overlays.
 
-![Figure\: Overlays Window](/assets/img/Overlays-window.png "With two Overlays in the current scene."){: width="300px"}
+[![Figure\: Overlays Window Annotated](/assets/img/overlays-window-annotated.png "Click to enlarge.")](/assets/img/overlays-window-annotated.png)
 
 To delete an Overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an Overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 

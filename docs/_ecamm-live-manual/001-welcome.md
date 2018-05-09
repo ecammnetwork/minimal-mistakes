@@ -1,5 +1,7 @@
 ---
-title: Welcome to the Ecamm Live User Guide
+
+title: Welcome to the Ecamm Live Manual
+
 ---
 
 ## What can Ecamm Live do?

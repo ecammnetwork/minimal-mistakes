@@ -12,5 +12,5 @@ By default, Ecamm Live creates a recording of every broadcast you produce throug
 
 You can find your local video recordings any time. Under the <samp>Recording</samp> Menu ➝ <samp>Show Recordings</samp>. If the default location of the recordings folder isn't ideal for you, <samp>Recording</samp> menu ➝ <samp>Choose Recordings Folder</samp>. If you've previously made recordings, choosing a new recordings folder will not move the past recordings or folder.
 
-_See also:_ [The Recordings Section of our Manual](/ecamm-live-manual/008-local-recordings)
+_See also:_ [The Recordings Section of our Manual](/ecamm-live-manual/010-local-recordings)
 {:.notice}

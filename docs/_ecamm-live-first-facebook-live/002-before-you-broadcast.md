@@ -6,7 +6,7 @@ At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <
 
 ![Figure\: Destination Menus Options for Facebook labeled](/assets/img/facebook-destination-menus.png "Destination Options for Facebook"){:width="400px"}
 
-If you're logged into Facebook via Ecamm Live already, and your button reads "Go Live", skip to the next section for more about [Setting Where and to Whom You're Broadcasting]().
+If you're logged into Facebook via Ecamm Live already, and your button reads "Go Live", skip to the next section for more about [Setting Where and to Whom You're Broadcasting](#setting-where-and-to-whom-youre-broadcasting).
 
 If you haven’t logged into Facebook through Ecamm Live yet, now is the time. Click the big blue <samp class="blue">Login</samp> button, and follow through the prompts to connect the app to Facebook.
 

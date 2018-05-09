@@ -23,11 +23,11 @@ Let's make 3 Scenes for your broadcast, with a few Overlays each.
 
 Open your Scenes window if it's not already visible. At the top of your display, select <samp>Scenes</samp> menu ➝ <samp>Show Scenes Window</samp>. There is a default scene available. You can rename it by clicking directly on the Scene name twice. Give your Scene an obvious, unique name like "Introduction". Clear Scene names are useful since you'll be selecting them on the fly in front of an audience. You want that to be as easy as possible.
 
-![Figure\: The Scenes Window with scenes listed.](/assets/img/scenes-window.png "The Scenes Window"){:width="400px"}
+[![Figure\: The Scenes Window with tools labeled.](/assets/img/scenes-window-annotated.png "The Scenes Window Annotated")](/assets/img/scenes-window-annotated.png)
 
 Scenes can be blank, but most Scenes will have at least one Overlay. So let's create an Overlay with our name. Open your Overlays window if it's not already visible. At the top of your display, select <samp>Overlays</samp> ➝ <samp>Show Overlays Window</samp>.
 
-![Figure\: The Overlays Window with overlays listed.](/assets/img/overlays-window.png "The Scenes Window"){:width="400px"}
+[![Figure\: The Overlays Window with tools labeled.](/assets/img/overlays-window-annotated.png "The Overlays Window Annotated")](/assets/img/overlays-window-annotated.png)
 
 At the bottom of the Overlays window, click the {% inlineicon addtext 20 graybutton %}Add Text Overlay{% endinlineicon %} New Text Overlay button. A style sheet appears over the Main Window. Type your name into the Text field. Experiment with a few style options, like typeface and color. Click <samp>Add</samp> when you're ready.
 

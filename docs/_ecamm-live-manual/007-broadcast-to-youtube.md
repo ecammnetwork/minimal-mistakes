@@ -42,7 +42,17 @@ To enter a return (new line) in the description field, hold down shift while pre
 
 ![Figure\: YouTube Scheduled Live Post Editor](/assets/img/yt-live-scheduled-post-editor.png "YouTube Scheduled Live Post Editor")
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+After you schedule your broadcast, we'll show you a confirmation that it was created, and a note that you can go to YouTube's Advanced Settings for your Event, and change your promotion settings, if you choose.
+
+![Figure\: YouTube Scheduled Live Post Confirmation](/assets/img/yt-scheduled-live-confirmation.png "YouTube Scheduled Live Post Confirmation")
+
+Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click OK instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu. 
+
+The Promotions settings are a bit buried, in the Advanced tab of your Event's Dashboard. Below is an image of what to look for:
+
+![Figure\: YouTube Scheduled Live Channel Promotion](/assets/img/yt-advanced-promotion.png "YouTube Scheduled Live Channel Promotion")
+
+When you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. To view your preview, pick <samp>View Post on YouTube</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen or press <kbd title="command">⌘</kbd><kbd>F</kbd> to visit the stream's Live Control Room on YouTube.  You'll see a window to view the preview.
 

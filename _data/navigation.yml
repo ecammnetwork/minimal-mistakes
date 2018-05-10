@@ -18,10 +18,10 @@ manual:
     url: /ecamm-live-manual/005-using-scenes
   - title: "Broadcast to Facebook"
     url: /ecamm-live-manual/006-broadcast-to-facebook/
-  - title: "Broadcast to YouTube"
-    url: /ecamm-live-manual/008-broadcast-to-youtube/
   - title: "Broadcast to Periscope"
     url: /ecamm-live-manual/007-broadcast-to-periscope/
+  - title: "Broadcast to YouTube"
+    url: /ecamm-live-manual/008-broadcast-to-youtube/
   - title: "Broadcasting to Other Services"
     url: /ecamm-live-manual/009-broadcast-to-rtmp
   - title: "Local Recordings of Your Broadcasts"

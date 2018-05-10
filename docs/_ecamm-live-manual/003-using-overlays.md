@@ -18,8 +18,8 @@ Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as O
 
 When you create a new Text Overlay, a Text Editing Sheet will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, text opacity (how much you can “see through” the text), background color and background opacity. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
  
-[![Figure\: Text Overlay Editor Sheet Annotated](/assets/img/text-Overlay-editor-sheet-annotated.png "Click for full-size image.")
-](/assets/img/text-Overlay-editor-sheet-annotated.png)
+[![Figure\: Text Overlay Editor Sheet Annotated](/assets/img/text-overlay-editor-sheet-annotated.png "Click for full-size image.")
+](/assets/img/text-overlay-editor-sheet-annotated.png)
 
 You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu.
 
@@ -41,7 +41,7 @@ To change the width of a text Overlay without changing the font size, place your
 
 Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a graphics app, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 4 other ways to create an Image Overlay:
 
-* Select <samp>New Image Overlay</samp> in the {% inlineicon Overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
+* Select <samp>New Image Overlay</samp> in the {% inlineicon overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
 * Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window.
@@ -73,7 +73,7 @@ If you need to display a countdown timer on screen, use a Countdown Overlay.
 
 There are 3 ways you can display a Countdown Overlay:
 
-* Select <samp>New Countdown Overlay</samp> in the {% inlineicon Overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
+* Select <samp>New Countdown Overlay</samp> in the {% inlineicon overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the Overlays Window.
 

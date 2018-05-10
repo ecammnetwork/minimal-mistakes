@@ -26,9 +26,9 @@ In addition to these 3 settings, there are a few more [advanced settings that pe
 
 There are no scheduled live broadcasts available on Periscope. Once you have your settings to your liking, click <samp class="blue">Go Live</samp> to start your broadcast immediately.
 
-## View Viewer Comments and Reactions
+## View Viewer Comments and Hearts
 
-During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During broadcasts, any comments or hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
 ## Display Comments on Your Broadcast
 
@@ -60,4 +60,4 @@ If you’ve never used the YouTube feature, you’ll be asked to sign in when yo
 ## Logging out of Periscope
 
 Ecamm Live will stay logged into Periscope unless you manually log out, or if you remove Ecamm Live from [your Periscope Sources.](https://www.periscope.tv/account/producer)
-If you’d like to log out of Periscope, with <samp>Periscope</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log out</samp> and it will be so.
+If you’d like to log out of Periscope, with <samp>Periscope</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.

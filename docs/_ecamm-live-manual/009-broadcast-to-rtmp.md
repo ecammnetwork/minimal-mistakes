@@ -1,8 +1,8 @@
 ---
-title: Broadcast to RTMP-based Services
+title: Broadcasting to Other Services
 ---
 
-## The RTMP Basics
+## Using a Stream Key
 
 Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP. Services that use RTMP include [Twitch](https://twitch.tv), [Restream.io](https://restream.io), and [Wowza](https://www.wowza.com/products/streaming-cloud).
 
@@ -32,23 +32,3 @@ But what can you do about it? If you're on a home connection, you can make sure 
 
 WiFi is a radio-based connection, and while wonderfully freeing, is very susceptible to interference from all sorts of things—even microwave ovens. Interference can introduce latency, reduce throughput, and make your connection quality fluctuate. We suggest, if possible, using a wired internet connection for your broadcasts. This gives you one more factor you can control to produce the highest-quality broadcast possible.
 </aside>
-
-## A Few Additional Options for All Broadcasts
-
-### Use High Quality
-
-Ecamm Live streams at a bit rate that balances the amount of data we send over the internet and the visual clarity of your video. If you want to broadcast in higher fidelity, and your bandwidth can handle it, you can select <samp>Options</samp> menu ➝ <samp>Use High Quality</samp>, or during a broadcast by clicking the <samp>HD</samp> button at the top of the screen. This will require a sustained minimum of 4 mbps (megabits per second) bandwidth over your internet connection. If at any point your connection cannot sustain this, Ecamm will automatically reduce the fidelity so that the broadcast may continue.
-
-### Stream Size
-
-<samp>Options</samp> menu ➝ <samp>Stream Size</samp>. Choose from 540p, 720p, or 1080p. 
-
-Facebook's standard livestream size is 720p. You may wish to choose the smaller option for streaming to Periscope, or if your internet connection's upload speed is insufficient for 720p.
-
-While Facebook will accept a 1080p video stream, it does not currently offer the ability to _view_ a stream at this resolution. Other streaming destinations such as YouTube fully support 1080p broadcasts.
-
-### Stream Aspect
-
-<samp>Options</samp> menu ➝ <samp>Stream Aspect</samp>. Choose from Wide (16x9), Classic (4x3), Square, and Tall (9x16), or choose the Aspect ratio of your Mac's display. The last option allows you to use 360° Cameras.
-
-Think of "aspect" as "shape"—9x16 is like a mobile display held in portrait orientation. 16x9 is like an HDTV screen, and 4x3 is like standard definition televisions before HD. Square is, well, square.

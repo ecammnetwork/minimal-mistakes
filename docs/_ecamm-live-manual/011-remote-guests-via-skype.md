@@ -3,7 +3,7 @@
 ---
 <!-- ## Remote Guests with Skype and Call Recorder -->
 
-One of the most popular features of Ecamm Live is the ability to have as many as five remote guests appear on your broadcast. This bit of magic requires an application from Ecamm, [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/) which is an additional purchase.
+One of the most popular features of Ecamm Live is the ability to have as many as five remote guests appear on your broadcast. This bit of magic requires a Skype plugin from Ecamm, [Call Recorder for Skype](http://www.ecamm.com/mac/callrecorder/).
 
 ## Preparing for your Remote Guests
 
@@ -31,7 +31,7 @@ The fastest way to switch from an interview's introduction to a view of you and 
 
 1. Create an introductory Scene with just your camera source, and any overlays, as you introduce the guests.
 1. Create a second Scene that shows you and your guests in a split screen, with overlays for their names, titles, etc.
-1. Create Subsequent Scenes with topics you're discussing as lower-third-style Overlays.
+1. Create subsequent Scenes with topics you're discussing as lower-third-style Overlays.
 1. Create Scenes with each speaker isolated, to focus attention on them when they speak at length.
 
 While you're live, switch between the scenes to support the conversation. Remember Scenes are not linear. You can switch between them at will.

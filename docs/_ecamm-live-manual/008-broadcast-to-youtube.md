@@ -42,9 +42,11 @@ To enter a return (new line) in the description field, hold down shift while pre
 
 ![Figure\: YouTube Scheduled Live Post Editor](/assets/img/yt-live-scheduled-post-editor.png "YouTube Scheduled Live Post Editor")
 
-After you schedule your broadcast, we'll show you a confirmation that it was created. Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click <samp>OK</samp> instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu.
+After you schedule your broadcast, we'll show you a confirmation that it was created. 
 
 ![Figure\: YouTube Scheduled Live Post Confirmation](/assets/img/yt-scheduled-live-confirmation.png "YouTube Scheduled Live Post Confirmation") 
+
+Note that by default, the scheduled event will _not_ show up on your channel page before the start date, even it it's set to Public. If you want it to show up on the channel page before it's live, you'll need to change the setting for <samp>Promote on my channel page</samp>, in the Advanced Settings page on the Event's Dashboard on YouTube. Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click <samp>OK</samp> instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu.
 
 On YouTube's site, the Promotions settings are a bit buried, in the Advanced tab of your Event's Dashboard. Below is an image of what to look for:
 

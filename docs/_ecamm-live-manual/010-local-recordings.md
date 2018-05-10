@@ -26,6 +26,6 @@ You may change your Recordings storage location by selecting <samp>Recording</sa
 
 ## Record Only Mode
 
-Ecamm Live features a mode to record locally only. When you choose this mode, all features that are not Facebook-specific are available for you to record a video offline. This is great for a number of tasks, such as practicing before doing a live broadcast, pre-recording sections of a broadcast for later use, or simply to create videos for non-streaming situations like vlogs or tutorials.
+Ecamm Live features a mode to record locally only. When you choose this mode, all features that are not service-specific are available for you to record a video offline. This is great for a number of tasks, such as practicing before doing a live broadcast, pre-recording sections of a broadcast for later use, or simply to create videos for non-streaming situations like vlogs or tutorials.
 
 To enable Record-only mode, in the bottom right corner of the Main Window, select <samp>Record Only</samp> from the <samp>Destination</samp> menu.

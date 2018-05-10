@@ -19,15 +19,17 @@ manual:
   - title: "Broadcast to Facebook"
     url: /ecamm-live-manual/006-broadcast-to-facebook/
   - title: "Broadcast to YouTube"
-    url: /ecamm-live-manual/007-broadcast-to-youtube/
+    url: /ecamm-live-manual/008-broadcast-to-youtube/
   - title: "Broadcast to Periscope"
-    url: /ecamm-live-manual/008-broadcast-to-periscope/
-  - title: "Broadcast to RTMP-based Services"
+    url: /ecamm-live-manual/007-broadcast-to-periscope/
+  - title: "Broadcasting to Other Services"
     url: /ecamm-live-manual/009-broadcast-to-rtmp
   - title: "Local Recordings of Your Broadcasts"
     url: /ecamm-live-manual/010-local-recordings
   - title: "Remote Guests via Skype"
     url: /ecamm-live-manual/011-remote-guests-via-skype
+  - title: "Other Options"
+    url: /ecamm-live-manual/012-other-options
 
 tutorial-1:
   - title: "Introduction"

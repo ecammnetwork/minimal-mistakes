@@ -4,7 +4,7 @@
 
 <!-- ## Your First Time Around with Ecamm Live -->
 
-See also the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-first-facebook-live-intro) for the bare essentials from first-run to your first Facebook Live broadcast.
+See also the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction) for the bare essentials from first-run to your first Facebook Live broadcast.
 {:.notice--info}
 
 Upon opening Ecamm Live, you’ll be greeted by the Main Window, and several smaller windows.

@@ -31,7 +31,7 @@ manual:
   - title: "Other Options"
     url: /ecamm-live-manual/012-other-options
 
-tutorial-1:
+ecamm-live-first-facebook-live:
   - title: "Introduction"
     url: /ecamm-live-first-facebook-live/001-introduction
   - title: "Before You Broadcast"
@@ -46,6 +46,18 @@ tutorial-1:
     url: /ecamm-live-first-facebook-live/006-recap
   - title: "Send Us Feedback About This Tutorial"
     url: /feedback/index
+
+ecamm-live-remote-guests:
+  - title: "Introduction"
+    url: /ecamm-live-remote-guests/001-introduction
+
+ecamm-live-canon-dslr:
+  - title: "Introduction"
+    url: /ecamm-live-canon-dslr/001-introduction
+
+ecamm-live-keynote-slides:
+  - title: "Introduction"
+    url: /ecamm-live-keynote-slides/001-introduction
 
 ##post-manual-menu:
 # - title: "Send Us Feedback About This Manual"

@@ -167,6 +167,9 @@ collections:
   feedback:
     permalink: "/:collection/:path/"
     output: "true"
+  ecamm-live-remote-guests:
+    permalink: "/:collection/:path/"
+    output: "true"
 
 # Defaults
 defaults:
@@ -182,6 +185,7 @@ defaults:
       sidebar:
        nav: "manual"
       toc: true
+#
   - scope:
       path: ""
       type: "ecamm-live-first-facebook-live"
@@ -192,8 +196,48 @@ defaults:
       share: false
       related: false
       sidebar:
-       nav: "tutorial-1"
+       nav: "ecamm-live-first-facebook-live"
       toc: true
+#
+  - scope:
+      path: ""
+      type: "ecamm-live-remote-guests"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+      sidebar:
+       nav: "ecamm-live-remote-guests"
+      toc: true
+#
+  - scope:
+      path: ""
+      type: "ecamm-live-canon-dslr"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+      sidebar:
+       nav: "ecamm-live-canon-dslr"
+      toc: true
+#
+  - scope:
+      path: ""
+      type: "ecamm-live-keynote-slides"
+    values:
+      layout: "single"
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+      sidebar:
+       nav: "ecamm-live-keynote-slides"
+      toc: true
+#
   - scope:
       path: ""
       type: "feedback"

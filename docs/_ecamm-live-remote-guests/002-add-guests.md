@@ -33,7 +33,7 @@ When you have more than one guest via Skype, each will have their own box in the
 When the time comes to sign off, thank your guest, then switch away from their video by clicking your box in the Video Source Switcher. Thank your audience for joining you and sign off.
 
 ## Ending Your Broadcast
-* Press <kbd class="blue">Finish</kbd> to end the broadcast.
+* Press <samp class="blue">Finish</samp> to end the broadcast.
 
 Ecamm Live will present you with the post-broadcast options.
 Your guest will still be connected to the call, unless they hung up on you. You can now end your Skype call with your guest.

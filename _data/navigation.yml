@@ -50,6 +50,10 @@ ecamm-live-first-facebook-live:
 ecamm-live-remote-guests:
   - title: "Introduction"
     url: /ecamm-live-remote-guests/001-introduction
+  - title: "Adding Guests via Skype"
+    url: /ecamm-live-remote-guests/002-add-guests
+  - title: "Integrate Overlays, Scenes and Guests"
+    url: /ecamm-live-remote-guests/003-integrate-scenes
 
 ecamm-live-canon-dslr:
   - title: "Introduction"

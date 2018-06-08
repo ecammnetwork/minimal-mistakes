@@ -10,7 +10,7 @@ Interviewing guests is one of the most popular features of Ecamm Live. Conductin
 
 [System Requirements for Skype](https://support.skype.com/en/faq/fa10328/what-are-the-system-requirements-for-skype)
 
-The next tool you need is Ecamm Call Recorder for Skype. As of Ecamm Live 2.2, Call Recorder is included with your purchase. If you have a version of Ecamm Live less than 2.2, at the top of the screen go to the Ecamm Live menu and select “Check for Updates”. Updating Ecamm Live will give your Call Recorder.
+The next tool you need is **Ecamm Call Recorder for Skype**. As of Ecamm Live 2.2, Call Recorder is included with your purchase. If you have a version of Ecamm Live 2 less than 2.2, at the top of the screen click <samp>Ecamm Live</samp> menu ➝ <samp>Check for Updates</samp>. Updating Ecamm Live will put Call Recorder on your Mac (see [below for installation](#install-call-recorder-for-skype)).
 
 When you're running both your live broadcast and maintaining a Skype call, you'll need to make sure you have enough internet bandwidth to maintain both at an acceptable quality. A minimum of 4 Mbps is required by Ecamm Live for a high quality broadcast, and 1Mbps for a bare minimum. 
 
@@ -20,8 +20,12 @@ You can learn more about bandwidth and its effect on streaming broadcasts [in th
 
 ## Install Call Recorder for Skype
 
-If Call Recorder is not already installed on your system, Ecamm Live can install it automatically. Simply select Camera > Add Skype Guests, and Call Recorder will begin installing. Once it is installed, launch Skype and you will see the Call Recorder interface appear. Call Recorder runs as an add-on to Skype for Mac. It won't show up in your Applications folder. You do not need to launch it. It will automatically appear each time Skype launches.
+If Call Recorder is not already installed on your system, Ecamm Live can install it automatically. Simply select <samp>Camera</samp> menu ➝ <samp>Add Skype Guests</samp>, and Call Recorder will begin installing. Once it is installed, launch Skype and you will see the Call Recorder interface appear. Call Recorder runs as an add-on to Skype for Mac. It won't show up in your Applications folder. You do not need to launch it. It will automatically appear each time Skype launches.
 
 **Note:** Only _Call Recorder for Skype_ works with Ecamm Live. Call Recorder for FaceTime is not compatible with Ecamm Live.
+{:.notice--info}
 
 Once Call Recorder is installed, there is no additional setup in Ecamm Live. The app will detect guests on your calls and make them available for your broadcasts as a Camera source.
+
+**ProTip:** if you don't have someone to connect with on Skype to run through this tutorial, set up a second Skype account on another device. Place it across the room---close enough to control it, but far enough away that you won't cause audio feedback when all the mics are live.
+{:.notice--info}

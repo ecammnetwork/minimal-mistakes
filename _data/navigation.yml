@@ -54,6 +54,8 @@ ecamm-live-remote-guests:
     url: /ecamm-live-remote-guests/002-add-guests
   - title: "Integrate Overlays, Scenes and Guests"
     url: /ecamm-live-remote-guests/003-integrate-scenes
+  - title: "Conclusion"
+    url: /ecamm-live-remote-guests/004-conclusion
 
 ecamm-live-canon-dslr:
   - title: "Introduction"

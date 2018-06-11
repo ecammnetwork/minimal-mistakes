@@ -1,35 +1,29 @@
 ---
-title: Remote Guests in Your Live Broadcast
+title: Using Canon DSLRs with Ecamm Live - Introduction
 ---
 
-![4-person interview](/assets/img/4way.jpg)
+## Introduction
 
-Ecamm Live has powerful capabilities allowing you to bring guests into your live broadcasts. In this tutorial, we'll walk you through 3 ways of integrating remote guests into your broadcasts. First we'll show you how to do it in the most basic way. Then we'll show you how additional tools can make your show even more professional with overlays and scenes. In the final scenario, we'll show you how to integrate video interviews you create from prior recordings. Let's dig right in and see how to set this all up.
+In this tutorial we’ll show you how to use your  Canon DSLR with Ecamm Live, without the need for any additional hardware.
 
-## What You Need to Bring Remote Guests into a Broadcast
+Cameras with interchangeable lenses, like Canon’s <abbr title="(Digital Single-lens Reflex)">DSLRs</abbr>, can produce the best video out there. If you’ve been shooting with webcams, these cameras provide a serious upgrade to your broadcast quality.
 
-Interviewing guests is one of the most popular features of Ecamm Live. Conducting interviews requires two additional tools. The first is the Skype app for your Mac, with a Skype account. If you don't have Skype yet, visit Skype.com and follow their instructions for installation and account setup.
+Ecamm Live can broadcast any digital camera source available on your Mac. For external cameras the choices are USB (typically webcams), Firewire (sometimes called “iLink”—typically older digital video cameras like camcorders), or HDMI. HDMI is the current standard connection for high-quality video input, but since Macs don’t have a built-in HDMI input, an HDMI capture device is typically required. 
 
-[System Requirements for Skype](https://support.skype.com/en/faq/fa10328/what-are-the-system-requirements-for-skype)
+However, Ecamm Live features special support for Canon DSLR video input, using just a USB cable. With the use of simple free software called Camera Live, you can skip the extra hardware.
 
-The next tool you need is **Ecamm Call Recorder for Skype**. As of Ecamm Live 2.2, Call Recorder is included with your purchase. If you have a version of Ecamm Live 2 less than 2.2, at the top of the screen click <samp>Ecamm Live</samp> menu ➝ <samp>Check for Updates</samp>. Updating Ecamm Live will put Call Recorder on your Mac (see [below for installation](#install-call-recorder-for-skype)).
+If you don’t already have a DSLR and are reading this tutorial because you want to learn what involved in upgrading your equipment, check the last section of this tutorial for some ideas for you.
 
-When you're running both your live broadcast and maintaining a Skype call, you'll need to make sure you have enough internet bandwidth to maintain both at an acceptable quality. A minimum of 4 Mbps is required by Ecamm Live for a high quality broadcast, and 1Mbps for a bare minimum. 
+## Camera Compatibility
 
-Skype's requirements vary based on how many people you have on a call. Roughly, you need 1.5 Mbps upload and download speed to maintain an HD call, and to maintain a call with 5 people, you need a minimum of 4 Mbps download. Skypes support site provides further specifics on [Skype's bandwidth requirements](https://support.skype.com/en/faq/FA1417/how-much-bandwidth-does-skype-need).
+Canon DSLR camera compatibility with Ecamm Live depends entirely upon the support within Camera Live, a piece of free, open source software written by Tom Butterworth & Anton Marini. With this software installed, Ecamm Live will be able to use any video Camera Live brings into your Mac.
 
-You can learn more about bandwidth and its effect on streaming broadcasts [in this note on internet connections in the Ecamm Live Manual](/ecamm-live-manual/007-broadcast-to-rtmp/#a-technical-aside-about-internet-connections). This is particularly helpful if you're experiencing any issues, or if the quality of your broadcasts is lower than you expect.
+Their software, which we will download later in this tutorial, is sporadically updated for compatibility with new cameras. To check if your Canon is compatible, visit their camera list and search for your model name. You may have to scroll the text horizontally to see all model names.
 
-## Install Call Recorder for Skype
+## Necessary Camera Hardware
 
-If Call Recorder is not already installed on your system, Ecamm Live can install it automatically. Simply select <samp>Camera</samp> menu ➝ <samp>Add Skype Guests</samp>, and Call Recorder will begin installing. Once it is installed, launch Skype and you will see the Call Recorder interface appear. Call Recorder runs as an add-on to Skype for Mac. It won't show up in your Applications folder. You do not need to launch it. It will automatically appear each time Skype launches.
+To connect your compatible Canon camera to your Mac, you must use a USB cable. Our cable is a Mini-USB-to-USB-A cable, but your camera may have a different port. We use one with a 90° bend at the camera end, which makes routing the cable easier in our setup. Make sure to purchase a USB cable with generous length, or add a USB extension cable. Too-short cables limit your camera placement options, are are easy to trip over. Make sure your cables always have slack. Tension on cables can damage the ports on your devices. If you have a newer Mac with only USB-C ports, you may need an adapter from USB-A to USB-C.
 
-![Call Recorder for Skype Interface](/assets/img/callrecorder.png){:.align-center width="400px"}
+Some Canon models have an LCD display that swivels out of the body, and can be pointed forward towards the the subject being filmed. If your model has this feature, and the ports are also on the same side of the camera, the 90° cable will reduce how much the screen is blocked.
 
-**Note:** Only _Call Recorder for Skype_ works with Ecamm Live. Call Recorder for FaceTime is not compatible with Ecamm Live.
-{:.notice--info}
-
-Once Call Recorder is installed, there is no additional setup in Ecamm Live. The app will detect guests on your calls and make them available for your broadcasts as a Camera source.
-
-**ProTip:** if you don't have someone to connect with on Skype to run through this tutorial, set up a second Skype account on another device. Place it across the room---close enough to control it, but far enough away that you won't cause audio feedback when all the mics are live.
-{:.notice--info}
+When using a Canon DSLR via USB, audio from the camera’s built-in microphone(s) is not available. You will need to use a different audio source. We strongly recommend a quality external microphone that compliments the image quality your camera produces. In many ways, audio quality is more important to a broadcast than video quality, so invest wisely.

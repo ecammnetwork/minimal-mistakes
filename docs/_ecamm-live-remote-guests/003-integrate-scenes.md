@@ -13,7 +13,8 @@ Let's make three Scenes for your broadcast, with a few Overlays in each.
 
 Scenes allow you to quickly switch between presets---including overlays, source modes, and more---during a live stream. For the moment, we'll focus on camera sources and overlays.
 
-**Note:** you can learn more about [Overlays](/ecamm-live-manual/003-using-overlays) and [Scenes](/ecamm-live-manual/005-using-scenes) in the manual.
+_See also:_ learn more about [Overlays](/ecamm-live-manual/003-using-overlays) and [Scenes](/ecamm-live-manual/005-using-scenes) in the manual.
+{:.notice}
 
 ## Build Scene 1 — Your Introduction
 
@@ -30,6 +31,9 @@ _See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-m
 You can add as many Overlays as you'd like to your Scene. Let's add a second---an image you can use for your logo. We'll start by clicking the {% inlineicon addimage 20 graybutton %}Add Image Overlay{% endinlineicon %} Image Overlay Button. A file selection browser will appear over the Main Window. Select your image, then click <samp>Open</samp> to have it appear on the Main Window. You can now drag it into position, and resize as needed.
 
 These two overlays are now listed under the <samp>Overlays</samp> menu ➝ <samp>Show in Current Scene</samp> heading. You have the option of dragging any Overlay up to the Show in All Scenes section of the window. When you create new scenes afterwards, these will automatically appear in those scenes. Since this is handy for something like a logo, let's drag the Image Overlay into the Show in All Scenes area.
+
+{% include figure image_path="/assets/img/overlays-window-annotated.png" alt="The Overlays window, annotated" caption="The Overlays window." %}
+
 
 ## Build Scene 2 — You and Your Guest
 

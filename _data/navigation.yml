@@ -60,6 +60,10 @@ ecamm-live-remote-guests:
 ecamm-live-canon-dslr:
   - title: "Introduction"
     url: /ecamm-live-canon-dslr/001-introduction
+  - title: "Software Setup"
+    url: /ecamm-live-canon-dslr/002-software-setup
+  - title: "Camera Details"
+    url: /ecamm-live-canon-dslr/003-camera-details
 
 ecamm-live-keynote-slides:
   - title: "Introduction"

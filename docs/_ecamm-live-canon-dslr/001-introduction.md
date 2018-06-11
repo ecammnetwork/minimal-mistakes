@@ -1,18 +1,18 @@
 ---
-title: Using Canon DSLRs with Ecamm Live - Introduction
+title: Using Canon DSLRs with Ecamm Live
 ---
 
 ## Introduction
 
-In this tutorial we’ll show you how to use your  Canon DSLR with Ecamm Live, without the need for any additional hardware.
+In this tutorial we’ll show you how to use your  Canon <abbr title="Digital Single-lens Reflex">DSLR</abbr> with Ecamm Live, without the need for any additional hardware.
 
-Cameras with interchangeable lenses, like Canon’s <abbr title="(Digital Single-lens Reflex)">DSLRs</abbr>, can produce the best video out there. If you’ve been shooting with webcams, these cameras provide a serious upgrade to your broadcast quality.
+Cameras with interchangeable lenses, like Canon’s DSLRs, can produce the best video out there. If you’ve been shooting with webcams, these cameras provide a serious upgrade to your broadcast quality.
 
 Ecamm Live can broadcast any digital camera source available on your Mac. For external cameras the choices are USB (typically webcams), Firewire (sometimes called “iLink”—typically older digital video cameras like camcorders), or HDMI. HDMI is the current standard connection for high-quality video input, but since Macs don’t have a built-in HDMI input, an HDMI capture device is typically required. 
 
 However, Ecamm Live features special support for Canon DSLR video input, using just a USB cable. With the use of simple free software called Camera Live, you can skip the extra hardware.
 
-If you don’t already have a DSLR and are reading this tutorial because you want to learn what involved in upgrading your equipment, check the last section of this tutorial for some ideas for you.
+If you don’t already have a DSLR and are reading this tutorial because you want to learn what involved in upgrading your equipment, check [the last section of this tutorial for some ideas](../003-camera-details/#if-you-dont-yet-have-a-dslr) for you.
 
 ## Camera Compatibility
 

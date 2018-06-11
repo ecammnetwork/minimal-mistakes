@@ -164,10 +164,16 @@ collections:
   ecamm-live-first-facebook-live:
     permalink: "/:collection/:path/"
     output: "true"
-  feedback:
+  ecamm-live-remote-guests:
     permalink: "/:collection/:path/"
     output: "true"
-  ecamm-live-remote-guests:
+  ecamm-live-canon-dslr:
+    permalink: "/:collection/:path/"
+    output: "true"
+  ecamm-live-keynote-slides:
+    permalink: "/:collection/:path/"
+    output: "true"
+  feedback:
     permalink: "/:collection/:path/"
     output: "true"
 

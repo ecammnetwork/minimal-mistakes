@@ -2,7 +2,7 @@
 title: The Basics of Adding Guests into Your Broadcast via Skype
 ---
 
-Let's start a basic interview broadcast, with guests, from top to bottom. Later in this tutorial we'll walk through [a more advanced setup](/003-integrate-scenes) using additional features.
+Let's start a basic interview broadcast, with guests, from top to bottom. Later in this tutorial we'll walk through [a more advanced setup](../003-integrate-scenes) using additional features.
 
 ## Setting up and Connecting Your Guests
 

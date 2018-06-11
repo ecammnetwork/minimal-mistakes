@@ -20,7 +20,7 @@ It's important to note that when a Skype call is connected, its audio is _always
 
 When a Skype call is connected, Ecamm Live will automatically detect each guest on the call. When [Camera mode](/ecamm-live-manual/004-source-modes/#camera) is selected, each guest on the Skype call appears in their own box at the bottom of the Main Window, in the [Video Source Switcher](/ecamm-live-manual/004-source-modes/#video-source-switcher).
 
-#todo: Screenshot showing switcher
+{% include figure image_path="/assets/img/source-switcher-crop.png" alt="Main Window's Source Switcher, with icons labeled." caption="The Source Switcher lives at the top of the Main Window." class="align-center" %}{:style="max-width:367px;"}
 
 * Introduce your broadcast and guest, then add them to the broadcast
 

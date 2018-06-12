@@ -10,6 +10,8 @@ Beyond the basics mentioned earlier, you will benefit from two additional pieces
 2. A power adapter kit for your camera, which replaces the battery. You do not want to 
 lose video part way through your broadcast. Canon sells a compatible adapter, and there are generic adapters also available. Find the one appropriate for your model and region of the world.
 
+{% include figure image_path="/assets/img/ack-e18-ac-adapter.jpg" alt="A Canon ACK-E18 AC Adapter kit for the Rebel T6i." caption="A Canon ACK-E18 AC Adapter kit for the Rebel T6i, courtesy of Canon." %}
+
 #todo: Example of power adapter kit. Check Canon PDF first.
 
 ## Camera Settings

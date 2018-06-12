@@ -1,5 +1,5 @@
 ---
-title: Using Canon DSLRs with Ecamm Live
+title: "Software Setup: Camera Live and Ecamm Live"
 ---
 
 ## Setting up the Camera Live Software
@@ -20,9 +20,11 @@ With the camera powered off, connect your camera to your Mac via USB. If possibl
 
 To launch Camera Live, double click the application’s icon. The app has a small window. At the top of the window is a status display, and at the bottom is a list of connected cameras.
 
+![The Camera Live window, shown with no active cameras.](/assets/img/camera-live-no-camera.png){:.align-center}
+
 Once Camera Live is running, power up your camera. On cameras that have a video camera icon on the On/off switch, you can slide the selector to the video camera icon. On our model, this provides a Live View on the LCD display.
 
-\#todo: insert screenshot of Camera Live.
+\#todo: insert screenshot of Camera Live with an active camera.
 {:.notice--danger}
 
 On the Camera Live app, you should see the camera name appear in the list, and the status display move from <samp>No camera</samp> to <samp>Starting</samp> to <samp>Active</samp>, and you’ll hear the mirror in your camera click open.

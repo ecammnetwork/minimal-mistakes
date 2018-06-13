@@ -6,13 +6,13 @@ title: Additional Camera Setup
 
 Beyond the basics mentioned earlier, you will benefit from two additional pieces of hardware. 
 
-1. A quality tripod will allow you to place your camera at the right distance, height, and angle for your situation.  Amazon link?
-2. A power adapter kit for your camera, which replaces the battery. You do not want to 
-lose video part way through your broadcast. Canon sells a compatible adapter, and there are generic adapters also available. Find the one appropriate for your model and region of the world.
+1. A quality **tripod** will allow you to place your camera at the right distance, height, and angle for your situation.
+2. A **power adapter kit** for your camera, which replaces the battery. You do not want to 
+lose video part way through your broadcast. Canon sells a compatible adapter, and there are generic adapters also available. _Find the one appropriate for your model and region of the world._
 
 {% include figure image_path="/assets/img/ack-e18-ac-adapter.jpg" alt="A Canon ACK-E18 AC Adapter kit for the Rebel T6i." caption="A Canon ACK-E18 AC Adapter kit for the Rebel T6i, courtesy of Canon." %}
 
-#todo: Example of power adapter kit. Check Canon PDF first.
+[We have a few gear recommendations on our support site.](http://ecamm.com/support/article/2210/ecamm-live-gear-guide/)
 
 ## Camera Settings
 
@@ -26,7 +26,7 @@ Along with the auto-focus, exposure is another concern. Exposure affects how bri
 
 Many of the camera’s shooting settings affect one another. Canon’s manuals often provide an overview how to shoot in various situations.
 
-Before we end this section on leveling up, one more reminder to not ignore your audio. Invest in a good microphone solution, and remember mic audio is not available through your camera when using a USB connection.
+Before we end this section on leveling up, one more reminder to not ignore your audio. **Invest in a good microphone** solution, and remember mic audio is not available through your camera when using a USB connection.
 
 ## If you don’t yet have a DSLR
 

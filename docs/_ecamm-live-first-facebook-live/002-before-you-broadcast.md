@@ -2,6 +2,8 @@
 title: "Before You Broadcast: A Basic Setup for Facebook Live"
 ---
 
+{% include video id="247350247" provider="vimeo" %}
+
 At the bottom of the Main Window, in the <samp>Destination</samp> menu, select <samp>Facebook</samp>
 
 ![Figure\: Destination Menus Options for Facebook labeled](/assets/img/facebook-destination-menus.png "Destination Options for Facebook"){:width="400px"}

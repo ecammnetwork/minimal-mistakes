@@ -70,6 +70,12 @@ ecamm-live-canon-dslr:
 ecamm-live-keynote-slides:
   - title: "Introduction"
     url: /ecamm-live-keynote-slides/001-introduction
+  - title: "Formatting Your Slides"
+    url: /ecamm-live-keynote-slides/002-formatting-your-slides
+  - title: "Presenting"
+    url: /ecamm-live-keynote-slides/003-presenting
+  - title: "Conclusion"
+    url: /ecamm-live-keynote-slides/004-conclusion
 
 ##post-manual-menu:
 # - title: "Send Us Feedback About This Manual"

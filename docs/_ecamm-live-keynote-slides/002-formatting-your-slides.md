@@ -38,6 +38,8 @@ To select a custom slide size, select <samp>Document</samp> from the Inspector. 
 
 In the Document tab of the inspector, under <samp>Slide Size</samp>, select <samp>Custom Slide Size</samp>. The enter the size of the slides you’d like. Keynote shows the size in points (pts) but these are equivalent to pixels for our sakes.
 
+![A view of the Keynote Slide Interface](/assets/img/custom-slide-size.png)
+
 _Note:_ If you change the Slide Size after having laid out your slides, you’ll need to manually adjust all content on every slide.
 {:.notice}
 

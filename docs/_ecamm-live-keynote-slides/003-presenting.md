@@ -14,6 +14,8 @@ You can put Keynote into full screen presentation mode before your broadcast, sw
 
 While you’re in camera mode (where the audience cannot see your screen), open your Keynote file, and put it into presentation mode. When you’re ready to show the slideshow, from the floating Ecamm Live window above your full screen slideshow, use the scene switcher to switch to the screen share scene you created in the previous section.
 
+{% include figure image_path="/assets/img/hud-with-tools-c.png" alt="Floating Window with tools labeled." caption="The Floating Window allows you to control Ecamm Live while you're in another app. It only appears when Ecamm Live is broadcasting or recording, and Ecamm Live is not the currently active app. (Enlarged for this illustration)" class="align-center" %}{:style="max-width:367px;"}
+
 ## How to Leave Keynote when you’re done
 
 Use the Ecamm live floating window to select a scene without screen share mode.

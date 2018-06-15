@@ -12,7 +12,7 @@ Ecamm Live’s options for size and shape live within the Options menu. Stream S
 * 720p = 1280px width x 720px height 
 * 540p = 960px width x 540px height 
 
-All of the above resolutions share the 16:9 aspect ratio—the widescreen shape of an HDTV. We suggest using the highest resolution you can reliably broadcast over your internet connection. We discuss internet connections in the manual. 
+All of the above resolutions share the 16:9 aspect ratio—the widescreen shape of an HDTV. We suggest using the highest resolution you can reliably broadcast over your internet connection. We [discuss internet connections in the manual](/ecamm-live-manual/009-broadcast-to-rtmp/#a-technical-aside-about-internet-connections). 
 Ecamm Live can broadcast in several shapes. Under <samp>Options</samp> ➝ <samp>Stream Aspect</samp> you’ll see these choices… 
 
 * 16:9 - “Widescreen” HDTV 
@@ -23,6 +23,16 @@ Ecamm Live can broadcast in several shapes. Under <samp>Options</samp> ➝ <samp
 ## Matching Your Broadcast Shape to a Slideshow
 
 If your slideshow is already 4:3, you can choose to change the shape of your broadcast to match it. Under the <samp>Options</samp> menu, select <samp>Stream Aspect</samp> ➝ <samp>Classic 4:3</samp>.
+
+## Screen Share Settings for Slideshows
+
+Within Ecamm Live select <samp>Screen Share</samp> from the <samp>Source</samp> menu or Source Bar atop the Main Window, then, select <samp>Show:</samp> <samp>Entire Screen</samp> from the control bar in the Main Window. (If you have more than one display, select <samp>Primary Display</samp>—Keynote will show slideshows on the Primary display, and presenter notes on a secondary display, by default.) 
+
+* *Do not* select <samp>Keynote</samp> in the <samp>Show</samp> menu.
+* Select <samp>Crop to Fit</samp> below the <samp>Show</samp> menu.
+
+{% include figure image_path="/assets/img/crop-to-fill-annotated-c.png" alt="Ecamm Live window displaying screen share settings and pillarboxing" caption="When you set the Crop to Fill option, Ecamm Live will automatically adjust how it shows your desktop to fit your broadcast." class="align-center" %}
+
 
 ## Making a Slideshow for Your Broadcast
 

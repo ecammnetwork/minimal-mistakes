@@ -25,6 +25,7 @@ If you use Microsoft PowerPoint, the steps to presenting within an Ecamm Live br
 1. Within Ecamm Live select <samp>Screen Share</samp> from the <samp>Source</samp> menu or Source Bar atop the Main Window, then, select <samp>Show:</samp> <samp>Entire Screen</samp> from the control bar in the Main Window. (If you have more than one display, select <samp>Primary Display</samp>—Keynote will show slideshows on the Primary display, and presenter notes on a secondary display.) 
     * *Do not* select <samp>Keynote</samp> in the <samp>Show</samp> menu.
     * Select <samp>Crop to Fit</samp> below the <samp>Show</samp> menu.
+    ![Screen Share Entire Screen and Crop to fill settings in the interface.](/assets/img/cropped-crop-to-fill-c.png){:style="margin-top: 0.8rem;"}
 1. Within Keynote, select <samp>Play Slideshow</samp> from the toolbar at the top of the Keynote window.
 1. Narrate your slideshow in full screen. During a broadcast, a small Ecamm Live window—only visible to you—will float in the corner of the screen to allow you to monitor the broadcast, and change scenes if necessary.
 1. When you’re done, switch back to Ecamm Live to continue with your broadcast—double clicking the floating window will bring you back to Ecamm Live in one step.

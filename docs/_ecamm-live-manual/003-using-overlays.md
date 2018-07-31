@@ -3,13 +3,13 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text and images in your broadcast. You can access Overlays by clicking the {% inlineicon Overlays 65 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. There are four types of Overlays:
+Overlays are styled text and images in your broadcast. You can access Overlays by clicking the {% inlineicon overlays 65 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. There are four types of Overlays:
 
 ## Text Overlays
 
 Almost any need for text on the screen can be addressed with Text Overlays. There are 5 ways you can display a Text Overlay:
 
-* Select <samp>New Text Overlay</samp> in the {% inlineicon Overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
+* Select <samp>New Text Overlay</samp> in the {% inlineicon overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
 * Select <samp>New Text Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addtext 20 inverted %}Add Text Overlay Button{% endinlineicon %} button at the bottom the Overlays Window,
 * Type <kbd>⌘</kbd><kbd>N</kbd>.
@@ -21,7 +21,7 @@ When you create a new Text Overlay, a Text Editing Sheet will appear. Start typi
 [![Figure\: Text Overlay Editor Sheet Annotated](/assets/img/text-overlay-editor-sheet-annotated.png "Click for full-size image.")
 ](/assets/img/text-overlay-editor-sheet-annotated.png)
 
-You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu.
+You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu. 
 
 The background size and shape is set automatically for you, and adjusts to scale with the size of your text. You can change the color and the opacity of the background by clicking the style button after the <samp>Background:</samp> label. Click this button again to return to text editing options.
 

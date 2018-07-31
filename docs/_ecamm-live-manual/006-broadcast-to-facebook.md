@@ -27,7 +27,15 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 
 ![Figure\: Post As Menu Options labeled](/assets/img/facebook-destination-post-as-menu.png "Post As Options"){:width="400px"}
 
-* <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. If you're posting as yourself, options include your personal Profile, and any Groups you administer. if you have selected to post as a Page, you'll see options for the Page's timeline and any Groups linked to the Page. When posting to your personal Profile, you'll see privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
+* <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. If you're posting as yourself, options include your personal Profile, and any Groups you administer. if you have selected to post as a Page, you'll see options for the Page's timeline and any Groups that your administer.  (Note however that you'll only be able to stream as a Page to Groups linked to that Page.) When posting to your personal Profile, you'll see privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
+
+<aside class="notice--warning" markdown="1">
+#### Adding Ecamm Live to a Facebook Group
+
+In order to use Ecamm Live with a Facebook Group, a Group admin must add Ecamm Live to the Group. To do this, go to the Group's "Group Settings" screen on Facebook's website. You'll see an <samp>Add Apps</samp> button. Click this and then choose Ecamm Live from the list of apps.
+
+You'll only have to do this once per Group. Once enabled, all Group members will see Ecamm Live listed in Ecamm Live's <samp>Post to</samp> menu.  
+</aside>
 
 * <samp>Go Live</samp> — Select **when** your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp>
 

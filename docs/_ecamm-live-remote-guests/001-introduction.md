@@ -4,7 +4,7 @@ title: Remote Guests in Your Live Broadcast
 
 ![4-person interview](/assets/img/4way.jpg)
 
-Ecamm Live has powerful capabilities allowing you to bring guests into your live broadcasts. In this tutorial, we'll walk you through 3 ways of integrating remote guests into your broadcasts. First we'll show you how to do it in the most basic way. Then we'll show you how additional tools can make your show even more professional with overlays and scenes. In the final scenario, we'll show you how to integrate video interviews you create from prior recordings. Let's dig right in and see how to set this all up.
+Ecamm Live has powerful capabilities allowing you to bring guests into your live broadcasts. In this tutorial, we'll show you how to do it in the most basic way. Then we'll show you how additional tools can make your show even more professional with overlays and scenes. Let's dig right in and see how to set this all up.
 
 ## What You Need to Bring Remote Guests into a Broadcast
 

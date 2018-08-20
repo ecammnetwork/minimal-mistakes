@@ -24,10 +24,9 @@ To launch Camera Live, double click the application’s icon. The app has a smal
 
 Once Camera Live is running, power up your camera. On cameras that have a video camera icon on the On/off switch, you can slide the selector to the video camera icon. On our model, this provides a Live View on the LCD display.
 
-\#todo: insert screenshot of Camera Live with an active camera.
-{:.notice--danger}
+![The Camera Live window, with an active camera.](/assets/img/active.jpg){:.align-center}
 
-On the Camera Live app, you should see the camera name appear in the list, and the status display move from <samp>No camera</samp> to <samp>Starting</samp> to <samp>Active</samp>, and you’ll hear the mirror in your camera click open.
+In the Camera Live app, you will see the camera name appear in the list, and the status display move from <samp>No camera</samp> to <samp>Starting</samp> to <samp>Active</samp>, and you’ll hear the mirror in your camera click open.
 
 If the app does not show <samp>Active</samp> in the status area, shut down the camera, and then quit the app. Open the app first, before powering up the connected camera.
 

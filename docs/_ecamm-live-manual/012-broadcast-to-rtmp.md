@@ -4,11 +4,11 @@ title: Broadcasting to Other Services
 
 ## Using a Stream Key
 
-Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP. Services that use RTMP include [Twitch](https://twitch.tv), [Restream.io](https://restream.io), and [Wowza](https://www.wowza.com/products/streaming-cloud).
+Ecamm Live can produce broadcasts on many live streaming services that support the _Real-time Messaging Protocol,_ more commonly known as RTMP. Services that use RTMP include [Wowza](https://www.wowza.com/products/streaming-cloud) and [Crowdcast](https://www.crowdcast.io).
 
 To start streaming to a RTMP-capable service, you'll need two pieces of information:
 
-* **Server URL** — this will look like a web address, except it will say "rtmp://" at the beginning.
+* **Server URL** — this will look like a web address, except it will say *rtmp://* or *rtmps://* at the beginning.
 * **Stream Key** — this is like a password, so that Ecamm Live can establish a connection with the address and allowing it to accept your video
 
 Every service is a little different with regard to finding this information. To connect to your service, in the bottom right corner of the Main Window, select <samp>Custom Stream Key</samp> from the <samp>Destination</samp> menu. A sheet will appear to accept your Server URL and Stream Key.

@@ -48,21 +48,21 @@ The bottom right corner holds menus which control where your broadcasts go. The 
 
 If you've picked Facebook, YouTube or Periscope as your Destination, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook or YouTube, and control when to broadcast.
 
-If you select <samp>Custom Stream Key</samp>, a sheet will appear over the window with the settings required to [stream to services other than Facebook, YouTube and Periscope.](../009-broadcast-to-rtmp)
+If you select <samp>Custom Stream Key</samp>, a sheet will appear over the window with the settings required to [stream to services other than Facebook, YouTube, Twitch, and Periscope.](../009-broadcast-to-rtmp)
 
 Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../010-local-recordings)
 
 The bottom center of the Main Window holds the big blue button which depending on the destinations settings can read,
 
 <samp class="blue">Login</samp>
-: If you’re not logged in, but have the <samp>Destination</samp> set to Facebook, YouTube or Periscope.
+: If you’re not logged in, but have the <samp>Destination</samp> set that requires login.
 
 <samp class="blue">Go Live</samp>
-: If you’re logged into Facebook, YouTube or Periscope and have the relevant <samp>Destination</samp> picked, or if you’re using a stream key.
+: If you’re logged in and ready to go, or if you’re using a stream key.
 
 <samp class="blue">Record</samp>
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>
 
 When using Facebook Live, the bottom left corner of the Main Window includes a {% inlineicon locbutton 20 inverted %}Location Button{% endinlineicon %}  location pin and description field.
 
-Text entered in the description field will become the text of the post that accompanies your Facebook Live, YouTube or Periscope broadcast.
+Text entered in the description field will become the text of the post that accompanies your broadcast.

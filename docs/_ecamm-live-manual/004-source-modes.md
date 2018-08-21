@@ -21,13 +21,18 @@ Ecamm Live can detect and use many types of cameras. We've built in special supp
 
 For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use it without any extra hardware. To do this, install the free and open source [Camera Live](https://github.com/v002/v002-Camera-Live/releases) software. Once it's installed, connect your Canon DSLR to your Mac's USB port. Quit the Canon EOS Utility if it automatically opens, and then start Camera Live. It will recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. Currently, no other DSLRs or mirrorless cameras are supported, unless it provides HDMI out, in which case you can use the Blackmagic method above.
 
+### Support for Newtek NDI® Cameras
+
+Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDICam iOS app](http://www.sienna-tv.com/ndi/ndicam.html). NDI sources will show up as camera in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
+
+### Support for EpocCam Camera for iPhone and iPad
+
+Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/). This requires installing both the _Mac OS X beta drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage](http://www.kinoni.com).
+
 ### Support for 360° Cameras
 
-Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image _may_ work.
+Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
 
-### Want to use your iPhone or iPad Camera?
-
-Customers have reported success using the third-party iOS app, _EpocCam_ by [Kinoni.](http://www.kinoni.com/) This requires installing both the _Mac OS X beta drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage.](http://www.kinoni.com)
 
 ### Video Source Switcher
 
@@ -54,6 +59,10 @@ The Control Bar is only visible when Ecamm Live is the foremost window, and the 
 
 
 With Screen Share mode selected, you see what the audience sees within the Main Window, but to interact with the items you're displaying, you must control them directly. You will not be able to interact with an app, for instance, by clicking on it within the Main Window. 
+
+### System Audio
+
+When using the Screen Sharing source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](#the-sound-levels-window).
 
 ### Controlling Ecamm Live While Using Other Apps
 
@@ -125,30 +134,19 @@ The Sound Levels Window shows what audio source is in use. Clicking on the name 
 
 ![Sound Levels Window in Video Playback Mode](/assets/img/sound-levels.jpg "Sound Levels Window in Video Playback Mode"){: width="360px"}
 
-A meter in the Sound Levels Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is used, you can also adjust its levels with the Sound Levels Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype)
+A meter in the Sound Levels Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is in progress, you can also adjust its levels with the Sound Levels Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype) When sharing your screen, you'll also see a sound level adjustment for System Audio.
 
 ### How Ecamm Live Deals with Audio
 
 Ecamm Live accommodates one audio input source at a time. For example, if you wanted to interview someone in person, and you plug in more than one USB mic, Ecamm Live will only allow you to select one of these mics at a time.
 
-If you need multiple external audio sources for your broadcast, use a hardware device that accepts more than one microphone in, like a mixer. If your device supports more than one channel of audio, Ecamm will treat all channels as a single mix audio input source.
+If you need multiple external audio sources for your broadcast, use a hardware device that accepts more than one microphone in, like a mixer. If your device supports more than one channel of audio, Ecamm will mix all input channels together.
 
 #### Echo Cancellation
 
 If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. If you are using headphones, echo cancellation is disabled automatically.
 
 When Echo Cancellation is enabled, Ecamm will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
-
-**No system audio is available to your broadcast.** You will hear all sounds produced by your Mac, but your audience will not. For example, if you were using the Screen Share mode, and you play a video from a web browser, your audience will not hear the audio.
-
-If your broadcasts require your audience hear sound generated by your system, you can use an app called [Loopback by Rogue Amoeba](https://rogueamoeba.com/loopback/).
-
-There are only two situations where two audio sources can be heard on your broadcast simultaneously.
-
-1.  While using Video Mode, you can play a video (with its audio) and enable your microphone.
-1.  When speaking to one or more people in a Skype call, with the Call Recorder add-on. More information is available in the [Skype Interview section](../009-remote-guests-via-skype) of this manual.
-
-Video sources and audio sources are completely independent. If you switch between different camera sources during your broadcast, Ecamm Live will not change your audio source. If you use multiple cameras and audio sources, you'll want to keep this in mind.
 
 <aside class="notice" markdown="1">
 

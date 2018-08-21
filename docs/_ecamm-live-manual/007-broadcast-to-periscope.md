@@ -28,7 +28,7 @@ There are no scheduled live broadcasts available on Periscope. Once you have you
 
 ## View Viewer Comments and Hearts
 
-During broadcasts, any comments or hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During broadcasts, any comments, hearts or super hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
 ## Display Comments on Your Broadcast
 

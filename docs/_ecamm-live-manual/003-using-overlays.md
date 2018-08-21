@@ -3,7 +3,7 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text and images in your broadcast. You can access Overlays by clicking the {% inlineicon overlays 65 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. There are four types of Overlays:
+Overlays are styled text and images in your broadcast. You can access Overlays by clicking the {% inlineicon overlays 65 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. There are five types of Overlays:
 
 ## Text Overlays
 
@@ -39,8 +39,9 @@ To change the width of a text Overlay without changing the font size, place your
 
 ## Image Overlays
 
-Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a graphics app, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 4 other ways to create an Image Overlay:
+Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a graphics app, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 5 other ways to create an Image Overlay:
 
+* Drag an image file from the Finder into the <samp>Overlays</samp> Window.
 * Select <samp>New Image Overlay</samp> in the {% inlineicon overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
@@ -56,6 +57,31 @@ A File Selection Sheet will appear, allowing you to find and select one image fi
 To reposition the Image Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse's scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
 If you would like to remove the Image Overlay from your broadcast, place your cursor over the Overlay. The {% inlineicon x 30 %}Close Button{% endinlineicon %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Image Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} next to the name of the Image Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
+
+## Movie Overlays
+
+Movie overlays work just like [Image Overlays](#image-overlays) but use a video file instead of an image. This is great for an animated logo or lower third. Movie overlays will play without sound. 
+
+Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444 format.
+
+There are 4 ways to create an Image Overlay:
+
+* Drag a movie file from the Finder into the <samp>Overlays</samp> Window.
+* Select <samp>New Movie Overlay</samp> in the {% inlineicon overlays 65 graybutton %}Overlays{% endinlineicon %} pull-down button in the Main Window
+* Select <samp>New Movie Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
+* Click the {% inlineicon addmovie 50 inverted %}Add Movie Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
+
+A File Selection Sheet will appear, allowing you to find and select a movie file.
+
+### Movie Overlay Playback Options
+
+To pause or play a movie overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and the option to hide the overlay when finished with playback.
+
+### Editing Movie Overlays
+
+To reposition a Movie Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse's scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
+
+If you would like to remove the Movie Overlay from your broadcast, place your cursor over the Overlay. The {% inlineicon x 30 %}Close Button{% endinlineicon %} will appear on the left. It hides the Image Overlay from the Main Window (and current Scene). You can bring the Movie Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} next to the name of the Movie Overlay within the Overlays Window, or selecting it from the <samp>Overlays</samp> Menu at the top of your display.
 
 ## Comment Overlays
 
@@ -106,6 +132,10 @@ To delete an Overlay, select any item in the list and press your delete key, dra
 You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 
 If you need to further organize, you can create folders to group Overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag Overlays onto the folders to organize.
+
+### Locking Overlays
+
+You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or control-click on an overlay, and choose "Lock Overlay" from the menu that shows up.
 
 **Note:** Overlays are always auto-saved as you create and edit them.
 {:.notice--info}

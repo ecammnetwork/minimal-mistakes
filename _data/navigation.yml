@@ -22,14 +22,20 @@ manual:
     url: /ecamm-live-manual/007-broadcast-to-periscope/
   - title: "Broadcast to YouTube"
     url: /ecamm-live-manual/008-broadcast-to-youtube/
+  - title: "Broadcast to Twitch"
+    url: /ecamm-live-manual/009-broadcast-to-twitch/
+  - title: "Multicast to Restream.io"
+    url: /ecamm-live-manual/010-multicast-to-restream/
+  - title: "Multicast to Switchboard"
+    url: /ecamm-live-manual/011-multicast-to-switchboard/
   - title: "Broadcasting to Other Services"
-    url: /ecamm-live-manual/009-broadcast-to-rtmp
+    url: /ecamm-live-manual/012-broadcast-to-rtmp
   - title: "Local Recordings of Your Broadcasts"
-    url: /ecamm-live-manual/010-local-recordings
+    url: /ecamm-live-manual/013-local-recordings
   - title: "Remote Guests via Skype"
-    url: /ecamm-live-manual/011-remote-guests-via-skype
+    url: /ecamm-live-manual/014-remote-guests-via-skype
   - title: "Other Options"
-    url: /ecamm-live-manual/012-other-options
+    url: /ecamm-live-manual/015-other-options
 
 ecamm-live-first-facebook-live:
   - title: "Introduction"

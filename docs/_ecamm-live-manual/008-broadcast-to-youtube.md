@@ -36,7 +36,7 @@ If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp>, give your
 
 ### Creating a New Scheduled Live
 
-If you want to announce a broadcast ahead of time, select <samp>Go Live</samp> ➝ <samp>New Scheduled Live…</samp>. An editor appears to allow you to set a date and time for a live broadcast, as well as create a title and description. You can also add an image to your announcement by dragging an image file onto the cicle on the right side of the post editor. Complete the process by clicking <samp>Schedule</samp>.
+If you want to announce a broadcast ahead of time, select <samp>Go Live</samp> ➝ <samp>New Scheduled Live…</samp>. An editor appears to allow you to set a date and time for a live broadcast, as well as create a title and description. You can also add an image to your announcement by dragging an image file onto the circle on the right side of the post editor. Complete the process by clicking <samp>Schedule</samp>.
 
 To enter a return (new line) in the description field, hold down shift while pressing return.
 
@@ -46,13 +46,13 @@ After you schedule your broadcast, we'll show you a confirmation that it was cre
 
 ![Figure\: YouTube Scheduled Live Post Confirmation](/assets/img/yt-scheduled-live-confirmation.png "YouTube Scheduled Live Post Confirmation") 
 
-Note that by default, the scheduled event will _not_ show up on your channel page before the start date, even it it's set to Public. If you want it to show up on the channel page before it's live, you'll need to change the setting for <samp>Promote on my channel page</samp>, in the Advanced Settings page on the Event's Dashboard on YouTube. Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click <samp>OK</samp> instead, you can also get to this same place by clicking the countdown timer in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu.
+Note that by default, the scheduled event will _not_ show up on your channel page before the start date, even it it's set to Public. If you want it to show up on the channel page before it's live, you'll need to change the setting for <samp>Promote on my channel page</samp>, in the Advanced Settings page on the Event's Dashboard on YouTube. Clicking the <samp>Visit Settings</samp> button will bring you to your Event's Dashboard. If you click <samp>OK</samp> instead, you can also get to this same place by clicking the countdown timer or the {% inlineicon settings 10 graybutton %}Event Dashboard{% endinlineicon %} button in the lower-left of the Main Window, when your Event is selected in the bottom-right <samp>Go Live</samp> menu. 
 
 On YouTube's site, the Promotions settings are a bit buried, in the Advanced tab of your Event's Dashboard. Below is an image of what to look for:
 
 ![Figure\: YouTube Scheduled Live Channel Promotion](/assets/img/yt-advanced-promotion.png "YouTube Scheduled Live Channel Promotion")
 
-When you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+When you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom left corner of the Main Window, you'll now see a countdown timer, which lists the time left until you go live. Click the timer or the {% inlineicon settings 10 graybutton %}Event Dashboard{% endinlineicon %} button to view or edit the post details in your YouTube Dashboard. It will open in your default web browser. To visit the event's Live Control Room page, click the {% inlineicon controlroom 10 graybutton %}Screen Icon{% endinlineicon %} button. Also, there's a {% inlineicon trash 10 graybutton %}Trash Button{% endinlineicon %} trash button for cancelling the scheduled broadcast.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. To view your preview, pick <samp>View Post on YouTube</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen or press <kbd title="command">⌘</kbd><kbd>F</kbd> to visit the stream's Live Control Room on YouTube.  You'll see a window to view the preview.
 

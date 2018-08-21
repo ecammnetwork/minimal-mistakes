@@ -6,17 +6,17 @@ title: Welcome to the Ecamm Live Manual
 
 ## What can Ecamm Live do?
 
-Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live and Periscope. Ecamm Live can broadcast to any streaming service that uses *RTMP* technology. Compatible services including Twitch, restream.io, Wowza, and others.
+Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, Periscope, Twitch, Restream.io and Switchboard Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
 
 Why would you choose to use a Mac app to live stream, when you can stream straight from your web browser, or mobile device? Because Ecamm Live gives you superpowers…
-* **Create Text and Graphics overlays** atop your broadcast, on-the-fly, or build them ahead of time.
-* When broadcasting to Facebook Live, YouTube Live and Periscope, **view a live feed of your comments and reactions.** 
+* **Add Text, image movie overlays** to your broadcast, on-the-fly, or build them ahead of time.
+* When broadcasting to Facebook Live, YouTube Live, Periscope, and Twitch **view a live feed of your comments and reactions.** 
 * **Add viewer comments to your broadcast.** Simply drag them onto the window and they appear automatically as overlays.
-* **Conduct live video interviews** with as many as 5 remote guests via Skype (requires Ecamm Call Recorder for Skype).
-* **Use external video sources.** including **HDMI** sources, and **Canon DSLRs**. **Switch easily between all video sources** with a click or keyboard shortcut.
+* **Conduct live video interviews** with as many as 5 remote guests via Skype.
+* **Use external video sources** including **HDMI** sources, **Canon DSLRs**, NDI inputs and more. **Switch easily between all video sources** with a click or keyboard shortcut.
 * **Share your screen:** put any window, app, or display from your Mac right into your stream. This also enables the use of presentation software, such as **Apple Keynote, or Microsoft PowerPoint.**
-* **Roll local video files** right into your broadcast.
-* **Create Picture-in-picture video** boxes on top of your stream.
+* **Roll pre-recorded video files** right into your broadcast.
+* **Add Picture-in-picture video** to your stream.
 * Set the shape of your stream: go wide, tall, or square.
 * Create Scenes, which are preset groups of almost any of the above features, which you can **trigger with a click or keyboard shortcut.**
 * Schedule Facebook and YouTube Live broadcasts from within the app.

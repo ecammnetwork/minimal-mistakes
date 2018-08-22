@@ -29,6 +29,8 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 
 * <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. If you're posting as yourself, options include your personal Profile, and any Groups you administer. if you have selected to post as a Page, you'll see options for the Page's timeline and any Groups that your administer.  (Note however that you'll only be able to stream as a Page to Groups linked to that Page.) When posting to your personal Profile, you'll see privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
 
+You may also see additional Groups listed in the menu, that you do no administer. These are Groups where an administrator has already added the Ecamm Live app.
+
 <aside class="notice--warning" markdown="1">
 #### Adding Ecamm Live to a Facebook Group
 
@@ -146,7 +148,7 @@ Ambient broadcasts—also called continuous broadcasts—are a special kind of l
 
 Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Ambient Broadcast</samp>.
 
-### Getting Code for Embedding Your Broadcast
+### Embedding Your Broadcast
 
 The video player your Live broadcast resides in can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embeda video player on a page on the web.
 

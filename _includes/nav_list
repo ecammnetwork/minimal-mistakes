@@ -14,8 +14,12 @@
           {% else %}
             {% assign domain = site.url | append: site.baseurl %}
           {% endif %}
+		   {% if page.url contains nav.url %}
+	          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title" style="font-weight:bold;">{{ nav.title }}</span></a>
+	        {% else %}
+	          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+    	    {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}

@@ -1,13 +1,13 @@
 <header role="banner" class="white-header" id="topheader">
 	<div class="wrapper clear">
 		<div class="logo">
-			<a href="http://www.ecamm.com/"><img src="//www.ecamm.com/images/logo_@2x.png" alt="Ecamm"></a>
+			<a href="https://www.ecamm.com/"><img src="//www.ecamm.com/images/logo_@2x.png" alt="Ecamm"></a>
 		</div>
 		
 		<nav role="navigation">
 			<ul class="clear">
-				<li><a href="http://www.ecamm.com/mac/">Products</a></li>
-				<li><a href="http://www.ecamm.com/support/">Support</a></li>
+				<li><a href="https://www.ecamm.com/mac/">Products</a></li>
+				<li><a href="https://www.ecamm.com/support/">Support</a></li>
 				<li class="shop-button"><a href="https://www.ecamm.com/cgi-bin/shopping/cart">Cart</a></li>
 			</ul>
 		</nav>
@@ -16,8 +16,43 @@
 <div class="masthead page_title">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+      <nav id="site-nav" class="greedy-nav" style="font-size:0.85em;">
+
+        <a class="site-title" href="https://www.ecamm.com/support/?cat=ecammlive">Ecamm Live Support</a> &gt; 
+
+{% for collection in site.collections %}
+
+
+  {% assign name = collection.label %}
+
+{% if name contains page.collection %}
+
+  {% assign thename = site.[name] | first %}
+
+  {% assign pagetitlefixed = page.title %}
+
+{% assign words = pagetitlefixed | split: ' ' %}
+{% assign firstword = words | first %}
+{% assign num = firstword | plus: 0 %}
+{% if num > 0 %}
+  {% assign pagetitlefixed = pagetitlefixed | remove_first: firstword %}
+{% endif %}
+
+	<a href="{{ thename.url }}">{{ thename.title }}</a>
+    
+    {% endif %}
+
+{% endfor %}
+
+
+ 			&gt; 
+			<div style="display: block; margin: 0 1rem; padding: 0.5rem 0;">
+ 			{% if page.title == thename.title %}
+	 			Introduction
+	 		{% else %}
+	 			{{ pagetitlefixed }}
+			{% endif %}	 		
+			</div>
 <!--        <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}

@@ -10,6 +10,8 @@ If you haven't broadcasted live to your YouTube account previously, you'll need 
 
 ![Figure\: Screenshot of what happens if you've not enabled live streaming first when you try to broadcast.](/assets/img/yt-live-not-enabled.png "A warning message if your YouTube Live streaming is not yet enabled. "){:width="400px"}
 
+If you're still receiving this message after enabling live streaming on YouTube, ensure that you have enabled it for the correct YouTube channel. To switch to a different YouTube channel in Ecamm Live, [log out of YouTube](#logging-out-of-youtube), and then log back in. You'll see a screen to select a channel during the login process.
+
 Once you're logged in, you can begin a live broadcast immediately by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you'll want to check out first.
 
 ## YouTube Live Broadcast Options

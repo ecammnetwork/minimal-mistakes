@@ -73,11 +73,12 @@
 	position: -webkit-sticky;
 	position: sticky;
 	float: right;
-	top: 6.75em;
+	top: 5.6em;
     width: $right-sidebar-width-narrow;
     margin-right: (-1 * $right-sidebar-width-narrow) - 16px;
     padding-left: 1em;
     z-index: 10;
+    margin-top:-41px;
   }
 
   @include breakpoint($x-large) {

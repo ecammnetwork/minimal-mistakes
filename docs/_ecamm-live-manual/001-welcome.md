@@ -1,6 +1,6 @@
 ---
 
-title: Welcome to the Ecamm Live Manual
+title: Ecamm Live Manual
 
 ---
 

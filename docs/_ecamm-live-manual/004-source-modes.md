@@ -11,6 +11,10 @@ There are 3 primary things you can show with Ecamm Live on your broadcast: a cam
 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} Video File
 
+<br/>
+<iframe src="https://player.vimeo.com/video/285330893" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+
 ## Camera
 
 The leftmost icon in the Source bar accesses Camera mode. With this selected, video from a camera is displayed in the Main Window. If you have more than one camera source available (for example, a built-in webcam and an external video camera attached to your Mac via USB) then Ecamm Live will display a video source switcher at the bottom. When only one video source is detected by Ecamm Live, the video switcher on the Main Window will be hidden.

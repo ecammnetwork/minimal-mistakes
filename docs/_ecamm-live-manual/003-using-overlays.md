@@ -39,6 +39,8 @@ To change the width of a text Overlay without changing the font size, place your
 
 ## Image Overlays
 
+<iframe src="https://player.vimeo.com/video/285332619" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<br/>
 Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text in a graphics app, such as Photoshop or Pixelmator, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any supported image file on the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 5 other ways to create an Image Overlay:
 
 * Drag an image file from the Finder into the <samp>Overlays</samp> Window.

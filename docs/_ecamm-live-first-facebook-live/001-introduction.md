@@ -3,6 +3,8 @@ toc: false
 title: Your First Facebook Live Broadcast
 ---
 
+<iframe src="https://player.vimeo.com/video/285332807" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<br/>
 In this tutorial, we’ll discuss how to do a single camera, “talking head”-style Facebook Live broadcast. You’ll see how Ecamm Live tools, along with a little planning and preparation, can help you make a simple and impactful Facebook Live broadcast.
 
 * Before You Broadcast: A basic setup for Facebook Live.

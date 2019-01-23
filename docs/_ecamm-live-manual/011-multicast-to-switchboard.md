@@ -2,7 +2,7 @@
 
 ---
 
-[Switchboard Live](https://www.switchboard.live) is a cloud-based service for live streaming to multiple platforms.  To use Switchboard in Ecamm Live, select <samp>Switchboard Live</samp> in the Destination menu. The Switchboard <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
+[Switchboard Live](https://www.switchboard.live?afmc=ecammlive) is a cloud-based service for live streaming to multiple platforms.  To use Switchboard in Ecamm Live, select <samp>Switchboard Live</samp> in the Destination menu. The Switchboard <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
 
 If you’ve never logged into Switchboard with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log into Switchboard on the web.
 

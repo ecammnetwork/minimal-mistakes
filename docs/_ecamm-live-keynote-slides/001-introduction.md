@@ -6,9 +6,8 @@ title: "Presenting Slideshows with Apple Keynote and Ecamm Live"
 
 Ecamm Live allows you leverage many of your favorite apps—one of the main reasons you use a Mac!—while broadcasting. Apple Keynote is known as perhaps the world’s finest presentation app on any platform, yet is both powerful and simple to use. With Ecamm Live, you can use that power and simplicity while broadcasting live. 
 
-{% include video id="247350247" provider="vimeo" %}
+<iframe class="bashfulmovie" src="https://player.vimeo.com/video/286599133?background=1" frameborder="0" data-ready="true" style="opacity: 1;"></iframe>
 
-**Note:** insert Keynote Presentation.mp4 above, looping.
 {:.notice--warning}
 
 **Note:** Keynote calls its output “Slideshows” so for consistency’s sake, we’ll use “slideshow” instead of presentation, slides, or slide deck in this tutorial.

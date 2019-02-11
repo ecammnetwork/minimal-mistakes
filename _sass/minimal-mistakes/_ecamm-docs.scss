@@ -1,5 +1,10 @@
 /* kbd, samp, ins, :before style for inserting images describing menus */
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 kbd {
 	display: inline-block;
 	color: #fff;
@@ -106,7 +111,7 @@ header[role=banner] {
 
 @media only screen and (min-width: 770px) {
 header[role=banner] {
-	
+
 	position: fixed;
 }
 }
@@ -211,7 +216,7 @@ footer[role=contentinfo] {
 }
 footer[role=contentinfo] .wrapper {
 	width: 50.25em;
-	
+
 }
 footer[role=contentinfo] .col-3 {
 	float: left;
@@ -315,6 +320,6 @@ footer[role=contentinfo] a:active {
 		padding-bottom: 0px;
 		padding-left: 0px;
 	}
-	
+
 }
 

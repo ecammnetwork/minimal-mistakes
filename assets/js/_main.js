@@ -62,7 +62,7 @@ $(document).ready(function() {
   });
 
   // init smooth scroll
-  $("a").smoothScroll({ offset: -20 });
+  //$("a").smoothScroll({ offset: -20 });
 
   // add lightbox class to all image links
   $(

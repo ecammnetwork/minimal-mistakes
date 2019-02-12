@@ -10,30 +10,30 @@ manual:
     url: /ecamm-live-manual/001-welcome
   - title: "Your First Time Around with Ecamm Live"
     url: /ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+  - title: "Camera Mode"
+    url: /ecamm-live-manual/003-camera-mode
+  - title: "Screenshare Mode"
+    url: /ecamm-live-manual/004-screenshare-mode
+  - title: "Video File Mode"
+    url: /ecamm-live-manual/005-video-file-mode
   - title: "Using Overlays"
-    url: /ecamm-live-manual/003-using-overlays
-  - title: "Source Modes"
-    url: /ecamm-live-manual/004-source-modes
+    url: /ecamm-live-manual/006-using-overlays
   - title: "Using Scenes"
-    url: /ecamm-live-manual/005-using-scenes
-  - title: "Broadcast to Facebook"
-    url: /ecamm-live-manual/006-broadcast-to-facebook/
-  - title: "Broadcast to Periscope"
-    url: /ecamm-live-manual/007-broadcast-to-periscope/
-  - title: "Broadcast to YouTube"
-    url: /ecamm-live-manual/008-broadcast-to-youtube/
-  - title: "Broadcast to Twitch"
-    url: /ecamm-live-manual/009-broadcast-to-twitch/
-  - title: "Multicast to Restream.io"
-    url: /ecamm-live-manual/010-multicast-to-restream/
-  - title: "Multicast to Switchboard"
-    url: /ecamm-live-manual/011-multicast-to-switchboard/
-  - title: "Broadcasting to Other Services"
-    url: /ecamm-live-manual/012-broadcast-to-rtmp
-  - title: "Local Recordings of Your Broadcasts"
-    url: /ecamm-live-manual/013-local-recordings
+    url: /ecamm-live-manual/007-using-scenes
   - title: "Remote Guests via Skype"
-    url: /ecamm-live-manual/014-remote-guests-via-skype
+    url: /ecamm-live-manual/008-remote-guests-via-skype
+  - title: "Broadcasting to Facebook"
+    url: /ecamm-live-manual/009-broadcast-to-facebook/
+  - title: "Broadcast to YouTube"
+    url: /ecamm-live-manual/010-broadcast-to-youtube/
+  - title: "Broadcasting to Other Services"
+    url: /ecamm-live-manual/011-broadcast-to-other-services
+  - title: "Recordings Your Broadcasts"
+    url: /ecamm-live-manual/012-recording-your-broadcasts
+  - title: "Adjusting Sound Levels"
+    url: /ecamm-live-manual/013-adjusting-sound-levels
+  - title: "Outputs and Virtual Webcam"
+    url: /ecamm-live-manual/014-outputs-and-virtual-webcam
   - title: "Other Options"
     url: /ecamm-live-manual/015-other-options
 

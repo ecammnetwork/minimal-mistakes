@@ -13,11 +13,11 @@ Upon opening Ecamm Live, you’ll be greeted by the Main Window, and several sma
 
 The Main Window is your monitor of what your audience sees, except the tools we’ve laid on top of this window—and your cursor—which are only visible to you. You can resize the main window by dragging from any edge or corner of the window.
 
-The smaller windows are for control of [Sound Levels](../004-source-modes/#the-sound-levels-window), [Scenes](../005-using-scenes), [Overlays](../003-using-overlays), and [Comments and Reactions.](../003-using-overlays/#facebook-comment-overlays) If you dismiss any of these windows, you can bring them back by visiting the <samp>Windows</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
+The smaller windows are for control of [Sound Levels](../013-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Effects](../003-camera-mode/#camera-effects), and [Comments and Reactions.](../006-using-overlays/#facebook-comment-overlays) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
 
 At the center bottom of the Main Window is a blue <samp class="blue">Login</samp> button, which will allow us to connect you to Facebook, YouTube or Periscope.
 
-Note: If you’re not going to use Ecamm Live with Facebook, YouTube or Periscope, logging in is optional. You can still record to your Mac, and stream to services that use [RTMP](../007-broadcast-to-rtmp).
+Note: If you’re not going to use Ecamm Live with Facebook, YouTube, Twitch or Periscope, logging in is optional. You can still [record to your Mac](../012-recording-your-broadcasts/#record-only-mode), or stream to services that use [RTMP](../011-broadcast-to-other-services/#using-a-stream-key).
 {:.notice--info}
 
 [![Figure\: Annotated Main Window with tools labeled](/assets/img/main-window-annotated.png "Click for full-size image.")
@@ -25,7 +25,7 @@ Note: If you’re not going to use Ecamm Live with Facebook, YouTube or Periscop
 
 ## Tools within the Main Window
 
-At the top left of the Main Window is the <samp>Scenes</samp> pull-down button. The text of the button shows the name of your currently active Scene. Any other Scenes you’ve created are listed within the menu, giving you fast access to switching scenes during a stream or recording. Reference our section on [Scenes](../005-using-scenes) for more details on what Scenes are, and how to use them.
+At the top left of the Main Window is the <samp>Scenes</samp> pull-down menu. The text of the button shows the name of your currently active Scene. Any other Scenes you’ve created are listed within the menu, giving you fast access to switching scenes during a stream or recording. Reference our section on [Scenes](../007-using-scenes) for more details on what Scenes are, and how to use them.
 
 At the top center of the Main Window you’ll find Ecamm Live’s three primary modes— we call them Sources— you can use in your broadcast.
 
@@ -35,22 +35,27 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} [Video File](../004-source-modes/#video-files)
 
-The top right of the Main Window contains two icons, the <samp>Sound Levels</samp> button, and the <samp>Overlays</samp> button. Both show or hide the windows for each tool.
+<br/>
+<iframe src="https://player.vimeo.com/video/285330893" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-{% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} [Sound Levels](../004-source-modes/#the-sound-levels-window)
+The top right of the Main Window contains three icons, the Sound Levels button, the Overlays button, and the Camera Effects button. Each show or hides the windows for each tool.
 
-{% inlineicon overlays 65 graybutton %}Overlays Button{% endinlineicon %} [Overlays](../003-using-overlays)
+{% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} [Sound Levels](../013-adjusting-sound-levels/)
 
-The five links above go to the manual's sections for each source and explain each in detail.
+{% inlineicon overlays 45 graybutton %}Overlays Button{% endinlineicon %} [Overlays](../006-using-overlays)
+
+{% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} [Camera Effects](../003-camera-mode/#camera-effects)
+
+The six links above go to the manual's sections for each source and explain each in detail.
 {:.notice--info}
 
 The bottom right corner holds menus which control where your broadcasts go. The options here are dependent upon which settings you’ve selected.
 
-If you've picked Facebook, YouTube or Periscope as your Destination, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook or YouTube, and control when to broadcast.
+If you've picked Facebook or YouTube as your Destination, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook or YouTube, and control when to broadcast.
 
-If you select <samp>Custom Stream Key</samp>, a sheet will appear over the window with the settings required to [stream to services other than Facebook, YouTube, Twitch, and Periscope.](../009-broadcast-to-rtmp)
+If you select <samp>Custom Stream Key</samp>, a sheet will appear with the settings required to [stream to services other than Facebook, YouTube, Twitch, and Periscope](../011-broadcast-to-other-services/#using-a-stream-key).
 
-Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../010-local-recordings)
+Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../012-recording-your-broadcasts/#record-only-mode)
 
 The bottom center of the Main Window holds the big blue button which depending on the destinations settings can read,
 
@@ -59,6 +64,9 @@ The bottom center of the Main Window holds the big blue button which depending o
 
 <samp class="blue">Go Live</samp>
 : If you’re logged in and ready to go, or if you’re using a stream key.
+
+<samp class="blue">Preview</samp>
+: If you've selected an upcoming [scheduled broadcast](009-broadcast-to-facebook/#creating-a-new-scheduled-live) in Facebook or YouTube.
 
 <samp class="blue">Record</samp>
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>

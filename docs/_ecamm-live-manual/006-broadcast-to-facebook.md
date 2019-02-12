@@ -45,7 +45,7 @@ You'll only have to do this once per Group. Once enabled, all Group members will
 
 If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp> you may click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately, or first create a Facebook Post to accompany the video.
 
-To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast. Optionally, if you would like to enter a Title for your broadcast, select <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Show Title Field</samp>. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
+To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast.
 
 Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement. If your broadcast is public, it will also place you on the [Facebook Live Map](https://www.facebook.com/live/discover/map/).
 
@@ -62,6 +62,8 @@ To enter a return (new line) in the description field, hold down shift while pre
 Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu in the bottom right corner. This list of scheduled broadcasts resides on Facebook, so if you quit Ecamm Live or use Ecamm Live on another Mac, you'll still see the same list of scheduled broadcasts here.
 
 When a pending broadcast is selected, in the bottom left corner of the Main Window you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+
+The broadcast can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embed a video player on a page on the web.
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
@@ -136,9 +138,15 @@ Ecamm Live will stay logged into Facebook unless you manually log out, or if you
 
 If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Pick <samp>Log Out</samp>.
 
-## A Few Advanced Settings for Facebook Live
+### Advanced Settings for Facebook Live
 
-### Using Facebook Ambient Broadcasts
+To change Facebook-specific settings, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. Pick <Samp>Facebook</samp> from the tabs at the top of the Preferences window.
+
+#### Show Title Field
+
+If you would like to enter a Title for your broadcast, pick this checkbox in the Facebook section of the Preferences. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
+
+#### Ambient Broadcast
 
 Ambient broadcasts—also called continuous broadcasts—are a special kind of live stream that
 
@@ -146,19 +154,25 @@ Ambient broadcasts—also called continuous broadcasts—are a special kind of l
 * Will disappear from your timeline immediately when the stream ends 
 * Does not send notifications to followers
 
-Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Ambient Broadcast</samp>.
+Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the Facebook section of the Preferences.
 
-### Embedding Your Broadcast
+#### Disallow Embedding
 
-The video player your Live broadcast resides in can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embeda video player on a page on the web.
+The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or on the web, but there are times you may prefer to disallow it. To disallow embedding, check this checkbox in the Facebook section of the Preferences.
 
-### Disallow Embedding
+### Business Page Settings (Pro Only)
 
-The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or on the web, but there are times you may prefer to disallow it. <samp>Options</samp> menu ➝ <samp>Facebook Options</samp> ➝ <samp>Disallow Embedding</samp>.
+Choose a Business Page in the Facebook section of the Preferences to configure settings for automatic crossposting and branded content. These settings are only available with an Ecamm Live Pro subscription.
 
-### Broadcasting Branded Content
+#### Automatic Business Page Crossposting
 
-Facebook policies require creators and publishers to tag their business partners in their [branded content posts](https://www.facebook.com/help/publisher/1045927788843932?helpref=page_content#). When setting up a Live broadcast that involves a business partner, enter a Sponsor ID by selecting <samp>Options</samp> ➝ <samp>Facebook Options</samp> ➝ <samp>Include Sponsor ID</samp>. This option is only available when broadcasting to a business Page.
+Automatic crossposting is a Facebook feature that will automatically present your broadcast on more than one Business Page. Note that this does not apply to Groups, and that comments and reactions will not show up between the crossposted Business Pages.
+
+Business pages that have crossposting relationships will be listed automatically. Establish cross-posting relationships using [the Page's Crossposting settings](https://www.facebook.com/EcammNetwork/settings/?tab=video_crossposting) on the Facebook website.
+
+#### Broadcasting Branded Content
+
+Facebook policies require creators and publishers to tag their business partners in their [branded content posts](https://www.facebook.com/help/publisher/1045927788843932?helpref=page_content#). When setting up a Live broadcast that involves a business partner, enter a Sponsor ID.
 
 <aside class="notice--warning" markdown="1">
 #### Don't Get into Trouble—a legal aside

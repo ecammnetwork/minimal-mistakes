@@ -33,6 +33,10 @@ Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/)
 
 Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/). This requires installing both the _Mac OS X beta drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage](http://www.kinoni.com).
 
+### Support for Broadcasting Your iOS Device's Screen
+
+Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is trusted by the Mac, and that iTunes recognizes the device. It should then automatically show up as a video source and audio source in Ecamm Live.
+
 ### Support for 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
@@ -40,7 +44,16 @@ Ecamm Live supports streaming from 360° cameras to services like Facebook Live 
 
 ### Video Source Switcher
 
-The video source switcher allows you to broadcast one or more video sources. Select one video source to fill the Main Window with that video. If you would like to display more than one video source at the same time, hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the videos at equal size—up to nine sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use split screen mode, you'll want to ensure all participants are in the center of their camera view.
+The video source switcher allows you to switch video sources or broadcast one or more video sources. The switcher will show up automatically when more than one videoi source is detected. Select one video source in the switcher to fill the Main Window with that video. If you would like to display more than one video source at the same time, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the videos at equal size—up to nine sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use split screen mode, you'll want to ensure all participants are in the center of their camera view.
+
+#### Video Source Switcher Options
+
+To the left of the video sources in the switcher, you'll see a few options: 
+
+* Click the picture-in-picture button to use a picture-in-picture layout instead of a split screen. Click it again to return to split-screen mode.
+* Pick <samp>Select All</samp> from the gear menu to select all video sources.
+* Pick <samp>Swap Cameras</samp> from the gear menu to swap the position of your split screen or picture-in-picture layout.
+* Pick <samp>Crop Splitscreen</samp> from the gear menu to turn on and off cropping mode. When not cropping, 2 and 3 camera splitscreen mode will be presented with letterboxing.
 
 The video switcher bar can be dragged anywhere within the Main Window. When you're not moving your cursor over the Main Window, this bar will fade away. Move your cursor over the Main Window, and it'll reappear.
 
@@ -70,7 +83,7 @@ When using the Screen Sharing source mode, Ecamm Live will also broadcast the Ma
 
 ### Controlling Ecamm Live While Using Other Apps
 
-While you're live, if you switch to another app, a small floating control window will be displayed. To turn this on or off, use <samp>Options</samp> menu ➝ <samp>Show Controls in Other Apps</samp>. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../005-using-scenes) and Source modes.
+While you're live, if you switch to another app, a small floating control window will be displayed. To turn this on or off, use <samp>Show Controls in Other Apps</samp> checkbox in the General section of the Preferences. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../005-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
 
 **_Note:_** In all Screen Share modes, Ecamm Live's windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
 {:.notice--info}
@@ -110,27 +123,13 @@ We are not lawyers, but when playing videos you did not create yourself, be awar
 {:.notice--warning}
 
 
-### Picture in Picture for Screen Share and Video Mode
+### Picture in Picture
 
+Picture-in-Picture can be summoned or dismissed by clicking the leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the onscreen controls, or using the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp>. The PiP box can be moved anywhere within the Main Window. It features a mute toggle button only visible to you, for your microphone. You can change the size of the PiP by dragging the bottom right corner of it. 
 
-#### In Screen Share Mode
+You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Picture-in-Picture Shape</samp>, or by right-clicking or control-clicking on the PiP window. Shape options include a rectangle, square or circle.
 
-The leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} of the Screen Share control bar toggles the visibility of the camera Picture-in-Picture (PiP) box.
-
-In Screen Share mode, your microphone is automatically enabled whether or not the PiP window is not on screen. You can mute or unmute your mic audio by clicking the {% inlineicon mic 20 inverted %}Microphone Button{% endinlineicon %} icon within the Screen Share control bar.
-
-
-#### In Video Mode
-
-To use or hide the PiP box, click the leftmost icon {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the video control bar. 
-
-In video playback mode, your microphone is automatically muted when the PiP window is not on screen. Only the video's audio will play. When the PiP window is brought back, your audio is automatically unmuted. You can unmute (and mute again) your mic audio while a video is playing and the PiP is hidden by clicking the microphone icon within the video control bar.
-
-#### In Screen Share and Video mode
-
-Picture-in-Picture can be summoned or dismissed with the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp> or <kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>P</kbd>. The PiP box can be moved anywhere within the Main Window. It features a mute toggle button only visible to you, for your microphone. You can change the size of the PiP by dragging the bottom right corner of it. You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Picture-in-Picture Shape</samp>.
-
-When switching between Camera mode and other source modes with Picture-in-Picture turned on, the <samp>Options</samp> ➝ <samp>Animate Transitions</samp> setting adds a zoom transition. The transition will only animate if the same camera source is being used in both Scenes and the Picture-in-Picture shape matches the broadcast's shape.
+In video playback mode, your microphone is automatically muted when the PiP window is not on screen. Only the video's audio will play. When the PiP window is brought back, your audio is automatically unmuted. You can unmute (and mute again) your mic audio while a video is playing and the PiP is hidden by clicking the microphone icon within the video control bar, or by using the <samp>MUTE</samp> button in the Sound Levels window.
 
 ### The Sound Levels Window
 
@@ -138,7 +137,9 @@ The Sound Levels Window shows what audio source is in use. Clicking on the name 
 
 ![Sound Levels Window in Video Playback Mode](/assets/img/sound-levels.jpg "Sound Levels Window in Video Playback Mode"){: width="360px"}
 
-A meter in the Sound Levels Window will show the currently selected  source's volume level. You can adjust this with the slider.  When a Skype call is in progress, you can also adjust its levels with the Sound Levels Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype) When sharing your screen, you'll also see a sound level adjustment for System Audio.
+A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a Skype call is in progress, you can also adjust its levels with the Sound Levels Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype) When sharing your screen, you'll also see a sound level adjustment for System Audio.
+
+Each audio channel (microphone, movie audio, Skype, and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have a Skype guest online, but only unmute the Skype guest's audio in particular Scenes.
 
 ### How Ecamm Live Deals with Audio
 

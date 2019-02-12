@@ -15,6 +15,8 @@ A scene may encompass the following Ecamm Live settings:
 * Video File mode's <samp>Loop Video File</samp> setting.
 * Picture-in-picture visibility, size, shape and position. 
 * Current overlays
+* The audio mute settings in the Sound Levels window.
+* All green screen settings except Fade Level. (Fade Level is specific to the selected video source.)
 
 Suppose you are running an interview show. You may want to have one Scene where it is you and your guest, both displayed with names below your video. Then you can create a Scene for just your guest's video and their name, and another for just your video and your name. Then you can quickly switch between all three views during the interview. We recommend taking a little time to plan out your overlays and then orchestrate them using Scenes. It can help your broadcasts go smoothly.
 

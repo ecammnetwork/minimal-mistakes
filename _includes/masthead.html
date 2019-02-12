@@ -3,11 +3,11 @@
 		<div class="logo">
 			<a href="https://www.ecamm.com/"><img src="//www.ecamm.com/images/logo_@2x.png" alt="Ecamm"></a>
 		</div>
-		
+
 		<nav role="navigation">
 			<ul class="clear">
 				<li><a href="https://www.ecamm.com/mac/">Products</a></li>
-				<li><a href="https://www.ecamm.com/support/">Support</a></li>
+				<li><a href="https://www.ecamm.com/support/?cat=ecammlive">Support</a></li>
 				<li class="shop-button"><a href="https://www.ecamm.com/cgi-bin/shopping/cart">Cart</a></li>
 			</ul>
 		</nav>
@@ -18,7 +18,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" style="font-size:0.85em;">
 
-        <a class="site-title" href="https://www.ecamm.com/support/?cat=ecammlive">Ecamm Live Support</a> &gt; 
+        <a class="site-title" href="https://www.ecamm.com/support/?cat=ecammlive">Ecamm Live Support</a> &gt;
 
 {% for collection in site.collections %}
 
@@ -39,19 +39,19 @@
 {% endif %}
 
 	<a href="{{ thename.url }}">{{ thename.title }}</a>
-    
+
     {% endif %}
 
 {% endfor %}
 
 
- 			&gt; 
+ 			&gt;
 			<div style="display: block; margin: 0 1rem; padding: 0.5rem 0;">
  			{% if page.title == thename.title %}
 	 			Introduction
 	 		{% else %}
 	 			{{ pagetitlefixed }}
-			{% endif %}	 		
+			{% endif %}
 			</div>
 <!--        <ul class="visible-links">
           {% for link in site.data.navigation.main %}

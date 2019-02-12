@@ -9,7 +9,7 @@ title: Ecamm Live Manual
 Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, Periscope, Twitch, Restream.io and Switchboard Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
 
 Why would you choose to use a Mac app to live stream, when you can stream straight from your web browser, or mobile device? Because Ecamm Live gives you superpowers…
-* **Add Text, image movie overlays** to your broadcast, on-the-fly, or build them ahead of time.
+* **Add Text, image, PDF and movie overlays** to your broadcast, on-the-fly, or build them ahead of time.
 * When broadcasting to Facebook Live, YouTube Live, Periscope, and Twitch **view a live feed of your comments and reactions.** 
 * **Add viewer comments to your broadcast.** Simply drag them onto the window and they appear automatically as overlays.
 * **Conduct live video interviews** with as many as 5 remote guests via Skype.
@@ -30,7 +30,7 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 * A Mac 
 * A microphone
 * A compatible video camera (including built-in webcams)
-* macOS 10.11 or newer
+* macOS 10.12 or newer
 * An internet connection with an upload speed of at least 1 Mbps.
   * 4 Mbps is required for HD quality.
 * A Mac with hardware-accelerated video encoding (most Macs manufactured after 2010).

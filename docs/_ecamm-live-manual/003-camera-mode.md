@@ -43,6 +43,8 @@ Ecamm Live supports streaming from 360° cameras to services like Facebook Live 
 
 The video source switcher allows you to switch video sources, or to broadcast more than one video source. The switcher will show up automatically when more than one video source is detected. 
 
+![Video Source Switcher](/assets/img/switcher.jpg "Video Source Switcher"){: width="319px"}
+
 ### Selecting Multiple Sources
 
 If you would like to display more than one video source at the same time, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use  a two- or three-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
@@ -71,6 +73,8 @@ You can change the size of the PiP by dragging the bottom right corner of it. Yo
 
 If you don't see the Camera Effects window on the screen, click the {% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} button in the top-right corner of the Main Window to show it.
 
+![Camera Effects Window](/assets/img/cameffects.jpg "Camera Effects Window"){: width="448px"}
+
 ### Green Screen
 
 The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image file. It can also be used in transparent mode, to remove the background entirely when appearing a picture-in-picture mode in [Video File mode](../005-video-file-mode) or [Screenshare mode](../004-screenshare-mode).
@@ -89,6 +93,6 @@ There are a few other options in the Green Screen settings:
 
 * <samp>Blur Background</samp> Apply a blur effect to the selected background image.
 
-* <samp>Transparent PIP</samp> When using picture-in-picture, make the green screen transaprent rather than using the selected background image. (See the example below.)
+* <samp>Transparent PIP</samp> When using picture-in-picture, make the green screen transparent rather than using the selected background image. The Mac screen of playing video then becomes the backdrop.
 
 * <samp>Mask Edges</samp> Ecamm Live can automatically remove objects along the edge of the frame such as a microphone or the edge of a backdrop. Click the button again to turn off the masking.

@@ -8,9 +8,9 @@ On subsequent clicks of the Video icon, you'll see a  menu appear instead, with 
 
 Your video will begin playing _immediately_ after selection. If you would prefer to disable autoplay, you may do so in the <samp>Video</samp> section of the <samp>Preferences</samp>.  If you'd like to have the selected video start over automatically as soon as it finished, choose <samp>Options</samp> menu ➝ <samp>Loop Video Files</samp>.
 
-Audio from the video will be broadcast automatically, but your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
+Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 
-While the video plays, you can control it with the Video Control Bar. Only you can see the controller, it is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the Sound Levels Window.
+While the video plays, you can control it with the Video Control Bar. Only you can see the controller. It is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the [Sound Levels](../013-adjusting-sound-levels/) Window.
 
 [![Figure\: Video Playback Mode Annotated Main Window ](/assets/img/video-playback-mode-annotated.png "Click for full-size image.")
 ](/assets/img/video-playback-mode-annotated.png)
@@ -19,7 +19,7 @@ We are not lawyers, but when playing videos you did not create yourself, be awar
 {:.notice--warning}
 
 
-### Picture in Picture
+## Picture in Picture
 
 Picture-in-Picture can be summoned or dismissed by clicking the leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the onscreen controls, or using the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp>. The PiP box can be moved anywhere within the Main Window. It features a mute toggle button only visible to you, for your microphone. You can change the size of the PiP by dragging the bottom right corner of it. 
 

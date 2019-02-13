@@ -13,7 +13,7 @@ Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds i
 
 #### Show Controls While In Other Apps
 
-While you're live, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../005-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
+While you're live, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
 
 #### Keep Utility Windows In Front While Live 
 
@@ -87,11 +87,11 @@ When this option is enabled, Ecamm Live's Video File source mode will begin play
 
 #### Use Echo Cancellation
 
-Use this checkbox to toggle [Echo Cancellation](../004-source-modes/#echo-cancellation).
+Use this checkbox to toggle [Echo Cancellation](../013-adjusting-sound-levels/#echo-cancellation).
 
 #### Broadcast System Audio
 
-By default, Ecamm Live will broadcast your Mac's system audio when in [Screenshare mode](../004-source-modes/#screen-share). Change this setting to either never broadcast system audio, or to broadcast system audio all the time.
+By default, Ecamm Live will broadcast your Mac's system audio when in [Screenshare mode](../004-screenshare-mode). Change this setting to either never broadcast system audio, or to broadcast system audio all the time.
 
 #### Automatically Mute Microphone During Video Playback
 

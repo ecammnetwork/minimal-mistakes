@@ -1,5 +1,5 @@
 ---
-
+title: Broadcasting to Facebook
 ---
 
 _See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction/) for the bare essentials from first-run to your first Facebook Live broadcast.
@@ -11,7 +11,7 @@ In the <samp>Destination</samp> menu in the bottom corner of the Main Window, se
 * <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
 * <samp class="blue">Preview</samp> — you're logged into Facebook, and have scheduled an upcoming Live broadcast.
 
-### Login to Facebook
+## Login to Facebook
 
 Click the blue <samp class="blue">Login</samp> button to summon Facebook's login screen. Enter your credentials, and if you use two-factor authentication, you'll be asked for that code as well.
 
@@ -27,9 +27,9 @@ Once you're logged in, you're only one click away from your first Facebook Live 
 
 ![Figure\: Post As Menu Options labeled](/assets/img/facebook-destination-post-as-menu.png "Post As Options"){:width="400px"}
 
-* <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. If you're posting as yourself, options include your personal Profile, and any Groups you administer. if you have selected to post as a Page, you'll see options for the Page's timeline and any Groups that your administer.  (Note however that you'll only be able to stream as a Page to Groups linked to that Page.) When posting to your personal Profile, you'll see privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
+* <samp>Post to</samp> — Select **where** your Facebook Live broadcast will appear, and your options depend upon who you're posting as. If you're posting as yourself, options include your personal Profile, and any Groups you administer. if you have selected to post as a Page, you'll see options for the Page's timeline and any Groups linked to that Page. When posting to your personal Profile, you'll see privacy options to choose from, like <samp>Profile (Just Friends)</samp> which allow you to restrict your audience.
 
-You may also see additional Groups listed in the menu, that you do no administer. These are Groups where an administrator has already added the Ecamm Live app.
+You may also see additional Groups listed in the menu, that you do no administer. These are Groups where an administrator has enabled the Ecamm Live app.
 
 <aside class="notice--warning" markdown="1">
 #### Adding Ecamm Live to a Facebook Group
@@ -41,21 +41,19 @@ You'll only have to do this once per Group. Once enabled, all Group members will
 
 * <samp>Go Live</samp> — Select **when** your broadcast will post to Facebook. Your choices are <samp>Now</samp> and <samp>New Scheduled Live…</samp>
 
-### Going Live Now
+## Going Live Now
 
 If you select <samp>Go Live</samp> ➝ <samp>Now (Unscheduled)</samp> you may click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately, or first create a Facebook Post to accompany the video.
 
 To create a post for your Live broadcast, in the bottom left corner of the Main Window, you'll see a <samp>Description</samp> field and a map pin icon. Text entered in the <samp>Description</samp> field will become the text of the post that accompanies your Facebook Live broadcast.
 
-Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement. If your broadcast is public, it will also place you on the [Facebook Live Map](https://www.facebook.com/live/discover/map/).
+Clicking the{% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin allows you to tell Facebook where you're broadcasting from, which will be noted in your Facebook Live announcement.
 
 Once you've added the content for the post, click the big blue button labeled <samp class="blue">Go Live</samp> in the Main Window to broadcast immediately.
 
-### Creating a New Scheduled Live
+## Creating a New Scheduled Live
 
 If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet appears to help you create a Scheduled Live broadcast, with a description and time for the broadcast. These will create an announcement post on Facebook at the <samp>Post to</samp> location. At the time you choose, between ten minutes from <em>now</em> and seven days from now, the announcement will turn into a live video post. If you'd like an image to accompany the announcement, drag an image onto the circular icon on the right side of the post editor. You may click the {% inlineicon locbutton 15 inverted %}Map Pin icon{% endinlineicon %}map pin icon to add a location for the broadcast.
-
-To enter a return (new line) in the description field, hold down shift while pressing return.
 
 [![Figure\: Scheduled Live Announcement Post Editor, annotated](/assets/img/facebook-scheduled-live-editor.png "Scheduled Live Announcement Post Editor. Click for full-size image.")](/assets/img/facebook-scheduled-live-editor.png)
 
@@ -67,13 +65,13 @@ The broadcast can be embedded into other places. This can be a great thing for y
 
 Before the countdown reaches zero, the big blue button displays <samp class="blue">Preview</samp>. Pressing <samp class="blue">Preview</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The preview stream is only visible to the broadcaster. Visit the post announcing your Live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to preview your live stream. If, while you're previewing the stream, the countdown to your Live broadcast ends, your preview will become the Live broadcast automatically.
 
-### View Viewer Comments and Reactions
+## View Viewer Comments and Reactions
 
-During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. If you don't see this window, pick it from <samp>Windows</samp> menu at the top of the screen. Additionally, during a broadcast, if there are comments, you'll see a button in the bottom left-hand corner of the Main Window to reveal the Comments and Reaction window.
+During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. If you don't see this window, pick it from <samp>Windows</samp> menu at the top of the screen. Additionally, during a broadcast, if there are comments, you'll see a {% inlineicon comment 20 graybutton %}Comment Button{% endinlineicon %} button in the bottom left-hand corner of the Main Window to reveal the Comments and Reaction window.
 
 ### Restrictions on Group Comments
 
-Due to Facebook privacy restrictions, when broadcasting to a Facebook Group, Ecamm Live is not able to display Group member names and profile photos unless the Group members have explicitly granted permission to the Ecamm Live app. This means that comments from Group members who have not granted permission will show up anonymously.
+Due to Facebook privacy restrictions, when broadcasting to a closed or private Facebook Group, Ecamm Live is not able to display Group member names and profile photos unless the Group members have explicitly granted permission to the Ecamm Live app. This means that comments from Group members who have not granted permission will show up anonymously.
 
 ![Figure\: Comments & Reactions Window with an anonymous Group comment](/assets/img/group_comments.png "Comments & Reactions Window with an anonymous Group comment"){:width="425px"}
 
@@ -100,7 +98,7 @@ Note that the above information about anonymous comments and inviting Group memb
 
 ### Display Comments on Your Broadcast
 
-If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
+If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/006-using-overlays/#comment-overlays).
 
 <aside markdown="1" class="notice">
 #### A note about delay in Live broadcasts
@@ -108,13 +106,11 @@ If you would like to share your viewers' comments with the audience, you can add
 Live broadcasts have a delay. This is delay is not generated by Ecamm Live. Everyone who watches (including you viewing your preview stream) will be roughly 10 seconds behind you. Keep this in mind when interacting with the audience, as any feedback they provide will be significantly behind you.
 </aside>
 
-### Ending a Facebook Live Broadcast
+## Ending a Facebook Live Broadcast
 
-Click <samp class="blue">Finish</samp>.
+Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
 
-(Well, that was brief.)
-
-### After a Facebook Live Broadcast
+## After a Facebook Live Broadcast
 
 After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
@@ -128,25 +124,25 @@ The next two items concern a local Recording of your broadcast. Much more on Rec
 
 <samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the recording file in your Mac's Finder.
 
-<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to your YouTube account.
+<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to your YouTube channel.
 
-If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options. Once you've uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
+If you've never used the YouTube feature, you'll be asked to sign in when you press the <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> button. You'll then be presented with a form to add information about your upload, and set its visibility options.
 
-### Logging out of Facebook
+## Logging out of Facebook
 
 Ecamm Live will stay logged into Facebook unless you manually log out, or if you remove permissions for Ecamm Live in Facebook's account settings.
 
-If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log out</samp>. In the Main Window, we'll ask to confirm before logging you out. Pick <samp>Log Out</samp>.
+If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is selected in the <samp>Destination</samp> menu. Then go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out Facebook</samp>. In the Main Window, we'll ask to confirm before logging you out. Pick <samp>Log Out</samp>.
 
-### Advanced Settings for Facebook Live
+## Advanced Settings for Facebook Live
 
 To change Facebook-specific settings, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. Pick <Samp>Facebook</samp> from the tabs at the top of the Preferences window.
 
-#### Show Title Field
+### Show Title Field
 
 If you would like to enter a Title for your broadcast, pick this checkbox in the Facebook section of the Preferences. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
-#### Ambient Broadcast
+### Ambient Broadcast
 
 Ambient broadcasts—also called continuous broadcasts—are a special kind of live stream that
 
@@ -156,7 +152,7 @@ Ambient broadcasts—also called continuous broadcasts—are a special kind of l
 
 Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the Facebook section of the Preferences.
 
-#### Disallow Embedding
+### Disallow Embedding
 
 The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or on the web, but there are times you may prefer to disallow it. To disallow embedding, check this checkbox in the Facebook section of the Preferences.
 
@@ -164,13 +160,13 @@ The video player your Live broadcast resides in can be embedded into places you 
 
 Choose a Business Page in the Facebook section of the Preferences to configure settings for automatic crossposting and branded content. These settings are only available with an Ecamm Live Pro subscription.
 
-#### Automatic Business Page Crossposting
+#### Automatic Business Page Crossposting (Pro Only)
 
 Automatic crossposting is a Facebook feature that will automatically present your broadcast on more than one Business Page. Note that this does not apply to Groups, and that comments and reactions will not show up between the crossposted Business Pages.
 
-Business pages that have crossposting relationships will be listed automatically. Establish cross-posting relationships using [the Page's Crossposting settings](https://www.facebook.com/EcammNetwork/settings/?tab=video_crossposting) on the Facebook website.
+Business pages that have crossposting relationships will be listed automatically. Establish cross-posting relationships using the Page's Crossposting settings on the Facebook website. To find the Crossposting setting, got a Page that you administer on facebook.com. Click the "Settings" link in the top-right corner to view the Page's settings. In the left-hand sidebar, you'll see <samp>Crossposting</samp>.
 
-#### Broadcasting Branded Content
+#### Broadcasting Branded Content (Pro Only)
 
 Facebook policies require creators and publishers to tag their business partners in their [branded content posts](https://www.facebook.com/help/publisher/1045927788843932?helpref=page_content#). When setting up a Live broadcast that involves a business partner, enter a Sponsor ID.
 

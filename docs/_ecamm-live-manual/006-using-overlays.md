@@ -3,19 +3,18 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 65 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. 
+Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. 
 
 There are five types of Overlays:
 
 ## Text Overlays
 
-Almost any need for text on the screen can be addressed with Text Overlays. There are 4 ways you can display a Text Overlay:
+Almost any need for text on the screen can be addressed with Text Overlays. There are four ways to add a Text Overlay:
 
 * Select <samp>New Text Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addtext 20 inverted %}Add Text Overlay Button{% endinlineicon %} button at the bottom the Overlays Window,
 * Type <kbd>⌘</kbd><kbd>N</kbd>.
-
-Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as Overlay</samp> will allow you to paste in plain or styled text.
+* Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as Overlay</samp> will allow you to paste in plain or styled text.
 
 When you create a new Text Overlay, a Text Editing Sheet will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, text opacity (how much you can “see through” the text), background color and background opacity. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
  
@@ -30,13 +29,13 @@ Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will ap
 
 ### Editing Text Overlays
 
-To position a text Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner of the Overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any Overlay.
+To position a Text Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner of the Overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any Overlay.
 
 If you’d like to change the text or visual style of the Overlay, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
 
 If you would like to hide the Text Overlay from the screen, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon x 30 %}Close Button{% endinlineicon %} hides the text Overlay.  You can bring the Text Overlay back to the screen by clicking the {% inlineicon visible 20 inverted %}Visible Buttton{% endinlineicon %} next to the name of the Text Overlay in the Overlays Window, or selecting it from the Overlays Menu at the top of your display.
 
-To change the width of a text Overlay without changing the font size, place your cursor over the right edge of the Overlay. When the cursor switched to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the width drag area.
+To change the width of a text Overlay without changing the font size, place your cursor over the right edge of the Overlay. When the cursor switched to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area.
 
 ## Image Overlays
 
@@ -51,11 +50,11 @@ Would you like to show your company logo in the corner of your broadcast? That�
 
 A File Selection Sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG, GIF or PDF. 
 
-When a multi-page PDF file is added as an Overlay, you will see page controls show up when your mouse cursor moves over the overlay. Use the left and right arrow buttons, or the arrow keys on yoru keyboard to move through the PDF pages. To jump to a specific page, click the page number area.
+When a multi-page PDF file is added as an Overlay, you will see page controls show up when your mouse cursor moves over the Overlay. Use the left and right arrow buttons, or the arrow keys on your keyboard to move through the PDF pages. To jump to a specific page, click the page number area.
 
 Animated GIFs are also supported—let’s use that last one responsibly, shall we? 
 
-**ProTip:** When creating an image in an external graphics application for an Overlay, PNG is a great format. PNG saves losslessly (without visible degradation from data compression), and can have an alpha channel (allowing parts of the image to be transparent). This can add an additional pro touch to your onscreen look. If you’re interested in a “lower third” graphic, create a PNG in the graphics editor of choice and use it as an Image Overlay in Ecamm Live.
+**ProTip:** When creating an image in an external graphics application for an Overlay, PNG is a great format. PNG saves losslessly (without visible degradation from data compression), and can have an alpha channel (allowing parts of the image to be transparent). This can add an additional pro touch to your onscreen look.
 {:.notice--info}
 
 ### Editing Image Overlays
@@ -66,11 +65,11 @@ If you would like to remove the Image Overlay from your broadcast, place your cu
 
 ## Movie Overlays
 
-Movie overlays work just like [Image Overlays](#image-overlays) but use a video file instead of an image. This is great for an animated logo or lower third. Movie overlays will play without sound. 
+Movie Overlays work just like [Image Overlays](#image-overlays) but use a video file instead of an image. This is great for an animated logo or lower third. Movie overlays will play without sound. 
 
 Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444 format. Other video formats will also work but may take a few seconds to be converted by Ecamm Live before showing up.
 
-There are 3 ways to create an Movie Overlay:
+There are 3 ways to create a Movie Overlay:
 
 * Drag a movie file from the Finder into the <samp>Overlays</samp> Window.
 * Select <samp>New Movie Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
@@ -90,13 +89,13 @@ If you would like to remove the Movie Overlay from your broadcast, place your cu
 
 ## Comment Overlays
 
-If you’re broadcasting with Facebook Live, YouTube Live, Periscope or Twitch and you receive a comment, you can drag that comment from the Comments and Reactions Window into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
+If you’re broadcasting with Facebook Live, YouTube Live, Periscope or Twitch and you receive a comment, you can drag that comment from the [Comments and Reactions Window](009-broadcast-to-facebook/#view-viewer-comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
 
 You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
 ### Editing Comment Overlays
 
-The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling.
+The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
 
 ## Countdown Overlays
 
@@ -135,7 +134,7 @@ To delete an Overlay, select any item in the list and press your delete key, dra
 
 You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 
-If you need to further organize, you can create folders to group Overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag Overlays onto the folders to organize.
+If you need to further organize, you can create folders to group Overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag Overlays onto the folders to organize. Folders can be hidden or shown just like individual Overlays using the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon.
 
 ### Locking Overlays
 

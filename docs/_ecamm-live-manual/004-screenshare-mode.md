@@ -19,7 +19,7 @@ With Screen Share mode selected, you see what the audience sees within the Main 
 
 ## System Audio
 
-When using the Screen Sharing source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](../013-adjusting-sound-levels).
+When using the Screen Share source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](../013-adjusting-sound-levels).
 
 ## Controlling Ecamm Live While Using Other Apps
 
@@ -49,3 +49,7 @@ You can show your live camera in the broadcast while screen sharing with the Pic
 Picture-in-Picture can be summoned or dismissed by clicking the leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the onscreen controls, or using the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp>. The PiP box can be moved anywhere within the Main Window. It features a mute toggle button only visible to you, for your microphone. You can change the size of the PiP by dragging the bottom right corner of it. 
 
 You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Picture-in-Picture Shape</samp>, or by right-clicking or control-clicking on the PiP window. Shape options include a rectangle, square or circle.
+
+## Other Screen Sharing Options
+
+Ecamm Live's Preferences window has [several settings](../015-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.

@@ -5,9 +5,9 @@ If you don't see the Sound Levels window on the screen, click the {% inlineicon 
 
 The Sound Levels Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Microphone</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
 
-![Sound Levels Window in Video Playback Mode](/assets/img/sound-levels.jpg "Sound Levels Window in Video Playback Mode"){: width="360px"}
+![Sound Levels Window](/assets/img/sound-levels.jpg "Sound Levels Window"){: width="449px"}
 
-A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a Skype call is in progress, you can also adjust its levels with the Sound Levels Window. [More on Skype Interviews later in this manual.](../011-remote-guests-via-skype) When sharing your screen, you'll also see a sound level adjustment for System Audio.
+A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a [Skype call](../008-remote-guests-via-skype) is in progress, you can also adjust its levels with the Sound Levels Window. When sharing your screen, you'll also see a sound level adjustment for System Audio.
 
 Each audio channel (microphone, movie audio, Skype, and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have a Skype guest online, but only unmute the Skype guest's audio in particular Scenes.
 

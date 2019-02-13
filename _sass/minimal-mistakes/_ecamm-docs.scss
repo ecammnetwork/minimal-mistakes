@@ -68,7 +68,17 @@ span.inline_icon.graybutton {
 	background-repeat:no-repeat;
 	background-position: center;
 	background-size: 50%;
-	padding: 1em;
+	padding: .85em 1em .85em 1em;
+	border: 0px;
+	border-radius: .2em;
+}
+
+span.inline_icon.redbutton {
+	background: rgba(255,0,0,.7);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: 50%;
+	padding: .7em 1em .7em 1em;
 	border: 0px;
 	border-radius: .2em;
 }

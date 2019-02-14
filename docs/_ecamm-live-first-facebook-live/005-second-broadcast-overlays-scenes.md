@@ -10,7 +10,7 @@ Walk through all the [First Stream steps](../002-before-you-broadcast), up until
 
 ## Prepare Overlays and Scenes
 
-There are **seven** features that can change based on Scenes. See the full [documentation on Scenes in the manual](/ecamm-live-manual/005-using-scenes) for full details.
+There are **seven** features that can change based on Scenes. See the full [documentation on Scenes in the manual](/ecamm-live-manual/007-using-scenes) for full details.
 {:.notice--info}
 
 Let's make 3 Scenes for your broadcast, with a few Overlays each.
@@ -39,7 +39,7 @@ Your Text Overlay appears in the middle of the Main Window. You may drag it wher
 ![Spread to enlarge](/assets/img/spread-zoom.png){: height="100px" width="100px"}
 —Spread to enlarge
 
-_See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/003-using-overlays/#text-overlays)
+_See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/006-using-overlays/#text-overlays)
 {:.notice}
 
 You can add as many Overlays as you'd like to your Scene. Let's add a second—an image you can use for your logo. We'll start by clicking the {% inlineicon addimage 20 inverted %}Add Image Overlay{% endinlineicon %} button. A file selection browser will appear over the Main Window. Select your image, then click <samp>Open</samp> to have it appear on the Main Window. You can now drag it into position, and resize as needed.

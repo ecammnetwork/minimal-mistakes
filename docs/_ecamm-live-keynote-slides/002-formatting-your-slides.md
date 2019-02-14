@@ -41,7 +41,7 @@ _Note:_ If you change the Slide Size after having laid out your slides, you’ll
 
 ## Integrating a Slideshow into a Scripted Broadcast
 
-If your broadcast is more than a slideshow, using [Scenes](/ecamm-live-manual/005-using-scenes "Using Scenes in the Ecamm Live Manual") is the best way to prepare for each section of your broadcast. You can save presets of Ecamm Live features so you don’t have to change all the settings in front of your audience, and trigger them all to change instantly by selecting the scene.
+If your broadcast is more than a slideshow, using [Scenes](/ecamm-live-manual/007-using-scenes "Using Scenes in the Ecamm Live Manual") is the best way to prepare for each section of your broadcast. You can save presets of Ecamm Live features so you don’t have to change all the settings in front of your audience, and trigger them all to change instantly by selecting the scene.
 
 1. Create a new scene—give it an obvious name so it’s easy to know what to select while broadcasting
 1. Enable screen share mode from the source bar at the top of the Main Window. 

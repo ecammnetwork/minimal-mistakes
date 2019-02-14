@@ -13,7 +13,7 @@ Let's make three Scenes for your broadcast, with a few Overlays in each.
 
 Scenes allow you to quickly switch between presets---including overlays, source modes, and more---during a live stream. For the moment, we'll focus on camera sources and overlays.
 
-_See also:_ learn more about [Overlays](/ecamm-live-manual/003-using-overlays) and [Scenes](/ecamm-live-manual/005-using-scenes) in the manual.
+_See also:_ learn more about [Overlays](/ecamm-live-manual/006-using-overlays) and [Scenes](/ecamm-live-manual/007-using-scenes) in the manual.
 {:.notice}
 
 ## Build Scene 1 — Your Introduction
@@ -25,7 +25,7 @@ At the bottom of the Overlays window, click the {% inlineicon addtext 20 graybut
 
 Your Text Overlay appears in the middle of the Main Window. You may drag it wherever you like. If your camera switcher bar appears, you can drag that out of the way, if needed. If the Overlay needs to be resized, you can drag from bottom-right corner, or use the pinch/zoom gesture on a trackpad to do so.
 
-_See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/003-using-overlays/#text-overlays)
+_See also:_ [Full Details on editing Text overlays in our manual.](/ecamm-live-manual/006-using-overlays/#text-overlays)
 {:.notice}
 
 You can add as many Overlays as you'd like to your Scene. Let's add a second---an image you can use for your logo. We'll start by clicking the {% inlineicon addimage 20 graybutton %}Add Image Overlay{% endinlineicon %} Image Overlay Button. A file selection browser will appear over the Main Window. Select your image, then click <samp>Open</samp> to have it appear on the Main Window. You can now drag it into position, and resize as needed.

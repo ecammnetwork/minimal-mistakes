@@ -24,7 +24,7 @@ manual:
     url: /ecamm-live-manual/008-remote-guests-via-skype
   - title: "Broadcasting to Facebook"
     url: /ecamm-live-manual/009-broadcast-to-facebook/
-  - title: "Broadcast to YouTube"
+  - title: "Broadcasting to YouTube"
     url: /ecamm-live-manual/010-broadcast-to-youtube/
   - title: "Broadcasting to Other Services"
     url: /ecamm-live-manual/011-broadcast-to-other-services
@@ -68,8 +68,6 @@ ecamm-live-canon-dslr:
     url: /ecamm-live-canon-dslr/002-software-setup
   - title: "Camera Details"
     url: /ecamm-live-canon-dslr/003-camera-details
-  - title: "Conclusion"
-    url: /ecamm-live-canon-dslr/004-conclusion
 
 ecamm-live-keynote-slides:
   - title: "Introduction"

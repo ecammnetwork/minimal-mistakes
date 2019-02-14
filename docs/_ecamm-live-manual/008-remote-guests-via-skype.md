@@ -4,6 +4,9 @@
 
 One of the most popular features of Ecamm Live is the ability to have as many as five remote guests appear in your broadcast. This bit of magic requires activating Skype's NDI® for Content Creators feature.
 
+_See also_ the [Remote Guests in Your Live Broadcast Tutorial](/ecamm-live-remote-guests/001-introduction/) for a step-by-step guide to remote guests via Skype.
+{: .notice}
+
 ## Preparing for your Remote Guests
 
 If you haven't already, turn on NDI in Skype:

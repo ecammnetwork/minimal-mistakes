@@ -16,11 +16,17 @@ Ecamm Live works great with USB webcams. The most popular USB webcams are made b
 
 We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular HDMI input device is the [Blackmagic Design UltraStudio Mini Recorder.](https://amzn.to/2DjGN7F) Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live. The Blackmagic device will also show up as a microphone option in Ecamm Live's microphone list.
 
+**Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
+{: .notice}
+
 Other HDMI encoders, such as the [Elgato CamLink](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live.
 
 ### Canon DSLR Cameras via USB
 
 For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use it without any extra hardware. To do this, install the free and open source [Camera Live](https://github.com/v002/v002-Camera-Live/releases) software. Once it's installed, connect your Canon DSLR to your Mac's USB port. Quit the Canon EOS Utility if it automatically opens, and then start Camera Live. It will recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. No other DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, in which case you can use the Blackmagic method above.
+
+_See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
+{: .notice}
 
 ### Newtek NDI® Cameras
 

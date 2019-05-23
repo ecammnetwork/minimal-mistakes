@@ -82,6 +82,10 @@ When this option is enabled, Ecamm Live's video stream will fade to black when t
 
 When this option is enabled, Ecamm Live's Video File source mode will begin playback automatically when a video file is picked, when Video File source mode is entered, or when a broadcast or recording starts while in Video File source mode. When thich option is disabled, you'll need to press the play button or press the spacebar to start video playback.
 
+#### Show Picture-in-Picture Above Overlays
+
+When this option is enabled, your picture-in-picture window will show up on top of any overlays. This is particularly useful when presenting a full screen image or PDF overlay while using picture-in-picture.
+
 
 ### Audio Preferences
 
@@ -96,6 +100,16 @@ By default, Ecamm Live will broadcast your Mac's system audio when in [Screensha
 #### Automatically Mute Microphone During Video Playback
 
 By default, the microphone will be muted when in video playback mode with no picture-in-picture. Uncheck this checkbox to turn off auto-mute.
+
+#### Mic Delay
+
+In most cases, audio and video arrive from input sources more or less simultaneously. However some video sources my have latency introduced by a slow encoder, causing audio and video that aren't synced up. (One example of this would be video arriving from an encoder such as an **Elgato Cam Link 4K**, with audio arriving from a difference source such as a USB microphone.) 
+
+In this case, you may wish to add a slight delay to your audio input. Adjust the <samp>Mic Delay</samp> slider to add an audio delay. But don't forget to put it back when a delay is no longer needed!
+
+#### Map Input Channels 1 And 2 To Left And Right Stereo
+
+By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, such as a stereo microphone, you may wish to map channels 1 and 2 to left and right stereo.
 
 
 ### Screen Sharing Preferences
@@ -118,7 +132,7 @@ When using the Better Quality setting, you may notice a reduced screen capture f
   
 #### Include Mouse Cursor
 
-Include the mouse cursor in the broadcast.
+Include the mouse cursor in the broadcast. Note that the mouse cursor is automatically hidden when Ecamm Live is the active application.
 
 #### Mouse Cursor Size
 

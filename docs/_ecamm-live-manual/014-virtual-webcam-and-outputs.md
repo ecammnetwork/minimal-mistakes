@@ -30,7 +30,9 @@ Once activated, Video Monitor will remain on until it is turned off in the <samp
 
 ## Audio Monitor (Pro Only)
 
-Audio Monitor provides the ability to monitor your broadcast's audio on via any connected audio output device such as headphones or amn HDMI display.
+Audio Monitor provides the ability to monitor your broadcast's audio via any connected audio output device such as headphones or an HDMI display. 
+
+Note that you will likely never want to turn on audio monitoring for any audio output that isn't a headset or a speaker located in a different room, as this will create feedback. As such, your Mac's built-in speakers will not be listed as an output in this menu.
 
 Activate Audio Monitor by picking the audio output device in <samp>Outputs</samp> ➝ <samp>Audio Monitor</samp>.
 

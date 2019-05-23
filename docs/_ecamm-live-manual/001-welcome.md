@@ -16,6 +16,7 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * **Use external video sources** including **HDMI** sources, **Canon DSLRs**, NDI inputs and more. **Switch easily between all video sources** with a click or keyboard shortcut.
 * **Share your screen:** put any window, app, or display from your Mac right into your stream. This also enables the use of presentation software, such as **Apple Keynote, or Microsoft PowerPoint.**
 * **Roll pre-recorded video files** right into your broadcast.
+* **Use a green screen** to easily add a digital backdrop.
 * **Add Picture-in-picture video** to your stream.
 * Set the shape of your stream: go wide, tall, or square.
 * Create Scenes, which are preset groups of almost any of the above features, which you can **trigger with a click or keyboard shortcut.**
@@ -28,7 +29,7 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 ## System Requirements
 
 * A Mac 
-* A microphone
+* A microphone (All Macs other than Mac Mini have a built-in microphone.)
 * A compatible video camera (including built-in webcams)
 * macOS 10.12 or newer
 * An internet connection with an upload speed of at least 1 Mbps.

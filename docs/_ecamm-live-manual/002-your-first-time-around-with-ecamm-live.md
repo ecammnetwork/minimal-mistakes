@@ -65,7 +65,7 @@ The bottom center of the Main Window holds the big blue button which depending o
 <samp class="blue">Go Live</samp>
 : If you’re logged in and ready to go, or if you’re using a stream key.
 
-<samp class="blue">Preview</samp>
+<samp class="blue">Test</samp>
 : If you've selected an upcoming [scheduled broadcast](009-broadcast-to-facebook/#creating-a-new-scheduled-live) in Facebook or YouTube.
 
 <samp class="blue">Record</samp>

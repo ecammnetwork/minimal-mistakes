@@ -7,17 +7,23 @@ The Sound Levels Window shows what audio source is in use. Clicking on the name 
 
 ![Sound Levels Window](/assets/img/sound-levels.jpg "Sound Levels Window"){: width="449px"}
 
-A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a [Skype call](../008-remote-guests-via-skype) is in progress, you can also adjust its levels with the Sound Levels Window. When sharing your screen, you'll also see a sound level adjustment for System Audio.
+A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a [Skype call](../008-remote-guests-via-skype) is in progress, you can also adjust its levels with the Sound Levels window. When sharing your screen, you'll also see a sound level adjustment for System Audio.
 
 Each audio channel (microphone, movie audio, Skype, and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have a Skype guest online, but only unmute the Skype guest's audio in particular Scenes.
 
-### How Ecamm Live Deals with Audio
+### Adding a Second Audio Input
 
-Ecamm Live accommodates one audio input source at a time. For example, if you wanted to interview someone in person, and you plug in more than one USB mic, Ecamm Live will only allow you to select one of these mics at a time.
+If Ecamm Live detects a second audio input, for example a second USB microphone, you'll see a {% inlineicon add 15 inverted %}+{% endinlineicon %} button show up in the Sound Levels window. Click this to add a second audio input. 
 
-If you need multiple external audio sources for your broadcast, use a hardware device that accepts more than one microphone in, like a mixer. If your device supports more than one channel of audio, Ecamm will mix all input channels together.
+To remove the secondary audio input, click the {% inlineicon remove 15 inverted %}+{% endinlineicon %} button.
 
-#### Echo Cancellation
+When [an iOS device is connected](../003-camera-mode/#broadcasting-your-ios-devices-screen), Ecamm Live will automatically add it as a second audio device. You will also see a checkbox and popup menu to configure audio play-through for the iOS device. This will allow you to hear sound from the iOS device on your Mac's speakers or a headset.
+
+### Mapping Audio Channels for Stereo
+
+By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../015-other-options/#audio-preferences).
+
+### Echo Cancellation
 
 If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. If you are using headphones, echo cancellation is disabled automatically.
 

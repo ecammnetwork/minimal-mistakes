@@ -19,11 +19,11 @@ We've built in special support for cameras connected to your Mac through [Blackm
 **Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
 {: .notice}
 
-Other HDMI encoders, such as the [Elgato CamLink](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live.
+Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live.
 
 ### Canon DSLR Cameras via USB
 
-For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use it without any extra hardware. To do this, install the free and open source [Camera Live](https://github.com/v002/v002-Camera-Live/releases) software. Once it's installed, connect your Canon DSLR to your Mac's USB port. Quit the Canon EOS Utility if it automatically opens, and then start Camera Live. It will recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. No other DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, in which case you can use the Blackmagic method above.
+For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use it without any extra hardware. Connect your Canon DSLR to your Mac's USB port. It will recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. No other DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, in which case you can use the Blackmagic method above.
 
 _See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
 {: .notice}
@@ -64,7 +64,7 @@ To the left of the video sources in the switcher, you'll see a few options:
 * Pick <samp>Swap Cameras</samp> from the gear menu to swap the position of your split screen or picture-in-picture layout.
 * Pick <samp>Crop Splitscreen</samp> from the gear menu to turn on and off cropping mode. When not cropping, 2 and 3 camera splitscreen mode will be presented with letterboxing.
 
-The video switcher bar can be dragged anywhere within the Main Window. When you're not moving your cursor over the Main Window, this bar will fade away. Move your cursor over the Main Window, and it'll reappear.
+The video switcher bar can be dragged anywhere within the Main Window. When you're not moving your cursor over the Main Window, this bar will fade away. Move your cursor over the Main Window, and it will reappear.
 
 If you have video sources connected to your Mac that you _do not_ want available to you during a broadcast, you may hide (or unhide) sources in <samp>Camera</samp> ➝ <samp>Include In Switcher</samp> ➝ un/check sources listed here. Remember, if you remove all but one source, the video switcher will be hidden. All detected sources will always be displayed within the Camera menu at the top of the screen.
 
@@ -102,3 +102,29 @@ There are a few other options in the Green Screen settings:
 * <samp>Transparent PIP</samp> When using picture-in-picture, make the green screen transparent rather than using the selected background image. The Mac screen of playing video then becomes the backdrop.
 
 * <samp>Mask Edges</samp> Ecamm Live can automatically remove objects along the edge of the frame such as a microphone or the edge of a backdrop. Click the button again to turn off the masking.
+
+### Zoom & Pan
+
+In the Camera Effect window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
+
+Zooming in can be useful for fine-tuning how a shot is framed, for example the edge of a green screen.
+
+Zooming out can be used to position a shot in an [Overlay](../006-using-overlays) frame.
+
+### Camera Options
+
+Two other options can be found at the bottom of Camera Effects window:
+
+#### Mirror
+
+Use the <samp>Mirror</samp> checkbox to flip the camera image. Once flipped, your audience will see you mirrored. However you may find it easier to orient yourself when mirrored, for example to point to an on-screen element.
+
+#### Deinterlace
+
+Use the <samp>Deinterlace</samp> checkbox to remove interlacing line artifacts when using an interlaced video source.
+
+An example of an interlaced sources would be an HDMI capture device such as the **Elgato Cam Link** connected to a camera providing a 1080i video signal.
+
+Note that when using a **Blackmagic** HDMI capture device, Ecamm Live will activate the deinterlacing filter automatically as needed. 
+
+Also note that some HDMI capture devices, such as the **Magewell** USB Capture Gen 2, may already be applying a deinterlacing filter. 

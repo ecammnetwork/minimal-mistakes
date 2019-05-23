@@ -62,18 +62,18 @@ If you’d like to log out of Periscope, with <samp>Periscope</samp> selected in
 
 Broadcasting to [Twitch](https://twitch.tv), [Restream.io](https://restream.io) or [Switchboard](https://switchboard.live) starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select the platform. The <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
 
-If you’ve never logged into Twitch with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log into Twitch on the web.
+If you’ve never logged into the service with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log in on the web.
 
 Once you’re logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you’ll want to check out first.
 
-### Twitch Broadcast Options
+### Broadcast Options
 
 There is just one option for Twitch broadcasts. In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
 
 
 ### View Viewer Chat Comments
 
-During Twitch broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
 ### Ending a Broadcast
 
@@ -90,7 +90,7 @@ If you’ve never used the YouTube feature, you’ll be asked to sign in when yo
 
 ### Logging out of Twitch, Restream.io or Switchboard
 
-Ecamm Live will stay logged i unless you manually log out, or if you remove Ecamm Live from the platform's connected apps. If you’d like to log out, with Destination selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>.
+Ecamm Live will stay logged in unless you manually log out, or if you remove Ecamm Live from the platform's connected apps. If you’d like to log out, with Destination selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>.
 
 ## Using a Stream Key
 
@@ -104,6 +104,10 @@ To start streaming to a RTMP-capable service, you'll need two pieces of informat
 Every service is a little different with regard to finding this information. To connect to your service, in the bottom right corner of the Main Window, select <samp>Custom Stream Key</samp> from the <samp>Destination</samp> menu. A sheet will appear to accept your Server URL and Stream Key.
 
 **_Note:_** Certain features of Ecamm Live—such as Comments and Reactions, and Scheduled Live broadcasts—are not available while streaming to RTMP services.
+
+#### Stream Key Login and Password
+
+Rarely, some RTMP services may require a login and password. ([Dacast](http://dacast.com) is one example.) Use the <samp>Provide Login and Password</samp> checkbox to add this.
 
 ### Broadcast to Wowza with an RTMP Stream Key
 

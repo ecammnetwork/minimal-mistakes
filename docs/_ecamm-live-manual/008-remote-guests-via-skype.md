@@ -11,7 +11,7 @@ _See also_ the [Remote Guests in Your Live Broadcast Tutorial](/ecamm-live-remot
 
 If you haven't already, turn on NDI in Skype:
 
-1. Open Skype, and ensure that you have the latest version avialable.
+1. Open Skype, and ensure that you have the latest version available.
 1. Open Skype's Preferences, by picking Preferences from the Skype menu at the top of the screen or by typing  <kbd>⌘</kbd><kbd>,</kbd>
 1. Switch to the <samp>Calling</samp> section, and then pick <samp>Advanced</samp>.
 1. Enable the <samp>Allow NDI® Usage</samp> setting.

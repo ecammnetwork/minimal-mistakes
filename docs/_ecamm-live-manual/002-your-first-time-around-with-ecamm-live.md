@@ -38,7 +38,7 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 <br/>
 <iframe src="https://player.vimeo.com/video/285330893" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-The top right of the Main Window contains three icons, the Sound Levels button, the Overlays button, and the Camera Effects button. Each show or hides the windows for each tool.
+The top right of the Main Window contains five icons, the Sound Levels button, the Overlays button, the Camera Effects button, the Comments button and the Preferences button. Each show or hides the windows for each tool.
 
 {% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} [Sound Levels](../013-adjusting-sound-levels/)
 
@@ -46,7 +46,11 @@ The top right of the Main Window contains three icons, the Sound Levels button, 
 
 {% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} [Camera Effects](../003-camera-mode/#camera-effects)
 
-The six links above go to the manual's sections for each source and explain each in detail.
+{% inlineicon comment 35 graybutton %}Comments Button{% endinlineicon %} [Comments](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions)
+
+{% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../015-other-options)
+
+The links above go to the manual's sections for each source and explain each in detail.
 {:.notice--info}
 
 The bottom right corner holds menus which control where your broadcasts go. The options here are dependent upon which settings you’ve selected.

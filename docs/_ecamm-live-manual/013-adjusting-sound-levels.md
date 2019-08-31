@@ -21,13 +21,17 @@ When [an iOS device is connected](../003-camera-mode/#broadcasting-your-ios-devi
 
 ### Mapping Audio Channels for Stereo
 
+Ecamm Live will automatically broadcast System Audio and movie playback audio in stereo. Audio from a connected microphone or mixer works a bit differently.
+
 By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../015-other-options/#audio-preferences).
+
+Note that when Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices, so stereo audio will not be available.
 
 ### Echo Cancellation
 
 If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. If you are using headphones, echo cancellation is disabled automatically.
 
-When Echo Cancellation is enabled, Ecamm will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
+When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
 
 
 <aside class="notice" markdown="1">

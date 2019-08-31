@@ -43,14 +43,16 @@ To change the width of a text Overlay without changing the font size, place your
 <br/>
 Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text and lower thirds in a graphics app, such as Photoshop, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any image file into the Main Window or Overlays Window to instantly create a new Overlay. Or if you prefer, there are 4 other ways to create an Image Overlay:
 
-* Drag an image file from the Finder into the <samp>Overlays</samp> Window.
+* Drag an image file from the Finder into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
+* Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 * Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window.
 
 A File Selection Sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG, GIF or PDF. 
 
 When a multi-page PDF file is added as an Overlay, you will see page controls show up when your mouse cursor moves over the Overlay. Use the left and right arrow buttons, or the arrow keys on your keyboard to move through the PDF pages. To jump to a specific page, click the page number area.
+
+PDF overlays can be displayed with a transparent background if desired. Control-click or right-click on a PDF overlay, and choose <samp>PDF Options</samp> ➝ <samp>Transparent Background</samp> from the contextual menu.
 
 Animated GIFs are also supported—let’s use that last one responsibly, shall we? 
 
@@ -71,9 +73,9 @@ Video files with transparency are best. These can be created in apps such as Ado
 
 There are 3 ways to create a Movie Overlay:
 
-* Drag a movie file from the Finder into the <samp>Overlays</samp> Window.
+* Drag a movie file from the Finder into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Movie Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom the <samp>Overlays</samp> Window
+* Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
 A File Selection Sheet will appear, allowing you to find and select a movie file.
 
@@ -104,13 +106,38 @@ If you need to display a countdown timer on screen, use a Countdown Overlay.
 There are 2 ways you can display a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the Overlays Window.
+* Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
 A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. You can edit the End Time and text alignment. Ecamm Live will display a countdown to the chosen End Time. Press <samp>Save</samp> to display your timer within the Main Window.
 
 ### Editing Countdown Overlays
 
 You have the same controls as [Text Overlays](#editing-text-overlays).
+
+## Widget Overlays
+
+Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlayed on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
+
+There are 2 ways you can add a Widget Overlay:
+
+* Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
+* Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
+
+Selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
+
+* Width and Height: Indicate a width and height for the widget. This will determine the scale of the widget.
+
+* Fill Entire Frame: This checkbox will make the widget fill the entire broadcast area. When using this option, the overlay cannot be resized or moved around like a normal overlay.
+
+* Frame Rate: By default, the widget's contents will update 15 times per second. You may wish to increase the frame rate if more frequent updating is needed, or decrease it for performance reasons.
+
+### Editing Widget Overlays
+
+To position a Widget Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner of the Overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any Overlay.
+
+To return to the widget's setting, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the widget settings sheet. A double-click on the Overlay will also bring back the settings.
+
+Alternatively, click the tiny {% inlineicon preferences 20 inverted %}Preferences Button{% endinlineicon %} icon beside the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon in the [Overlays Window](#managing-your-overlays).
 
 ## Overlay Quick Resize Options
 

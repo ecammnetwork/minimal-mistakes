@@ -11,6 +11,10 @@ There are a few other helpful options in the Preferences. To find Ecamm Live's P
 
 Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated.
 
+#### Show Animated Reactions
+
+Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions) window when reactions arrive.
+
 #### Show Controls While In Other Apps
 
 While you're live, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
@@ -35,11 +39,13 @@ If you have an active Ecamm Live subscription, you'll see a <samp>Manage Billing
 
 #### Stream Size
 
-Choose from 540p, 720p, or 1080p. 
+Choose from 540p, 720p, 1080p, 1440p or 4K.
+
+1440p and 4K are only available with an Ecamm Live Pro subscription. 
 
 Facebook's standard livestream size is 720p. You may wish to choose the smaller option for streaming to Periscope, or if your internet connection's upload speed is insufficient for 720p.
 
-While Facebook will accept a 1080p video stream, it does not currently offer the ability to _view_ a stream at this resolution. Other streaming destinations such as YouTube fully support 1080p broadcasts.
+While Facebook will accept up to a 4K video stream, it does not currently offer the ability to _view_ a stream at this resolution. Other streaming destinations such as YouTube fully support 4K live broadcasts.
 
 The stream size cannot be changed during a broadcast.
 

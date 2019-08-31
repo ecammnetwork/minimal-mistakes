@@ -59,7 +59,7 @@ If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet 
 
 Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu in the bottom right corner. This list of scheduled broadcasts resides on Facebook, so if you quit Ecamm Live or use Ecamm Live on another Mac, you'll still see the same list of scheduled broadcasts here.
 
-When a pending broadcast is selected, in the bottom left corner of the Main Window you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. Also, there's a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+When a pending broadcast is selected, in the bottom left corner of the Main Window you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. When scheduling to a Facebook Business Page, there's also a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
 
 The broadcast can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embed a video player on a page on the web.
 
@@ -93,7 +93,7 @@ Group members will only need to do this once, and from that point on, comments i
 The code number provided in the link is unique to you and the Group, so it can also be used as a link to invite viewer to your broadcast.
 
 <aside markdown="1" class="notice">
-Note that the above information about anonymous comments and inviting Group members only applies to **Facebook Groups**. Live streams to a Facebook Profile or business Page will display all comments and their associated names and profile photos without any special action by viewers.
+Note that the above information about anonymous comments and inviting Group members only applies to **Facebook Groups**. Public live streams to a Facebook Profile or business Page will display all comments and their associated names and profile photos without any special action by viewers.
 </aside>
 
 ### Display Comments on Your Broadcast
@@ -118,7 +118,7 @@ Your Live broadcast is now a post on Facebook.
 
 <samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
 
-<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo.
+<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Facebook. We'll double-check with you before we destroy it, as there is no undo. This button is only available when posting to a Facebook Business Page. 
 
 The next two items concern a local Recording of your broadcast. Much more on Recordings in the [Local Recordings](../010-local-recordings) section, but for now…
 

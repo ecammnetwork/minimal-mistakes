@@ -12,6 +12,13 @@ Ecamm Live supports a wide variety of cameras and input sources.
 
 Ecamm Live works great with USB webcams. The most popular USB webcams are made by Logitech.
 
+### Canon DSLR Cameras via USB
+
+You can use your Canon DSLR camera with Ecamm Live without any extra hardware or software. Connect your Canon DSLR to your Mac's USB port. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. Some Nikon DSLRs may be recognized by Ecamm Live, but the video quality will not be high. No other brands of DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, use the HDMI Encoder method below.
+
+_See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
+{: .notice}
+
 ### Blackmagic Devices and Other HDMI Encoders
 
 We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular HDMI input device is the [Blackmagic Design UltraStudio Mini Recorder.](https://amzn.to/2DjGN7F) Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live. The Blackmagic device will also show up as a microphone option in Ecamm Live's microphone list.
@@ -19,14 +26,7 @@ We've built in special support for cameras connected to your Mac through [Blackm
 **Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
 {: .notice}
 
-Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live.
-
-### Canon DSLR Cameras via USB
-
-For Canon DSLR cameras, if your camera is listed in this [list of compatible Canon cameras](https://github.com/v002/v002-Camera-Live/blob/master/CAMERAS.md), then you can use it without any extra hardware. Connect your Canon DSLR to your Mac's USB port. It will recognize the camera. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. No other DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, in which case you can use the Blackmagic method above.
-
-_See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
-{: .notice}
+Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live without any additional software.
 
 ### Newtek NDI® Cameras
 
@@ -34,7 +34,7 @@ Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/)
 
 ### EpocCam Camera for iPhone and iPad
 
-Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/). This requires installing both the _Mac OS X beta drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage](http://www.kinoni.com).
+Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/). This requires installing both the _macOS Drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage](http://www.kinoni.com).
 
 ### Broadcasting Your iOS Device's Screen
 
@@ -83,7 +83,7 @@ If you don't see the Camera Effects window on the screen, click the {% inlineico
 
 ### Green Screen
 
-The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image file. It can also be used in transparent mode, to remove the background entirely when appearing a picture-in-picture mode in [Video File mode](../005-video-file-mode) or [Screenshare mode](../004-screenshare-mode).
+The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image file. It can also be used in transparent mode, to remove the background entirely when using picture-in-picture mode.
 
 To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a [muslin photography backdrop](https://amzn.to/2X0OMOj), or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [Canon DSLR](#canon-dslr-cameras-via-usb) rather than a webcam.
 
@@ -99,17 +99,17 @@ There are a few other options in the Green Screen settings:
 
 * <samp>Blur Background</samp> Apply a blur effect to the selected background image.
 
-* <samp>Transparent PIP</samp> When using picture-in-picture, make the green screen transparent rather than using the selected background image. The Mac screen of playing video then becomes the backdrop.
+* <samp>Transparent PIP</samp> When using picture-in-picture, make the green screen transparent rather than using a background image.  backdrop. Whatever is behind the picture-in-picture becomes the background.
 
 * <samp>Mask Edges</samp> Ecamm Live can automatically remove objects along the edge of the frame such as a microphone or the edge of a backdrop. Click the button again to turn off the masking.
 
 ### Zoom & Pan
 
-In the Camera Effect window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
+In the Camera Effects window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
 
-Zooming in can be useful for fine-tuning how a shot is framed, for example the edge of a green screen.
+Zooming in can be useful for fine-tuning how a shot is framed, for example to crop out the edges of a green screen.
 
-Zooming out can be used to position a shot in an [Overlay](../006-using-overlays) frame.
+Zooming out can be used to better position a video source in an [Overlay](../006-using-overlays) frame.
 
 ### Camera Options
 
@@ -127,4 +127,13 @@ An example of an interlaced sources would be an HDMI capture device such as the 
 
 Note that when using a **Blackmagic** HDMI capture device, Ecamm Live will activate the deinterlacing filter automatically as needed. 
 
-Also note that some HDMI capture devices, such as the **Magewell** USB Capture Gen 2, may already be applying a deinterlacing filter. 
+Also note that some HDMI capture devices, such as the **Magewell USB Capture Gen 2**, may already be applying a deinterlacing filter.
+
+#### Use Maximum Resolution
+
+Some cameras may offer more than one resolution option. Ecamm Live will run cameras at their standard resolution by default. Check this checkbox to use the camera's maximum resolution setting. Note that this checkbox will only show up if a higher resolution is available. 
+
+#### Set Default Camera
+
+Click this button to use this camera as the default camera. This default camera will be used when a new Scene is created, or as a fallback if a camera is disconnected or unavailable. 
+

@@ -29,7 +29,7 @@ If you haven't already, turn on NDI in Skype:
 
 ![Skype's Calling Preferences](/assets/img/skypeprefs.jpg "Skype's Calling Preferences")
 
-This setting will remain on until manually turned off. Note that you cannot active NDI while a Skype call is active.
+This setting will remain on until manually turned off. Note that you cannot activate NDI while a Skype call is active.
 
 Once NDI is activated in Skype, there is no additional setup in Ecamm Live. The app will detect guests on your calls and make them available for your broadcasts as a Camera source and audio source.
 

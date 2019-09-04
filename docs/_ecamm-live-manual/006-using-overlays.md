@@ -118,6 +118,8 @@ You have the same controls as [Text Overlays](#editing-text-overlays).
 
 Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlayed on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
 
+*Widget Overlays require macOS 10.3 or newer.*
+
 There are 2 ways you can add a Widget Overlay:
 
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display

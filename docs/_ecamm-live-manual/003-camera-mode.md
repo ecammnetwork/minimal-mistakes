@@ -83,13 +83,13 @@ If you don't see the Camera Effects window on the screen, click the {% inlineico
 
 ### Green Screen
 
-The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image file. It can also be used in transparent mode, to remove the background entirely when using picture-in-picture mode.
+The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image or video file. It can also be used in transparent mode, to remove the background entirely when using picture-in-picture mode.
 
 To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a [muslin photography backdrop](https://amzn.to/2X0OMOj), or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [Canon DSLR](#canon-dslr-cameras-via-usb) rather than a webcam.
 
 You'll also need to ensure that you have excellent lighting with no shadows or glare in order fo the Green Screen effect to look good. You should be well lit from all angles, and the backdrop should also be well lit.
 
-Once you are set up, turn on the Green Screen feature using the <Samp>Green Screen</samp> checkbox. Then select an image by clicking <samp>Select Image</samp>. Finally, adjust the <samp>Fade Level</samp> slider until the background is revealed. If you see a sparkle or fringe effect, you may need to adjust lighting.
+Once you are set up, turn on the Green Screen feature using the <Samp>Green Screen</samp> checkbox. Then select an image or video by clicking <samp>Select Backdrop</samp>, or dragging in an image or video file. Finally, adjust the <samp>Fade Level</samp> slider until the background is revealed. If you see a sparkle or fringe effect, you may need to adjust lighting.
 
 #### Green Screen Options
 
@@ -111,6 +111,14 @@ Zooming in can be useful for fine-tuning how a shot is framed, for example to cr
 
 Zooming out can be used to better position a video source in an [Overlay](../006-using-overlays) frame.
 
+### Picture Settings
+
+Adjust brightness, temperature, tint, saturation, and gamma using the adjustment sliders. A <samp>Reset</samp> button will show up at the top of the Picture Settings to return all sliders to their default positions.
+
+#### Adjust Colors Using A LUT
+
+Apply a color grading LUT using the <samp>Select LUT...</samp> button. Note that this feature requires an Ecamm Live Pro plan.
+
 ### Camera Options
 
 Two other options can be found at the bottom of Camera Effects window:
@@ -131,7 +139,11 @@ Also note that some HDMI capture devices, such as the **Magewell USB Capture Gen
 
 #### Use Maximum Resolution
 
-Some cameras may offer more than one resolution option. Ecamm Live will run cameras at their standard resolution by default. Check this checkbox to use the camera's maximum resolution setting. Note that this checkbox will only show up if a higher resolution is available. 
+Some cameras may offer more than one resolution option. Check this checkbox to use the camera's maximum resolution setting. Note that Ecamm Live will automatically run cameras at the best resolution for your stream, so it is not necessary to configure this manually in most cases. However you may want a camera to run a camera at a higher resolution than your stream. For example, if you are streaming at 1080p resolution, but using Ecamm Live's Zoom & Pan feature to zoom in the image from a 4K webcam.  Note that this checkbox will only show up if a higher resolution is available. 
+
+#### Use Manual Focus
+
+Some camera, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. If you do not see this checkbox, Ecamm Live is not able to adjust the focus level. 
 
 #### Set Default Camera
 

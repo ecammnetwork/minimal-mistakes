@@ -26,7 +26,7 @@ This can help if you’re having trouble with your connection to Periscope. Netw
 
 ### View Viewer Comments and Hearts
 
-During broadcasts, any comments, hearts or super hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During broadcasts, any comments, hearts or super hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. Super Hearts and Join messages will show up at the bottom of the main window.
 
 ### Display Comments on Your Broadcast
 
@@ -73,7 +73,9 @@ There is just one option for Twitch broadcasts. In the bottom left of the Main W
 
 ### View Viewer Chat Comments
 
-During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
+During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. 
+
+Switchboard does not support viewer count or comments.
 
 ### Ending a Broadcast
 

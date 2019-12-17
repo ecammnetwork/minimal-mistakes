@@ -21,11 +21,13 @@ With Screen Share mode selected, you see what the audience sees within the Main 
 
 When using the Screen Share source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](../013-adjusting-sound-levels).
 
+By default, Ecamm Live will only broadcast system audio when in Screenshare mode. [Change this setting](../015-other-options/#audio-preferences) in the <samp>Audio</samp> section of the Preferences to either never broadcast system audio, or to broadcast system audio all the time.
+
 ## Controlling Ecamm Live While Using Other Apps
 
 While you're live, if you switch to another app, a small floating control window will be displayed. To turn this on or off, use <samp>Show Controls in Other Apps</samp> checkbox in the General section of the Preferences. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
 
-**_Note:_** In all Screen Share modes, Ecamm Live's windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
+**_Note:_** In Screen Share mode, Ecamm Live's app windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
 {:.notice--info}
 
 ## Zooming in Screen Share Mode

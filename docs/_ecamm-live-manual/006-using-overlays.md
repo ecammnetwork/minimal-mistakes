@@ -99,6 +99,10 @@ You can also click the tiny <samp>Add To Broadcast</samp> button below each comm
 
 The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
 
+### Hiding Comment Overlays Automatically
+
+Use the [checkbox in the General section of the Preferences](../015-other-options/) to automatically hide Comment Overlays after a specified amount of time.
+
 ## Countdown Overlays
 
 If you need to display a countdown timer on screen, use a Countdown Overlay. 

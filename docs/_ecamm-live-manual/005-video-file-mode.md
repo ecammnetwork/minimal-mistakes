@@ -6,7 +6,13 @@ When you need to play a video file within your live broadcast, use the third ico
 
 On subsequent clicks of the Video icon, you'll see a  menu appear instead, with additional options. <samp>Choose File</samp> brings up the File Browser to choose a new video. A <samp>Recent</samp> section lists any videos you've previously selected during this broadcast. Selecting a video from this list will immediately play the video filling your broadcast window. If your <samp>Recent Videos</samp> section needs a clean up, select <samp>Clear Recent Items</samp>. 
 
-Your video will begin playing _immediately_ after selection. If you would prefer to disable autoplay, you may do so in the <samp>Video</samp> section of the <samp>Preferences</samp>.  If you'd like to have the selected video start over automatically as soon as it finished, choose <samp>Options</samp> menu ➝ <samp>Loop Video Files</samp>.
+Your video will begin playing _immediately_ after selection. If you would prefer to disable autoplay, you may do so in the <samp>Video</samp> section of the <samp>Preferences</samp>.  
+
+### When A Video File Ends
+
+If you'd like to have the selected video start over automatically as soon as it finished, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Loop Video</samp>.
+
+If you'd like to go to the next [Scene](../007-using-scenes/) when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Go To Next Scene</samp>.
 
 Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 

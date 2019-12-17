@@ -23,6 +23,9 @@ While you're live, if you switch to another app, a small floating control window
 
 While broadcasting or recording, the control windows such as the Scenes window and Overlays window will always remain visible above all other windows, even when in another app.
 
+#### Automatically Hide Comment Overlays
+
+When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activating, the overlays will also be hidden automatically after changing Scenes. 
 
 ### Account Preferences
 
@@ -39,7 +42,7 @@ If you have an active Ecamm Live subscription, you'll see a <samp>Manage Billing
 
 #### Stream Size
 
-Choose from 540p, 720p, 1080p, 1440p or 4K.
+Choose from 540p, 720p, 1080p, 1440p or 4K. This setting will apply to both the resolution of your live stream  and the resolution of local recordings.
 
 1440p and 4K are only available with an Ecamm Live Pro subscription. 
 
@@ -51,13 +54,23 @@ The stream size cannot be changed during a broadcast.
 
 Note that higher stream sizes will require a faster internet connection.
 
+When selecting a stream size, Ecamm Live will automatically run any connected cameras at the ideal resolution if supported. For example, selecting 1080p will automatically run any connected Logitech webcam at 1080p. However a webcam that does not support 1080p will continue to run at 720p.
+
 #### Stream Shape
 
-Choose from Wide (16x9), Classic (4x3), Square, and Tall (9x16), or choose the Aspect ratio of your Mac's display. The last option allows you to use 360° Cameras.
+Choose from Wide (16x9), Extra Wide (2x1), Classic (4x3), Square, and Tall (9x16), or choose the Aspect ratio of your Mac's display. The last option allows you to use 360° Cameras.
 
-9x16 is like a mobile display held in portrait orientation. 16x9 is like an HDTV screen, and 4x3 is like standard definition televisions before HD. Square is, well, square.
+9x16 is like a mobile display held in portrait orientation. 16x9 is like an HDTV screen, and 4x3 is like standard definition televisions before HD.
 
 The stream shape cannot be changed during a broadcast.
+
+#### Frame Rate
+
+Choose from 24, 25, 30, 50 and 60 frames per second. This setting will apply to both the resolution of your live stream  and the resolution of local recordings.
+
+Most users will not need to change this from the default frame rate of 30 FPS. However non-US users may wish to record in 24 or 25 FPS mode. Higher frame rates such as 60 FPS are common for game streaming. Note however that using 50 or 60 FPS mode will double your internet bandwidth requirements.
+
+When selecting a frame rate, Ecamm Live will automatically run any connected cameras at the this frame rate if supported. For example, selecting 24 FPS will automatically run any connected Logitech webcam at 24 FPS. However a webcam that does not support 24 FPS will continue to run at 30 FPS.
 
 #### Use High Quality Video
 
@@ -72,13 +85,11 @@ In most cases, Ecamm Live's default audio bitrate is sufficient.  However, some 
 
 ### Video Preferences
 
-#### Crop in Splitscreen Mode
+#### Default Transition
 
-By default, a two- or three-camera split-screen camera layout will crop the left and right side of the camera image.  If you would prefer to use letterboxing instead of cropping, uncheck this option.
+Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Transition</samp>, <samp>Cross Dissolve</samp>, <samp>White Flash</samp>, <samp>Swipe</samp>, <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> transition effects. A Pro-level plan is required for <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> effects.
 
-#### Use Fade Transition
-
-When this option is enabled, a cross-fade transition will be used when changing Scenes or source modes.
+This transition effect can also be set on a per-Scene basis by selecting a transition in the <samp>Scene Optons</samp> section of the <samp>Options</samp> menu.
 
 #### Fade Out When Finished
 
@@ -91,6 +102,10 @@ When this option is enabled, Ecamm Live's Video File source mode will begin play
 #### Show Picture-in-Picture Above Overlays
 
 When this option is enabled, your picture-in-picture window will show up on top of any overlays. This is particularly useful when presenting a full screen image or PDF overlay while using picture-in-picture.
+
+#### Show NDI Titles Full Screen
+
+When this option is enabled, NDI titler sources such as [NewBlue](https://newbluefx.com/products/on-air-graphics/) and [ProPresenter](https://renewedvision.com/propresenter/) will fill the entire screen instead of showing up as a picture-in-picture.
 
 
 ### Audio Preferences
@@ -147,3 +162,7 @@ Select a custom mouse cursor size.
 #### Show Mouse Clicks
 
 Mouse clicks will be indicated with a small circle around the mouse cursor.
+
+#### Show Everything When Sharing The Entire Screen
+
+Share the screen contents with no changes. This mode will include Ecamm Live in the broadcast, and will not hide the desktop or desktop icons.  However, this mode is more efficient, and ideal for sharing a second display.

@@ -143,7 +143,7 @@ Some cameras may offer more than one resolution option. Check this checkbox to u
 
 #### Use Manual Focus
 
-Some camera, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. If you do not see this checkbox, Ecamm Live is not able to adjust the focus level. 
+Some cameras, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. If you do not see this checkbox, Ecamm Live is not able to adjust the focus level. 
 
 #### Set Default Camera
 

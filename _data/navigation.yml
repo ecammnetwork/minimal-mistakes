@@ -32,10 +32,12 @@ manual:
     url: /ecamm-live-manual/012-recording-your-broadcasts
   - title: "Adjusting Sound Levels"
     url: /ecamm-live-manual/013-adjusting-sound-levels
+  - title: "Sound Effects"
+    url: /ecamm-live-manual/014-sound-effects
   - title: "Virtual Webcam and Outputs"
-    url: /ecamm-live-manual/014-virtual-webcam-and-outputs
+    url: /ecamm-live-manual/015-virtual-webcam-and-outputs
   - title: "Other Options"
-    url: /ecamm-live-manual/015-other-options
+    url: /ecamm-live-manual/016-other-options
 
 ecamm-live-first-facebook-live:
   - title: "Introduction"

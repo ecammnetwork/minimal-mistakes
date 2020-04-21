@@ -12,7 +12,7 @@ Once you’re logged in, you can dive straight in by clicking <samp class="blue"
 
 In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream. This description is also important for the Twitter posting option discussed below.
 
-### Periscope Preferences
+#### Periscope Preferences
 
 To change Persiscope-specific settings, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. Pick <Samp>Periscope</samp> from the tabs at the top of the Preferences window.
 
@@ -24,19 +24,19 @@ Select this option to have Periscope send a tweet inviting your Twitter follower
 
 This can help if you’re having trouble with your connection to Periscope. Networks typically treat secure connections differently than standard connections. The opposite is also true: if you’re broadcasting with the secure connection and having trouble, you can disable this setting.
 
-### View Viewer Comments and Hearts
+#### View Viewer Comments and Hearts
 
 During broadcasts, any comments, hearts or super hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. Super Hearts and Join messages will show up at the bottom of the main window.
 
-### Display Comments on Your Broadcast
+#### Display Comments on Your Broadcast
 
 If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
 
-### Ending a Periscope Broadcast
+#### Ending a Periscope Broadcast
 
 Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
 
-### Post-broadcast options
+#### Post-broadcast options
 
 After clicking <samp class="blue">Finish</samp> we’ll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
@@ -53,7 +53,7 @@ The next two items concern a local recording of your broadcast.
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
 If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
-### Logging out of Periscope
+#### Logging out of Periscope
 
 Ecamm Live will stay logged into Periscope unless you manually log out, or if you remove Ecamm Live from [your Periscope Sources.](https://www.periscope.tv/account/producer)
 If you’d like to log out of Periscope, with <samp>Periscope</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out Periscope</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
@@ -66,22 +66,22 @@ If you’ve never logged into the service with Ecamm Live, click <samp class="bl
 
 Once you’re logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you’ll want to check out first.
 
-### Broadcast Options
+#### Broadcast Options
 
 There is just one option for Twitch broadcasts. In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
 
 
-### View Viewer Chat Comments
+##### View Viewer Chat Comments
 
 During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. 
 
 Switchboard does not support viewer count or comments.
 
-### Ending a Broadcast
+#### Ending a Broadcast
 
 Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
 
-### Post-broadcast options
+#### Post-broadcast options
 
 After clicking <samp class="blue">Finish</samp> we’ll present you with a message confirming your broadcast has ended, and offer two other options for your next steps.
 
@@ -90,7 +90,7 @@ After clicking <samp class="blue">Finish</samp> we’ll present you with a messa
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
 If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
-### Logging out of Twitch, Restream.io or Switchboard
+#### Logging out of Twitch, Restream.io or Switchboard
 
 Ecamm Live will stay logged in unless you manually log out, or if you remove Ecamm Live from the platform's connected apps. If you’d like to log out, with Destination selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>.
 
@@ -111,7 +111,7 @@ Every service is a little different with regard to finding this information. To 
 
 Rarely, some RTMP services may require a login and password. ([Dacast](http://dacast.com) is one example.) Use the <samp>Provide Login and Password</samp> checkbox to add this.
 
-### Broadcast to Wowza with an RTMP Stream Key
+#### Broadcast to Wowza with an RTMP Stream Key
 
-If you need to broadcast to Wowza Streaming Cloud, there are a few extra steps to set up your stream on Wowza's site. We have instructions to walk you through [Streaming to Wowza Streaming Cloud](http://ecamm.com/support/article/2218/streaming-to-wowza-streaming-cloud/) available to guide you.
+If you need to broadcast to Wowza Streaming Cloud, there are a few extra steps to set up your stream on Wowza's site. We have instructions to walk you through [Streaming to Wowza Streaming Cloud](https://support.ecamm.com/en/articles/3280029-streaming-to-wowza-streaming-cloud/) available to guide you.
 

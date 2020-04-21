@@ -59,7 +59,7 @@ If you want an overlay to appear in every Scene, for example, a logo to appear i
 **_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands <kbd title="command">⌘</kbd> <kbd>→</kbd> and <kbd title="command">⌘</kbd> <kbd>←</kbd> to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
 {:.notice--info}
 
-## Duplicating Scenes
+#### Duplicating Scenes
 
 To make different Scenes that share common components, it's easier to create a new Scene based on an existing Scene. To duplicate a Scene:
 
@@ -68,7 +68,7 @@ To make different Scenes that share common components, it's easier to create a n
 1. (optional) Assign a unique name to the new Scene.
 1. (optional) Modify the Scene as needed.
 
-## Arranging and Grouping Scenes
+#### Arranging and Grouping Scenes
 
 Could your Scenes list use some organization? Simply drag Scenes around to re-order them. Also, try grouping them.
 
@@ -95,7 +95,7 @@ When you create or modify a Scene, it is auto-saved. If you quit Ecamm Live, and
 
 ![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png "It’s a Scenes file!")
 
-### Exporting a Scene
+#### Exporting a Scene
 
 There are two methods to export a file that contains all the settings of a Scene.
 
@@ -104,10 +104,10 @@ There are two methods to export a file that contains all the settings of a Scene
 1. **Share button** - select one or more Scenes in the Scenes Window, then click the {% inlineicon share 10 inverted %}Export Button Icon{% endinlineicon %} button at the bottom of the Scenes Window. A Save sheet will appear so you can name your file and select where to save it. 
     * Note that this option can save _multiple Scenes in a single file._
 
-### Importing a Scene from a File
+#### Importing a Scene from a File
 
 Double-clicking any Ecamm Live Scene file will launch the app (if necessary) and immediately add the Scenes to your Scenes Window. Dragging a Scene file to the app's icon will do the same. If the app is already open, you can drag an Ecamm Live Scene file into the Main Window or Scenes Window.
 
-### What Is and Is Not in a Scene File
+#### What Is and Is Not in a Scene File
 
 If you have scene that contains Image Overlays (for example, a .PNG file that is your logo), that image file is embedded within the Scene File. The exception is _video files_. If a video file is referenced in a Scene, _the video file itself is not contained within the Scene File._ If your Scene features a video, you'll want to send the video file to the destination Mac separate from the Scene File. Next, when you import the Scene File, and select the Scene that features a video, a dialog box will announce, "Unable To Play This Movie." If Ecamm Live still can't locate the video file, it will prompt you to locate it.

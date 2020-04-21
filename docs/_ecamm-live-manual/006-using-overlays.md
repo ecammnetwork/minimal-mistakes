@@ -27,7 +27,7 @@ The background size and shape is set automatically for you, and adjusts to scale
 
 Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will appear in the Main Window.
 
-### Editing Text Overlays
+#### Editing Text Overlays
 
 To position a Text Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner of the Overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any Overlay.
 
@@ -59,7 +59,7 @@ Animated GIFs are also supported—let’s use that last one responsibly, shall 
 **ProTip:** When creating an image in an external graphics application for an Overlay, PNG is a great format. PNG saves losslessly (without visible degradation from data compression), and can have an alpha channel (allowing parts of the image to be transparent). This can add an additional pro touch to your onscreen look.
 {:.notice--info}
 
-### Editing Image Overlays
+#### Editing Image Overlays
 
 To reposition the Image Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse's scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
@@ -83,7 +83,7 @@ A File Selection Sheet will appear, allowing you to find and select a movie file
 
 To pause or play a movie overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and the option to hide the overlay when finished with playback.
 
-### Editing Movie Overlays
+#### Editing Movie Overlays
 
 To reposition a Movie Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner, and look for it to change to arrows. Drag to adjust the size. You may also use your mouse's scroll feature, or your trackpad’s pinch-to-zoom feature to resize any Overlay.
 
@@ -95,41 +95,52 @@ If you’re broadcasting with Facebook Live, YouTube Live, Periscope or Twitch a
 
 You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
-### Editing Comment Overlays
+#### Editing Comment Overlays
 
 The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
 
-### Hiding Comment Overlays Automatically
+#### Hiding Comment Overlays Automatically
 
-Use the [checkbox in the General section of the Preferences](../015-other-options/) to automatically hide Comment Overlays after a specified amount of time.
+Use the [checkbox in the General section of the Preferences](../016-other-options/) to automatically hide Comment Overlays after a specified amount of time.
 
 ## Countdown Overlays
 
-If you need to display a countdown timer on screen, use a Countdown Overlay. 
+If you need to display a countdown timer on screen, clock, or stopwatch, use a Countdown Overlay. 
 
 There are 2 ways you can display a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
-A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. You can edit the End Time and text alignment. Ecamm Live will display a countdown to the chosen End Time. Press <samp>Save</samp> to display your timer within the Main Window.
+A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown style. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
 
-### Editing Countdown Overlays
+#### Auto-Start Option
+
+When using  <samp>Countdown for an Amount of Time</samp> or <samp>Stopwatch</samp> mode, you will see an <samp>Auto-Start</samp> checkbox. Check this checkbox to have the countdown start running automatically upon creation, upon switching to the Scene, and upon starting a broadcast.  
+
+#### Go To Next Scene When Finished
+
+When using <samp>Countdown for an Amount of Time</samp> or <samp>Countdown to a Date/Time</samp> mode, you will see a <samp>Go To Next Scene When Finished</samp> checkbox.  Select this to automatically transition to the next Scene in the Scenes window when the countdown reaches zero.
+
+#### Editing Countdown Overlays
 
 You have the same controls as [Text Overlays](#editing-text-overlays).
 
 ## Widget Overlays
 
-Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlayed on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
+Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
 
-*Widget Overlays require macOS 10.3 or newer.*
+*Widget Overlays require macOS 10.13 or newer.*
 
-There are 2 ways you can add a Widget Overlay:
+There are 3 ways you can add a Widget Overlay:
 
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
+* Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 * Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 
-Selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
+Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button or selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
+
+* Display Name: Enter a name for the widget. This is used for display purposes only, to identify the Overlay later.
 
 * Width and Height: Indicate a width and height for the widget. This will determine the scale of the widget.
 
@@ -137,7 +148,9 @@ Selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will
 
 * Frame Rate: By default, the widget's contents will update 15 times per second. You may wish to increase the frame rate if more frequent updating is needed, or decrease it for performance reasons.
 
-### Editing Widget Overlays
+![Figure\: Widget Editor](/assets/img/widgets.png "Widget Overlay Editor")
+
+#### Editing Widget Overlays
 
 To position a Widget Overlay, place your cursor in the middle of the Overlay and drag. If you’d like to adjust the Overlay’s size, hover your cursor in the bottom right-hand corner of the Overlay, and look for it to change to arrows. Drag to adjust the size. You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll gesture to resize any Overlay.
 
@@ -163,7 +176,7 @@ The Overlays Window offers several options for managing your Overlays.
 
 [![Figure\: Overlays Window Annotated](/assets/img/overlays-window-annotated.png "Click to enlarge.")](/assets/img/overlays-window-annotated.png)
 
-To delete an Overlay, select any item in the list and press your delete key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an Overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
+To delete an Overlay, select any item in the list and press your <kbd>delete</kbd> key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an Overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 
 You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
 

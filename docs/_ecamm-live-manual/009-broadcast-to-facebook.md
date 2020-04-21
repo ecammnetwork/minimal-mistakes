@@ -5,11 +5,10 @@ title: Broadcasting to Facebook
 _See also_ the [First Facebook Live tutorial](/ecamm-live-first-facebook-live/001-introduction/) for the bare essentials from first-run to your first Facebook Live broadcast.
 {: .notice}
 
-In the <samp>Destination</samp> menu in the bottom corner of the Main Window, select <samp>Facebook</samp>, in the bottom-right of the Main Window. A big blue button at the bottom-center of the Main Window will display one of several different options:
+In the <samp>Destination</samp> menu in the bottom corner of the Main Window, select <samp>Facebook</samp>, in the bottom-right of the Main Window. A big blue button at the bottom-center of the Main Window will display either:
 
 * <samp class="blue">Login</samp> — click to login to Facebook and connect the app.
 * <samp class="blue">Go Live</samp> —  you're logged into Facebook. Click to begin a live broadcast.
-* <samp class="blue">Test</samp> — you're logged into Facebook, and have scheduled an upcoming Live broadcast.
 
 ## Login to Facebook
 
@@ -57,25 +56,31 @@ If you select <samp>Go Live</samp> ➝ <samp>New Scheduled Live</samp>, a sheet 
 
 [![Figure\: Scheduled Live Announcement Post Editor, annotated](/assets/img/facebook-scheduled-live-editor.png "Scheduled Live Announcement Post Editor. Click for full-size image.")](/assets/img/facebook-scheduled-live-editor.png)
 
-Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu in the bottom right corner. This list of scheduled broadcasts resides on Facebook, so if you quit Ecamm Live or use Ecamm Live on another Mac, you'll still see the same list of scheduled broadcasts here.
+Once you have scheduled a Live broadcast, any pending broadcasts are listed in the <samp>Go Live</samp> menu. When a pending broadcast is selected there, in the bottom center area of the Main Window, you'll now see a countdown timer, which lists the time left until you go live, and a <samp>View Post</samp> button. Click the <samp>View Post</samp> button to view or edit the post details on Facebook. It will open in your web browser. Also, there's a {% inlineicon trash 10 graybutton %}Trash Button{% endinlineicon %} trash button for cancelling the scheduled broadcast.
 
-When a pending broadcast is selected, in the bottom left corner of the Main Window you'll now see a countdown timer, which lists the time left until you go live. Click the timer to view or edit the announcement post that was created on Facebook. It will open in your default web browser. When scheduling to a Facebook Business Page, there's also a {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} trash icon for cancelling the scheduled broadcast.
+#### Starting Early
+
+Once the countdown reaches 20 minutes, the countdown button will turn blue, indicating that early start is available. Click the countdown to start the broadcast before the scheduled time.
+
+#### Starting On Time
+
+Once the countdown reaches zero, the countdown will change to a <samp class="blue">Go Live Now</samp> button. Click the button to begin your broadcast.
+
+#### Embedding The Broadcast
 
 The broadcast can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embed a video player on a page on the web.
-
-Before the countdown reaches zero, the big blue button displays <samp class="blue">Test</samp>. Pressing <samp class="blue">Test</samp> allows you to test your streaming connection prior to the beginning of your scheduled live broadcast. The test stream is only visible to the broadcaster. Visit the post announcing your live broadcast on Facebook (which you can do by clicking the countdown timer) and there will be a small link at the bottom of the post labeled <samp>Broadcaster Only: Edit Your Details</samp>. Click this to view the space where your stream will appear, and in a few seconds, you'll be able to test your live stream. If, while you're testing the stream, the countdown to your live broadcast ends, your test will become the live broadcast automatically.
 
 ## View Viewer Comments and Reactions
 
 During broadcasts, any comments or reactions your audience makes on your live broadcast will be displayed in the Comments and Reactions window. If you don't see this window, pick it from <samp>Windows</samp> menu at the top of the screen. Additionally, during a broadcast, if there are comments, you'll see a {% inlineicon comment 20 graybutton %}Comment Button{% endinlineicon %} button in the bottom left-hand corner of the Main Window to reveal the Comments and Reaction window.
 
-### Restrictions on Group Comments
+#### Restrictions on Group Comments
 
 Due to Facebook privacy restrictions, when broadcasting to a closed or private Facebook Group, Ecamm Live is not able to display Group member names and profile photos unless the Group members have explicitly granted permission to the Ecamm Live app. This means that comments from Group members who have not granted permission will show up anonymously.
 
 ![Figure\: Comments & Reactions Window with an anonymous Group comment](/assets/img/group_comments.png "Comments & Reactions Window with an anonymous Group comment"){:width="425px"}
 
-### Inviting Group Members to Grant Permission
+#### Inviting Group Members to Grant Permission
 
 To invite Group members to grant their permission, click the <samp>Invite Group Members</samp> button at the bottom of the Comments and Reactions Window. The window will change to display an invitation link. Provide this link to Group members.
 
@@ -96,7 +101,7 @@ The code number provided in the link is unique to you and the Group, so it can a
 Note that the above information about anonymous comments and inviting Group members only applies to **Facebook Groups**. Public live streams to a Facebook Profile or business Page will display all comments and their associated names and profile photos without any special action by viewers.
 </aside>
 
-### Display Comments on Your Broadcast
+#### Display Comments on Your Broadcast
 
 If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/006-using-overlays/#comment-overlays).
 
@@ -138,11 +143,11 @@ If you'd like to log out of Facebook, first make sure <samp>Facebook</samp> is s
 
 To change Facebook-specific settings, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. Pick <Samp>Facebook</samp> from the tabs at the top of the Preferences window.
 
-### Show Title Field
+#### Show Title Field
 
 If you would like to enter a Title for your broadcast, pick this checkbox in the Facebook section of the Preferences. This title only appears on Facebook when a viewer with a desktop browser clicks on the broadcast. It _will not appear on news feeds or for mobile viewers._ 
 
-### Ambient Broadcast
+#### Ambient Broadcast
 
 Ambient broadcasts—also called continuous broadcasts—are a special kind of live stream that
 
@@ -152,7 +157,7 @@ Ambient broadcasts—also called continuous broadcasts—are a special kind of l
 
 Facebook suggests these live streams are ideal for places like aquariums, museums, and zoos. If you're interested in running an Ambient broadcast, enable it in the Facebook section of the Preferences.
 
-### Disallow Embedding
+#### Disallow Embedding
 
 The video player your Live broadcast resides in can be embedded into places you have not specifically choose to broadcast, within Facebook, or on the web, but there are times you may prefer to disallow it. To disallow embedding, check this checkbox in the Facebook section of the Preferences.
 

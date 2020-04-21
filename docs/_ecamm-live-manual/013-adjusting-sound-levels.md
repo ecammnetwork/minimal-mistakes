@@ -9,7 +9,7 @@ The Sound Levels Window shows what audio source is in use. Clicking on the name 
 
 A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider.  When a [Skype call](../008-remote-guests-via-skype) is in progress, you can also adjust its levels with the Sound Levels window. When sharing your screen, you'll also see a sound level adjustment for System Audio.
 
-Each audio channel (microphone, movie audio, Skype, and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have a Skype guest online, but only unmute the Skype guest's audio in particular Scenes.
+Each audio channel (microphone, movie audio, Skype, Sound Effects and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have a Skype guest online, but only unmute the Skype guest's audio in particular Scenes.
 
 ### Adding a Second Audio Input
 
@@ -23,7 +23,7 @@ When [an iOS device is connected](../003-camera-mode/#broadcasting-your-ios-devi
 
 Ecamm Live will automatically broadcast System Audio and movie playback audio in stereo. Audio from a connected microphone or mixer works a bit differently.
 
-By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../015-other-options/#audio-preferences).
+By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../016-other-options/#audio-preferences).
 
 Note that when Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices, so stereo audio will not be available.
 
@@ -37,7 +37,7 @@ When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 o
 
 The Sound Levels window can detect several audio misconfigurations and potential echo and feedback. It will display {% inlineicon warning %}a yellow warning icon{% endinlineicon %} if a possible problem is detected. Click the warning icon for more information about the problem. Possible issues include:
 
-* *Echo Issues* happen when your Mac's speaker generates sounds that are then picked up by your microphone. If these sounds are already part of your broadcast, this results in an echo. Possible sound sources are [Video File playback](../005-video-file-mode/), a [Skype guest](../008-remote-guests-via-skype/), [iOS device playthrough](#adding-a-second-audio-input), and broadcasting [System Audio](../004-screenshare-mode/#system-audio). To prevent this, turn on <samp>Echo Cancellation</samp> or use headphones rather than your Mac's speakers.
+* *Echo Issues* happen when your Mac's speaker generates sounds that are then picked up by your microphone. If these sounds are already part of your broadcast, this results in an echo. Possible sound sources are [Video File playback](../005-video-file-mode/), a [Skype guest](../008-remote-guests-via-skype/), [iOS device playthrough](#adding-a-second-audio-input), [Sound Effects](../014-sound-effects/), and broadcasting [System Audio](../004-screenshare-mode/#system-audio). To prevent this, turn on <samp>Echo Cancellation</samp> or use headphones rather than your Mac's speakers.
 
 * *Using Echo Cancellation Along With the Built-in Microphone* can cause microphone issues in other apps such as Skype. A warning will be displayed if Ecamm Live detects that <samp>Echo Cancellation</samp> is being used with the built-in microphone while Skype is also using the built-in microphone.  To prevent this, use a USB microphone instead, or turn off <samp>Echo Cancellation</samp>.
 

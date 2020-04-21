@@ -14,6 +14,8 @@ If you'd like to have the selected video start over automatically as soon as it 
 
 If you'd like to go to the next [Scene](../007-using-scenes/) when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Go To Next Scene</samp>.
 
+If you'd like to automatically end the broadcast or recording when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>End Broadcast</samp>.
+
 Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 
 While the video plays, you can control it with the Video Control Bar. Only you can see the controller. It is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the [Sound Levels](../013-adjusting-sound-levels/) Window.

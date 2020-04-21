@@ -17,7 +17,7 @@ The smaller windows are for control of [Sound Levels](../013-adjusting-sound-lev
 
 At the center bottom of the Main Window is a blue <samp class="blue">Login</samp> button, which will allow us to connect you to Facebook, YouTube or Periscope.
 
-Note: If you’re not going to use Ecamm Live with Facebook, YouTube, Twitch or Periscope, logging in is optional. You can still [record to your Mac](../012-recording-your-broadcasts/#record-only-mode), or stream to services that use [RTMP](../011-broadcast-to-other-services/#using-a-stream-key).
+Note: If you’re not going to use Ecamm Live with Facebook, YouTube, Twitch or Periscope, Restream or Switchboard, logging in is optional. You can still [record to your Mac](../012-recording-your-broadcasts/#record-only-mode), or stream to services that use [RTMP](../011-broadcast-to-other-services/#using-a-stream-key).
 {:.notice--info}
 
 [![Figure\: Annotated Main Window with tools labeled](/assets/img/main-window-annotated.png "Click for full-size image.")
@@ -36,7 +36,9 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} [Video File](../004-source-modes/#video-files)
 
 <br/>
-<iframe src="https://player.vimeo.com/video/285330893" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://www.youtube.com/embed/DjnP16Hrl8c?rel=0" frameborder="0" width="532" height="300"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br/>
+
 
 The top right of the Main Window contains five icons, the Sound Levels button, the Overlays button, the Camera Effects button, the Comments button and the Preferences button. Each show or hides the windows for each tool.
 
@@ -46,9 +48,11 @@ The top right of the Main Window contains five icons, the Sound Levels button, t
 
 {% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} [Camera Effects](../003-camera-mode/#camera-effects)
 
+{% inlineicon soundeffects 45 graybutton %}Sound Effects Button{% endinlineicon %} [Sound Effects](../014-sound-effects/)
+
 {% inlineicon comment 35 graybutton %}Comments Button{% endinlineicon %} [Comments](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions)
 
-{% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../015-other-options)
+{% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../016-other-options)
 
 The links above go to the manual's sections for each source and explain each in detail.
 {:.notice--info}
@@ -57,7 +61,7 @@ The bottom right corner holds menus which control where your broadcasts go. The 
 
 If you've picked Facebook or YouTube as your Destination, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook or YouTube, and control when to broadcast.
 
-If you select <samp>Custom Stream Key</samp>, a sheet will appear with the settings required to [stream to services other than Facebook, YouTube, Twitch, and Periscope](../011-broadcast-to-other-services/#using-a-stream-key).
+If you select <samp>Custom Stream Key</samp>, a sheet will appear with the settings required to [stream to services other than Facebook, YouTube, Twitch, Periscope, Restream.io, and Switchboard](../011-broadcast-to-other-services/#using-a-stream-key).
 
 Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../012-recording-your-broadcasts/#record-only-mode)
 
@@ -68,9 +72,6 @@ The bottom center of the Main Window holds the big blue button which depending o
 
 <samp class="blue">Go Live</samp>
 : If you’re logged in and ready to go, or if you’re using a stream key.
-
-<samp class="blue">Test</samp>
-: If you've selected an upcoming [scheduled broadcast](009-broadcast-to-facebook/#creating-a-new-scheduled-live) in Facebook or YouTube.
 
 <samp class="blue">Record</samp>
 : If your <samp>Destination</samp> is set to <samp>Record Only</samp>

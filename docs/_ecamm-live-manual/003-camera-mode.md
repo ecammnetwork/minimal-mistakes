@@ -8,18 +8,18 @@ The leftmost icon in the Source bar {% inlineicon cam 15 graybutton %}Camera Ico
 
 Ecamm Live supports a wide variety of cameras and input sources.
 
-### USB Webcams
+#### USB Webcams
 
 Ecamm Live works great with USB webcams. The most popular USB webcams are made by Logitech.
 
-### Canon DSLR Cameras via USB
+#### Canon DSLR Cameras via USB
 
 You can use your Canon DSLR camera with Ecamm Live without any extra hardware or software. Connect your Canon DSLR to your Mac's USB port. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. Some Nikon DSLRs may be recognized by Ecamm Live, but the video quality will not be high. No other brands of DSLRs or mirrorless cameras are supported via USB. If the camera provides HDMI out, use the HDMI Encoder method below.
 
 _See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
 {: .notice}
 
-### Blackmagic Devices and Other HDMI Encoders
+#### Blackmagic Devices and Other HDMI Encoders
 
 We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular HDMI input device is the [Blackmagic Design UltraStudio Mini Recorder.](https://amzn.to/2DjGN7F) Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live. The Blackmagic device will also show up as a microphone option in Ecamm Live's microphone list.
 
@@ -28,19 +28,19 @@ We've built in special support for cameras connected to your Mac through [Blackm
 
 Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live without any additional software.
 
-### Newtek NDI® Cameras
+#### Newtek NDI® Cameras
 
 Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDICam iOS app](http://www.sienna-tv.com/ndi/ndicam.html). NDI sources will show up as camera in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
 
-### EpocCam Camera for iPhone and iPad
+#### EpocCam Camera for iPhone and iPad
 
 Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/). This requires installing both the _macOS Drivers_ and _EpocCam Viewer Pro for Mac OS_ on your Mac. These are both available toward the bottom of [the Kinoni homepage](http://www.kinoni.com).
 
-### Broadcasting Your iOS Device's Screen
+#### Broadcasting Your iOS Device's Screen
 
 Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is trusted by the Mac, and that iTunes recognizes the device. It will then automatically show up as a video source and audio source in Ecamm Live.
 
-### 360° Cameras
+#### 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
 
@@ -51,11 +51,11 @@ The video source switcher allows you to switch video sources, or to broadcast mo
 
 ![Video Source Switcher](/assets/img/switcher.jpg "Video Source Switcher"){: width="319px"}
 
-### Selecting Multiple Sources
+### Splitscreen (Selecting Multiple Sources)
 
-If you would like to display more than one video source at the same time, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use  a two- or three-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
+If you would like to display more than one video source at the same time in a splitscreen layout or picture-in-picture, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use  a two- or three-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
 
-### Video Source Switcher Options
+#### Video Source Switcher Options
 
 To the left of the video sources in the switcher, you'll see a few options: 
 
@@ -91,7 +91,7 @@ You'll also need to ensure that you have excellent lighting with no shadows or g
 
 Once you are set up, turn on the Green Screen feature using the <Samp>Green Screen</samp> checkbox. Then select an image or video by clicking <samp>Select Backdrop</samp>, or dragging in an image or video file. Finally, adjust the <samp>Fade Level</samp> slider until the background is revealed. If you see a sparkle or fringe effect, you may need to adjust lighting.
 
-#### Green Screen Options
+### Green Screen Options
 
 There are a few other options in the Green Screen settings:
 
@@ -103,7 +103,7 @@ There are a few other options in the Green Screen settings:
 
 * <samp>Mask Edges</samp> Ecamm Live can automatically remove objects along the edge of the frame such as a microphone or the edge of a backdrop. Click the button again to turn off the masking.
 
-### Zoom & Pan
+#### Zoom & Pan
 
 In the Camera Effects window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
 

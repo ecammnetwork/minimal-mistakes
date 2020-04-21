@@ -7,7 +7,7 @@ There are a few other helpful options in the Preferences. To find Ecamm Live's P
 
 ### General Preferences
 
-#### Sound Effects
+#### Play App Sounds
 
 Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds if you use speakers during the broadcast, while Ecamm Live's echo cancellation feature is deactivated.
 
@@ -26,6 +26,10 @@ While broadcasting or recording, the control windows such as the Scenes window a
 #### Automatically Hide Comment Overlays
 
 When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activating, the overlays will also be hidden automatically after changing Scenes. 
+
+#### Show Skype's Active Speaker Camera
+
+When on a Skype call with more than one guest, Skype can offer a camera source what shows the person who is currently speaking.
 
 ### Account Preferences
 
@@ -107,6 +111,9 @@ When this option is enabled, your picture-in-picture window will show up on top 
 
 When this option is enabled, NDI titler sources such as [NewBlue](https://newbluefx.com/products/on-air-graphics/) and [ProPresenter](https://renewedvision.com/propresenter/) will fill the entire screen instead of showing up as a picture-in-picture.
 
+#### Disable Built-in Camera
+
+You may wish to completely disable the built-in camera to avoid it from being picked accidentally when using other cameras.
 
 ### Audio Preferences
 

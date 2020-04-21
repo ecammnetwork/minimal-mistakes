@@ -37,6 +37,12 @@ If you would like to hide the Text Overlay from the screen, place your cursor ov
 
 To change the width of a text Overlay without changing the font size, place your cursor over the right edge of the Overlay. When the cursor switched to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area.
 
+## Scrolling Tickers
+
+You can add a scrolling text ticker overlay using all of the steps above for a Text Overlay. At the top of the Text Editing Sheet, pick <samp>Scrolling Ticker</samp> as your <samp>Overlay Style</samp>.
+
+To adjust the speed of a ticker, once it has been created, move your mouse arrow over the overlay in the Main window. You will see a speed control slider show up.
+
 ## Image Overlays
 
 <iframe src="https://player.vimeo.com/video/285332619" width="532" height="300" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

@@ -68,6 +68,12 @@ Once the countdown reaches 20 minutes, the countdown button will turn blue, indi
 
 Once the countdown reaches zero, the countdown will change to a <samp class="blue">Go Live Now</samp> button. Click the button to begin your broadcast.
 
+#### Embedding The Broadcast and Live Chat
+
+The broadcast can be embedded into other places. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you to embed a video player on a page on the web.
+
+You can also embed YouTube's live chat by picking <samp>Copy Chat Embed URL</samp>
+
 ## View Live Chat Messages and Reactions
 
 During broadcasts, any YouTube live chat messages and reactions that your audience adds to your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.

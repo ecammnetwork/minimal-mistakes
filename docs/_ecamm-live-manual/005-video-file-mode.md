@@ -33,4 +33,10 @@ Picture-in-Picture can be summoned or dismissed by clicking the leftmost icon  {
 
 You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Picture-in-Picture Shape</samp>, or by right-clicking or control-clicking on the PiP window. Shape options include a rectangle, square or circle.
 
-In video playback mode, your microphone and Skype audio are automatically muted when the PiP window is not on screen. Only the video's audio will play. When the PiP window is brought back, your audio is automatically unmuted. You can unmute (and mute again) your mic audio while a video is playing and the PiP is hidden by clicking the microphone icon within the video control bar, or by using the <samp>MUTE</samp> buttons in the [Sound Levels](../013-adjusting-sound-levels) window.
+## Swapping the Picture in Picture and the Video
+
+To swap the camera video and the pre-recorded video, click the small {% inlineicon swap 20 inverted %}Swap Button{% endinlineicon %} button in the Picture in Picture window. This will allow you to play a pre-recorded video as a Picture in Picture. 
+
+## Automatic Mic Muting
+
+In video playback mode, your microphone and Skype audio are automatically muted when the PiP window is not on screen. Only the video's audio will play. When the PiP window is brought back, your audio is automatically unmuted. You can unmute (and mute again) your mic audio while a video is playing and the PiP is hidden by clicking the microphone icon within the video control bar, or by using the <samp>MUTE</samp> buttons in the [Sound Levels](../013-adjusting-sound-levels) window. This feature can be deactivated in the Audio section of the preferences.

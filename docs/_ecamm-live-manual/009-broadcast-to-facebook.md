@@ -68,7 +68,7 @@ Once the countdown reaches zero, the countdown will change to a <samp class="blu
 
 #### Embedding The Broadcast
 
-The broadcast can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you embed a video player on a page on the web.
+The broadcast can be embedded into other places. This can be a great thing for your audience extending your reach. To get the embed URL for a stream, once a stream has been scheduled or started, pick <samp>Copy Embed URL</samp> from the <samp>Edit</samp> menu. This will allow you to embed a video player with your broadcast elsewhere online. Alternatively, <samp>Copy Embed HTML</samp> will provide an HTML snippet containing an `IFRAME`. This will allow you to embed a video player on a page on the web.
 
 ## View Viewer Comments and Reactions
 

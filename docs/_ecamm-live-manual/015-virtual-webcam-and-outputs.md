@@ -38,6 +38,11 @@ Activate Audio Monitor by picking the audio output device in <samp>Outputs</samp
 
 Once activated, Audio Monitor will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon audio_out 15 redbutton %}Audio Monitor Button{% endinlineicon %} button in the top left corner of the Main Window.
 
+## Sharing Window (Pro Only)
+
+Ecamm Live's  Sharing Window feature can be used to send Ecamm Live's output into Zoom. This is an alternative to using the Virtual Camera feature, and may provide a higher resolution when screen sharing. Details on using the Sharing Window [can be found here](http://support.ecamm.com/en/articles/4004884-ecamm-live-s-sharing-window-pro-only).
+
+
 ## NDI Output (Pro Only)
 
 NDI Output provides the ability to send your broadcast to any [Newtek NDI®](https://www.newtek.com/ndi/) capable devices found on the network.

@@ -20,8 +20,8 @@ manual:
     url: /ecamm-live-manual/006-using-overlays
   - title: "Using Scenes"
     url: /ecamm-live-manual/007-using-scenes
-  - title: "Remote Guests via Skype"
-    url: /ecamm-live-manual/008-remote-guests-via-skype
+  - title: "Interview Mode"
+    url: /ecamm-live-manual/008-interview-mode
   - title: "Broadcasting to Facebook"
     url: /ecamm-live-manual/009-broadcast-to-facebook/
   - title: "Broadcasting to YouTube"
@@ -36,8 +36,10 @@ manual:
     url: /ecamm-live-manual/014-sound-effects
   - title: "Virtual Webcam and Outputs"
     url: /ecamm-live-manual/015-virtual-webcam-and-outputs
+  - title: "Remote Guests via Skype"
+    url: /ecamm-live-manual/016-remote-guests-via-skype
   - title: "Other Options"
-    url: /ecamm-live-manual/016-other-options
+    url: /ecamm-live-manual/017-other-options
 
 ecamm-live-first-facebook-live:
   - title: "Introduction"

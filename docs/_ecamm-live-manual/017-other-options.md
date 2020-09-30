@@ -31,6 +31,12 @@ When a [viewer comment is added as an overlay](../006-using-overlays/#comment-ov
 
 When on a Skype call with more than one guest, Skype can offer a camera source what shows the person who is currently speaking.
 
+#### Use Discrete Graphics Card for Main Screen
+
+15-inch and 16-inch MacBook Pros come equipped with dual graphics, meaning they have a more powerful graphics card (known as the discrete graphics card) in addition to the card built into the Mac's motherboard. The Mac will switch automatically between the two GPUs based on a variety of settings. Check this checkbox to ensure that the discrete graphics card is used for the main screen when Ecamm Live is open.
+
+Using the discrete graphics card will result in better performance, especially at higher frame sizes. However it can generate additional heat, resulting in computer fan noise.
+
 ### Account Preferences
 
 #### Manage Account

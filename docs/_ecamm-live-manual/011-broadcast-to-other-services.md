@@ -2,37 +2,20 @@
 title: Broadcasting to Other Services
 ---
 
-## Broadcasting to Periscope
+## Broadcasting to LinkedIn Live
 
-Broadcasting to Periscope starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select <samp>Periscope</samp>. The Periscope <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
+LinkedIn Live is currently available to approved users only. [See here](https://www.ecamm.com/linkedinlive) for details.
+{: .notice}
 
-If you’ve never logged into Periscope with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log into Periscope on the web.
+Broadcasting to LinkedIn starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select <samp>LinkedIn</samp>. The LinkedIn <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
+
+If you’ve never logged into LinkedIn with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log into LinkedIn on the web.
 
 Once you’re logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you’ll want to check out first.
 
-In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream. This description is also important for the Twitter posting option discussed below.
+In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
 
-#### Periscope Preferences
-
-To change Persiscope-specific settings, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. Pick <Samp>Periscope</samp> from the tabs at the top of the Preferences window.
-
-#### Share Broadcast on Twitter
-
-Select this option to have Periscope send a tweet inviting your Twitter followers to join you for your broadcast. The text of the tweet Periscope sends is the description, detailed above, and a link to the stream. If you go live without a description, and with this setting enabled, your tweet will be a Periscope link without description—which on Twitter’s apps and site will show as a _video_ without a description.
-
-#### Use Secure Connection
-
-This can help if you’re having trouble with your connection to Periscope. Networks typically treat secure connections differently than standard connections. The opposite is also true: if you’re broadcasting with the secure connection and having trouble, you can disable this setting.
-
-#### View Viewer Comments and Hearts
-
-During broadcasts, any comments, hearts or super hearts your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. Super Hearts and Join messages will show up at the bottom of the main window.
-
-#### Display Comments on Your Broadcast
-
-If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).
-
-#### Ending a Periscope Broadcast
+#### Ending a LinkedIn Broadcast
 
 Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
 
@@ -40,11 +23,9 @@ Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end
 
 After clicking <samp class="blue">Finish</samp> we’ll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
 
-On Periscope, a recording of your Live broadcast is now available as part of your profile, automatically. 
+On LinkedIn, a recording of your Live broadcast is now available as part of your timeline, automatically. 
 
 <samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
-
-<samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - click to remove the post from Periscope. We’ll double-check with you before we destroy it, as there is no undo.
 
 The next two items concern a local recording of your broadcast.
 
@@ -53,10 +34,10 @@ The next two items concern a local recording of your broadcast.
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
 If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
-#### Logging out of Periscope
+#### Logging out of LinkedIn
 
-Ecamm Live will stay logged into Periscope unless you manually log out, or if you remove Ecamm Live from [your Periscope Sources.](https://www.periscope.tv/account/producer)
-If you’d like to log out of Periscope, with <samp>Periscope</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out Periscope</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
+Ecamm Live will stay logged into LinkedIn unless you manually log out, or if you remove Ecamm Live from [your LinkedIn Permitted Services](https://www.linkedin.com/psettings/permitted-services).
+If you’d like to log out of LinkedIn, with <samp>LinkedIn</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out LinkedIn</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
 
 ## Broadcasting to Twitch, Restream.io or Switchboard
 

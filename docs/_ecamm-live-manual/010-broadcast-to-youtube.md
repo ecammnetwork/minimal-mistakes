@@ -78,6 +78,10 @@ You can also embed YouTube's live chat by picking <samp>Copy Chat Embed URL</sam
 
 During broadcasts, any YouTube live chat messages and reactions that your audience adds to your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you.
 
+#### Banning Commenters
+
+Below each comment, you'll see a tiny <samp>Ban</samp> button. Use this to block a commenter from leaving additional comments. Note that this will block the user from commenting on the channel indefinitely. To unblock someone, on your YouTube Studio dashboard go to Settings and then Community, and you'll find an editable list of "hidden users".
+
 ## Display Comments on Your Broadcast
 
 If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](/ecamm-live-manual/003-using-overlays/#comment-overlays).

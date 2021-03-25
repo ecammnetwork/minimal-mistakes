@@ -15,9 +15,9 @@ Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds i
 
 Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions) window when reactions arrive.
 
-#### Show Controls While In Other Apps
+#### Show Program Window While In Other Apps
 
-While you're live, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
+While you're live or recording, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
 
 #### Keep Utility Windows In Front While Live 
 
@@ -56,7 +56,7 @@ Choose from 540p, 720p, 1080p, 1440p or 4K. This setting will apply to both the 
 
 1440p and 4K are only available with an Ecamm Live Pro subscription. 
 
-Facebook's standard livestream size is 720p. You may wish to choose the smaller option for streaming to Periscope, or if your internet connection's upload speed is insufficient for 720p.
+Facebook's standard livestream size is 720p. You may wish to choose the smaller option if your internet connection's upload speed is insufficient for 720p.
 
 While Facebook will accept up to a 4K video stream, it does not currently offer the ability to _view_ a stream at this resolution. Other streaming destinations such as YouTube fully support 4K live broadcasts.
 
@@ -92,6 +92,9 @@ This will require a sustained minimum of 4 Mbps (megabits per second) for your i
 
 In most cases, Ecamm Live's default audio bitrate is sufficient.  However, some broadcasters such as musicians, may wish to increase the audio bitrate by enabling this option. This option cannot be changed during a broadcast.
 
+#### Recording File Format
+
+Select the format for Ecamm Live's local recordings. The default is .MOV format, however some services may prefer a .MP4 file instead. Note that the actual video and audio data in the file will be the same H.264 and AAC format for these options. (Only the container format changes.)
 
 ### Video Preferences
 
@@ -112,6 +115,10 @@ When this option is enabled, Ecamm Live's Video File source mode will begin play
 #### Show Picture-in-Picture Above Overlays
 
 When this option is enabled, your picture-in-picture window will show up on top of any overlays. This is particularly useful when presenting a full screen image or PDF overlay while using picture-in-picture.
+
+#### Show Picture-in-Picture in New Video File and Screensharing Scenes
+
+The default picture-in-picture visibility setting for newly created Scenes. 
 
 #### Show NDI Titles Full Screen
 

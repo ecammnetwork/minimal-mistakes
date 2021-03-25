@@ -16,7 +16,7 @@ It's important to note that when a Skype call is connected, its audio is _always
 
 ## Starting Your Broadcast
 
-* Go Live on your broadcast destination of choice (Facebook, YouTube, Periscope, etc.)
+* Go Live on your broadcast destination of choice (Facebook, YouTube, etc.)
 
 When a Skype call is connected, Ecamm Live will automatically detect each guest on the call. When [Camera mode](/ecamm-live-manual/004-source-modes/#camera) is selected, each guest on the Skype call appears in their own box at the bottom of the Main Window, in the [Video Source Switcher](/ecamm-live-manual/004-source-modes/#video-source-switcher).
 

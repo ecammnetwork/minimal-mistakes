@@ -8,17 +8,19 @@ Scenes allow you to quickly switch between presets—including overlays, source 
 
 A scene may encompass the following Ecamm Live settings:
 
-* Selected source mode. (Camera, Screen Share or Video File)
-* Selected cameras.
+* Selected source mode. (Blank, Camera, Screen Share or Video File)
+* Selected cameras or guests.
 * Screen sharing settings, including zoom.
 * Video File mode's <samp>When Video Ends</samp> setting.
 * Picture-in-picture visibility, size, shape and position.
-* Current overlays.
+* Overlays in the SHOW IN CURRENT SCENE section.
 * Selected video in Video File mode, found in the <samp>Options</samp> menu. 
 * The audio mute settings in the Sound Levels window.
 * The <samp>Crop Split Screen</samp> setting, found in the <samp>Options</samp> menu. 
 * The Scene's transition effect, found in the <samp>Options</samp> menu. 
 * All green screen settings except for Fade Level. (Fade Level is specific to the selected video source.)
+* Zoom & Pan, Mirror, Black & White and Rotate 180° settings in the Camera Effects window.
+* Visibility of Interview Mode automatic titles.
 
 Suppose you are running an interview show. You may want to have one Scene where it is you and your guest, both displayed with names below your video. Then you can create a Scene for just your guest's video and their name, and another for just your video and your name. Then you can quickly switch between all three views during the interview. We recommend taking a little time to plan out your overlays and then orchestrate them using Scenes. It can help your broadcasts go smoothly.
 
@@ -41,7 +43,8 @@ There are 5 ways you can select a Scene to display:
 1. Select one in the Scenes pull-down button in the Main Window
 1. Select one in the Scenes menu at the top of the screen.
 1. Click the Scene's {% inlineicon run-scene 30 %}run scene{% endinlineicon %} icon in the Scenes Windows.
-1. Keyboard shortcut for Scenes 1–9 (<kbd title="command">⌘</kbd>+digit)
+1. Keyboard shortcut for Scenes 1–9 (<kbd title="command">⌘</kbd>+digit) found in the Scenes menu.
+1. Assign a custom shortcut key by clicking the ⌘ icon to the right of each Scene in the list.
 1. Keyboard shortcut for next or previous Scenes
     * <kbd title="command">⌘</kbd> <kbd>→</kbd> Next (higher number, lower in Scenes Window) 
     * <kbd title="command">⌘</kbd> <kbd>←</kbd> Previous (lower numbers, higher in Scenes Window)

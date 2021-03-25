@@ -44,6 +44,12 @@ samp.uielement::before {
 		border: 0px
 }
 
+.red {
+		background: #FF6373;
+		color: white;
+		border: 0px
+}
+
 samp.uielement.sound-levels::before {
 	background-image:url(/assets/img/sound-levels.png);
 	background-repeat:no-repeat;

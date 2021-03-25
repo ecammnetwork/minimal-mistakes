@@ -54,4 +54,4 @@ You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Pictur
 
 ## Other Screen Sharing Options
 
-Ecamm Live's Preferences window has [several settings](../016-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.
+Ecamm Live's Preferences window has [several settings](../017-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.

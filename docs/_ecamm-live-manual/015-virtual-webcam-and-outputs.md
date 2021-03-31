@@ -16,9 +16,9 @@ Virtual Webcam will work even when you are not using Ecamm Live to broadcast or 
 
 The feature will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
 
-### Using Virtual Webcam During with Skype Guests
+### Some Apps Don't Support Virtual Webcams
 
-Ecamm Live's Virtual Camera can be used in Skype to allow your Skype guests to see the broadcast 
+Note that some apps don't load virtual cameras at all.  This includes most Apple apps such as FaceTime and iMovie, as well as some third-party apps. Fortunately, Zoom works fine.
 
 ## Video Monitor (Pro Only)
 

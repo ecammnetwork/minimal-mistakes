@@ -17,7 +17,7 @@ The smaller windows are for control of [Sound Levels](../013-adjusting-sound-lev
 
 At the center bottom of the Main Window is a blue <samp class="blue">Login</samp> button, which will allow us to connect you to the currently selected streaming platform.
 
-Note: If you’re not going to use Ecamm Live with Facebook, YouTube, Twitch, LinkedIn, Restream or Switchboard, logging in is optional. You can still [record to your Mac](../012-recording-your-broadcasts/#record-only-mode), or stream to services that use [RTMP](../011-broadcast-to-other-services/#using-a-stream-key).
+Note: If you’re not going to use Ecamm Live with Facebook, YouTube, Twitter, Twitch, LinkedIn, Restream or Switchboard, logging in is optional. You can still [record to your Mac](../012-recording-your-broadcasts/#record-only-mode), or stream to services that use [RTMP](../011-broadcast-to-other-services/#using-a-stream-key).
 {:.notice--info}
 
 [![Figure\: Annotated Main Window with tools labeled](/assets/img/main-window-annotated.png "Click for full-size image.")
@@ -63,7 +63,7 @@ The bottom right corner holds menus which control where your broadcasts go. The 
 
 If you've picked Facebook or YouTube as your Destination, you’ll see various options of where to broadcast. You can choose who can view your broadcast within Facebook or YouTube, and control when to broadcast.
 
-If you select <samp>Custom Stream Key</samp>, a sheet will appear with the settings required to [stream to services other than Facebook, YouTube, Twitch, LinkedIn, Restream.io, and Switchboard](../011-broadcast-to-other-services/#using-a-stream-key).
+If you select <samp>Custom Stream Key</samp>, a sheet will appear with the settings required to [stream to services other than Facebook, YouTube, Twitter, Twitch, LinkedIn, Restream.io, and Switchboard](../011-broadcast-to-other-services/#using-a-stream-key).
 
 Lastly, if you select <samp>Record Only</samp>, all the other options fade away, and you’re now set to [capture a recording only to your Mac.](../012-recording-your-broadcasts/#record-only-mode)
 

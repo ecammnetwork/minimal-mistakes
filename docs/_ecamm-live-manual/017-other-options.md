@@ -100,7 +100,7 @@ Select the format for Ecamm Live's local recordings. The default is .MOV format,
 
 #### Default Transition
 
-Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Transition</samp>, <samp>Cross Dissolve</samp>, <samp>White Flash</samp>, <samp>Swipe</samp>, <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> transition effects. A Pro-level plan is required for <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> effects.
+Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Transition</samp>, <samp>Cross Dissolve</samp>,  <samp>Slow Cross Dissolve</samp>,  <samp>Slower Cross Dissolve</samp>, <samp>White Flash</samp>, <samp>Swipe</samp>, <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> transition effects. A Pro-level plan is required for <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> effects.
 
 This transition effect can also be set on a per-Scene basis by selecting a transition in the <samp>Scene Optons</samp> section of the <samp>Options</samp> menu.
 

@@ -6,7 +6,7 @@ title: Ecamm Live Manual
 
 ## What can Ecamm Live do?
 
-Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, LinkedIn, Twitch, Restream.io and Switchboard Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
+Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, Twitter, LinkedIn, Twitch, Restream.io and Switchboard Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
 
 Why would you choose to use a Mac app to live stream, when you can stream straight from your web browser, or mobile device? Because Ecamm Live gives you superpowers…
 * **Add text, scrolling tickers, images, countdowns, PDFs and animations to your broadcast as overlays** , on-the-fly, or build them ahead of time.

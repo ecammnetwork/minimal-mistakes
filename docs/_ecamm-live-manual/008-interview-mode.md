@@ -32,27 +32,27 @@ Interviews are controlled using Ecamm Live's Interview window. If you don't see 
 
 If Interview Mode is turned off, turn it on using the blue switch.
 
-### The Host Camera
+#### The Host Camera
 
 At the top of the Interview window, you'll see your host camera. Use the dropdown menu to choose a different camera if needed. If no cameras are listed, ensure that you have the desired camera in Ecamm Live's Camera Switcher. (In the <samp>Camera</samp> menu at the top of the screen, check the <samp>Include in Switcher</samp> sub-menu.)
 
 Your name will be shown at the top of the host camera. To change the name, click the {% inlineicon settings 10 inverted %}pencil icon{% endinlineicon %} button or double-click on your name.
 
-### The Guest Link
+#### The Guest Link
 
-At the bottom of the Interview window, you'll see your invitation link. Send this link to your guests to allow them to join your broadcast. Click the <samp>Copy Link</samp> button to copy the link to your Mac's clipboard. 
+At the bottom of the Interview window, you'll see your invitation link. Send this link to your guests to allow them to join your broadcast. Click the link to copy it to your Mac's clipboard. 
 
-The link is unique to your account and will remain the same unless you change it. To change the link, click the {% inlineicon refresh 15 inverted %}change link{% endinlineicon %} button. This will create a new link code, and the old link will stop working.
+The link is unique to your account and will remain the same unless you change it. The link can be changed in the [Interview Customization window](#customizing-your-interview-page). Once changed, a new link code, and the old link will stop working.
 
 Send your guests this link in advance of your broadcast. Guests will be able to join using this link at any time.
 
 ## Inviting Guests
 
-### Preparing Your Guests
+#### Preparing Your Guests
 
 We recommend having your guests join well in advance for a test call. This will allow you to ensure that the guests have a sufficient computer, web browser, camera, and microphone, and a suitable internet connection.
 
-### When Guests Join
+#### When Guests Join
 
 When guests click your invitation link, their web browser will prompt them to allow the Ecamm website to access their camera and microphone.
 
@@ -71,7 +71,7 @@ Once you have accepted the incoming call, the guest will show up below the host 
 
 Each guest also has a volume level slider, which can be used to adjust the guest's volume as needed.  Guest can also be muted and unmuted by clicking the {% inlineicon speaker3 15 inverted %}speaker{% endinlineicon %} icon just to the left of the volume slider.
 
-### Disconnecting a Guest
+#### Disconnecting a Guest
 
 Disconnect a guest by clicking the {% inlineicon decline 15 %}red X{% endinlineicon %} button.
 
@@ -144,6 +144,77 @@ When Ecamm Live detects that both your microphone and the Interview guest microp
 
 When in this mode, the host can determine if the guest's program audio is automatically lowered, [using a checkbox in the Interview preferences](#lower-music-and-movie-sound-for-guests-when-in-off-air-audio-mode).  
 
+## Guest Private Chat
+
+The Interview host and guests can chat using a text chat interface before and during the a broadcast or recording. Open the Interview Chat window by clicking the chat icon at the bottom of the Interview window. A red dot on the icon indicates that there are unread chat messages.
+
+![Figure\: Interview Chat Window](/assets/img/chatdot.png "Interview Chat Indicator"){:width="414"}
+
+The Interview Chat window shows all sent and received chat messages. To send a message, enter it into the <samp>Send a message...</samp> field at the bottom of the chat window and press return. 
+
+Interview Chat can be enabled or disabled in the [Interview Customization window](#customizing-your-interview-page).
+
+![Figure\: Interview Chat Window](/assets/img/chatwindow.png "Interview Chat Window"){:width="346"}
+
+## Customizing Your Interview Page
+
+The Interview page that your guests will see can be customized. A page title and logo can be added to match you broadcast's brand, and various features can be enabled based on the type of guest interaction desired.
+
+You can create an unlimited number of customized Interview pages, and switch between them as needed. For example, if you produce two different shows, you may wish to have different customizations for each show, such as a different logo. Each Interview page has its own unique guest link.
+
+To add a new customized Interview page, or switch between customized Interview settings, use the popup menu at the bottom of the Interview window.
+
+![Figure\: Interview Menu](/assets/img/interviewmenu.png "The Interview Menu"){:width="419px"}
+
+The currently selected Interview page can be customized by clicking the {% inlineicon interviewgear 15 inverted %}Gear{% endinlineicon %} icon at the bottom of the Interview window.
+
+![Figure\: Customizing Your Interview Page](/assets/img/showgear.png "The Interview Window Gear Button"){:width="426"}
+
+![Figure\: Customizing Your Interview Page](/assets/img/customize.png "The Interview Customization Window"){:width="700px"}
+
+#### Page Title
+
+The Interview Page's title will show up when the link is shared via a messaging app or linked in a social media platform or bookmarked in a web browser.
+
+#### Light Mode Logo and Dark Mode Logo
+
+The logo in the bottom corner of the Interview page can be customized. A light mode and dark mode version of your logo should be provided. If no logo is provided, an Ecamm logo will be used instead. 
+
+#### Open Graph Image
+
+The Interview Page's Open Graph Image will show up when the link is shared via a messaging app or linked in a social media platform. See below for an example of how the Page Title and Open Graph Image will show up when sending the guest link in a chat app such as Facebook Messenger. 
+
+![Figure\: An Interview Link Sent Via Facebook Messenger](/assets/img/messenger.jpg "Link Example"){:width="350px"}
+
+If no custom Open Graph Image is provided, a default Ecamm Interview image will be used instead. 
+
+#### Guest Link Domain
+
+Choose from 14 domain names for your Interview link.
+
+#### Default To Dark Mode
+
+Guests have the ability to choose a light mode or dark mode appearance. The checkbox will determine the default value for new guests.
+
+#### Allow Private Chat
+
+You may wish to enable or disable the text chat sidebar.
+
+#### Show Viewer Comments
+
+Live viewer comments are shown to the guests during a live broadcast to Facebook, YouTube, Restream, or Twitch. You may wish to show or hide the live comments sidebar.
+
+#### Show Viewer Count
+
+The total concurrent viewer count is shown to the guests during a live broadcast. You may wish to show or hide this.
+
+#### Turn Off Audio Processing for Guests
+
+Check this checkbox if your guests will be playing music. The guest microphone will have audio processing disabled, use higher bitrate, and a stereo option will be offered in the guest's audio settings. 
+
+Note that since the guest's echo cancellation will be disabled, headphones must be used on the guest side. 
+Chrome browser and a desktop computer is required for this feature.
+
 ## Interview Preferences
 
 Ecamm Live's preferences window has several options for Interview mode.
@@ -161,21 +232,6 @@ When a guest joins, this will bypass the need to click the answer/decline button
 #### Send Guest To Greenroom
 
 By default, guests will be in a greenroom upon joining. (Their audio will not be in the broadcast.) Uncheck this checkbox to bypass the greenroom.
-
-#### Turn Off Audio Processing for Guests
-
-Check this checkbox if your guests will be playing music. The guest microphone will have audio processing disabled, use higher bitrate, and a stereo option will be offered in the guest's audio settings. 
-
-Note that since the guest's echo cancellation will be disabled, headphones must be used on the guest side. 
-Chrome browser and a desktop computer is required for this feature.
-
-#### Guest Web Interface Defaults To Dark Mode
-
-Guests have the ability to choose a light mode or dark mode appearance. The checkbox will determine the default value for new guests.
-
-#### Guest Web Interface Displays Comments & Viewer Count
-
-Guests can view the broadcasts viewer count and comment feed on the right-hand side of the screen. Uncheck this checkbox to hide this tab from guests.
 
 #### Lower Music and Movie Sound For Guests When in Off-Air Audio Mode
 

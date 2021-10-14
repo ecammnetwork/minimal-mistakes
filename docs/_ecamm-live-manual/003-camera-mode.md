@@ -32,13 +32,21 @@ Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typi
 
 Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDICam iOS app](http://www.sienna-tv.com/ndi/ndicam.html). NDI sources will show up as camera in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
 
-#### EpocCam Camera for iPhone and iPad
+#### RTSP Cameras (Also called Network Cameras or IP Cameras)
 
-Customers also use the third-party iOS app, _EpocCam_ by [Kinoni](http://www.kinoni.com/) to use their iOS device as a camera.
+Network cameras supporting H.264 and H.265 video encoding can be added to Ecamm Live by picking <samp>Manage Network Cameras</samp> from the <samp>Camera</samp> menu at the top of the screen. Click the + button to add a new network camera. Enter a display name for the camera and the camera's RTSP URL. If a username and password is required, include that in the URL, using this format:
+
+rtsp://user:password@address:port/path
+
+![Figure\: Adding a Network Camera](/assets/img/sanctuary.png "Adding a Network Camera"){:width="657"}
+
+The <samp>Test Camera</samp> button can be used to test the connection to the camera. 
+
+Note that network camera audio is not supported.
 
 #### Broadcasting Your iOS Device's Screen
 
-Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is trusted by the Mac, and that iTunes recognizes the device. It will then automatically show up as a video source and audio source in Ecamm Live.
+Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is recognized in the Finder sidebar and that is trusted by the Mac. It will then automatically show up as a video source and audio source in Ecamm Live.
 
 #### 360° Cameras
 
@@ -108,6 +116,8 @@ There are a few other options in the Green Screen settings:
 
 In the Camera Effects window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
 
+Hold down the <kbd>shift</kbd> key while adjusting the pan to constrain the axis.
+
 Zooming in can be useful for fine-tuning how a shot is framed, for example to crop out the edges of a green screen.
 
 Zooming out can be used to better position a video source in an [Overlay](../006-using-overlays) frame.
@@ -154,6 +164,15 @@ Some cameras may offer more than one resolution option. Check this checkbox to u
 #### Use Manual Focus
 
 Some cameras, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. If you do not see this checkbox, Ecamm Live is not able to adjust the focus level for the selected input device. 
+
+#### Rotate
+
+Click this button to rotate the camera in 90° increments.
+
+#### Apply To All Scenes
+
+Click this button to apply the current Scene-based Camera Effects to all Scenes. This maybe useful if you want to apply the same Green Screen backdrop to all Scenes for example.
+
 
 #### Set Default Camera
 

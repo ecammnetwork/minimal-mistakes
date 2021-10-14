@@ -5,7 +5,7 @@
 
 Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. 
 
-There are five types of Overlays:
+There are six types of Overlays:
 
 ## Text Overlays
 
@@ -16,30 +16,30 @@ Almost any need for text on the screen can be addressed with Text Overlays. Ther
 * Type <kbd>⌘</kbd><kbd>N</kbd>.
 * Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as Overlay</samp> will allow you to paste in plain or styled text.
 
-When you create a new Text Overlay, a Text Editing Sheet will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, text opacity (how much you can “see through” the text), background color and background opacity. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
+When you create a new Text Overlay, a Text Editing Window will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, and text color. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
  
-[![Figure\: Text Overlay Editor Sheet](/assets/img/text-overlay-editor-sheet.jpg "Click for full-size image.")
+[![Figure\: Text Overlay Editor Window](/assets/img/text-overlay-editor-sheet.jpg "Click for full-size image.")
 ](/assets/img/text-overlay-editor-sheet.jpg)
 
-You can apply a shadow or an outer glow effect to all of the text. To add emoji, click the 😀 smiling emoji button and select from the menu. 
+You can apply a shadow or an outer glow effect to all of the text. To add an emoji, click the 😀 smiling emoji button and select from the menu. 
 
-The background size and shape is set automatically for you, and adjusts to scale with the size of your text. You can change the color, opacity, corner radius and margin of the background.
+The background size and shape is set automatically for you, and adjusts to scale with the size of your text. You can change the color, opacity, corner radius, margin, border, and border color of the background.
 
 #### Adding A New Line
 
-To add a new line to a Text Overlay, press <kbd>return</kbd> while holding down the <kbd>shift</kbd> key. (Pressing <kbd>return</kbd> without the <kbd>shift</kbd> key will dismiss the sheet.)
+To add a new line to a Text Overlay, press <kbd>return</kbd> while holding down the <kbd>shift</kbd> key. (Pressing <kbd>return</kbd> without the <kbd>shift</kbd> key will save the changes and dismiss the window.)
 
 #### Fly-In Overlays
 
-Text Overlays can slide onto the screen from the left or right. Pick <samp>Fly In</samp> from the <samp>Style</samp> menu at the top of the sheet to turn on Fly In mode.
+Text Overlays can slide onto the screen from the left, right, top, or bottom. Pick <samp>Fly In</samp> from the <samp>Style</samp> menu at the top of the window to turn on Fly In mode.
 
-Once you click <samp>Save</samp> in the Text Editing Sheet, your Overlay will appear in the Main Window.
+Once you click <samp>Add</samp> in the Text Editing Window, your Overlay will appear in the Main Window.
 
 #### Editing Text Overlays
 
-To change the text or visual style of the Overlay, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the Text Editing Sheet for adjustments. A double-click on the Overlay will also bring back the Text Editing Sheet.
+To change the text or visual style of the Overlay, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the Text Editing Window for adjustments. A double-click on the Overlay will also bring back the Text Editing Window.
 
-To change the width of a text Overlay without changing the font size, place your cursor over the right edge of the Overlay. When the cursor switched to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area.
+To change the width of a text Overlay without changing the font size, place your cursor over the right edge of the Overlay. Once the cursor switches to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area.
 
 ## Scrolling Tickers
 
@@ -62,7 +62,7 @@ Would you like to show your company logo in the corner of your broadcast? That�
 
 When a multi-page PDF file is added as an Overlay, you will see page controls show up when your mouse cursor moves over the Overlay. Use the left and right arrow buttons, or the arrow keys on your keyboard to move through the PDF pages. To jump to a specific page, click the page number area.
 
-PDF overlays can be displayed with a transparent background if desired. Control-click or right-click on a PDF overlay, and choose <samp>PDF Options</samp> ➝ <samp>Transparent Background</samp> from the contextual menu. Note that the PDF itself must already have a transparent background for this to work properly.
+PDF overlays can be displayed with a transparent background if desired. <kbd>Control</kbd>-click or right-click on a PDF overlay, and choose <samp>PDF Options</samp> ➝ <samp>Transparent Background</samp> from the contextual menu. Note that the PDF itself must already have a transparent background for this to work properly.
 
 Animated GIFs are also supported—let’s use that last one responsibly, shall we? 
 
@@ -85,17 +85,25 @@ A File Selection Sheet will appear, allowing you to find and select a movie file
 
 #### Animated Overlay Playback Options
 
-To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and the option to hide the overlay when finished with playback.
+To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and options to hide the overlay when finished with playback.
 
 ## Comment Overlays
 
-If you’re broadcasting with Facebook Live, YouTube Live, Restream, or Twitch and you receive a comment, you can drag that comment from the [Comments and Reactions Window](009-broadcast-to-facebook/#view-viewer-comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
+If you’re broadcasting with Facebook Live, YouTube Live, Restream, or Twitch, and you receive a comment, you can drag that comment from the [Comments and Reactions Window](009-broadcast-to-facebook/#view-viewer-comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
 
 You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
 #### Editing Comment Overlays
 
 The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
+
+#### Showing The Most Recent Comment as an Overlay
+
+Use the <samp>Add Last Comment As Overlay</samp> menu item in the <samp>Overlays</samp> menu to add the most recent comment as a Comment Overlay.  The key command <kbd>⌘</kbd><kbd>K</kbd> or the <samp>Show Comment</samp> Stream Deck key can also be used.
+
+#### Hiding The Current Comment Overlay
+
+Use the <samp>Hide Last Comment Overlay</samp> menu item in the <samp>Overlays</samp> menu to hide the current Comment Overlay.  The key command <kbd>⌘</kbd><kbd>J</kbd> or the <samp>Hide Comment</samp> Stream Deck key can also be used.
 
 #### Hiding Comment Overlays Automatically
 
@@ -110,7 +118,7 @@ There are 2 ways you can display a Countdown Overlay:
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
-A Text Editing Sheet appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown style. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
+A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown style. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
 
 #### Auto-Start Option
 
@@ -126,30 +134,56 @@ If you need to quickly position a camera feed on the screen to create a custom l
 
 There are 2 ways you can add a Camera Overlay:
 
-* Select a camera from the <samp>New Camera Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display
+* Select a camera from the <samp>New Camera Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display.
 * Click the{% inlineicon addcamera 70 inverted %}Add Camera Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
-A camera overlay will show up in the center of the main window. 
+A Camera Overlay will show up in the center of the main window. 
 
 #### Editing Camera Overlays
 
 There are three ways to access the settings for a Camera Overlay:
 
-* Double-click the overlay in the Main Window.
-* Click the pencil button next to the overlay in the main window.
+* Double-click the Overlay in the Main Window.
+* Click the pencil button next to the Overlay in the main window.
 * Click the gear button in the Overlays window. 
 
-A popover window with camera source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the overlay from any corner. 
+A popover window with camera source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
+
+Corner radius, and border options are also offered in the popover window. Note that a newly created Camera Overlay will automatically inherit the last used corner radius and border options. 
+
+## Screenshare Overlays
+
+If you need to quickly position a screenshare to create a custom layout, use a Screenshare Overlay. 
+
+There are 2 ways you can add a Screenshare Overlay:
+
+* Select <samp>New Screenshare Overlay</samp> from the <samp>Overlays</samp> menu at the top of your display.
+* Click the{% inlineicon addscreen 60 inverted %}Add Screenshare Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+
+A Screenshare Overlay will show up in the center of the main window. 
+
+#### Editing Screenshare Overlays
+
+There are three ways to access the settings for a Screenshare Overlay:
+
+* Double-click the Overlay in the Main Window.
+* Click the pencil button next to the Overlay in the main window.
+* Click the gear button in the Overlays window. 
+
+A popover window with screenshare source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
+
+Corner radius, and border options are also offered in the popover window. Note that a newly created Screenshare Overlay will automatically inherit the last used corner radius and border options. 
 
 ## Widget Overlays
 
 Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
 
-There are 3 ways you can add a Widget Overlay:
+There are 4 ways you can add a Widget Overlay:
 
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 * Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
+* To add a local HTML file as a widget, drag an HTML file from the Finder into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 
 Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button or selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
 
@@ -158,6 +192,8 @@ Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinline
 * Width and Height: Indicate a width and height for the widget. This will determine the scale of the widget.
 
 * Fill Entire Frame: This checkbox will make the widget fill the entire broadcast area. When using this option, the overlay cannot be resized or moved around like a normal overlay.
+
+* Keep Running: This checkbox will keep the widget running even after hiding the Overlay or leaving the Overlay's Scene. This is helpful for Overlays that shouldn't be reloaded or that take a while to load up. However setting this should be used judiciously as once loaded, the widget will remain running in the background until the Ecamm Live app quits.
 
 * Frame Rate: By default, the widget's contents will update 15 times per second. You may wish to increase the frame rate if more frequent updating is needed, or decrease it for performance reasons.
 
@@ -179,7 +215,7 @@ To move an Overlay on one axis, (horizontally or vertically), drag the overlay w
 
 To quickly duplicate an Overlay, drag while holding down the <kbd>option</kbd> or <kbd>alt</kbd> key on your keyboard.
 
-To adjust the Overlay’s size, drag from any corner.  You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll-wheel or scroll gesture to resize an Overlay.
+To adjust the Overlay’s size, drag from any corner or edge.  You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll-wheel or scroll gesture to resize an Overlay.
 
 ![Pinch to shrink](/assets/img/pinch-zoom.png){: height="100px" width="100px"}
 —Pinch to shrink
@@ -190,6 +226,12 @@ To adjust the Overlay’s size, drag from any corner.  You may also use your tra
 #### Adjusting Overlay Opacity
 
 To adjust an overlay's transparency, use the scroll gesture (slide two fingers on a trackpad) while holding down the <kbd>shift</kbd> key.
+
+#### Cropping Overlays
+
+With the exception of Text Overlays, Overlays can be cropped from any edge. Crop by holding down the <kbd>option</kbd> or <kbd>alt</kbd> key on your keyboard while dragging any edge of an Overlay.
+
+To reset the crop, right-click or <kbd>control</kbd>-click the Overlay and pick <samp>Reset Crop</samp>.
 
 ## Managing Your Overlays
 
@@ -213,7 +255,13 @@ The Overlays Window has three sections:
 
 #### Locking Overlays
 
-You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or control-click on an overlay, and choose "Lock Overlay" from the menu that shows up.
+You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or <kbd>control</kbd>-click on an overlay, and choose "Lock Overlay" from the menu that shows up.
+
+#### Linking Overlay Groups
+
+A collection of overlays can be moved around the main window together as if they were one Overlay, by using Linked Groups. To link a group of Overlays, first add them to a folder Group. (See above.) Once added to a Group, you'll see a tiny {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon show up in the entry for the Group in the Overlays Window. Click the link icon to link the Group.  Once linked, the overlays will move together when dragged in the Main Window. To unlink, click the {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon again.
+
+Linking and unlinking can also be found in the contextual menu when right-clicking or <kbd>control</kbd>-clicking on an Overlay.
 
 ## Displaying a Series of Overlays
 

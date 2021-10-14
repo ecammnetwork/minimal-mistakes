@@ -39,7 +39,7 @@ If you’ve never used the YouTube feature, you’ll be asked to sign in when yo
 Ecamm Live will stay logged into LinkedIn unless you manually log out, or if you remove Ecamm Live from [your LinkedIn Permitted Services](https://www.linkedin.com/psettings/permitted-services).
 If you’d like to log out of LinkedIn, with <samp>LinkedIn</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out LinkedIn</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
 
-## Broadcasting to Twitch, Restream.io or Switchboard
+## Broadcasting to Twitch, Twitter, Restream.io or Switchboard
 
 Broadcasting to [Twitch](https://twitch.tv), [Restream.io](https://restream.io) or [Switchboard](https://switchboard.live) starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select the platform. The <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
 
@@ -49,14 +49,17 @@ Once you’re logged in, you can dive straight in by clicking <samp class="blue"
 
 #### Broadcast Options
 
-There is just one option for Twitch broadcasts. In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
+For Twitter, Twitch and LinkedIn, in the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
 
+For Twitch and LinkedIn, you'll find an option to select your closest ingest server in Ecamm Live's preferences window.
+
+Likewise, for Twitter you'll find an option to activate a low-latency mode.
 
 ##### View Viewer Chat Comments
 
 During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. 
 
-Switchboard does not support viewer count or comments.
+Switchboard and Twitter do not support viewer count or comments.
 
 #### Ending a Broadcast
 
@@ -71,7 +74,7 @@ After clicking <samp class="blue">Finish</samp> we’ll present you with a messa
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
 If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
 
-#### Logging out of Twitch, Restream.io or Switchboard
+#### Logging out of Twitch, Twitter, Restream.io or Switchboard
 
 Ecamm Live will stay logged in unless you manually log out, or if you remove Ecamm Live from the platform's connected apps. If you’d like to log out, with Destination selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>.
 

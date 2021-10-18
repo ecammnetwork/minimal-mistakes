@@ -152,7 +152,7 @@ The Interview host and guests can chat using a text chat interface before and du
 
 The Interview Chat window shows all sent and received chat messages. To send a message, enter it into the <samp>Send a message...</samp> field at the bottom of the chat window and press return. 
 
-Interview Chat can be enabled or disabled in the [Interview Customization window](#customizing-your-interview-page).
+Interview Chat can be enabled or disabled in the [Interview Customization window](#customizing-your-interview-page). (If you don't see the chat icon at the bottom of the Interview window, this means it's disabled.)
 
 ![Figure\: Interview Chat Window](/assets/img/chatwindow.png "Interview Chat Window"){:width="346"}
 
@@ -174,7 +174,7 @@ The currently selected Interview page can be customized by clicking the {% inlin
 
 #### Page Title
 
-The Interview Page's title will show up when the link is shared via a messaging app or linked in a social media platform or bookmarked in a web browser.
+The Interview Page's title is not shown on the Interview page itself, but will show up when the link is shared via a messaging app, linked on a social media platform or bookmarked in a web browser.
 
 #### Light Mode Logo and Dark Mode Logo
 
@@ -198,7 +198,7 @@ Guests have the ability to choose a light mode or dark mode appearance. The chec
 
 #### Allow Private Chat
 
-You may wish to enable or disable the text chat sidebar.
+You may wish to enable or disable the [private chat](#guest-private-chat) sidebar.
 
 #### Show Viewer Comments
 

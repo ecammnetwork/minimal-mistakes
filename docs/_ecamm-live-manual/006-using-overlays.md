@@ -174,6 +174,14 @@ A popover window with screenshare source and shape options will appear. Pick the
 
 Corner radius, and border options are also offered in the popover window. Note that a newly created Screenshare Overlay will automatically inherit the last used corner radius and border options. 
 
+#### Activate System Audio Capture
+
+Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing Screen</samp> in Ecamm Live's [Audio Preferences](../017-other-options#broadcast-system-audio).
+
+#### Green Screen key
+
+Checking this checkbox will cause any chroma green in the screen share to be transparent. It will also make the desktop area transparent. This option is useful when used in conjunction with a PowerPoint or Keynote presentation that includes a green background.
+
 ## Widget Overlays
 
 Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.

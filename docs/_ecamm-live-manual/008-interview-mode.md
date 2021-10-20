@@ -42,7 +42,7 @@ Your name will be shown at the top of the host camera. To change the name, click
 
 At the bottom of the Interview window, you'll see your invitation link. Send this link to your guests to allow them to join your broadcast. Click the link to copy it to your Mac's clipboard. 
 
-The link is unique to your account and will remain the same unless you change it. The link can be changed in the [Interview Customization window](#customizing-your-interview-page). Once changed, a new link code, and the old link will stop working.
+The link is unique to your account and will remain the same unless you change it. The link can be changed in the [Interview Customization window](#customizing-your-interview-page). Once changed, a new link code is generated, and the old link will stop working.
 
 Send your guests this link in advance of your broadcast. Guests will be able to join using this link at any time.
 

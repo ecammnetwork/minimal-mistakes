@@ -16,7 +16,7 @@ Wearing headphones is not required, but typically results in better audio qualit
 
 To join an interview, we recommend a Mac or Windows PC running Safari or Chrome, and at least a 5 Mbps internet connecton.
 
-Guests can also join using Safari on an iPhone or iPad, or from Chrome on an Android device.
+Guests can also join using Safari or Chrome on an iPhone or iPad, or from Chrome on an Android device.
 
 Guests _do not_ need the Ecamm Live app or an Ecamm Live subscription.
 

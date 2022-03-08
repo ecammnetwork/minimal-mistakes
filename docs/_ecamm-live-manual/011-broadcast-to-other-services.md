@@ -4,7 +4,7 @@ title: Broadcasting to Other Services
 
 ## Broadcasting to LinkedIn Live
 
-LinkedIn Live is currently available to approved users only. [See here](https://www.ecamm.com/linkedinlive) for details.
+LinkedIn Live must meet certain criteria. [See here](https://www.ecamm.com/linkedinlive) for details.
 {: .notice}
 
 Broadcasting to LinkedIn starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select <samp>LinkedIn</samp>. The LinkedIn <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
@@ -39,9 +39,9 @@ If you’ve never used the YouTube feature, you’ll be asked to sign in when yo
 Ecamm Live will stay logged into LinkedIn unless you manually log out, or if you remove Ecamm Live from [your LinkedIn Permitted Services](https://www.linkedin.com/psettings/permitted-services).
 If you’d like to log out of LinkedIn, with <samp>LinkedIn</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out LinkedIn</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
 
-## Broadcasting to Twitch, Twitter, Restream.io or Switchboard
+## Broadcasting to Twitch, Twitter, Restream.io, Switchboard, or OneStream Live
 
-Broadcasting to [Twitch](https://twitch.tv), [Restream.io](https://restream.io) or [Switchboard](https://switchboard.live) starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select the platform. The <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
+Broadcasting to [Twitch](https://twitch.tv), [Restream.io](https://restream.io), [Switchboard](https://switchboard.live), or [OneStream Live](https://www.onestream.live) starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select the platform. The <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
 
 If you’ve never logged into the service with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log in on the web.
 
@@ -59,7 +59,11 @@ Likewise, for Twitter you'll find an option to activate a low-latency mode.
 
 During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. 
 
-Switchboard and Twitter do not support viewer count or comments.
+Switchboard, OneStream, and Twitter do not support displaying viewer count or comments in Ecamm.
+
+#### Starting a Broadcast
+
+For Switchboard and OneStream Live, once you've started streaming in Ecamm Live, you'll typically then need to start the broadcast on the service's website. 
 
 #### Ending a Broadcast
 

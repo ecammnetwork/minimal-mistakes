@@ -66,6 +66,8 @@ To remove a sound, select it in the Sound Levels window and press your <kbd>dele
 
 To play a sequence of sound or music files, create a folder to group sounds. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag sounds into the folders. The folder has its own loop setting and hot key assignment, and will play each sound in the folder.
 
+Move through items in a playlist using next and previous buttons in the settings popover, or by using the media keys on your Mac's keyboard. 
+
 ## Assigning a Sound or Playlist to a Scene
 
 Assigning a sound to a Scene will play the sound when switching to the Scene, or when a broadcast or recording starts while the Scene is active. This is useful for adding a sound effect to a scene transition, or adding music to an intro or outro scene. 
@@ -80,7 +82,16 @@ There are 5 ways to assign a sound to a Scene:
 
 To remove a sound effect from a Scene, click the X beside the sound effect name in the top left corner of the main window.
 
-## Adjust and Muting Sound Effect Levels
+### Scene Sound Settings
+
+Access Scene Sound settings by clicking the tiny gear button in the Scene Sound indicator in the Main Window:
+
+![](/assets/img/scenesoundsettings.png){: width="508px"}
+
+* A volume slider to apply a Scene Sound volume level specific to the current scene.
+* A checkbox to indicate that a Scene Sound should continue playing after leaving the scene.
+
+## Adjusting and Muting Sound Effect Levels
 
 ![Sound Levels Window](/assets/img/fxsoundlevels.png "Sound Levels Window"){: width="449px"}
 

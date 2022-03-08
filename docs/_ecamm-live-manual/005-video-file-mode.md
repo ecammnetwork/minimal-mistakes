@@ -8,6 +8,12 @@ On subsequent clicks of the Video icon, you'll see a  menu appear instead, with 
 
 Your video will begin playing _immediately_ after selection. If you would prefer to disable autoplay, you may do so in the <samp>Video</samp> section of the <samp>Preferences</samp>.  
 
+### Starting A Video File
+
+By default, videos will start playing from the beginning. If you'd prefer that a video starts from where you left off previously, choose <samp>Options</samp> menu ➝ <samp>When Video Scene Starts </samp>  ➝ <samp>Start Video From Last Location</samp>.
+
+This menu can also be found in the player bar.
+
 ### When A Video File Ends
 
 If you'd like to have the selected video start over automatically as soon as it finished, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Loop Video</samp>.
@@ -15,6 +21,8 @@ If you'd like to have the selected video start over automatically as soon as it 
 If you'd like to go to the next [Scene](../007-using-scenes/) when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Go To Next Scene</samp>.
 
 If you'd like to automatically end the broadcast or recording when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>End Broadcast</samp>.
+
+This menu can also be found in the player bar.
 
 Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 

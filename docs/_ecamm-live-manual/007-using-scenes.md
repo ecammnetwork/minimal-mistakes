@@ -11,7 +11,7 @@ A scene may encompass the following Ecamm Live settings:
 * Selected source mode. (Blank, Camera, Screen Share or Video File)
 * Selected cameras or guests.
 * Screen sharing settings, including zoom.
-* Video File mode's <samp>When Video Ends</samp> setting.
+* Video File mode's <samp>When Video Scene Starts</samp> and <samp>When Video Ends</samp> setting.
 * Picture-in-picture visibility, size, shape and position.
 * Overlays in the SHOW IN CURRENT SCENE section.
 * Selected video in Video File mode, found in the <samp>Options</samp> menu. 
@@ -26,19 +26,19 @@ Suppose you are running an interview show. You may want to have one Scene where 
 
 ## Creating Scenes
 
-Overlays are always auto-saved as you create and edit them. If you want to create an overlay within a particular Scene, create that Scene first, or it will appear in your previous or default Scene.
+Scenes are always auto-saved as you create and edit them.
 
-1. There are two ways to create a Scene from scratch:
-    * Scene Menu ➝ New Empty Scene
-    * Scenes Window ➝ <samp>+</samp> button.
-1. You may name your Scene within the Scenes Window. Double-click the title in the Scenes Window to rename it. 
-1. With your new Scene selected, apply all the overlays and settings you wish to have set within the Scene. If you have an existing overlay in a different Scene, you can drag and drop it from the Overlays window to a Scene in the Scenes Window. This will copy the Overlay to the Scene.
+There are two ways to create a Scene from scratch:
+1. Scene Menu ➝ New Empty Scene
+1. Scenes Window ➝ <samp>+</samp> button.
 
-[![Figure\: The Scenes Window, with three Scenes, annotated](/assets/img/scenes-window-annotated.png "Click to enlarge.")](/assets/img/scenes-window-annotated.png)
+You may name your Scene within the Scenes Window. Double-click the title in the Scenes Window to rename it. 
+
+![](/assets/img/scenes-window.jpg){: width="286px"}
 
 ## Switching Scenes
 
-There are 5 ways you can select a Scene to display:
+There are 6 ways you can select a Scene to display:
 
 1. Select one in the Scenes pull-down button in the Main Window
 1. Select one in the Scenes menu at the top of the screen.
@@ -52,12 +52,9 @@ There are 5 ways you can select a Scene to display:
 ## Modifying Scenes
 
 1. Select your Scene in either the Scene pull-down button or the Scenes Window
-1. Modify your theme with overlays, set a camera, video, or screen share mode, etc.
+1. Modify your Scene with overlays, set a camera, video, or screen share mode, etc.
     * The Scene is automatically saved while you edit it.
 
-## Overlays That Appear in Every Scene
-
-If you want an overlay to appear in every Scene, for example, a logo to appear in the corner of your video, select the the overlay in the Overlays Window, and drag it to the top of the window under the heading "Show in All Scenes". 
 
 **_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands <kbd title="command">⌘</kbd> <kbd>→</kbd> and <kbd title="command">⌘</kbd> <kbd>←</kbd> to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
 {:.notice--info}
@@ -79,6 +76,25 @@ Could your Scenes list use some organization? Simply drag Scenes around to re-or
 1. Drag to place the folder within the list.
 1. Drag Scenes to the folder. 
 1. Repeat as desired.
+
+#### Automatic Scene Groups
+
+Automatic Scene Groups allow you to cycle through a series of scenes automatically.
+
+Create an Automatic Scene Group by clicking the {% inlineicon addautogroup 25 inverted %}New Automatic Group{% endinlineicon %} button at the bottom of the Scenes window. 
+
+Add scenes as you would a normal scene group folder. To start or stop the automatic scene advance, click the play button.
+
+![](/assets/img/autoscene.png){: width="680px"}
+
+Click the tiny gear button to change settings:
+
+1. Choose to advance through the Scenes sequentially or in random order.
+1. Choose a time interval in seconds.
+
+## Hot Keys
+
+Click the ⌘⃣ symbol to assign a hot key for a Scene. The hot key can be with a modifier key (shift, command, option, alt), a combination of modifier keys, or with no modifier key.
 
 ## Locking Scenes
 

@@ -29,10 +29,6 @@ The background size and shape is set automatically for you, and adjusts to scale
 
 To add a new line to a Text Overlay, press <kbd>return</kbd> while holding down the <kbd>shift</kbd> key. (Pressing <kbd>return</kbd> without the <kbd>shift</kbd> key will save the changes and dismiss the window.)
 
-#### Fly-In Overlays
-
-Text Overlays can slide onto the screen from the left, right, top, or bottom. Pick <samp>Fly In</samp> from the <samp>Style</samp> menu at the top of the window to turn on Fly In mode.
-
 Once you click <samp>Add</samp> in the Text Editing Window, your Overlay will appear in the Main Window.
 
 #### Editing Text Overlays
@@ -86,6 +82,8 @@ A File Selection Sheet will appear, allowing you to find and select a movie file
 #### Animated Overlay Playback Options
 
 To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and options to hide the overlay when finished with playback.
+
+By default, animated overlays will start playing from the beginning. If you'd prefer the animation start from where you left off previously, choose <samp>Start From Last Location</samp> from the player bar's menu.
 
 ## Comment Overlays
 
@@ -191,7 +189,7 @@ There are 4 ways you can add a Widget Overlay:
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 * Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
-* To add a local HTML file as a widget, drag an HTML file from the Finder into the Main Window or [Overlays Window](#managing-your-overlays) Window.
+* To add a local HTML or Javascript file as a widget, drag the file from the Finder into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 
 Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button or selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
 
@@ -221,6 +219,12 @@ To position an Overlay, place your cursor in the middle of the Overlay and drag.
 
 To move an Overlay on one axis, (horizontally or vertically), drag the overlay while holding down the <kbd>shift</kbd> key.
 
+#### Automatic Overlay Alignment
+
+As you position or resize an Overlay, it will automatically align itself to other overlays. To temporarily disable automatic alignment, hold down the <kbd>command</kbd> key while dragging the Overlay. To change alignment behavior, change the <samp>Automatic Overlay Alignment</samp> setting [in the General section of the Preferences](../017-other-options#automatic-overlays-alignment)
+
+#### Duplicating Overlays
+
 To quickly duplicate an Overlay, drag while holding down the <kbd>option</kbd> or <kbd>alt</kbd> key on your keyboard.
 
 To adjust the Overlay’s size, drag from any corner or edge.  You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll-wheel or scroll gesture to resize an Overlay.
@@ -230,6 +234,15 @@ To adjust the Overlay’s size, drag from any corner or edge.  You may also use 
 
 ![Spread to enlarge](/assets/img/spread-zoom.png){: height="100px" width="100px"}
 —Spread to enlarge
+
+#### Fly-In Overlays
+
+Overlays can slide onto the screen from the left, right, top, or bottom. 
+
+For Text Overlays, Pick <samp>Fly In</samp> from the <samp>Style</samp> menu at the top of the text editing window to turn on Fly In mode. 
+
+For other Overlay types, click the pencil button next to the Overlay in the main window, and you'll see a Fly-In menu.
+
 
 #### Adjusting Overlay Opacity
 
@@ -259,7 +272,17 @@ The Overlays Window has three sections:
 
 * Overlays in the <samp>SHOW IN ALL SCENES</samp> section will show up throughout your entire broadcast, regardless of your current Scene. 
 * <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current scene. This will list of Overlays will change as you change Scenes.
-* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everthing else in your broadcast. There are only a few specific cases where you will be able to see a Background Overlay. For example, when building a custom layout using the Blank source mode, or when zoomed out using the Zoom & Pan settings. Note that only images and video files can be used for a Background Overlay.  Upon being added to this section, the Overlay will be resized to fill the broadcast area.
+* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everthing else in your broadcast. There are only a few specific cases where you will be able to see a Background Overlay:
+
+1. When in Blank Source mode. (Find <samp>Blank</samp> in the <samp>Source</samp> menu.)
+2. When [Green Screen](../003-camera-mode/#green-screen-options) mode is used and the <samp>Transparent</samp> checkbox is activated.
+3. When the Camera source is zoomed out using the [Zoom & Pan](../003-camera-mode/#green-screen-options) settings,
+
+Note that only images and video files can be used for a Background Overlay.  Upon being added to this section, the Overlay will be resized to fill the broadcast area.
+
+#### Hot Keys
+
+Click the ⌘⃣ symbol to assign a hot key to show or hide an Overlay. The hot key can be with a modifier key (shift, command, option, alt), a combination of modifier keys, or with no modifier key.
 
 #### Locking Overlays
 

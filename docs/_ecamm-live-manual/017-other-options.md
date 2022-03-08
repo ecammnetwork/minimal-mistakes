@@ -23,6 +23,18 @@ While you're live or recording, if you switch to another app, a small floating c
 
 While broadcasting or recording, the control windows such as the Scenes window and Overlays window will always remain visible above all other windows, even when in another app.
 
+#### Clicking Utility Windows Brings Ecamm Live To The Foreground 
+
+By default, when Ecamm Live is not the active application, clicking an Ecamm utility window will not activate the app. Check this box if you want this to activate the app (bringing it to the foreground.)
+
+#### Automatic Overlay Alignment 
+
+Automatic Overlay Alignment aligns overlays to other overlays as they are positioned or resized. Choose <samp>None</samp> to turn off this feature. Pick <samp>Sticky</samp> for the default behavior, which will cause overlays to stick other overlays when they are aligned. Choose <samp>Snappy</samp> if you want overlays to snap into alignment as they near each other. Hold down the command key to temporarily disable alignment.
+
+#### When Returning To Live Mode With Unpublished Changes 
+
+What to do if changes have been made to the current scene while in Preview mode and you are returning to Live mode.
+
 #### Automatically Hide Comment Overlays
 
 When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activating, the overlays will also be hidden automatically after changing Scenes. 
@@ -33,7 +45,7 @@ When on a Skype call with more than one guest, Skype can offer a camera source w
 
 #### Use Discrete Graphics Card for Main Screen
 
-15-inch and 16-inch MacBook Pros come equipped with dual graphics, meaning they have a more powerful graphics card (known as the discrete graphics card) in addition to the card built into the Mac's motherboard. The Mac will switch automatically between the two GPUs based on a variety of settings. Check this checkbox to ensure that the discrete graphics card is used for the main screen when Ecamm Live is open.
+Intel-based 15-inch and 16-inch MacBook Pros come equipped with dual graphics, meaning they have a more powerful graphics card (known as the discrete graphics card) in addition to the card built into the Mac's motherboard. The Mac will switch automatically between the two GPUs based on a variety of settings. Check this checkbox to ensure that the discrete graphics card is used for the main screen when Ecamm Live is open.
 
 Using the discrete graphics card will result in better performance, especially at higher frame sizes. However it can generate additional heat, resulting in computer fan noise.
 
@@ -134,6 +146,10 @@ You may wish to completely disable the built-in camera to avoid it from being pi
 
 Use this checkbox to toggle [Echo Cancellation](../013-adjusting-sound-levels/#echo-cancellation).
 
+#### Enable Echo Cancellation for External Speakers
+
+Ecamm Live will automatically disable Echo Cancellation if it detects that the Mac's internal speakers are not being used. Pick this checkbox if you're using external computer speakers that are not headphones and you require Echo Cancellation.
+
 #### Broadcast System Audio
 
 By default, Ecamm Live will broadcast your Mac's system audio when in [Screenshare mode](../004-screenshare-mode). Change this setting to either never broadcast system audio, or to broadcast system audio all the time.
@@ -186,3 +202,26 @@ Mouse clicks will be indicated with a small circle around the mouse cursor.
 #### Show Everything When Sharing The Entire Screen
 
 Share the screen contents with no changes. This mode will include Ecamm Live in the broadcast, and will not hide the desktop or desktop icons.  However, this mode is more efficient, and ideal for sharing a second display.
+
+
+### Shortcuts
+
+![](/assets/img/shortcuts.jpg){: width="700px"}
+
+Ecamm Live provides four triggers for macOS Shortcuts:
+
+#### Ecamm Live Opens
+
+Assign a shortcut to run when the Ecamm Live app opens. For example this could turn on studio lights.
+
+#### Broadcast Starts
+
+Assign a shortcut to run when a broadcast or recording starts. For example, activate Do Not Disturb mode, quit certain apps, or turn on an On-Air light in your studio.
+
+#### Broadcast Finishes
+
+Assign a shortcut to run when a recording or broadcast finished. For example, deactivate Do Not Disturb mode. This trigger will send the recorded file's path into the Shortcut.
+
+#### Ecamm Live Quits
+
+Assign a shortcut to run when Ecamm Live quits.

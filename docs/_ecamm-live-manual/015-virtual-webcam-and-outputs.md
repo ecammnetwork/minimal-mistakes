@@ -20,6 +20,16 @@ The feature will remain on until it is turned off in the <samp>Outputs</samp> me
 
 Note that some apps don't load virtual cameras at all.  This includes most Apple apps such as FaceTime and iMovie, as well as some third-party apps. Fortunately, Zoom works fine.
 
+## Virtual Mic (Pro Only)
+
+Ecamm Live's Virtual Mic feature allows you to send Ecamm Live's audio to any other app on the Mac.
+
+Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Mic</samp>. If this is your first time using the feature, you'll be prompted to install the Virtual Mic. Once installed, you may need to quit any apps that are already open before the Virtual Mic is recognized.
+
+Once activated, Ecamm Virtual Mic will show up as a microphone option in other apps on your Mac, such as Zoom.
+
+The feature will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon virtualmic 15 redbutton %}Virtual Mic Button{% endinlineicon %} button in the top left corner of the Main Window.
+
 ## Video Monitor (Pro Only)
 
 Video Monitor provides the ability to monitor your broadcast on a second display connected the Mac. This includes any display that the Mac can use as a secondary monitor, connected by Thunderbolt, HDMI or AirPlay.

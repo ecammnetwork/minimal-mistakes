@@ -106,7 +106,33 @@ High Quality Video requires a sustained minimum of 6 Mbps (megabits per second) 
 
 In most cases, Ecamm Live's default audio bitrate is sufficient.  However, some broadcasters such as musicians, may wish to increase the audio bitrate by enabling this option. This option cannot be changed during a broadcast.
 
+#### Speed Test
+
+Ecamm Live includes a built-in speed test. A {% inlineicon greencheck 15 %}green checkmark{% endinlineicon %} symbol indicates that the internet upload speed is sufficient for the current stream size, frame rate, quality, and number of streaming destinations.
+
+A {% inlineicon redx 15 %}red X{% endinlineicon %} symbol means that your upload speed is not fast enough. You can either reduce yoru stream size, turn off High Quality Video mode (see above), or reduce the number of streaming destinations.
+
+If the results of the internet speed test doesn't seem accurate, click the <samp>Test Again</samp> button. The test usually takes about 30 seconds to complete.
+
+The speed test feature requires macOS 12 Monterey or newer.
+
 ### Recording Preferences
+
+#### Record All Broadcasts
+
+Creates a local recording of all broadcasts. Find more about recording in the [Recording section](../012-recording-your-broadcasts) of the guide.
+
+#### Record Isolated Video Tracks (Pro Only)
+
+In addition to normal recording, Ecamm Live can save a recording of up to two camera sources and all [Interview](../008-interview-mode/) guest video and audio. This is sometimes referred to as ISO video recording. Turn on isolated video recording using the checkboxes for <samp>Camera A</samp>, <samp>Camera B</samp> and <samp>Interview Guests</samp>. You can also select what audio will be added to each recording.
+
+#### Apply Camera Effects To Recorded Video Sources
+
+When recording isolated video for Camera A and Camera B, check this checkbox to include [Camera Effects](../003-camera-mode/#camera-effects) such as Green Screen backdrops and color adjustments in the recording. Uncheck the checkbox to record directly from the camera source without any effects applied.
+
+#### Record Isolated Audio Tracks (Pro Only)
+
+Ecamm Live can save audio recordings of your audio channels such as primary microphone, secondary microphone, sound effects, and individual [Interview](../008-interview-mode/) guests. This is sometimes referred to as ISO audio recording.
 
 #### Recording File Format
 
@@ -115,6 +141,22 @@ Select the format for Ecamm Live's local recordings. The default is .MOV format,
 #### Record-Only Countdown
 
 A three-second countdown will be displayed before starting a recording when in [Record-Only mode](../012-recording-your-broadcasts/#record-only-mode).
+
+### Destinations Preferences
+
+Ecamm Live supports an unlimited number of streaming destinations, which can be added and managed in the Destinations section.
+
+![](/assets/img/destprefs.jpg){: width="700px"}
+
+Click <samp>Add Destination...</samp> to add a streaming destination.
+
+Remove a destination by clicking the trash can icon, or selecting the row and pressing the <kbd>delete</kbd> key on your keyboard.
+
+Double-click a row to open the destination's main screen in a web browser window.
+
+RTMP destinations, Amazon Live destinations and Instagram Live destinations will also include a {% inlineicon pencil 30 %}pencil{% endinlineicon %} button to edit the RTMP server URL and stream key.
+
+Streaming destinations may occasionally need to be re-authorized. If a destination is not authorized, you will see a {% inlineicon refreshicon 30 %}refresh{% endinlineicon %} button.
 
 ### Video Preferences
 
@@ -195,6 +237,10 @@ This checkbox will prevent movie audio from movie playback mode from playing on 
 #### System Output Mix Mode
 
 Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it in using you sound board.)
+
+### Interview Preferences
+
+Interview preferences are covered [here in the Interview section](../008-interview-mode/#interview-preferences) of the guide.
 
 ### Screen Sharing Preferences
 

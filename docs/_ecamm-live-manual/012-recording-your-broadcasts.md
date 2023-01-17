@@ -4,7 +4,25 @@
 
 <!-- ## Local Recordings of Your Broadcasts -->
 
-By default, Ecamm Live keeps a local, full-quality recording of every broadcast you produce through the app.
+By default, Ecamm Live keeps a local, full-quality recording of every broadcast you produce through the app. To turn recording off or on, click the Mode menu at the top of the main window, and you'll see a <samp>Record</samp> option there.
+
+![](/assets/img/mode.jpg){: width="421px"}
+
+## Isolated Video Recording (Pro Only)
+
+In addition to normal recording, Ecamm Live can save a recording of up to two camera sources. It can also record the audio and video from [Interview](../008-interview-mode/) guests.  Isolated video recording can be turned on in [Recording section](../017-other-options/) of the app preferences.
+
+## Isolated Audio Recording (Pro Only)
+
+Ecamm Live can save audio recordings of your audio channels such as primary microphone, secondary microphone, sound effects, and individual [Interview](../008-interview-mode/) guests. This can be turned on in [Recording section](../017-other-options/) of the app preferences.
+
+## Record-Only Mode
+
+Ecamm Live features a mode to record locally only. When you choose this mode, all features that are not service-specific are available for you to record a video offline. This is great for a number of tasks, such as practicing before doing a live broadcast, pre-recording sections of a broadcast for later use, or simply to create videos for non-streaming situations like vlogs or tutorials.
+
+To enable Record-Only mode, click the Mode menu at the top of the main window, and then turn off <samp>Stream</samp>.
+
+![](/assets/img/recordonly.jpg){: width="421px"}
 
 ## Retrieving Your Past Recordings
 
@@ -23,9 +41,3 @@ These concerns apply to any cloud storage provider (Dropbox, Google Drive, OneDr
 You may change your Recordings storage location by selecting <samp>Recording</samp> ➝ <samp>Choose Recordings Folder…</samp> from the menu bar at the top of your display.
 
 </aside>
-
-## Record-Only Mode
-
-Ecamm Live features a mode to record locally only. When you choose this mode, all features that are not service-specific are available for you to record a video offline. This is great for a number of tasks, such as practicing before doing a live broadcast, pre-recording sections of a broadcast for later use, or simply to create videos for non-streaming situations like vlogs or tutorials.
-
-To enable Record-only mode, in the bottom right corner of the Main Window, select <samp>Record Only</samp> from the <samp>Destination</samp> menu.

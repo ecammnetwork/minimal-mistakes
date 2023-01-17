@@ -8,13 +8,17 @@ Ecamm Live's Output menu provides four options for sending your Ecamm Live broad
 
 Ecamm Live's Virtual Webcam feature allows you to use all of the features of Ecamm Live in any other Mac video app or web service. 
 
-Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. If this is your first time using the feature, you'll be prompted to install the Virtual Webcam. Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
+Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the main window.
+
+![](/assets/img/vcamtoggle.jpg){: width="421px"}
+
+If this is your first time using the feature, you'll be prompted to install the Virtual Webcam. Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
 
 Once activated, Ecamm Virtual Webcam will show up as a camera option in other apps on your Mac, such as chat apps, web browsers and webinar apps. Select this option, the app will display the output from Ecamm Live as a camera, including all Overlays, multi-camera layouts and Green Screen effects.
 
 Virtual Webcam will work even when you are not using Ecamm Live to broadcast or record.
 
-The feature will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
+The feature will remain on until it is turned off in the <samp>Outputs</samp> menu, turning it off in the Mode menu at the top of the main window, or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
 
 ### Some Apps Don't Support Virtual Webcams
 
@@ -24,7 +28,9 @@ Note that some apps don't load virtual cameras at all.  This includes most Apple
 
 Ecamm Live's Virtual Mic feature allows you to send Ecamm Live's audio to any other app on the Mac.
 
-Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Mic</samp>. If this is your first time using the feature, you'll be prompted to install the Virtual Mic. Once installed, you may need to quit any apps that are already open before the Virtual Mic is recognized.
+Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Mic</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the main window. (See above.)
+
+If this is your first time using the feature, you'll be prompted to install the Virtual Mic. Once installed, you may need to quit any apps that are already open before the Virtual Mic is recognized.
 
 Once activated, Ecamm Virtual Mic will show up as a microphone option in other apps on your Mac, such as Zoom.
 
@@ -37,6 +43,10 @@ Video Monitor provides the ability to monitor your broadcast on a second display
 Activate Video Monitor by picking the display in <samp>Outputs</samp> ➝ <samp>Video Monitor</samp>. If you do not see your secondary display listed in the menu, ensure that it is showing up in the Mac's <samp>System Preferences</samp> ➝ <samp>Displays</samp> panel and is not set up to mirror the primary display.
 
 Once activated, Video Monitor will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon video_out 15 redbutton %}Video Monitor Button{% endinlineicon %} button in the top left corner of the Main Window.
+
+#### Flip Horizontally
+
+Use the <samp>Flip Horizontally</samp> menu item to apply a mirror effect to the display output. 
 
 ## Audio Monitor (Pro Only)
 
@@ -60,3 +70,11 @@ NDI Output provides the ability to send your broadcast to any [Newtek NDI®](htt
 Activate NDI Output by picking a video resolution in <samp>Outputs</samp> ➝ <samp>NDI® Output</samp>.
 
 Once activated, NDI Output will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon ndi_out 15 redbutton %}NDI Output Button{% endinlineicon %} button in the top left corner of the Main Window.
+
+## DeckLink Output (Pro Only)
+
+DeckLink Output provides the ability to send your broadcast to any [Blackmagic DeckLink](https://www.blackmagicdesign.com/products/decklink) devices that support video output.
+
+Activate NDI Output by picking a DeckLink outut device in <samp>Outputs</samp> ➝ <samp>DeckLink Output</samp>.
+
+Once activated, DeckLink Output will remain on until it is turned off in the <samp>Outputs</samp> menu.

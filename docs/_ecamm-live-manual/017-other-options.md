@@ -15,6 +15,11 @@ Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds i
 
 Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions) window when reactions arrive.
 
+#### Show Camera Switcher in Main Window
+
+Ecamm Live will display floating camera switcher controls in the main window when in Camera mode. Uncheck this checkbox to permanently hide these controls.
+
+
 #### Show Program Window While In Other Apps
 
 While you're live or recording, if you switch to another app, a small floating control window will be displayed. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
@@ -39,9 +44,6 @@ What to do if changes have been made to the current scene while in Preview mode 
 
 When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activating, the overlays will also be hidden automatically after changing Scenes. 
 
-#### Show Skype's Active Speaker Camera
-
-When on a Skype call with more than one guest, Skype can offer a camera source what shows the person who is currently speaking.
 
 #### Use Discrete Graphics Card for Main Screen
 
@@ -68,7 +70,7 @@ Choose from 540p, 720p, 1080p, 1440p or 4K. This setting will apply to both the 
 
 1440p and 4K are only available with an Ecamm Live Pro subscription. 
 
-Facebook's standard livestream size is 720p. You may wish to choose the smaller option if your internet connection's upload speed is insufficient for 720p.
+Facebook's standard livestream size is 1080p. You may wish to choose the smaller option if your internet connection's upload speed is insufficient for 1080p.
 
 While Facebook will accept up to a 4K video stream, it does not currently offer the ability to _view_ a stream at this resolution. Other streaming destinations such as YouTube fully support 4K live broadcasts.
 
@@ -96,19 +98,29 @@ When selecting a frame rate, Ecamm Live will automatically run any connected cam
 
 #### Use High Quality Video
 
-Ecamm Live streams at a bit rate that balances the amount of data we send over the internet and the visual clarity of your video. If you want to broadcast in higher bit rate, and your upload speed is fast enough, you can select this option. During a broadcast, you can turn change this setting by clicking the <samp>HD</samp> button at the top of the main window.
+Ecamm Live streams at a bit rate that balances the amount of data we send over the internet and the visual clarity of your video. If you want to broadcast in higher bit rate, and your upload speed is fast enough, you can select this option. 
 
-This will require a sustained minimum of 4 Mbps (megabits per second) for your internet upload speed when using a 720p stream size. If at any point your connection cannot sustain this, Ecamm will automatically reduce the bit rate so that the broadcast may continue.
+High Quality Video requires a sustained minimum of 6 Mbps (megabits per second) for your internet upload speed when using a 1080p stream size. If at any point your connection cannot sustain this, Ecamm will automatically reduce the bit rate so that the broadcast may continue.
 
 #### Use High Quality Audio
 
 In most cases, Ecamm Live's default audio bitrate is sufficient.  However, some broadcasters such as musicians, may wish to increase the audio bitrate by enabling this option. This option cannot be changed during a broadcast.
 
+### Recording Preferences
+
 #### Recording File Format
 
 Select the format for Ecamm Live's local recordings. The default is .MOV format, however some services may prefer a .MP4 file instead. Note that the actual video and audio data in the file will be the same H.264 and AAC format for these options. (Only the container format changes.)
 
+#### Record-Only Countdown
+
+A three-second countdown will be displayed before starting a recording when in [Record-Only mode](../012-recording-your-broadcasts/#record-only-mode).
+
 ### Video Preferences
+
+#### Default Source Mode
+
+The default source mode (Blank, Camera, or Screen Share) for newly created Scenes.
 
 #### Default Transition
 
@@ -132,7 +144,7 @@ When this option is enabled, your picture-in-picture window will show up on top 
 
 The default picture-in-picture visibility setting for newly created Scenes. 
 
-#### Show NDI Titles Full Screen
+#### Show NDI and Syphon Titles Full Screen
 
 When this option is enabled, NDI titler sources such as [NewBlue](https://newbluefx.com/products/on-air-graphics/) and [ProPresenter](https://renewedvision.com/propresenter/) will fill the entire screen instead of showing up as a picture-in-picture.
 
@@ -140,7 +152,15 @@ When this option is enabled, NDI titler sources such as [NewBlue](https://newblu
 
 You may wish to completely disable the built-in camera to avoid it from being picked accidentally when using other cameras.
 
+#### Show Skype's Active Speaker Camera
+
+When on a Skype call with more than one guest, Skype can offer a camera source what shows the person who is currently speaking.
+
 ### Audio Preferences
+
+#### Speakers
+
+Select the audio device to use for sound from movies, sound effects, system audio, iOS audio and remote guests.
 
 #### Use Echo Cancellation
 
@@ -168,6 +188,13 @@ In this case, you may wish to add a slight delay to your audio input. Adjust the
 
 By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, such as a stereo microphone, you may wish to map channels 1 and 2 to left and right stereo.
 
+#### Mute Movie Sound On Speakers
+
+This checkbox will prevent movie audio from movie playback mode from playing on your Mac's speakers. (It will still be in the broadcast.)
+
+#### System Output Mix Mode
+
+Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it in using you sound board.)
 
 ### Screen Sharing Preferences
 
@@ -225,3 +252,10 @@ Assign a shortcut to run when a recording or broadcast finished. For example, de
 #### Ecamm Live Quits
 
 Assign a shortcut to run when Ecamm Live quits.
+
+### Remote Control
+
+Tools such as [Elgato Stream Deck](https://amzn.to/34puWA9) and [Loupedeck](https://loupedeck.com/us/products/loupedeck-live/), and third-party apps such as [ELMC](https://elmc.app) and [Beat Sheet](https://squares.tv/posts/beat-sheet-for-mac) can control Ecamm Live. Configure which apps have control using the checkboxes. (Entries will show up here automatically as permission is requested.)
+
+![](/assets/img/remote.jpg){: width="700px"}
+

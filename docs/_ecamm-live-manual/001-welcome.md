@@ -6,24 +6,27 @@ title: Ecamm Live Manual
 
 ## What can Ecamm Live do?
 
-Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, Twitter, LinkedIn, Twitch, Restream.io, Switchboard Live, and OneStream Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
+Ecamm Live is a macOS app designed to give you tremendous control over live streaming, with special capabilities for Facebook Live, YouTube Live, Amazon Live, Twitter Live, LinkedIn Live, Twitch, Restream.io, Switchboard Live, and OneStream Live. Ecamm Live can broadcast to any streaming service that uses *RTMP* streaming.
 
 Why would you choose to use a Mac app to live stream, when you can stream straight from your web browser, or mobile device? Because Ecamm Live gives you superpowers…
+* Stream to up to **10 destinations** simultaneously.
+* All streams are **automatically recorded** to your Mac.
+* Schedule Facebook, YouTube Live or LinkedIn Live broadcasts.
+* **Conduct live video interviews** with up to 10 remote guests. (Up to 4 guests on Intel-based Macs.)
+* **Record individual audio and video tracks** to your Mac.
 * **Add text, scrolling tickers, images, countdowns, PDFs and animations to your broadcast as overlays** , on-the-fly, or build them ahead of time.
-* When broadcasting to Facebook Live, YouTube Live, Restream, and Twitch **view a live feed of your comments and reactions.** 
+* When broadcasting to Facebook Live, YouTube Live, Amazon Live, Restream, and Twitch **view a live feed of your comments and reactions.** 
 * Send your production into other Mac apps via Ecamm's **Virtual Camera** and **Virtual Mic**.
 * **Add viewer comments to your broadcast.** Simply drag them onto the window and they appear automatically as overlays.
-* **Conduct live video interviews** with up to 4 remote guests.
-* **Use external video sources** including **HDMI** sources, **Canon DSLRs**, NDI inputs and more. **Switch easily between all video sources** with a click or keyboard shortcut.
+* **Use external video sources** including **HDMI** sources, **Canon DSLRs**, NDI inputs and more. 
+* **Switch easily between all video sources** with a click or keyboard shortcut.
 * **Share your screen:** put any window, app, or display from your Mac right into your stream. This also enables the use of presentation software, such as **Apple Keynote, or Microsoft PowerPoint.**
-* **Roll pre-recorded video files** right into your broadcast.
+* **Roll pre-recorded video files** into your broadcast.
 * **Play music and sound effects** in your broadcast.
-* **Use a green screen** to easily add a digital backdrop.
+* **Use a green screen** to add a digital backdrop.
 * **Add Picture-in-picture video** to your stream.
 * Set the shape of your stream: go wide, tall, or square.
 * Create Scenes, which are preset groups of almost any of the above features, which you can **trigger with a click or keyboard shortcut.**
-* Schedule Facebook, YouTube Live or Restream broadcasts.
-* All streams are **automatically recorded** to your Mac.
 * You can also **record a video without broadcasting.** Great for practicing, or pre-recording presentations.
   
 Incredible, right? Must be difficult? *Challenge accepted.*
@@ -39,6 +42,8 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 * A Mac with hardware-accelerated video encoding (most Macs manufactured after 2010).
 * To broadcast to streaming services, you must have an account with that service.
 * To host using [Interview mode](../008-interview-mode/), we recommend an iMac, Mac Mini, or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection.
+* An Apple Silicon (M1 or M2) Mac is required for isolated video recording.
+* Intel-based Macs are limited to 4 Interview guests. (Apple Silicon Macs support up to 10 guests.)
 
 
 ## Installing Ecamm Live

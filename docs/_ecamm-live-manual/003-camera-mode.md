@@ -142,6 +142,14 @@ Use the <samp>Mirror</samp> checkbox to flip the camera image. Once flipped, you
 
 Use the <samp>Black & White</samp> checkbox to add a monochrome effect. Note that this does the same thing as lowering the Saturation slider, however this checkbox can be set per-Scene.
 
+#### Sepia Tone
+
+Use the <samp>Sepia Tone</samp> checkbox to add a warm monochrome effect.
+
+#### Blur Effect
+
+Use the <samp>Blur Effect</samp> checkbox to add a digital blur. The blur slider adjusts the blurriness.
+
 #### Rotate 180°
 
 Use the <samp>Rotate 180°</samp> checkbox to turn the video image upside down.
@@ -153,9 +161,9 @@ Use the <samp>Deinterlace</samp> checkbox to remove interlacing line artifacts w
 
 An example of an interlaced sources would be an HDMI capture device such as the **Elgato Cam Link** connected to a camera providing a 1080i video signal.
 
-Note that when using a **Blackmagic** HDMI capture device, Ecamm Live will activate the deinterlacing filter automatically as needed. 
+Note that when using a **Blackmagic** HDMI capture device, Ecamm Live will activate the deinterlacing filter automatically if an interlaced source is detected. 
 
-Also note that some HDMI capture devices, such as the **Magewell USB Capture Gen 2**, may already be applying a deinterlacing filter.
+Also note that some HDMI capture devices, such as the **Magewell USB Capture Gen 2**, may already be applying its own deinterlacing filter.
 
 #### Use Maximum Resolution
 

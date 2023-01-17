@@ -2,13 +2,15 @@
 
 ---
 
-Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to four remote guests can join during a broadcast.
+Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to ten remote guests can join a broadcast on an Apple Silicon (M1 or M2) mac.  Intel-based Macs are limited to four remote guests.
 
 ## Host System Requirements
 
 To host using Interview, we recommend an iMac, Mac Mini or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection. 
 
-An [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) plan is required to use Interview mode.
+Intel-based Macs are limited to four remote guests.
+
+An [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) plan or trial version is required to use Interview mode.
 
 Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../013-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
 

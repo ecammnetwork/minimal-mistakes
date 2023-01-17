@@ -116,15 +116,15 @@ There are 2 ways you can display a Countdown Overlay:
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
-A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown style. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
+A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown type, such as countdown, clock, or stopwatch. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
 
 #### Auto-Start Option
 
-When using  <samp>Countdown for an Amount of Time</samp> or <samp>Stopwatch</samp> mode, you will see an <samp>Auto-Start</samp> checkbox. Check this checkbox to have the countdown start running automatically upon creation, upon switching to the Scene, upon publishing in Preview Mode, and upon starting a broadcast.  
+When using a countdown type other than <samp>Clock</samp>, you will see an <samp>Auto-Start</samp> checkbox. Check this checkbox to have the countdown start running automatically upon creation, upon switching to the Scene, upon publishing in Preview Mode, and upon starting a broadcast.  
 
 #### Go To Next Scene When Finished
 
-When using <samp>Countdown for an Amount of Time</samp> or <samp>Countdown to a Date/Time</samp> mode, you will see a <samp>Go To Next Scene When Finished</samp> checkbox.  Select this to automatically transition to the next Scene in the Scenes window when the countdown reaches zero.
+When using a countdown, you will see a <samp>Go To Next Scene When Finished</samp> checkbox.  Select this to automatically transition to the next Scene in the Scenes window when the countdown reaches zero.
 
 ## Camera Overlays
 
@@ -182,7 +182,7 @@ Checking this checkbox will cause any chroma green in the screen share to be tra
 
 ## Widget Overlays
 
-Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started.
+Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started. Widget overlays can also be used to simply embed a website into your broadcast.
 
 There are 4 ways you can add a Widget Overlay:
 
@@ -197,11 +197,14 @@ Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinline
 
 * Width and Height: Indicate a width and height for the widget. This will determine the scale of the widget.
 
+* Frame Rate: By default, the widget's contents will update 30 times per second. You may wish to decrease it for performance reasons.
+
+* High-Resolution Mode: Activate high resolution mode for more fine detail in your widget. This is good for showing websites, but may result in slower updating for widgets that include animations.
+
 * Fill Entire Frame: This checkbox will make the widget fill the entire broadcast area. When using this option, the overlay cannot be resized or moved around like a normal overlay.
 
 * Keep Running: This checkbox will keep the widget running even after hiding the Overlay or leaving the Overlay's Scene. This is helpful for Overlays that shouldn't be reloaded or that take a while to load up. However setting this should be used judiciously as once loaded, the widget will remain running in the background until the Ecamm Live app quits.
 
-* Frame Rate: By default, the widget's contents will update 15 times per second. You may wish to increase the frame rate if more frequent updating is needed, or decrease it for performance reasons.
 
 ![Figure\: Widget Editor](/assets/img/widgets.png "Widget Overlay Editor")
 
@@ -210,6 +213,12 @@ Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinline
 To return to the widget's setting, place your cursor over the Overlay. Two icons will appear on its left. The {% inlineicon pencil 30 %}Edit Button{% endinlineicon %} brings back the widget settings sheet. A double-click on the Overlay will also bring back the settings.
 
 Alternatively, click the tiny {% inlineicon preferences 20 inverted %}Preferences Button{% endinlineicon %} icon beside the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon in the [Overlays Window](#managing-your-overlays).
+
+#### Interacting With Widget Overlays
+
+By default, widgets are not interactive, for example you won't be able to scroll a website or click a link. To turn on interactivity, use the switch at the bottom of the widget. (See below.)
+
+![Figure\: Widget Editor](/assets/img/interactive.jpg "Widget interaction controls")
 
 ## Hiding, Positioning, Resizing
 

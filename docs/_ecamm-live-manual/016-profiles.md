@@ -7,7 +7,7 @@ Ecamm Live Profiles are an easy way to organize your shows and productions.
 
 ## What's in a Profile?
 
-Nearly everything! All of your Scenes, Overlays, Sound Effects, and most settings are included in a Profile. Social platform logins are also included, which means can have each Profiles logged into a different YouTube channel for example.
+Nearly everything! All of your Scenes, Overlays, Sound Effects, and most settings are included in a Profile. Most settings, such as stream size and shape, are included as well.
 
 ## Managing Profiles
 
@@ -15,7 +15,7 @@ Manage Profiles using the <samp>Profiles</samp> menu at the top of the screen.
 
 #### New Blank Profile
 
-Choose this to start with a clean slate. Certain settings such as social platform logins and stream size will be carried over from your current Profile, but most settings will be set to defaults.
+Choose this to start with a clean slate. Certain settings such as stream size will be carried over from your current Profile, but most settings will be set to defaults.
 
 #### Duplicate Current Profile
 
@@ -33,7 +33,7 @@ Exporting also provides a simple way to transfer your Scenes and settings to ano
 
 The exported file includes all overlay image assets and sound effects. However, it will not include video files from your [Video File](../005-video-file-mode/) Scenes. 
 
-The exported file will not contain social platform logins.
+The exported file will not contain streaming destinations.
 
 ### Moving Scenes And Overlays Between Profiles
 

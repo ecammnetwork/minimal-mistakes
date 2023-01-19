@@ -8,8 +8,8 @@ main:
 manual:
   - title: "Introduction"
     url: /ecamm-live-manual/001-welcome
-  - title: "Your First Time Around with Ecamm Live"
-    url: /ecamm-live-manual/002-your-first-time-around-with-ecamm-live
+  - title: "The Main Window"
+    url: /ecamm-live-manual/002-the-main-window
   - title: "Camera Mode"
     url: /ecamm-live-manual/003-camera-mode
   - title: "Screenshare Mode"
@@ -22,12 +22,12 @@ manual:
     url: /ecamm-live-manual/007-using-scenes
   - title: "Interview Mode"
     url: /ecamm-live-manual/008-interview-mode
-  - title: "Broadcasting to Facebook"
-    url: /ecamm-live-manual/009-broadcast-to-facebook/
-  - title: "Broadcasting to YouTube"
-    url: /ecamm-live-manual/010-broadcast-to-youtube/
-  - title: "Broadcasting to Other Services"
-    url: /ecamm-live-manual/011-broadcast-to-other-services
+  - title: "The Camera Switcher"
+    url: /ecamm-live-manual/009-camera-switcher/
+  - title: "Camera Effects"
+    url: /ecamm-live-manual/010-camera-effects/
+  - title: "Streaming"
+    url: /ecamm-live-manual/011-streaming
   - title: "Recordings Your Broadcasts"
     url: /ecamm-live-manual/012-recording-your-broadcasts
   - title: "Adjusting Sound Levels"

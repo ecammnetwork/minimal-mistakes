@@ -13,7 +13,7 @@ Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds i
 
 #### Show Animated Reactions
 
-Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../009-broadcast-to-facebook/#view-viewer-comments-and-reactions) window when reactions arrive.
+Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../011-streaming/#view-viewer-comments-and-reactions) window when reactions arrive.
 
 #### Show Camera Switcher in Main Window
 
@@ -128,7 +128,7 @@ In addition to normal recording, Ecamm Live can save a recording of up to two ca
 
 #### Apply Camera Effects To Recorded Video Sources
 
-When recording isolated video for Camera A and Camera B, check this checkbox to include [Camera Effects](../003-camera-mode/#camera-effects) such as Green Screen backdrops and color adjustments in the recording. Uncheck the checkbox to record directly from the camera source without any effects applied.
+When recording isolated video for Camera A and Camera B, check this checkbox to include [Camera Effects](../010-camera-effects/) such as Green Screen backdrops and color adjustments in the recording. Uncheck the checkbox to record directly from the camera source without any effects applied.
 
 #### Record Isolated Audio Tracks (Pro Only)
 
@@ -150,13 +150,13 @@ Ecamm Live supports an unlimited number of streaming destinations, which can be 
 
 Click <samp>Add Destination...</samp> to add a streaming destination.
 
-Remove a destination by clicking the trash can icon, or selecting the row and pressing the <kbd>delete</kbd> key on your keyboard.
+Remove a destination by clicking the {% inlineicon othertrash 15 %}trash can{% endinlineicon %} icon, or selecting the row and pressing the <kbd>delete</kbd> key on your keyboard.
 
 Double-click a row to open the destination's main screen in a web browser window.
 
-RTMP destinations, Amazon Live destinations and Instagram Live destinations will also include a {% inlineicon pencil 30 %}pencil{% endinlineicon %} button to edit the RTMP server URL and stream key.
+Custom RTMP destinations, Amazon Live destinations, and Instagram Live destinations will also include a {% inlineicon pencil 30 %}pencil{% endinlineicon %} button to edit the RTMP server URL and stream key.
 
-Streaming destinations may occasionally need to be re-authorized. If a destination is not authorized, you will see a {% inlineicon refreshicon 30 %}refresh{% endinlineicon %} button.
+Streaming destinations may occasionally need to be re-authorized. If a destination is not authorized, you will see a {% inlineicon refreshicon 30 %}refresh{% endinlineicon %} button. Click it to begin the login flow for that destination.
 
 ### Video Preferences
 

@@ -1,86 +1,20 @@
 ---
-title: Streaming
+title: Streaming and Scheduling
 ---
 
-## Broadcasting to LinkedIn Live
+To create a new broadcast, click the <samp class="blue">New</samp> button in the bottom-right corner of the main window. If you don't see this button, ensure that Streaming is turned on in the [Mode menu](../002-the-main-window/). 
 
-LinkedIn Live must meet certain criteria. [See here](https://www.ecamm.com/linkedinlive) for details.
-{: .notice}
+You'll see the Create New Broadcast window.
 
-Broadcasting to LinkedIn starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select <samp>LinkedIn</samp>. The LinkedIn <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
+![Create New Broadcast Window](/assets/img/createnewstart.jpg "Create New Broadcast Window"){: width="746px"}
 
-If you’ve never logged into LinkedIn with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log into LinkedIn on the web.
+Your currently selected streaming destinations are listed at the top. To add a new streaming destination, click the <samp>+ Add</samp> button and then choose <samp>Add Destination</samp>.  A new window will prompt you to pick a streaming platform:
 
-Once you’re logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you’ll want to check out first.
+![Add Destination Window](/assets/img/addnew.jpg "Add Destination Window"){: width="567px"}
 
-In the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
+Note that if you have never added a streaming destination, you'll see this window instead of the Create New Broadcast window.
 
-#### Ending a LinkedIn Broadcast
 
-Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
-
-#### Post-broadcast options
-
-After clicking <samp class="blue">Finish</samp> we’ll present you with a message confirming your broadcast has ended, and offer several options for your next steps.
-
-On LinkedIn, a recording of your Live broadcast is now available as part of your timeline, automatically. 
-
-<samp>{% inlineicon visible 15 inverted %}View Post{% endinlineicon %} View Post</samp> - click to reveal the post in your default web browser.
-
-The next two items concern a local recording of your broadcast.
-
-<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac’s Finder.
-
-<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
-If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
-
-#### Logging out of LinkedIn
-
-Ecamm Live will stay logged into LinkedIn unless you manually log out, or if you remove Ecamm Live from [your LinkedIn Permitted Services](https://www.linkedin.com/psettings/permitted-services).
-If you’d like to log out of LinkedIn, with <samp>LinkedIn</samp> selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out LinkedIn</samp>. In the Main Window, we’ll ask to confirm before logging you out. Click <samp>Log Out</samp> and it will be so.
-
-## Broadcasting to Twitch, Twitter, Restream.io, Switchboard, or OneStream Live
-
-Broadcasting to [Twitch](https://twitch.tv), [Restream.io](https://restream.io), [Switchboard](https://switchboard.live), or [OneStream Live](https://www.onestream.live) starts in the <samp>Destination</samp> menu, in the bottom right of the Main Window. Select the platform. The <samp class="blue">Login</samp> button will appear at the bottom of the Main Window.
-
-If you’ve never logged into the service with Ecamm Live, click <samp class="blue">Login</samp> now. You’ll be greeted with the same options you have to log in on the web.
-
-Once you’re logged in, you can dive straight in by clicking <samp class="blue">Go Live</samp>, but there are a couple of options you’ll want to check out first.
-
-#### Broadcast Options
-
-For Twitter, Twitch and LinkedIn, in the bottom left of the Main Window, you’ll see the words <samp>Enter a description…</samp> Click the words to enter the description that will display along with your live stream.
-
-For Twitch and LinkedIn, you'll find an option to select your closest ingest server in Ecamm Live's preferences window.
-
-Likewise, for Twitter you'll find an option to activate a low-latency mode.
-
-##### View Viewer Chat Comments
-
-During Twitch or Restream.io broadcasts, any chat messages your audience makes on your live broadcast will be displayed in the Comments and Reactions window. Additionally, at the top of the Main Window we'll display a live count of viewers, visible only to you. 
-
-Switchboard, OneStream, and Twitter do not support displaying viewer count or comments in Ecamm.
-
-#### Starting a Broadcast
-
-For Switchboard and OneStream Live, once you've started streaming in Ecamm Live, you'll typically then need to start the broadcast on the service's website. 
-
-#### Ending a Broadcast
-
-Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
-
-#### Post-broadcast options
-
-After clicking <samp class="blue">Finish</samp> we’ll present you with a message confirming your broadcast has ended, and offer two other options for your next steps.
-
-<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the local video file in your Mac’s Finder.
-
-<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the local video file to your YouTube Account.
-If you’ve never used the YouTube feature, you’ll be asked to sign in when you press the <samp>Send To YouTube</samp> button. You’ll then be presented with a form to add information about your upload, and set its visibility options. Once you’ve uploaded, you can close the dialog box or you can click to <samp>Go To YouTube</samp> to view your upload.
-
-#### Logging out of Twitch, Twitter, Restream.io or Switchboard
-
-Ecamm Live will stay logged in unless you manually log out, or if you remove Ecamm Live from the platform's connected apps. If you’d like to log out, with Destination selected in the <samp>Destination</samp> menu, go to the <samp>Ecamm Live</samp> menu at the top of your display, and select <samp>Log Out</samp>.
 
 ## Using a Stream Key
 

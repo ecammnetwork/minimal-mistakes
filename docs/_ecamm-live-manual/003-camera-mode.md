@@ -26,7 +26,7 @@ We've built in special support for cameras connected to your Mac through [Blackm
 **Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
 {: .notice}
 
-Other HDMI encoders, such as the [Elgato Cam Link](https://amzn.to/2WYElej) typically show up as a webcam, and work fine with Ecamm Live without any additional software.
+Other HDMI encoders, such as the [Elgato Cam Link 4K](https://amzn.to/2HNeYGv) typically show up as a webcam, and work fine with Ecamm Live without any additional software.
 
 #### Newtek NDI® Cameras
 
@@ -48,6 +48,10 @@ Note that network camera audio is not supported.
 
 Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is recognized in the Finder sidebar and that is trusted by the Mac. It will then automatically show up as a video source and audio source in Ecamm Live.
 
+#### Apple Continuity Camera
+
+Mac's running macOS Ventura or newer will show your iPhone's [Continuity Camera](https://support.apple.com/en-us/HT213244) sources automatically.
+
 #### 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
@@ -57,7 +61,11 @@ Ecamm Live supports streaming from 360° cameras to services like Facebook Live 
 
 The video source switcher allows you to switch video sources, or to broadcast more than one video source. The switcher will show up automatically when in Camera source mode, when more than one video source is detected.
 
-![Video Source Switcher](/assets/img/switcher.jpg "Video Source Switcher"){: width="319px"}
+![Video Source Switcher](/assets/img/switcher.jpg "Video Source Switcher"){: width="362px"}
+
+The switcher can be turned off in the General section of Ecamm Live's preferences.
+
+Additional camera-related options can be found in the [Camera Switcher window](../009-camera-switcher/).
 
 ### Splitscreen (Selecting Multiple Sources)
 
@@ -65,7 +73,9 @@ If you would like to display more than one video source at the same time in a sp
 
 #### Video Source Switcher Options
 
-To the left of the video sources in the switcher, you'll see a few options: 
+To the left of the video sources in the switched, you'll see buttons to the <samp>All A/B</samp> button. This determines whether the switcher is displaying all video sources, or just your placeholder cameras.   
+
+To the right of the video sources in the switcher, you'll see a few options: 
 
 * Click the picture-in-picture button to use a picture-in-picture layout instead of a split screen. Click it again to return to split-screen mode.
 * Pick <samp>Select All</samp> from the gear menu to select all video sources.

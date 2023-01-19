@@ -1,5 +1,5 @@
 ---
-title: Broadcasting to Other Services
+title: Streaming
 ---
 
 ## Broadcasting to LinkedIn Live

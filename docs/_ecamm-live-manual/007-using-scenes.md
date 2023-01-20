@@ -19,7 +19,7 @@ A scene may encompass the following Ecamm Live settings:
 * The <samp>Crop Split Screen</samp> setting, found in the <samp>Options</samp> menu. 
 * The Scene's transition effect, found in the <samp>Options</samp> menu. 
 * All green screen settings except for Fade Level. (Fade Level is specific to the selected video source.)
-* Zoom & Pan, Mirror, Black & White and Rotate 180° settings in the Camera Effects window.
+* Zoom & Pan, Mirror, Black & White, Sepia, Blur and Rotate settings in the Camera Effects window.
 * Visibility of Interview Mode automatic titles.
 
 Suppose you are running an interview show. You may want to have one Scene where it is you and your guest, both displayed with names below your video. Then you can create a Scene for just your guest's video and their name, and another for just your video and your name. Then you can quickly switch between all three views during the interview. We recommend taking a little time to plan out your overlays and then orchestrate them using Scenes. It can help your broadcasts go smoothly.
@@ -40,7 +40,7 @@ You may name your Scene within the Scenes Window. Double-click the title in the 
 
 There are 6 ways you can select a Scene to display:
 
-1. Select one in the Scenes pull-down button in the Main Window
+1. Select one in the Scenes menu in the Main Window
 1. Select one in the Scenes menu at the top of the screen.
 1. Click the Scene's {% inlineicon run-scene 30 %}run scene{% endinlineicon %} icon in the Scenes Windows.
 1. Keyboard shortcut for Scenes 1–9 (<kbd title="command">⌘</kbd>+digit) found in the Scenes menu.
@@ -51,7 +51,7 @@ There are 6 ways you can select a Scene to display:
 
 ## Modifying Scenes
 
-1. Select your Scene in either the Scene pull-down button or the Scenes Window
+1. Select your Scene in either the Scene menu or the Scenes Window.
 1. Modify your Scene with overlays, set a camera, video, or screen share mode, etc.
     * The Scene is automatically saved while you edit it.
 
@@ -73,7 +73,7 @@ To make different Scenes that share common components, it's easier to create a n
 Could your Scenes list use some organization? Simply drag Scenes around to re-order them. Also, try grouping them.
 
 1. In the Scenes Window, press the Folder icon.
-1. Drag to place the folder within the list.
+1. Name the folder.
 1. Drag Scenes to the folder. 
 1. Repeat as desired.
 
@@ -85,12 +85,13 @@ Create an Automatic Scene Group by clicking the {% inlineicon addautogroup 25 in
 
 Add scenes as you would a normal scene group folder. To start or stop the automatic scene advance, click the play button.
 
-![](/assets/img/autoscene.png){: width="680px"}
+![](/assets/img/autoscene.png){: width="570px"}
 
 Click the tiny gear button to change settings:
 
 1. Choose to advance through the Scenes sequentially or in random order.
-1. Choose a time interval in seconds.
+1. Choose a time interval in seconds or provide a range to randomize a time interval.
+1. Choose a transition effect.
 
 ## Hot Keys
 
@@ -110,7 +111,7 @@ Trash a Scene by mistake? Don't panic. <samp>Edit</samp> ➝ <samp>Undo</samp>. 
 
 ## Saving, Exporting, and Importing Scenes
 
-When you create or modify a Scene, it is auto-saved. If you quit Ecamm Live, and later reopen, all Scenes and settings will be just as you left them. Ecamm Live can, however, import and export Scenes. This allows you to backup your work in a file or share your Scenes to another computer, You may also wish to keep around different sets of Scenes if you have multiple broadcasts with different setups. Ecamm Live Scene files have an "ecammlive" file extension.
+When you create or modify a Scene, it is auto-saved. If you quit Ecamm Live, and later reopen, all Scenes and settings will be just as you left them. Ecamm Live can, however, import and export Scenes. This allows you to backup your work in a file or share your Scenes to another Mac. Ecamm Live Scene files have an "ecammlive" file extension.
 
 ![Figure\: An Ecamm Live Scenes File](/assets/img/scenes-file.png "It’s a Scenes file!")
 
@@ -118,7 +119,7 @@ When you create or modify a Scene, it is auto-saved. If you quit Ecamm Live, and
 
 There are two methods to export a file that contains all the settings of a Scene.
 
-1. **Drag and drop** - select one or more Scenes in the Scenes Window, and drag them to the Desktop. To select more than one at once, hold the <kbd>shift</kbd> key while clicking each Scene.
+1. **Drag and drop** - select one or more Scenes in the Scenes Window, and drag them to the Desktop or a Finder window. To select more than one at once, hold the <kbd>shift</kbd> key while clicking each Scene.
     * Each selected Scene will appear as a separate file on your Desktop, named the same as the Scene it represents.
 1. **Share button** - select one or more Scenes in the Scenes Window, then click the {% inlineicon share 10 inverted %}Export Button Icon{% endinlineicon %} button at the bottom of the Scenes Window. A Save sheet will appear so you can name your file and select where to save it. 
     * Note that this option can save _multiple Scenes in a single file._

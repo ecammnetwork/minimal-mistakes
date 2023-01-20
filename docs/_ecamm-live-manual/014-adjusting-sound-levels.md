@@ -3,7 +3,7 @@
 ---
 If you don't see the Sound Levels window on the screen, click the {% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} button in the top-right corner of the Main Window to show it.
 
-The Sound Levels Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Microphone</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> tool—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
+The Sound Levels Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Microphone</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> option—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
 
 ![Sound Levels Window](/assets/img/sound-levels.jpg "Sound Levels Window"){: width="449px"}
 
@@ -23,7 +23,7 @@ When [an iOS device is connected](../003-camera-mode/#broadcasting-your-ios-devi
 
 Ecamm Live will automatically broadcast System Audio and movie playback audio in stereo. Audio from a connected microphone or mixer works a bit differently.
 
-By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../017-other-options/#audio-preferences).
+By default, Ecamm Live will mix all of an input device's channels together. However, if you are using a stereo audio input, you may wish to map channels 1 and 2 to left and right stereo. Do this using the <samp>Map Input Channels 1 And 2 To Left And Right Stereo</samp> checkbox in Ecamm Live's [Audio Preferences](../018-other-options/#audio-preferences).
 
 Note that when [Echo Cancellation](#echo-cancellation) is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices, so stereo audio will not be available.
 
@@ -33,7 +33,9 @@ Ecamm Live provides the option for [Interview](../008-interview-mode) guests to 
 
 ### Echo Cancellation
 
-If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. If you are using headphones, echo cancellation is disabled automatically.
+If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. 
+
+If you are using headphones, echo cancellation is disabled automatically. Note that Ecamm Live can't distinguish between headphones and external computer speakers. If you are using external computers speakers, and you wish to use Echo Cancellation, you will need to turn on the <samp>Enable Echo Cancellation for External Speakers</samp> checkbox in the Audio section of the Preferences.
 
 When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
 
@@ -41,7 +43,7 @@ When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 o
 
 The Sound Levels window can detect several audio misconfigurations and potential echo and feedback. It will display {% inlineicon warning %}a yellow warning icon{% endinlineicon %} if a possible problem is detected. Click the warning icon for more information about the problem. Possible issues include:
 
-* *Echo Issues* happen when your Mac's speaker generates sounds that are then picked up by your microphone. If these sounds are already part of your broadcast, this results in an echo. Possible sound sources are [Video File playback](../005-video-file-mode/), a [Interview guest](../008-interview-mode/), [iOS device playthrough](#adding-a-second-audio-input), [Sound Effects](../014-sound-effects/), and broadcasting [System Audio](../004-screenshare-mode/#system-audio). To prevent this, turn on <samp>Echo Cancellation</samp> or use headphones rather than your Mac's speakers.
+* *Echo Issues* happen when your Mac's speaker generates sounds that are then picked up by your microphone. If these sounds are already part of your broadcast, this results in an echo. Possible sound sources are [Video File playback](../005-video-file-mode/), a [Interview guest](../008-interview-mode/), [iOS device playthrough](#adding-a-second-audio-input), [Sound Effects](../015-sound-effects/), and broadcasting [System Audio](../004-screenshare-mode/#system-audio). To prevent this, turn on <samp>Echo Cancellation</samp> or use headphones rather than your Mac's speakers.
 
 * *Using Echo Cancellation Along With the Built-in Microphone* can cause microphone issues in other apps such as Skype. A warning will be displayed if Ecamm Live detects that <samp>Echo Cancellation</samp> is being used with the built-in microphone while Skype is also using the built-in microphone.  To prevent this, use a USB microphone instead, or turn off <samp>Echo Cancellation</samp>.
 
@@ -56,6 +58,6 @@ An old adage about video production is "Viewers will tolerate mediocre video qua
 
 Your goal is as much green visible in the audio monitor as possible when you're speaking, little yellow, and avoid the red. If you're hitting red regularly, your audio is turned up too high. The sound will distort when you broadcast. Move the slider to the left until you rarely, if ever see red. Go too far left, and your audience will have trouble hearing you.
 
-While Ecamm Live works great with the Mac's internal microphones, we recommend the use of a quality USB microphone whenever possible.
+While Ecamm Live works great with the Mac's internal microphones, we recommend the use of a quality USB microphone or USB audio interface whenever possible.
 
 </aside>

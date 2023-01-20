@@ -12,7 +12,7 @@ Intel-based Macs are limited to four remote guests.
 
 An [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) plan or trial version is required to use Interview mode.
 
-Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../013-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
+Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
 
 ## Guest System Requirements
 
@@ -28,7 +28,7 @@ Guest screensharing requires a Mac or PC running Google Chrome.
 
 ## The Interview Window
 
-Interviews are controlled using Ecamm Live's Interview window. If you don't see the Interview window on your screen, click the {% inlineicon guesticon 20 graybutton %}Interview{% endinlineicon %} button along the right-hand side of the main window, or pick <samp>Interview</samp> from the <samp>Window</samp> menu at the top of the screen. 
+Interviews are controlled using Ecamm Live's Interview window. If you don't see the Interview window on your screen, click the {% inlineicon guesticon 20 graybutton %}Interview{% endinlineicon %} button along the right-hand side of the Main Window, or pick <samp>Interview</samp> from the <samp>Window</samp> menu at the top of the screen. 
 
 ![Figure\: The Interview Window](/assets/img/interview1.png "The Interview Window"){:width="400px"}
 
@@ -94,7 +94,7 @@ Once a guest is connected, a row of blue buttons will show up below the host and
 
 ## Guest Screen Sharing
 
-When joining from a Mac or Windows PC, guests will see an option to share their screen. We recommend that guests use Google Chrome for this rather than Safari, as it provides better support for screen sharing.
+When joining from a Mac or Windows PC, guests will see an option to share their screen. We require that guests use Google Chrome for this rather than Safari, as it provides better support for screen sharing.
 
 The guest's screen will show up as a new row in the Interview window. Add their screen to the broadcast by using the blue buttons:
 
@@ -130,11 +130,11 @@ Each title's visibility is a Scene-based setting, meaning it can be hidden or sh
 
 #### Changing Title Style
 
-Change the font, size, color, and background color or your titles by double-clicking one of the titles in the main window. This will open a text editing sheet. Note that this will change the font styles for all automatic titles in your broadcast.
+Change the font, size, color, and background color or your titles by double-clicking one of the titles in the Main Window. This will open a text editing sheet. Note that this will change the font styles for all automatic titles in your broadcast.
 
 #### Fly-In Titles
 
-Automatic titles can configured to "fly in" when a broadcast starts or a Scene changes. To turn on fly-in titles, double-click one of the titles in the main window. This will open a text editing sheet. Then pick <samp>Fly-In</samp> from the <samp>Overlay Style</samp> dropdown menu. Note that this will change the style for all automatic titles in your broadcast.
+Automatic titles can configured to "fly in" when a broadcast starts or a Scene changes. To turn on fly-in titles, double-click one of the titles in the Main Window. This will open a text editing sheet. Then pick <samp>Fly-In</samp> from the <samp>Overlay Style</samp> dropdown menu. Note that this will change the style for all automatic titles in your broadcast.
 
 #### Changing Title Position
 
@@ -241,4 +241,4 @@ When in [Off-Air Audio mode](#off-air-audio), (when the host and guests can spea
 
 #### Guest View
 
-By default, Interview guests will see and hear the entire show in their web browser window. If you'd rather they just see you, select <samp>Host Camera</samp>. This is useful for one-on-one interviews where the guest may get distracted by seeing camera layout changes.
+By default, Interview guest will just see the host's camera in their web browser. If you'd rather have guests see the entire show, select <samp>Broadcast</samp>. This is useful if the guests need to see other content in the show, such as other guests. However it can also be distracting, as the guests will see themselves with a slight delay.

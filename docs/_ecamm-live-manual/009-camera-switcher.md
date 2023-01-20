@@ -6,7 +6,9 @@ If you don't see the Camera Switcher window on the screen, click the {% inlineic
 
 ![Camera Switcher Window](/assets/img/switcher.png "Camera Switcher Window"){: width="515px"}
 
-The Camera Switcher shows all of your connected input devices. The size of the video previews can be adjusted using the slider control at the bottom of the window. The arrangement of the video previews can be adjusted by resizing the window. For example you may wish to view the previews as a horizontal row, a vertical column, or a grid.
+The Camera Switcher shows all of your connected video sources.
+
+The size of the video previews can be adjusted using the slider control at the bottom of the window. The arrangement of the video previews can be adjusted by resizing the window. For example you may wish to view the previews as a horizontal row, a vertical column, or a grid.
 
 #### Selecting a Video Source
 
@@ -28,7 +30,7 @@ Each source also has a {% inlineicon tinydots 34 %}•••{% endinlineicon %} 
 
 <samp>Show Source in Separate Window</samp> Show the video source in a separate window on the Mac.
 
-<samp>Source Video Monitor</samp> Show the video source on a connected display or AirPlay device. (Requires an Ecamm Live Pro plan.
+<samp>Source Video Monitor</samp> Show the video source on a connected display or AirPlay device. (Requires an Ecamm Live Pro plan.)
 
 <samp>Remove From Switcher</samp> This will hide the video source in the switcher, and the source will not run unless it is being used in the current scene.
 <aside class="notice" markdown="1">
@@ -41,7 +43,7 @@ Certain video sources will not start automatically unless they are currently bei
 
 ### Placeholder Cameras
 
-By default, you'll be working with your video input sources directly, assigning sources to be used in your scenes. However you may choose instead to work with placeholder camera sources. This can be useful if you video input source is not currently available or subject to change.
+By default, you'll be working with your video inputs directly, assigning sources to be used in your scenes. However you may choose instead to work with placeholder camera sources. This can be useful if you video source is not currently available or subject to change.
 
 View placeholder cameras by clicking the <samp>A/B</samp> button at the top of the Camera Switcher window. Camera A and Camera B will now be listed in the Camera Switcher. Use the popup menu in each placeholder camera preview to assign a video source to the placeholder camera. 
 
@@ -49,11 +51,11 @@ View placeholder cameras by clicking the <samp>A/B</samp> button at the top of t
 
 #### Adding A New Placeholder Camera
 
-If you need additional placeholder cameras (Camera C, Camera D, etc.), pick <samp>Add Placeholder Camera<samp> from the + menu at the bottom of the Camera Switcher window.
+If you need additional placeholder cameras (Camera C, Camera D, etc.), pick <samp>Add Placeholder Camera</samp> from the + menu at the bottom of the Camera Switcher window.
 
 #### Removing A Placeholder Camera
 
-To see fewer placeholder cameras, click the {% inlineicon tinydots 34 %}•••{% endinlineicon %} button for a placeholder, and choose <samp>Remove Placeholder</samp>. Note that you cannot remove Camera A or Camera B.
+To see fewer placeholder cameras, click the {% inlineicon tinydots 34 %}•••{% endinlineicon %} button for a placeholder camera, and choose <samp>Remove Placeholder</samp>. Note that you cannot remove Camera A or Camera B.
 
 #### Camera Effects
 

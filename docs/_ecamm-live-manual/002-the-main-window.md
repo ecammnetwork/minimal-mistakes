@@ -8,30 +8,30 @@ Upon opening Ecamm Live, you’ll be greeted by the Main Window, and several sma
  
 ## The Main Window
 
-The Main Window is your monitor of what your audience sees, except the tools we’ve laid on top of this window—and your cursor—which are only visible to you. You can resize the main window by dragging from any edge or corner of the window.
+The Main Window is your monitor of what your audience sees, except the tools we’ve laid on top of this window—and your cursor—which are only visible to you. You can resize the Main Window by dragging from any edge or corner of the window.
 
-The smaller windows are for control of [Sound Levels](../013-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../011-streaming/#view-viewer-comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
+The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
 
 [![Figure\: Annotated Main Window with labels](/assets/img/mainwindow.png "Click for full-size image.")
 ](/assets/img/main-window-annotated.png)
 
-## Mode Menu
+## The Mode Menu
 
 ![](/assets/img/mode.jpg){: width="421px"}
 
 The Mode menu determines what Ecamm Live will be used for.
 
-For streaming, turn on the <samp>Stream</samp> toggle switch. This will activate the streaming buttons at the bottom of the main window.
+For streaming, turn on the <samp>Stream</samp> toggle switch. This will activate the streaming buttons at the bottom of the Main Window.
 
 To record your stream, turn on the <samp>Record</samp> switch.
 
-For [Record-Only mode](../012-recording-your-broadcasts/#record-only-mode), turn off <samp>Stream</samp> and turn on <samp>Record</samp>.
+For [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), turn off <samp>Stream</samp> and turn on <samp>Record</samp>.
 
-Use the <samp>Virtual Cam</samp> switch to quickly activate Ecamm Live's [Virtual Cam](../015-virtual-webcam-and-outputs/) and [Virtual Mic](../015-virtual-webcam-and-outputs/#virtual-mic-pro-only).
+Use the <samp>Virtual Cam</samp> switch to quickly activate Ecamm Live's [Virtual Cam](../016-virtual-webcam-and-outputs/) and [Virtual Mic](../016-virtual-webcam-and-outputs/#virtual-mic-pro-only).
 
 ## Scene Selector
 
-At the top left corner of the Main Window is the <samp>Scenes</samp> pull-down menu. The text of the button shows the name of your currently active Scene. Any other Scenes you’ve created are listed within the menu, giving you fast access to switching scenes during a stream or recording. Reference our section on [Scenes](../007-using-scenes) for more details on what Scenes are, and how to use them.
+At the top left corner of the Main Window is the <samp>Scenes</samp> menu. The text of the button shows the name of your currently active Scene. Any other Scenes you’ve created are listed within the menu, giving you fast access to switching scenes during a stream or recording. Reference our section on [Scenes](../007-using-scenes) for more details on what Scenes are, and how to use them.
 
 ## Source Mode
 
@@ -39,7 +39,7 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 
 {% inlineicon cam 20 graybutton %}Camera Icon{% endinlineicon %} [Camera](../003-camera-mode)
 
-{% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} [Screen Share](../004-screen-share-mode/)
+{% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} [Screen Share](../004-screenshare-mode/)
 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} [Video File](../005-video-file-mode/)
 
@@ -54,17 +54,17 @@ The top right of the Main Window contains five icons, the Sound Levels button, t
 
 {% inlineicon overlays 45 graybutton %}Overlays Button{% endinlineicon %} [Overlays](../006-using-overlays)
 
-{% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} [Sound Levels](../013-adjusting-sound-levels/)
+{% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} [Sound Levels](../014-adjusting-sound-levels/)
 
 {% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} [Camera Effects](../010-camera-effects/)
 
-{% inlineicon soundeffects 45 graybutton %}Sound Effects Button{% endinlineicon %} [Sound Effects](../014-sound-effects/)
+{% inlineicon soundeffects 45 graybutton %}Sound Effects Button{% endinlineicon %} [Sound Effects](../015-sound-effects/)
 
-{% inlineicon comment 35 graybutton %}Comments Button{% endinlineicon %} [Comments](../011-streaming/#view-viewer-comments-and-reactions)
+{% inlineicon comment 35 graybutton %}Comments Button{% endinlineicon %} [Comments](../012-streaming/#comments-and-reactions)
 
 {% inlineicon interview 35 graybutton %}Interview Button{% endinlineicon %} [Interview](../008-interview-mode/)
 
-{% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../017-other-options)
+{% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../018-other-options)
 
 The links above go to the manual's sections for each source and explain each in detail.
 {:.notice--info}
@@ -79,7 +79,7 @@ A button to view a list of <samp class="blue">Upcoming</samp> broadcasts. (This 
 
 And finally, a button to <samp class="blue">Go Live</samp>. This will show up as a countdown for scheduled broadcasts.
 
-When in [Record-Only mode](../012-recording-your-broadcasts/#record-only-mode), you'll see a <samp class="blue">Record</samp> button.
+When in [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), you'll see a <samp class="blue">Record</samp> button.
 
 <samp class="blue">Preview Mode</samp>
 : Preview mode lets you make changes in the Main Window but not in your broadcast.

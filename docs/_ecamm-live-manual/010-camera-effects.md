@@ -4,17 +4,17 @@ title: Camera Effects
 
 If you don't see the Camera Effects window on the screen, click the {% inlineicon cameraeffects 45 graybutton %}Camera Effects Button{% endinlineicon %} button in the top-right corner of the Main Window to show it.
 
-![Camera Effects Window](/assets/img/cameffects.jpg "Camera Effects Window"){: width="448px"}
+![Camera Effects Window](/assets/img/cameffects.jpg "Camera Effects Window"){: width="345px"}
 
-If more than one video source is being used, for example when using a split screen layout, you'll be able to pick a video source from the menu at the top of the Camera Effects window.
+Pick a video source from the menu at the top of the Camera Effects window.
 
 ### Green Screen
 
 The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image or video file. It can also be used in transparent mode, to remove the background entirely.
 
-To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a [muslin photography backdrop](https://amzn.to/2X0OMOj), or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [Canon DSLR](#canon-dslr-cameras-via-usb) rather than a webcam.
+To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a [muslin photography backdrop](https://amzn.to/2X0OMOj), or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [DSLR or mirrorless camera](../003-camera-mode#hdmi-encoders) rather than a webcam.
 
-You'll also need to ensure that you have excellent lighting with no shadows or glare in order fo the Green Screen effect to look good. You should be well lit from all angles, and the backdrop should also be well lit.
+You'll also need to ensure that you have excellent lighting with no shadows or glare for the Green Screen effect to look good. You should be well lit from all angles, and the backdrop should also be well lit.
 
 Once you are set up, turn on the Green Screen feature using the <Samp>Green Screen</samp> checkbox. Then select an image or video by clicking <samp>Select Backdrop</samp>, or dragging in an image or video file. Finally, adjust the <samp>Fade Level</samp> slider until the background is revealed. If you see a sparkle or fringe effect, you may need to adjust lighting.
 
@@ -30,7 +30,7 @@ There are a few other options in the Green Screen settings:
 
 * <samp>Mask Edges</samp> Ecamm Live can automatically remove objects along the edge of the frame such as a microphone or the edge of a backdrop. Click the button again to turn off the masking.
 
-#### Zoom & Pan
+### Zoom & Pan
 
 In the Camera Effects window, just below the Green Screen settings, you'll see controls for adding digital zoom to your camera source. Zoom in or out by checking the <samp>Zoom & Pan</samp> checkbox and adjusting the zoom slider. Once you've adjusted the zoom, the zoom area can be adjusted left, right up or down by dragging in the small video preview area just below the slider.
 
@@ -46,7 +46,7 @@ Adjust brightness, temperature, tint, saturation, and gamma using the adjustment
 
 #### Adjust Colors Using A LUT
 
-Apply a color grading LUT using the <samp>Select LUT...</samp> button. Note that this feature requires an Ecamm Live Pro plan.
+Apply a [color grading LUT](https://support.ecamm.com/en/articles/4284438-how-to-use-luts-with-ecamm-live-pro-only) using the <samp>Select LUT...</samp> button. Note that this feature requires an Ecamm Live Pro plan.
 
 ### Camera Options
 
@@ -67,10 +67,6 @@ Use the <samp>Sepia Tone</samp> checkbox to add a warm monochrome effect.
 #### Blur Effect
 
 Use the <samp>Blur Effect</samp> checkbox to add a digital blur. The blur slider adjusts the blurriness.
-
-#### Rotate 180°
-
-Use the <samp>Rotate 180°</samp> checkbox to turn the video image upside down.
 
 
 #### Deinterlace

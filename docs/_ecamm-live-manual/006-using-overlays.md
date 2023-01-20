@@ -5,7 +5,7 @@
 
 Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. 
 
-There are six types of Overlays:
+There are seven types of Overlays:
 
 ## Text Overlays
 
@@ -52,7 +52,7 @@ Would you like to show your company logo in the corner of your broadcast? That�
 * Drag an image file from the Finder or another app into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
-* Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window. A file selection sheet will appear, allowing you to find and select one image file. Select a JPEG, PNG, GIF or PDF.
+* Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window. A file selection sheet will appear, allowing you to find and select one image file. Select a JPG, PNG, GIF, WebP or PDF file.
 
 #### Multi-Page PDFs
 
@@ -71,7 +71,7 @@ Animated Overlays work just like [Image Overlays](#image-overlays) but use a vid
 
 Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444, WebM or HVEC video formats. (Other formats will play, but won't have transparency.)
 
-There are 3 ways to create ann Animated Overlay:
+There are 3 ways to create an Animated Overlay:
 
 * Drag a movie file from the Finder into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Animated Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
@@ -87,7 +87,7 @@ By default, animated overlays will start playing from the beginning. If you'd pr
 
 ## Comment Overlays
 
-If you’re broadcasting with Facebook Live, YouTube Live, Restream, or Twitch, and you receive a comment, you can drag that comment from the [Comments and Reactions Window](009-broadcast-to-facebook/#view-viewer-comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
+If you’re broadcasting with Facebook Live, YouTube Live, Amazon Live, Restream, or Twitch, and you receive a comment, you can drag that comment from the [Comments and Reactions Window](../012-streaming/#comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
 
 You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
@@ -105,7 +105,7 @@ Use the <samp>Hide Last Comment Overlay</samp> menu item in the <samp>Overlays</
 
 #### Hiding Comment Overlays Automatically
 
-Use the [checkbox in the General section of the Preferences](../017-other-options#automatically-hide-comment-overlays) to automatically hide Comment Overlays after a specified amount of time.
+Use the [checkbox in the General section of the Preferences](../018-other-options#automatically-hide-comment-overlays) to automatically hide Comment Overlays after a specified amount of time.
 
 ## Countdown Overlays
 
@@ -130,19 +130,20 @@ When using a countdown, you will see a <samp>Go To Next Scene When Finished</sam
 
 If you need to quickly position a camera feed on the screen to create a custom layout or picture-in-picture, use a Camera Overlay. 
 
-There are 2 ways you can add a Camera Overlay:
+There are 3 ways you can add a Camera Overlay:
 
 * Select a camera from the <samp>New Camera Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display.
 * Click the{% inlineicon addcamera 70 inverted %}Add Camera Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Drag a video source from the [Camera Switcher](../009-camera-switcher) window to the Main Window.
 
-A Camera Overlay will show up in the center of the main window. 
+A Camera Overlay will show up in the center of the Main Window. 
 
 #### Editing Camera Overlays
 
 There are three ways to access the settings for a Camera Overlay:
 
 * Double-click the Overlay in the Main Window.
-* Click the pencil button next to the Overlay in the main window.
+* Click the pencil button next to the Overlay in the Main Window.
 * Click the gear button in the Overlays window. 
 
 A popover window with camera source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
@@ -158,14 +159,14 @@ There are 2 ways you can add a Screenshare Overlay:
 * Select <samp>New Screenshare Overlay</samp> from the <samp>Overlays</samp> menu at the top of your display.
 * Click the{% inlineicon addscreen 60 inverted %}Add Screenshare Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
 
-A Screenshare Overlay will show up in the center of the main window. 
+A Screenshare Overlay will show up in the center of the Main Window. 
 
 #### Editing Screenshare Overlays
 
 There are three ways to access the settings for a Screenshare Overlay:
 
 * Double-click the Overlay in the Main Window.
-* Click the pencil button next to the Overlay in the main window.
+* Click the pencil button next to the Overlay in the Main Window.
 * Click the gear button in the Overlays window. 
 
 A popover window with screenshare source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
@@ -174,9 +175,9 @@ Corner radius, and border options are also offered in the popover window. Note t
 
 #### Activate System Audio Capture
 
-Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing Screen</samp> in Ecamm Live's [Audio Preferences](../017-other-options#broadcast-system-audio).
+Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing Screen</samp> in Ecamm Live's [Audio Preferences](../018-other-options#broadcast-system-audio).
 
-#### Green Screen key
+#### Green Screen Key
 
 Checking this checkbox will cause any chroma green in the screen share to be transparent. It will also make the desktop area transparent. This option is useful when used in conjunction with a PowerPoint or Keynote presentation that includes a green background.
 
@@ -230,7 +231,7 @@ To move an Overlay on one axis, (horizontally or vertically), drag the overlay w
 
 #### Automatic Overlay Alignment
 
-As you position or resize an Overlay, it will automatically align itself to other overlays. To temporarily disable automatic alignment, hold down the <kbd>command</kbd> key while dragging the Overlay. To change alignment behavior, change the <samp>Automatic Overlay Alignment</samp> setting [in the General section of the Preferences](../017-other-options#automatic-overlays-alignment)
+As you position or resize an Overlay, it will automatically align itself to other overlays. To temporarily disable automatic alignment, hold down the <kbd>command</kbd> key while dragging the Overlay. To change alignment behavior, change the <samp>Automatic Overlay Alignment</samp> setting [in the General section of the Preferences](../018-other-options#automatic-overlays-alignment)
 
 #### Duplicating Overlays
 
@@ -250,7 +251,7 @@ Overlays can slide onto the screen from the left, right, top, or bottom.
 
 For Text Overlays, Pick <samp>Fly In</samp> from the <samp>Style</samp> menu at the top of the text editing window to turn on Fly In mode. 
 
-For other Overlay types, click the pencil button next to the Overlay in the main window, and you'll see a Fly-In menu.
+For other Overlay types, click the pencil button next to the Overlay in the Main Window, and you'll see a Fly-In menu.
 
 
 #### Adjusting Overlay Opacity
@@ -271,7 +272,7 @@ The Overlays Window offers several options for managing your Overlays.
 
 To delete an Overlay, select any item in the list and press your <kbd>delete</kbd> key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an Overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 
-You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list. This is called z-order or z-index.
+You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list.
 
 If you need to further organize, you can create folders to group Overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag Overlays onto the folders to organize. Folders can be hidden or shown just like individual Overlays using the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon.
 
@@ -280,14 +281,14 @@ If you need to further organize, you can create folders to group Overlays. Click
 The Overlays Window has three sections:
 
 * Overlays in the <samp>SHOW IN ALL SCENES</samp> section will show up throughout your entire broadcast, regardless of your current Scene. 
-* <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current scene. This will list of Overlays will change as you change Scenes.
-* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everthing else in your broadcast. There are only a few specific cases where you will be able to see a Background Overlay:
+* <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current [Scene](../007-using-scenes/). This will list of Overlays will change as you change Scenes.
+* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everything else in your broadcast. There are only a few specific cases where you will be able to see a Background Overlay:
 
 1. When in Blank Source mode. (Find <samp>Blank</samp> in the <samp>Source</samp> menu.)
 2. When [Green Screen](../003-camera-mode/#green-screen-options) mode is used and the <samp>Transparent</samp> checkbox is activated.
-3. When the Camera source is zoomed out using the [Zoom & Pan](../003-camera-mode/#green-screen-options) settings,
+3. When the Camera source is zoomed out using the [Zoom & Pan](../003-camera-mode/#green-screen-options) settings.
 
-Note that only images and video files can be used for a Background Overlay.  Upon being added to this section, the Overlay will be resized to fill the broadcast area.
+Note that only images and video files can be used for a Background Overlay.  Upon being added to this section, the Overlay will be resized to fill the broadcast area. Background videos will loop automatically. 
 
 #### Hot Keys
 
@@ -295,11 +296,11 @@ Click the ⌘⃣ symbol to assign a hot key to show or hide an Overlay. The hot 
 
 #### Locking Overlays
 
-You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or <kbd>control</kbd>-click on an overlay, and choose "Lock Overlay" from the menu that shows up.
+You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or <kbd>control</kbd>-click on an overlay, and choose <samp>Lock Overlay</samp> from the menu that shows up.
 
 #### Linking Overlay Groups
 
-A collection of overlays can be moved around the main window together as if they were one Overlay, by using Linked Groups. To link a group of Overlays, first add them to a folder Group. (See above.) Once added to a Group, you'll see a tiny {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon show up in the entry for the Group in the Overlays Window. Click the link icon to link the Group.  Once linked, the overlays will move together when dragged in the Main Window. To unlink, click the {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon again.
+A collection of overlays can be moved around the Main Window together as if they were one Overlay, by using Linked Groups. To link a group of Overlays, first add them to a folder Group. (See above.) Once added to a Group, you'll see a tiny {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon show up in the entry for the Group in the Overlays Window. Click the link icon to link the Group.  Once linked, the overlays will move together when dragged in the Main Window. To unlink, click the {% inlineicon linkgroup 15 inverted %}Link Group{% endinlineicon %} icon again.
 
 Linking and unlinking can also be found in the contextual menu when right-clicking or <kbd>control</kbd>-clicking on an Overlay.
 

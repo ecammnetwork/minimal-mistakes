@@ -26,20 +26,22 @@ manual:
     url: /ecamm-live-manual/009-camera-switcher/
   - title: "Camera Effects"
     url: /ecamm-live-manual/010-camera-effects/
-  - title: "Streaming and Scheduling"
-    url: /ecamm-live-manual/011-streaming
-  - title: "Recordings Your Broadcasts"
-    url: /ecamm-live-manual/012-recording-your-broadcasts
+  - title: "Creating A Broadcast"
+    url: /ecamm-live-manual/011-creating-and-scheduling
+  - title: "Streaming"
+    url: /ecamm-live-manual/012-streaming
+  - title: "Recording Your Broadcast"
+    url: /ecamm-live-manual/013-recording-your-broadcasts
   - title: "Adjusting Sound Levels"
-    url: /ecamm-live-manual/013-adjusting-sound-levels
+    url: /ecamm-live-manual/014-adjusting-sound-levels
   - title: "Sound Effects"
-    url: /ecamm-live-manual/014-sound-effects
+    url: /ecamm-live-manual/015-sound-effects
   - title: "Virtual Webcam and Outputs"
-    url: /ecamm-live-manual/015-virtual-webcam-and-outputs
+    url: /ecamm-live-manual/016-virtual-webcam-and-outputs
   - title: "Profiles"
-    url: /ecamm-live-manual/016-profiles
+    url: /ecamm-live-manual/017-profiles
   - title: "Other Options"
-    url: /ecamm-live-manual/017-other-options
+    url: /ecamm-live-manual/018-other-options
 
 ecamm-live-first-facebook-live:
   - title: "Introduction"

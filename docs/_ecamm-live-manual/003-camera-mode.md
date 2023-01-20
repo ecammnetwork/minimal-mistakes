@@ -10,7 +10,11 @@ Ecamm Live supports a wide variety of cameras and input sources.
 
 #### USB Webcams
 
-Ecamm Live works great with USB webcams. The most popular USB webcams are made by Logitech.
+Ecamm Live works great with USB webcams.
+
+#### HDMI Encoders
+
+HDMI encoders such as the [Elgato Cam Link 4K](https://amzn.to/2HNeYGv) typically show up as a webcam, and work fine with Ecamm Live without any additional software. Connect any DSLR or mirrorless camera via HDMI. Check [details here for connecting a 4K camera](https://support.ecamm.com/en/articles/3336134-streaming-and-recording-in-4k).
 
 #### Canon DSLR Cameras via USB
 
@@ -19,14 +23,12 @@ You can use your Canon DSLR camera with Ecamm Live without any extra hardware or
 _See also_ the [Intro to Using Canon DSLRs with Ecamm Live](/ecamm-live-canon-dslr/001-introduction/) for more detail on using your Canon DSLR with Ecamm Live.
 {: .notice}
 
-#### Blackmagic Devices and Other HDMI Encoders
+#### Blackmagic Devices
 
-We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular HDMI input device is the [Blackmagic Design UltraStudio Mini Recorder.](https://amzn.to/2DjGN7F) Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live. The Blackmagic device will also show up as a microphone option in Ecamm Live's microphone list.
+We've built in special support for cameras connected to your Mac through [Blackmagic Design capture devices](https://www.blackmagicdesign.com). Amongst our community, the most popular Blackmagic input device is the [UltraStudio Recorder 3G]https://amzn.to/3Wj8eU4). Once you've connected this to your Mac, and connected your camera to it, you'll be able to select your camera in the Camera sources of Ecamm Live. The Blackmagic device will also show up as a microphone option in Ecamm Live's microphone list.
 
 **Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
 {: .notice}
-
-Other HDMI encoders, such as the [Elgato Cam Link 4K](https://amzn.to/2HNeYGv) typically show up as a webcam, and work fine with Ecamm Live without any additional software.
 
 #### Newtek NDI® Cameras
 
@@ -55,7 +57,6 @@ Mac's running macOS Ventura or newer will show your iPhone's [Continuity Camera]
 #### 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
-
 
 ## The Video Source Switcher
 

@@ -75,12 +75,12 @@ Assigning a sound to a Scene will play the sound when switching to the Scene, or
 There are 5 ways to assign a sound to a Scene:
 
 * Click a sound effect's gear button and then click the <samp>Add To Scene</samp> button.
-* Drag a sound effect from the Sound Effects window to the main window.
+* Drag a sound effect from the Sound Effects window to the Main Window.
 * Drag a sound effect from the Sound Effects window to a Scene in the Scenes window.
-* Drag a sound file from the Finder to the main window. (This will also add the sound to the Sound Effects window.)
+* Drag a sound file from the Finder to the Main Window. (This will also add the sound to the Sound Effects window.)
 * Drag a sound file from the Finder to a Scene in the Scenes window. (This will also add the sound to the Sound Effects window.)
 
-To remove a sound effect from a Scene, click the X beside the sound effect name in the top left corner of the main window.
+To remove a sound effect from a Scene, click the X beside the sound effect name in the top left corner of the Main Window.
 
 ### Scene Sound Settings
 
@@ -95,7 +95,7 @@ Access Scene Sound settings by clicking the tiny gear button in the Scene Sound 
 
 ![Sound Levels Window](/assets/img/fxsoundlevels.png "Sound Levels Window"){: width="449px"}
 
-The volume level and mute setting for all sound effects can be adjusted in the [Sound Levels](../013-adjusting-sound-levels) window.
+The volume level and mute setting for all sound effects can be adjusted in the [Sound Levels](../014-adjusting-sound-levels) window.
 
 This volume level is also used for sound effects produce by [Widget Overlays](../006-using-overlays#widget-overlays).
 

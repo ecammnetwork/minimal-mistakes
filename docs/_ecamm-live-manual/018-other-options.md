@@ -13,11 +13,11 @@ Ecamm Live will play a sound when comments arrive. Viewers may hear the sounds i
 
 #### Show Animated Reactions
 
-Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../011-streaming/#view-viewer-comments-and-reactions) window when reactions arrive.
+Ecamm Live will display floating Emoji symbols in the [Comments & Reactions](../012-streaming/#comments-and-reactions) window when reactions arrive.
 
 #### Show Camera Switcher in Main Window
 
-Ecamm Live will display floating camera switcher controls in the main window when in Camera mode. Uncheck this checkbox to permanently hide these controls.
+Ecamm Live will display floating camera switcher controls in the Main Window when in Camera mode. Uncheck this checkbox to permanently hide these controls.
 
 
 #### Show Program Window While In Other Apps
@@ -49,7 +49,7 @@ When a [viewer comment is added as an overlay](../006-using-overlays/#comment-ov
 
 Intel-based 15-inch and 16-inch MacBook Pros come equipped with dual graphics, meaning they have a more powerful graphics card (known as the discrete graphics card) in addition to the card built into the Mac's motherboard. The Mac will switch automatically between the two GPUs based on a variety of settings. Check this checkbox to ensure that the discrete graphics card is used for the main screen when Ecamm Live is open.
 
-Using the discrete graphics card will result in better performance, especially at higher frame sizes. However it can generate additional heat, resulting in computer fan noise.
+Using the discrete graphics card will result in better performance, especially at higher frame sizes. However it can generate additional heat, resulting in Mac fan noise.
 
 ### Account Preferences
 
@@ -110,7 +110,7 @@ In most cases, Ecamm Live's default audio bitrate is sufficient.  However, some 
 
 Ecamm Live includes a built-in speed test. A {% inlineicon greencheck 15 %}green checkmark{% endinlineicon %} symbol indicates that the internet upload speed is sufficient for the current stream size, frame rate, quality, and number of streaming destinations.
 
-A {% inlineicon redx 15 %}red X{% endinlineicon %} symbol means that your upload speed is not fast enough. You can either reduce yoru stream size, turn off High Quality Video mode (see above), or reduce the number of streaming destinations.
+A {% inlineicon redx 15 %}red X{% endinlineicon %} symbol means that your upload speed is not fast enough. You can either reduce your stream size, reduce your frame rate, turn off High Quality Video mode (see above), or reduce the number of streaming destinations.
 
 If the results of the internet speed test doesn't seem accurate, click the <samp>Test Again</samp> button. The test usually takes about 30 seconds to complete.
 
@@ -120,7 +120,7 @@ The speed test feature requires macOS 12 Monterey or newer.
 
 #### Record All Broadcasts
 
-Creates a local recording of all broadcasts. Find more about recording in the [Recording section](../012-recording-your-broadcasts) of the guide.
+Creates a local recording of all broadcasts. Find more about recording in the [Recording section](../013-recording-your-broadcasts) of the guide.
 
 #### Record Isolated Video Tracks (Pro Only)
 
@@ -128,7 +128,7 @@ In addition to normal recording, Ecamm Live can save a recording of up to two ca
 
 #### Apply Camera Effects To Recorded Video Sources
 
-When recording isolated video for Camera A and Camera B, check this checkbox to include [Camera Effects](../010-camera-effects/) such as Green Screen backdrops and color adjustments in the recording. Uncheck the checkbox to record directly from the camera source without any effects applied.
+When recording isolated video for Camera A, Camera B, or Interview guests, check this checkbox to include [Camera Effects](../010-camera-effects/) such as Green Screen backdrops and color adjustments in the recording. Uncheck the checkbox to record directly from the camera source without any effects applied.
 
 #### Record Isolated Audio Tracks (Pro Only)
 
@@ -140,7 +140,7 @@ Select the format for Ecamm Live's local recordings. The default is .MOV format,
 
 #### Record-Only Countdown
 
-A three-second countdown will be displayed before starting a recording when in [Record-Only mode](../012-recording-your-broadcasts/#record-only-mode).
+A three-second countdown will be displayed before starting a recording when in [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode).
 
 ### Destinations Preferences
 
@@ -206,7 +206,7 @@ Select the audio device to use for sound from movies, sound effects, system audi
 
 #### Use Echo Cancellation
 
-Use this checkbox to toggle [Echo Cancellation](../013-adjusting-sound-levels/#echo-cancellation).
+Use this checkbox to toggle [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation).
 
 #### Enable Echo Cancellation for External Speakers
 
@@ -236,7 +236,7 @@ This checkbox will prevent movie audio from movie playback mode from playing on 
 
 #### System Output Mix Mode
 
-Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it in using you sound board.)
+Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it in using your sound board.)
 
 ### Interview Preferences
 
@@ -246,7 +246,7 @@ Interview preferences are covered [here in the Interview section](../008-intervi
 
 #### Include Desktop Icons
 
-Show the desktop ions when sharing the entire screen.
+Show the desktop icons when sharing the entire screen.
 
 #### Include Desktop Picture
 
@@ -281,7 +281,7 @@ Share the screen contents with no changes. This mode will include Ecamm Live in 
 
 ![](/assets/img/shortcuts.jpg){: width="700px"}
 
-Ecamm Live provides four triggers for macOS Shortcuts:
+Ecamm Live provides four triggers for [macOS Shortcuts](https://support.apple.com/guide/shortcuts-mac/intro-to-shortcuts-apdf22b0444c/mac):
 
 #### Ecamm Live Opens
 
@@ -293,7 +293,7 @@ Assign a shortcut to run when a broadcast or recording starts. For example, acti
 
 #### Broadcast Finishes
 
-Assign a shortcut to run when a recording or broadcast finished. For example, deactivate Do Not Disturb mode. This trigger will send the recorded file's path into the Shortcut.
+Assign a shortcut to run when a recording or broadcast finishes. For example, deactivate Do Not Disturb mode. This trigger will send the recorded file's path into the Shortcut.
 
 #### Ecamm Live Quits
 

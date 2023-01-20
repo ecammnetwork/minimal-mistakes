@@ -8,17 +8,17 @@ Ecamm Live's Output menu provides four options for sending your Ecamm Live broad
 
 Ecamm Live's Virtual Webcam feature allows you to use all of the features of Ecamm Live in any other Mac video app or web service. 
 
-Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the main window.
+Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the Main Window.
 
 ![](/assets/img/vcamtoggle.jpg){: width="421px"}
 
 If this is your first time using the feature, you'll be prompted to install the Virtual Webcam. Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
 
-Once activated, Ecamm Virtual Webcam will show up as a camera option in other apps on your Mac, such as chat apps, web browsers and webinar apps. Select this option, the app will display the output from Ecamm Live as a camera, including all Overlays, multi-camera layouts and Green Screen effects.
+Once activated, Ecamm Virtual Webcam will show up as a camera option in other apps on your Mac, such Zoome and Google Chrome. Select this option, the app will display the output from Ecamm Live as a camera, including all Overlays, multi-camera layouts and Green Screen effects.
 
 Virtual Webcam will work even when you are not using Ecamm Live to broadcast or record.
 
-The feature will remain on until it is turned off in the <samp>Outputs</samp> menu, turning it off in the Mode menu at the top of the main window, or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
+The feature will remain on until it is turned off in the <samp>Outputs</samp> menu, turning it off in the Mode menu at the top of the Main Window, or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
 
 ### Some Apps Don't Support Virtual Webcams
 
@@ -28,7 +28,7 @@ Note that some apps don't load virtual cameras at all.  This includes most Apple
 
 Ecamm Live's Virtual Mic feature allows you to send Ecamm Live's audio to any other app on the Mac.
 
-Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Mic</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the main window. (See above.)
+Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Mic</samp>. It can also be activating using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the Main Window. (See above.)
 
 If this is your first time using the feature, you'll be prompted to install the Virtual Mic. Once installed, you may need to quit any apps that are already open before the Virtual Mic is recognized.
 
@@ -65,7 +65,7 @@ Ecamm Live's  Sharing Window feature can be used to send Ecamm Live's output int
 
 ## NDI Output (Pro Only)
 
-NDI Output provides the ability to send your broadcast to any [Newtek NDI®](https://www.newtek.com/ndi/) capable devices found on the network.
+NDI Output provides the ability to send your broadcast to any [Newtek NDI®](https://www.ndi.tv/) capable devices found on the network.
 
 Activate NDI Output by picking a video resolution in <samp>Outputs</samp> ➝ <samp>NDI® Output</samp>.
 

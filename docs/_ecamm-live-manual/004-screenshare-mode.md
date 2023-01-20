@@ -19,9 +19,9 @@ With Screen Share mode selected, you see what the audience sees within the Main 
 
 ## System Audio
 
-When using the Screen Share source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](../013-adjusting-sound-levels).
+When using the Screen Share source mode, Ecamm Live will also broadcast the Mac's system audio. For example, sound from a video in a web browser, or sounds in a presentation, will be broadcast to your audience. To adjust system audio levels, use the [Sound Levels window](../014-adjusting-sound-levels).
 
-By default, Ecamm Live will only broadcast system audio when in Screenshare mode. [Change this setting](../015-other-options/#audio-preferences) in the <samp>Audio</samp> section of the Preferences to either never broadcast system audio, or to broadcast system audio all the time.
+By default, Ecamm Live will only broadcast system audio when in Screenshare mode. [Change this setting](../018-other-options/#audio-preferences) in the <samp>Audio</samp> section of the Preferences to either never broadcast system audio, or to broadcast system audio all the time.
 
 ## Controlling Ecamm Live While Using Other Apps
 
@@ -54,4 +54,4 @@ You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Pictur
 
 ## Other Screen Sharing Options
 
-Ecamm Live's Preferences window has [several settings](../017-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.
+Ecamm Live's Preferences window has [several settings](../018-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.

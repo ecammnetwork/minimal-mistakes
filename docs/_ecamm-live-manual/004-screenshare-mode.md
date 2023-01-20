@@ -11,8 +11,8 @@ The {% inlineicon screen 20 graybutton %}Screen Icon{% endinlineicon %} center i
 
 The Control Bar is only visible when Ecamm Live is the foremost window, and the cursor has moved within the Main Window in the last 5 seconds. After 5 seconds, or if your cursor leaves the window, the bar will hide. To see it again, move your cursor anywhere within the Main Window.
 
-[![Figure\: Screen Share Mode Main Window Annotated](/assets/img/screen-share-annotated.png "Click for full-size image.")
-](/assets/img/screen-share-annotated.png)
+[![Figure\: Screen Share Mode Main Window](/assets/img/screenshare.png "Click for full-size image.")
+](/assets/img/screenshare.png)
 
 
 With Screen Share mode selected, you see what the audience sees within the Main Window, but to interact with the items you're displaying, you must control them directly. You will not be able to interact with an app, for instance, by clicking on it within the Main Window. 

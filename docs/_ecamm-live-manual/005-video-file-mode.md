@@ -8,6 +8,9 @@ On subsequent clicks of the Video icon, you'll see a  menu appear instead, with 
 
 Your video will begin playing _immediately_ after selection. If you would prefer to disable autoplay, you may do so in the <samp>Video</samp> section of the <samp>Preferences</samp>.  
 
+[![Figure\: Video Playback Mode Main Window ](/assets/img/videomode.png "Click for full-size image.")
+](/assets/img/videomode.png)
+
 ### Starting A Video File
 
 By default, videos will start playing from the beginning. If you'd prefer that a video starts from where you left off previously, choose <samp>Options</samp> menu ➝ <samp>When Video Scene Starts </samp>  ➝ <samp>Start Video From Last Location</samp>.
@@ -27,9 +30,6 @@ This menu can also be found in the player bar.
 Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 
 While the video plays, you can control it with the Video Control Bar. Only you can see the controller. It is invisible to your audience. You can drag this control bar around the window if it's blocking your view. The bar fades in and out depending on the movement of your cursor. Audio from the video file can be monitored and adjusted in the [Sound Levels](../014-adjusting-sound-levels/) Window.
-
-[![Figure\: Video Playback Mode Annotated Main Window ](/assets/img/video-playback-mode-annotated.png "Click for full-size image.")
-](/assets/img/video-playback-mode-annotated.png)
 
 We are not lawyers, but when playing videos you did not create yourself, be aware of copyright law and usage rights in your jurisdiction.
 {:.notice--warning}

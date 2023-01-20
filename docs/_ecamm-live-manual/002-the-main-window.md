@@ -13,7 +13,7 @@ The Main Window is your monitor of what your audience sees, except the tools we�
 The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
 
 [![Figure\: Annotated Main Window with labels](/assets/img/mainwindow.png "Click for full-size image.")
-](/assets/img/main-window-annotated.png)
+](/assets/img/mainwindow.png)
 
 ## The Mode Menu
 
@@ -48,7 +48,7 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 <br/>
 
 
-The top right of the Main Window contains five icons, the Sound Levels button, the Overlays button, the Camera Effects button, the Comments button and the Preferences button. Each show or hides the windows for each tool.
+The right side of the Main Window contains buttons for the Camera Switcher, Overlays, Sound Levels, Camera Effects, Comments, Sound Effects, Interview, and Preferences. Each button shows or hides the respective floating window.
 
 {% inlineicon switcherbutton 45 graybutton %}Camera Switcher Button{% endinlineicon %} [Camera Switcher](../009-camera-switcher/)
 

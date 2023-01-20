@@ -14,7 +14,7 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * Schedule Facebook, YouTube Live or LinkedIn Live broadcasts.
 * **Conduct live video interviews** with up to 10 remote guests. (Up to 4 guests on Intel-based Macs.)
 * **Record individual audio and video tracks** to your Mac.
-* **Add text, scrolling tickers, images, countdowns, PDFs and animations to your broadcast as overlays** , on-the-fly, or build them ahead of time.
+* **Add text, scrolling tickers, images, countdowns, PDFs and animations to your broadcast as overlays**, on-the-fly, or build them ahead of time.
 * When broadcasting to Facebook Live, YouTube Live, Amazon Live, Restream, and Twitch **view a live feed of your comments and reactions.** 
 * Send your production into other Mac apps via Ecamm's **Virtual Camera** and **Virtual Mic**.
 * **Add viewer comments to your broadcast.** Simply drag them onto the window and they appear automatically as overlays.
@@ -33,15 +33,14 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 
 ## System Requirements
 
-* A Mac 
+* A Mac manufactured in 2015 or newer. We don't recommend using a MacBook Air with Ecamm Live.
 * A microphone (All Macs other than Mac Mini have a built-in microphone.)
-* A compatible video camera (including built-in webcams)
+* A compatible video camera (including built-in webcams.)
 * macOS 10.12 or newer
-* An internet connection with an upload speed of at least 1 Mbps.
-* 4 Mbps is required for HD quality.
-* A Mac with hardware-accelerated video encoding (most Macs manufactured after 2010).
+* An internet connection with an upload speed of at least 2 Mbps.
+* A 6 Mbps upload speed is required for HD quality 1080p video streaming.
 * To broadcast to streaming services, you must have an account with that service.
-* To host using [Interview mode](../008-interview-mode/), we recommend an iMac, Mac Mini, or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection.
+* To host using [Interview mode](../008-interview-mode/), we recommend at least a 10 Mbps internet connection.
 * An Apple Silicon (M1 or M2) Mac is required for isolated video recording.
 * Intel-based Macs are limited to 4 Interview guests. (Apple Silicon Macs support up to 10 guests.)
 

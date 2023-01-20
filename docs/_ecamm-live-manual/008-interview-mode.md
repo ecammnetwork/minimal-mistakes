@@ -71,7 +71,7 @@ Once you have accepted the incoming call, the guest will show up below the host 
 ![Figure\: The Interview Window](/assets/img/interview3.png "The Interview Window"){:width="400px"}
 
 
-Each guest also has a volume level slider, which can be used to adjust the guest's volume as needed.  Guest can also be muted and unmuted by clicking the {% inlineicon speaker3 15 inverted %}speaker{% endinlineicon %} icon just to the left of the volume slider.
+Each guest also has a volume level slider, which can be used to adjust the guest's volume as needed.  Guests can also be muted and unmuted by clicking the {% inlineicon speaker3 15 inverted %}speaker{% endinlineicon %} icon just to the left of the volume slider.
 
 #### Disconnecting a Guest
 
@@ -241,4 +241,4 @@ When in [Off-Air Audio mode](#off-air-audio), (when the host and guests can spea
 
 #### Guest View
 
-By default, Interview guest will just see the host's camera in their web browser. If you'd rather have guests see the entire show, select <samp>Broadcast</samp>. This is useful if the guests need to see other content in the show, such as other guests. However it can also be distracting, as the guests will see themselves with a slight delay.
+By default, Interview guests will just see the host's camera in their web browser. If you'd rather have guests see the entire show, select <samp>Broadcast</samp>. This is useful if the guests need to see other content in the show, such as other guests. However it can also be distracting, as the guests will see themselves with a slight delay.

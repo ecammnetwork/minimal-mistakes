@@ -30,7 +30,7 @@ If your streaming platform is not listed, you may be able to broadcast to it usi
 To add a destination for any RTMP-capable service, you'll need two pieces of information:
 
 * **Server URL** — this will look like a web address, except it will say *rtmp://* or *rtmps://* at the beginning.
-* **Stream Key** — this is like a password, so that Ecamm Live can establish a connection with the address and allowing it to accept your video
+* **Stream Key** — this is like a password, so that Ecamm Live can identify you and establish a connection with the streaming server.
 
 ##### Stream Key Login and Password
 
@@ -88,7 +88,7 @@ A {% inlineicon redx 15 %}red X{% endinlineicon %} symbol means that your upload
 
 ### Schedule The Broadcast
 
-Click the the <samp>Schedule</samp> button to schedule the broadcast. (Or if not scheduling click the <samp>Go Live Now</samp> button.) If the button is not clickable, this indicates that not all requirements in the Create New Broadcast window have been met.
+Click the <samp>Schedule</samp> button to schedule the broadcast. (Or if not scheduling click the <samp>Go Live Now</samp> button.) If the button is not clickable, this indicates that not all requirements in the Create New Broadcast window have been met.
 
 ### Upcoming Broadcast List
 

@@ -69,7 +69,7 @@ Animated GIFs are also supported—let’s use that last one responsibly, shall 
 
 Animated Overlays work just like [Image Overlays](#image-overlays) but use a video file instead of an image. This is great for an animated logo or lower third. With the exception of WebM formatted videos, animated overlays will play without sound. 
 
-Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444, WebM or HVEC video formats. (Other formats will play, but won't have transparency.)
+Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444, WebM or HEVC video formats. (Other formats will play, but won't have transparency.)
 
 There are 3 ways to create an Animated Overlay:
 
@@ -175,7 +175,7 @@ Corner radius, and border options are also offered in the popover window. Note t
 
 #### Activate System Audio Capture
 
-Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing Screen</samp> in Ecamm Live's [Audio Preferences](../018-other-options#broadcast-system-audio).
+Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing The Screen</samp> in Ecamm Live's [Audio Preferences](../018-other-options#broadcast-system-audio).
 
 #### Green Screen Key
 
@@ -296,7 +296,7 @@ Click the ⌘⃣ symbol to assign a hot key to show or hide an Overlay. The hot 
 
 #### Locking Overlays
 
-You may wish to lock an overlays to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or <kbd>control</kbd>-click on an overlay, and choose <samp>Lock Overlay</samp> from the menu that shows up.
+You may wish to lock an overlay to prevent it from getting accidentally moved around or resized. This is especially useful when using a frame-style overlay. To lock or unlock an overlay, click the padlock icon beside the Overlay in the Overlays Window. Or, right-click or <kbd>control</kbd>-click on an overlay, and choose <samp>Lock Overlay</samp> from the menu that shows up.
 
 #### Linking Overlay Groups
 

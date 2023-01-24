@@ -36,7 +36,7 @@ Incredible, right? Must be difficult? *Challenge accepted.*
 * A Mac manufactured in 2015 or newer. We don't recommend using a MacBook Air with Ecamm Live.
 * A microphone (All Macs other than Mac Mini have a built-in microphone.)
 * A compatible video camera (including built-in webcams.)
-* macOS 10.12 or newer
+* macOS 10.14 or newer
 * An internet connection with an upload speed of at least 2 Mbps.
 * A 6 Mbps upload speed is required for HD quality 1080p video streaming.
 * To broadcast to streaming services, you must have an account with that service.

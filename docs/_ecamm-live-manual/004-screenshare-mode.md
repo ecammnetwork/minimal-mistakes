@@ -25,7 +25,7 @@ By default, Ecamm Live will only broadcast system audio when in Screenshare mode
 
 ## Controlling Ecamm Live While Using Other Apps
 
-While you're live, if you switch to another app, a small floating control window will be displayed. To turn this on or off, use <samp>Show Controls in Other Apps</samp> checkbox in the General section of the Preferences. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
+While you're live, if you switch to another app, a small floating control window will be displayed. To turn this on or off, use <samp>Show Program Window While In Other Apps</samp> checkbox in the General section of the Preferences. This control window allows you to see what's being broadcast, and includes buttons to change [Scenes](../007-using-scenes) and Source modes, as well as a <samp class="blue">Finish</samp> button.
 
 **_Note:_** In Screen Share mode, Ecamm Live's app windows will _only be visible to you_, while it is _invisible to your broadcast or recording._ Stealthy.
 {:.notice--info}
@@ -55,3 +55,5 @@ You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Pictur
 ## Other Screen Sharing Options
 
 Ecamm Live's Preferences window has [several settings](../018-other-options/#screen-sharing-preferences) for adjusting the appearance of Screen Share mode. To find Ecamm Live’s Preferences, choose Preferences from the Ecamm Live menu at the top of the screen beside the  menu.
+
+Also check out [Screen Share Overlays](../006-using-overlays/#screenshare-overlays) if you're looking to share your screen inset into the broadcast.

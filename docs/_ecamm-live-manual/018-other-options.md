@@ -5,6 +5,8 @@
 
 There are a few other helpful options in the Preferences. To find Ecamm Live's Preferences, choose <samp>Preferences</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen beside the  menu. 
 
+You can also open the Preferences by clicking the gear icon the Main Window or by typing <kbd title="command">⌘</kbd><kbd>,</kbd>.
+
 ### General Preferences
 
 #### Play App Sounds
@@ -34,7 +36,7 @@ By default, when Ecamm Live is not the active application, clicking an Ecamm uti
 
 #### Automatic Overlay Alignment 
 
-Automatic Overlay Alignment aligns overlays to other overlays as they are positioned or resized. Choose <samp>None</samp> to turn off this feature. Pick <samp>Sticky</samp> for the default behavior, which will cause overlays to stick other overlays when they are aligned. Choose <samp>Snappy</samp> if you want overlays to snap into alignment as they near each other. Hold down the command key to temporarily disable alignment.
+Automatic Overlay Alignment aligns overlays to other overlays as they are positioned or resized. Choose <samp>None</samp> to turn off this feature. Pick <samp>Sticky</samp> for the default behavior, which will cause overlays to stick to other overlays when they are aligned. Choose <samp>Snappy</samp> if you want overlays to snap into alignment as they near each other. Hold down the command key to temporarily disable alignment.
 
 #### When Returning To Live Mode With Unpublished Changes 
 
@@ -42,7 +44,7 @@ What to do if changes have been made to the current scene while in Preview mode 
 
 #### Automatically Hide Comment Overlays
 
-When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activating, the overlays will also be hidden automatically after changing Scenes. 
+When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activated, the overlays will also be hidden automatically after changing Scenes. 
 
 
 #### Use Discrete Graphics Card for Main Screen
@@ -132,7 +134,7 @@ When recording isolated video for Camera A, Camera B, or Interview guests, check
 
 #### Record Isolated Audio Tracks (Pro Only)
 
-Ecamm Live can save audio recordings of your audio channels such as primary microphone, secondary microphone, sound effects, and individual [Interview](../008-interview-mode/) guests. This is sometimes referred to as ISO audio recording.
+Ecamm Live can save audio recordings of your audio channels such as primary microphone, secondary microphone, sound effects, and individual [Interview](../008-interview-mode/) guests. This is also referred to as ISO audio recording.
 
 #### Recording File Format
 
@@ -148,7 +150,7 @@ Ecamm Live supports an unlimited number of streaming destinations, which can be 
 
 ![](/assets/img/destprefs.jpg){: width="700px"}
 
-Click <samp>Add Destination...</samp> to add a streaming destination.
+Click <samp>Add New Destination...</samp> to [add a streaming destination](../011-creating-and-scheduling/#adding-a-destination).
 
 Remove a destination by clicking the {% inlineicon othertrash 15 %}trash can{% endinlineicon %} icon, or selecting the row and pressing the <kbd>delete</kbd> key on your keyboard.
 
@@ -176,11 +178,11 @@ When this option is enabled, Ecamm Live's video stream will fade to black when t
 
 #### Auto-Play Video Files
 
-When this option is enabled, Ecamm Live's Video File source mode will begin playback automatically when a video file is picked, when Video File source mode is entered, or when a broadcast or recording starts while in Video File source mode. When thich option is disabled, you'll need to press the play button or press the spacebar to start video playback.
+When this option is enabled, Ecamm Live's Video File source mode will begin playback automatically when a video file is picked, when Video File source mode is entered, or when a broadcast or recording starts while in Video File source mode. When this option is disabled, you'll need to press the play button or press the spacebar to start video playback.
 
 #### Show Picture-in-Picture Above Overlays
 
-When this option is enabled, your picture-in-picture window will show up on top of any overlays. This is particularly useful when presenting a full screen image or PDF overlay while using picture-in-picture.
+When this option is enabled, the picture-in-picture window will show up on top of any overlays. This is particularly useful when presenting a full screen image or PDF overlay while using picture-in-picture.
 
 #### Show Picture-in-Picture in New Video File and Screensharing Scenes
 
@@ -236,7 +238,7 @@ This checkbox will prevent movie audio from movie playback mode from playing on 
 
 #### System Output Mix Mode
 
-Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it in using your sound board.)
+Use this setting only when the Mac's audio output is being mixed back into the mic channel by your audio interface. (Ecamm Live won't mix in movie audio, sound effects, or Interview guest audio for you, since you're already mixing it into the mic channel using your sound board.)
 
 ### Interview Preferences
 

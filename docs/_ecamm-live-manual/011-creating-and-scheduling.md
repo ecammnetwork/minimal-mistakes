@@ -10,7 +10,7 @@ You'll see the Create New Broadcast window.
 
 ![Create New Broadcast Window](/assets/img/createnewstart.jpg "Create New Broadcast Window"){: width="746px"}
 
-Your currently selected streaming destinations are listed at the top. To add a new streaming destination, click the <samp>+ Add</samp> button and then choose <samp>Add Destination</samp>.  A new window will prompt you to pick a streaming platform:
+Your currently selected streaming destinations are listed at the top. To add a new streaming destination, click the <samp>+ Add</samp> button and then choose <samp>Add New Destination</samp>.  A new window will prompt you to pick a streaming platform:
 
 ![Add Destination Window](/assets/img/addnew.jpg "Add Destination Window"){: width="567px"}
 

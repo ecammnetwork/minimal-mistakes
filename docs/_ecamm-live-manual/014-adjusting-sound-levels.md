@@ -3,7 +3,9 @@
 ---
 If you don't see the Sound Levels window on the screen, click the {% inlineicon sliders 45 graybutton %}Sound Levels Button{% endinlineicon %} button in the top-right corner of the Main Window to show it.
 
-The Sound Levels Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Microphone</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> option—<kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
+You can also find the Sound Levels window in the <samp>Window</samp> menu at the top of the display, or by typing <kbd title="command">⌘</kbd><kbd>'</kbd>.
+
+The Sound Levels Window shows what audio source is in use. Clicking on the name of the source will show you any other available sources. The <samp>Mic</samp> menu at the top of your display also provides options, including the <samp>Mute Microphone</samp> option— <kbd>shift</kbd><kbd title="command">⌘</kbd><kbd>M</kbd>.
 
 ![Sound Levels Window](/assets/img/sound-levels.jpg "Sound Levels Window"){: width="449px"}
 
@@ -33,7 +35,7 @@ Ecamm Live provides the option for [Interview](../008-interview-mode) guests to 
 
 ### Echo Cancellation
 
-If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable in the Sound Levels window, or <samp>Options</samp> menu ➝ <samp>Echo Cancellation</samp>. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. 
+If you are using your Mac's speakers during your broadcast, that may cause an echo if your mic picks up speaker audio. To prevent this, Ecamm Live has Echo Cancellation, which you can enable or disable using the checkbox in the Sound Levels window. Echo Cancellation listens for sounds produced by your speakers and removes it from your broadcast. It works remarkably well, most of the time. If your audience is reporting missing sound, try turning off this feature. 
 
 If you are using headphones, echo cancellation is disabled automatically. Note that Ecamm Live can't distinguish between headphones and external computer speakers. If you are using external computers speakers, and you wish to use Echo Cancellation, you will need to turn on the <samp>Enable Echo Cancellation for External Speakers</samp> checkbox in the Audio section of the Preferences.
 
@@ -47,7 +49,7 @@ The Sound Levels window can detect several audio misconfigurations and potential
 
 * *Using Echo Cancellation Along With the Built-in Microphone* can cause microphone issues in other apps such as Skype. A warning will be displayed if Ecamm Live detects that <samp>Echo Cancellation</samp> is being used with the built-in microphone while Skype is also using the built-in microphone.  To prevent this, use a USB microphone instead, or turn off <samp>Echo Cancellation</samp>.
 
-* *Redundant System Audio With Skype* can occur when Ecamm Live is configured to broadcast [System Audio](../004-screenshare-mode/#system-audio) and Skype is set to the default output. Skype audio is picked up automatically by Ecamm Live and picked up again by the System Audio feature, resulting in a doubling effect. Ecamm Live will automatically prevent any echo effect by muting the Skype audio levels. However it will display a warning indicating that the Skype audio level slider and mute button are not being used. To prevent this, turn off the [System Audio](../004-screenshare-mode/#system-audio) feature when using the [Skype Guest](../008-remote-guests-via-skype/) feature. 
+* *Redundant System Audio With Skype* can occur when Ecamm Live is configured to broadcast [System Audio](../004-screenshare-mode/#system-audio) and Skype is set to the default output. Skype audio is picked up automatically by Ecamm Live and picked up again by the System Audio feature, resulting in a doubling effect. Ecamm Live will automatically prevent any echo effect by muting the Skype audio levels. However it will display a warning indicating that the Skype audio level slider and mute button are not being used. To prevent this, turn off the [System Audio](../004-screenshare-mode/#system-audio) feature when using the [Skype Guest](http://support.ecamm.com/en/articles/3323963-remote-guests-via-skype) feature. 
 
 
 <aside class="notice" markdown="1">
@@ -58,6 +60,6 @@ An old adage about video production is "Viewers will tolerate mediocre video qua
 
 Your goal is as much green visible in the audio monitor as possible when you're speaking, little yellow, and avoid the red. If you're hitting red regularly, your audio is turned up too high. The sound will distort when you broadcast. Move the slider to the left until you rarely, if ever see red. Go too far left, and your audience will have trouble hearing you.
 
-While Ecamm Live works great with the Mac's internal microphones, we recommend the use of a quality USB microphone or USB audio interface whenever possible.
+While Ecamm Live works with the Mac's internal microphones, we recommend the use of a quality USB microphone or USB audio interface whenever possible.
 
 </aside>

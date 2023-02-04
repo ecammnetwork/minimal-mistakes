@@ -6,25 +6,27 @@ Ecamm Live's Interview feature provides the ability to add remote video guests t
 
 ## Host System Requirements
 
-To host using Interview, we recommend an iMac, Mac Mini or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection. 
+- To host using Interview, we recommend an iMac, Mac Mini or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection. 
 
-Intel-based Macs are limited to four remote guests.
+- Intel-based Macs are limited to four remote guests.
 
-An [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) plan or trial version is required to use Interview mode.
+- An [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) plan or trial version is required to use Interview mode.
 
-Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
+- Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
 
 ## Guest System Requirements
 
-To join an interview, we recommend a Mac or Windows PC running Safari or Chrome, and at least a 5 Mbps internet connecton.
+- To join an interview, we recommend a Mac or Windows PC running Safari or Chrome, and at least a 5 Mbps internet connecton. Chrome is the recommended browser for Mac or Windows PC.
 
-Guests can also join using Safari or Chrome on an iPhone or iPad, or from Chrome on an Android device.
+- Guests can also join using Safari or Chrome on an iPhone or iPad, or from Chrome on an Android device.
 
-Guests _do not_ need the Ecamm Live app or an Ecamm Live subscription.
+- Guests _do not_ need the Ecamm Live app or an Ecamm Live subscription.
 
-Wearing headphones is not required, but typically results in better audio quality.
+- Wearing headphones is not required, but typically results in better audio quality.
 
-Guest screensharing requires a Mac or PC running Google Chrome. 
+- Guest screensharing requires a Mac or PC running Google Chrome. 
+
+Grab our [Interview Guest Checklist](https://ecamm.com/blog/interview-guest-checklist/) to make sure you don't forget a thing during tech checks.
 
 ## The Interview Window
 
@@ -144,11 +146,11 @@ Automatic titles can be on left, on the right, or centered. To change the positi
 
 When Ecamm Live detects that both your microphone and the Interview guest microphones are muted, it will automatically allow you to speak with guests. This is useful for communicating with a guest during an introduction video, or while pre-recorded content is playing. When this mode entered, you'll see a red <samp class="red">Off-Air Audio</samp> indicator in the Interview window.  Guests will see a note in their web browser letting them know that they can be heard but not in the broadcast.
 
-When in this mode, the host can determine if the guest's program audio is automatically lowered, [using a checkbox in the Interview preferences](#lower-music-and-movie-sound-for-guests-when-in-off-air-audio-mode).  
+When in this mode, the host can choose if the guest's program audio is automatically lowered, [using a checkbox in the Interview preferences](#lower-music-and-movie-sound-for-guests-when-in-off-air-audio-mode).  
 
 ## Guest Private Chat
 
-The Interview host and guests can chat using a text chat interface before and during the a broadcast or recording. Open the Interview Chat window by clicking the chat icon at the bottom of the Interview window. A red dot on the icon indicates that there are unread chat messages.
+The Interview host and guests can chat using a text chat interface before and during the a broadcast or recording. Open the Interview Chat window by clicking the chat icon at the bottom of the Interview window. A red dot on the icon indicates that there are unread chat messages. You can also open this window from the <samp>Window</samp> menu or by pressing <kbd title="command">⌘</kbd><kbd>shift</kbd><kbd>]</kbd>.
 
 ![Figure\: Interview Chat Window](/assets/img/chatdot.png "Interview Chat Indicator"){:width="414"}
 

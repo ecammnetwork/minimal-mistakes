@@ -4,13 +4,16 @@
 
 <!-- ## Your First Time Around with Ecamm Live -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-9yuFpeclE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+
 Upon opening Ecamm Live, you’ll be greeted by the Main Window, and several smaller windows.
  
 ## The Main Window
 
 The Main Window is your monitor of what your audience sees, except the tools we’ve laid on top of this window—and your cursor—which are only visible to you. You can resize the Main Window by dragging from any edge or corner of the window.
 
-The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard shortcut assigned for easy access.
+The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard [shortcut assigned](https://support.ecamm.com/en/articles/3372157-ecamm-live-hot-keys) for easy access.
 
 [![Figure\: Annotated Main Window with labels](/assets/img/mainwindow.png "Click for full-size image.")
 ](/assets/img/mainwindow.png)
@@ -44,7 +47,7 @@ At the top center of the Main Window you’ll find Ecamm Live’s three primary 
 {% inlineicon video 20 graybutton %}Video Icon{% endinlineicon %} [Video File](../005-video-file-mode/)
 
 <br/>
-<iframe src="https://www.youtube.com/embed/DjnP16Hrl8c?rel=0" frameborder="0" width="532" height="300"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mITqcEgQLu8?rel=0" frameborder="0" width="532" height="300"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <br/>
 
 

@@ -3,7 +3,7 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or through the Overlays menu at the very top of your display. 
+Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or show it using Overlays menu at the very top of your display.
 
 There are seven types of Overlays:
 
@@ -45,14 +45,14 @@ To adjust the speed of a ticker, once it has been created, move your mouse arrow
 
 ## Image Overlays
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ei97hFfMwZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7vblzqrvoYn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 Would you like to show your company logo in the corner of your broadcast? That’s one of the most common uses for Image Overlays. But there are many possibilities. If you’d like to go beyond the styling capabilities of Text Overlays, you can design text and lower thirds in a graphics app, such as Photoshop, save them as an image, and add them to your broadcast as an Image Overlay. This is a powerful way to supplement your broadcast’s branding. You can simply drag and drop any image file into the Main Window to instantly create a new Overlay. Or if you prefer, there are several other ways to create an Image Overlay:
 
 * Drag an image file from the Finder or another app into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
-* Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>N</kbd> while in the Main Window. A file selection sheet will appear, allowing you to find and select one image file. Select a JPG, PNG, GIF, WebP or PDF file.
+* Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window. A file selection sheet will appear, allowing you to find and select one image file. Select a JPG, PNG, GIF, WebP or PDF file.
 
 #### Multi-Page PDFs
 
@@ -71,17 +71,18 @@ Animated Overlays work just like [Image Overlays](#image-overlays) but use a vid
 
 Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444, WebM or HEVC video formats. (Other formats will play, but won't have transparency.)
 
-There are 3 ways to create an Animated Overlay:
+There are 4 ways to create an Animated Overlay:
 
 * Drag a movie file from the Finder into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Animated Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window.
 
 A File Selection Sheet will appear, allowing you to find and select a movie file.
 
 #### Animated Overlay Playback Options
 
-To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Options include "Auto-Play", "Loop", and options to hide the overlay when finished with playback.
+To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Click the tiny down arrow to find the Options menu. Options include <samp>Auto-Play</samp>, <samp>Loop</samp>, and options to hide the overlay when finished with playback.
 
 By default, animated overlays will start playing from the beginning. If you'd prefer the animation start from where you left off previously, choose <samp>Start From Last Location</samp> from the player bar's menu.
 
@@ -93,7 +94,7 @@ You can also click the tiny <samp>Add To Broadcast</samp> button below each comm
 
 #### Editing Comment Overlays
 
-The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
+The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). (Double-click the overlay in the Main Window.) Once a Comment Overlay is styled, future comments remember this styling. Note that a separate style can be applied to the comment author.
 
 #### Showing The Most Recent Comment as an Overlay
 
@@ -111,10 +112,11 @@ Use the [checkbox in the General section of the Preferences](../018-other-option
 
 If you need to display a countdown timer on screen, clock, or stopwatch, use a Countdown Overlay. 
 
-There are 2 ways you can display a Countdown Overlay:
+There are 3 ways to add a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>C</kbd> while in the Main Window.
 
 A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown type, such as countdown, clock, or stopwatch. You can edit the End Time and text alignment. Press <samp>Save</samp> to display your timer within the Main Window.
 
@@ -144,9 +146,9 @@ There are three ways to access the settings for a Camera Overlay:
 
 * Double-click the Overlay in the Main Window.
 * Click the pencil button next to the Overlay in the Main Window.
-* Click the gear button in the Overlays window. 
+* Click the tiny {% inlineicon preferences 20 inverted %}Preferences Button{% endinlineicon %} icon beside the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon in the [Overlays Window](#managing-your-overlays).
 
-A popover window with camera source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
+A popover window with camera source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner. 
 
 Corner radius, and border options are also offered in the popover window. Note that a newly created Camera Overlay will automatically inherit the last used corner radius and border options. 
 
@@ -154,10 +156,11 @@ Corner radius, and border options are also offered in the popover window. Note t
 
 If you need to quickly position a screenshare to create a custom layout, use a Screenshare Overlay. 
 
-There are 2 ways you can add a Screenshare Overlay:
+There are three ways you can add a Screenshare Overlay:
 
 * Select <samp>New Screenshare Overlay</samp> from the <samp>Overlays</samp> menu at the top of your display.
 * Click the{% inlineicon addscreen 60 inverted %}Add Screenshare Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>S</kbd> while in the Main Window.
 
 A Screenshare Overlay will show up in the center of the Main Window. 
 
@@ -169,7 +172,7 @@ There are three ways to access the settings for a Screenshare Overlay:
 * Click the pencil button next to the Overlay in the Main Window.
 * Click the gear button in the Overlays window. 
 
-A popover window with screenshare source and shape options will appear. Pick the <samp>Custom</samp> shape to adjust the shape by dragging the Overlay from any corner. 
+A popover window with screenshare source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner.  
 
 Corner radius, and border options are also offered in the popover window. Note that a newly created Screenshare Overlay will automatically inherit the last used corner radius and border options. 
 
@@ -185,14 +188,15 @@ Checking this checkbox will cause any chroma green in the screen share to be tra
 
 Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent web pages designed to be overlaid on a live stream. They typically include dynamic content such as alerts and chat messages. [Streamlabs widgets](https://streamlabs.com/widgets) are a quick way to get started. Widget overlays can also be used to simply embed a website into your broadcast.
 
-There are 4 ways you can add a Widget Overlay:
+There are 5 ways you can add a Widget Overlay:
 
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
 * Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Type <kbd>option</kbd><kbd>⌘</kbd><kbd>W</kbd> while in the Main Window.
 * Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 * To add a local HTML or Javascript file as a widget, drag the file from the Finder into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 
-Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button or selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up sheet to enter a URL and several options:
+Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button or selecting <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu will bring up a sheet to enter a URL and several options:
 
 * Display Name: Enter a name for the widget. This is used for display purposes only, to identify the Overlay later.
 
@@ -235,7 +239,7 @@ As you position or resize an Overlay, it will automatically align itself to othe
 
 #### Duplicating Overlays
 
-To quickly duplicate an Overlay, drag while holding down the <kbd>option</kbd> or <kbd>alt</kbd> key on your keyboard.
+To quickly duplicate an Overlay, drag while holding down the <kbd>option</kbd> key. (The key may be labeled <kbd>alt</kbd> on some keyboards.)
 
 To adjust the Overlay’s size, drag from any corner or edge.  You may also use your trackpad’s pinch-to-zoom gesture, or your mouse’s scroll-wheel or scroll gesture to resize an Overlay.
 
@@ -260,7 +264,7 @@ To adjust an overlay's transparency, use the scroll gesture (slide two fingers o
 
 #### Cropping Overlays
 
-With the exception of Text Overlays, Overlays can be cropped from any edge. Crop by holding down the <kbd>option</kbd> or <kbd>alt</kbd> key on your keyboard while dragging any edge of an Overlay.
+With the exception of Text Overlays, Overlays can be cropped from any edge. Crop by holding down the <kbd>option</kbd> key on your keyboard while dragging any edge of an Overlay. (The key may be labeled <kbd>alt</kbd> on some keyboards.)
 
 To reset the crop, right-click or <kbd>control</kbd>-click the Overlay and pick <samp>Reset Crop</samp>.
 
@@ -272,7 +276,7 @@ The Overlays Window offers several options for managing your Overlays.
 
 To delete an Overlay, select any item in the list and press your <kbd>delete</kbd> key, drag to the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon, or click the {% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} icon. The item will vanish. Trash an Overlay by mistake? Don’t panic. <samp>Edit</samp> ➝ <samp>Undo</samp> or <kbd>⌘</kbd><kbd>Z</kbd> will bring it back. 
 
-You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list are “above” the items lower on the list.
+You can show or hide a given Overlay by clicking its {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon. You can reorder the Overlays by dragging them up or down. This can be helpful for organization, but if you have any Overlays that overlap, the items that are listed higher on the list will be “on top” of the items lower on the list.
 
 If you need to further organize, you can create folders to group Overlays. Click the {% inlineicon addgroup 50 inverted %}Add Group Button{% endinlineicon %} icon to create a new folder. Drag Overlays onto the folders to organize. Folders can be hidden or shown just like individual Overlays using the {% inlineicon visible 20 inverted %}Visible Button{% endinlineicon %} icon.
 
@@ -282,7 +286,9 @@ The Overlays Window has three sections:
 
 * Overlays in the <samp>SHOW IN ALL SCENES</samp> section will show up throughout your entire broadcast, regardless of your current Scene. 
 * <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current [Scene](../007-using-scenes/). This will list of Overlays will change as you change Scenes.
-* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everything else in your broadcast. There are only a few specific cases where you will be able to see a Background Overlay:
+* <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everything else in your broadcast. 
+
+There are only a few specific cases where you will be able to see a Background Overlay:
 
 1. When in Blank Source mode. (Find <samp>Blank</samp> in the <samp>Source</samp> menu.)
 2. When [Green Screen](../003-camera-mode/#green-screen-options) mode is used and the <samp>Transparent</samp> checkbox is activated.
@@ -292,7 +298,7 @@ Note that only images and video files can be used for a Background Overlay.  Upo
 
 #### Hot Keys
 
-Click the ⌘⃣ symbol to assign a hot key to show or hide an Overlay. The hot key can be with a modifier key (shift, command, option, alt), a combination of modifier keys, or with no modifier key.
+Click the ⌘⃣ symbol to assign a hot key to show or hide an Overlay. The hot key can be used with a modifier key (shift, command, option, alt), a combination of modifier keys, or with no modifier key.
 
 #### Locking Overlays
 

@@ -16,7 +16,7 @@ Click a video source to use it in [Camera mode](../003-camera-mode).
 
 #### Splitscreen (Selecting Multiple Sources)
 
-If you would like to display more than one video source at the same time in a splitscreen layout or picture-in-picture, hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use  a two- or three-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
+If you would like to display more than one video source at the same time in a splitscreen layout or picture-in-picture, hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use a two-or-more-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
 
 #### Drag to Add a Camera Overlay
 

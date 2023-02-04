@@ -35,6 +35,8 @@ The exported file includes all overlay image assets and sound effects. However, 
 
 The exported file will not contain streaming destinations.
 
+The exported file will not contain fonts used in your Overlays.
+
 ### Moving Scenes And Overlays Between Profiles
 
 To move items or collections of items from one Profile to another, select the item or items, and then choose <samp>Copy</samp> from the <samp>Edit</samp> menu.

@@ -12,7 +12,7 @@ Pick a video source from the menu at the top of the Camera Effects window.
 
 The Camera Effects window is where you can control Ecamm Live's Green Screen feature. Also called chroma key, the green screen feature will replace any green background with a provided image or video file. It can also be used in transparent mode, to remove the background entirely.
 
-To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a [muslin photography backdrop](https://amzn.to/2X0OMOj), or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [DSLR or mirrorless camera](../003-camera-mode#hdmi-encoders) rather than a webcam.
+To begin using Green Screen, you'll need to do some set-up. First, you'll need a green smooth background. This could be a green-painted wall, a muslin photography backdrop, or a [pop-up screen](https://amzn.to/2Bwx9wY). Note that most webcams have a very wide-angle lens, so a wider-than-expected backdrop is usually required to fill the camera frame. The wide angle can be avoided by using a [DSLR or mirrorless camera](https://support.ecamm.com/en/articles/3968730-connecting-your-dslr-or-mirrorless-camera-via-usb ) rather than a webcam.
 
 You'll also need to ensure that you have excellent lighting with no shadows or glare for the Green Screen effect to look good. You should be well lit from all angles, and the backdrop should also be well lit.
 
@@ -81,11 +81,11 @@ Also note that some HDMI capture devices, such as the **Magewell USB Capture Gen
 
 #### Use Maximum Resolution
 
-Some cameras may offer more than one resolution option. Check this checkbox to use the camera's maximum resolution setting. Note that Ecamm Live will automatically run cameras at the best resolution for your stream, so it is not necessary to configure this manually in most cases. However you may want a camera to run a camera at a higher resolution than your stream. For example, if you are streaming at 1080p resolution, but using Ecamm Live's Zoom & Pan feature to zoom in the image from a 4K webcam.  Note that this checkbox will only show up if a higher resolution is available. 
+Some cameras may offer more than one resolution option. Check this checkbox to use the camera's maximum resolution setting. Note that Ecamm Live will automatically run cameras at the best resolution for your stream, so it is not necessary to configure this manually in most cases. However you may want a camera to run a camera at a higher resolution than your stream. For example, if you are streaming at 1080p resolution, but using Ecamm Live's Zoom & Pan feature to zoom in the image from a 4K webcam.  *Note that this checkbox will only show up if a higher resolution is available.*
 
 #### Use Manual Focus
 
-Some cameras, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. If you do not see this checkbox, Ecamm Live is not able to adjust the focus level for the selected input device. 
+Some cameras, including most Logitech webcams, offer a manual focus option. Check this checkbox and adjust the slider to adjust the focus manually. *If you do not see this checkbox, Ecamm Live is not able to adjust the focus level for the selected input device.*
 
 #### Rotate
 

@@ -32,6 +32,6 @@ When in [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), 
 
 The <samp>Recording</samp> Menu at the top of your display holds the tools you need to enable or disable automatic recording, a way to get at your past recordings, and even change the location of where you want your recordings saved. By default, Ecamm Live saves your recorded videos in a subfolder of your macOS user's Movies folder. 
 
-You may change your Recordings storage location by selecting <samp>Recording</samp> ➝ <samp>Choose Recordings Folder…</samp> from the menu bar at the top of your display.
+You can also find your recordings by typing <kbd>⌘</kbd><kbd>shift</kbd><kbd>R</kbd>.
 
-</aside>
+You may change your Recordings storage location by selecting <samp>Recording</samp> ➝ <samp>Choose Recordings Folder…</samp> from the menu bar at the top of your display.

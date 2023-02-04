@@ -17,6 +17,8 @@ By default, videos will start playing from the beginning. If you'd prefer that a
 
 This menu can also be found in the player bar.
 
+![Video Start Menu](/assets/img/startitems.jpg "Video Start Menu")
+
 ### When A Video File Ends
 
 If you'd like to have the selected video start over automatically as soon as it finished, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>Loop Video</samp>.
@@ -26,6 +28,8 @@ If you'd like to go to the next [Scene](../007-using-scenes/) when the video fin
 If you'd like to automatically end the broadcast or recording when the video finishes, choose <samp>Options</samp> menu ➝ <samp>When Video Ends</samp>  ➝ <samp>End Broadcast</samp>.
 
 This menu can also be found in the player bar.
+
+![Video Start Menu](/assets/img/enditems.jpg "Video Start Menu")
 
 Audio from the video will be broadcast automatically.  Your microphone will be automatically muted if a Picture in Picture box for your camera is not present. Read the [Picture-in-Picture section](#picture-in-picture) for full details.
 

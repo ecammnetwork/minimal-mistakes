@@ -29,7 +29,7 @@ We've built in special support for cameras connected to your Mac through [Blackm
 
 #### Newtek NDI® Cameras
 
-Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDICam iOS app](http://www.sienna-tv.com/ndi/ndicam.html). NDI sources will show up as cameras in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
+Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDI HX app](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080). NDI sources will show up as cameras in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
 
 #### RTSP Cameras (Also called Network Cameras or IP Cameras)
 
@@ -53,7 +53,7 @@ Macs running macOS Ventura or newer will show your iPhone's [Continuity Camera](
 
 #### 360° Cameras
 
-Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](http://ecamm.com/support/article/2225/streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
+Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](https://support.ecamm.com/en/articles/3217765-streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
 
 ## The Video Source Switcher
 
@@ -67,7 +67,7 @@ Additional camera-related options can be found in the [Camera Switcher window](.
 
 ### Splitscreen (Selecting Multiple Sources)
 
-If you would like to display more than one video source at the same time in a splitscreen layout or picture-in-picture, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use  a two- or three-source split screen layout, you'll want to ensure all participants are in the center of their camera view.
+If you would like to display more than one video source at the same time in a splitscreen layout or picture-in-picture, click the tiny + button in the top-right corner of that source in the switcher, or hold down the <kbd>shift</kbd> key on your keyboard, and click to select the video sources you wish to display. Ecamm Live will automatically split the screen to evenly display the sources. The video sources will automatically be cropped equally on their sides to fit the space if necessary, centering the video. Before going live, if you plan to use a two or more split screen layout, you'll want to ensure all participants are in the center of their camera view.
 
 #### Video Source Switcher Options
 
@@ -86,6 +86,6 @@ If you have video sources connected to your Mac that you _do not_ want available
 
 ## Picture in Picture
 
-Picture-in-Picture can be summoned or dismissed by clicking the leftmost icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the onscreen controls, or using the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp>. The PiP box can be moved anywhere within the Main Window. Note that when in Camera Mode, the PiP box will only show up when two or more video sources are selected in the [Video Source Switcher](#the-video-source-switcher). 
+Picture-in-Picture can be summoned or dismissed by clicking the right-most icon  {% inlineicon pip 20 inverted %}Picture-in-Picture Button{% endinlineicon %} in the onscreen controls, or using the <samp>Options</samp> menu ➝ <samp>Show Picture-in-Picture</samp>. The PiP box can be moved anywhere within the Main Window. Note that when in Camera Mode, the PiP box will only show up when two or more video sources are selected in the [Video Source Switcher](#the-video-source-switcher). 
 
 You can change the size of the PiP by dragging the bottom right corner of it. You can change the shape of the PiP window <samp>Options</samp> ➝ <samp>Picture-in-Picture Shape</samp>, or by right-clicking or control-clicking on the PiP window. Shape options include a rectangle, square or circle.

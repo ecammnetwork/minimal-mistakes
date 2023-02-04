@@ -3,6 +3,8 @@
 ---
 If you don't see the Sound Effects window on the screen, click the {% inlineicon soundeffects 45 graybutton %}Sound Effects Button{% endinlineicon %} button in the top-right corner of the Main Window to show it.
 
+You can also find the Sound Levels window in the <samp>Window</samp> menu at the top of the display, or by typing <kbd title="command">⌘</kbd><kbd>=</kbd>.
+
 ![Sound Effects Window](/assets/img/soundeffects-window.png "Sound Effects Window"){: width="357px"}
 
 The Sound Effects Window shows a list of music and sound effects. Sounds will be played directly into your recording or broadcast automatically.
@@ -35,7 +37,7 @@ Assign a hot key to play and stop the sound. The hot key can be with a modifier 
 
 #### Add To Scene
 
-Assign the sound to the current Scene. This will play the sound when switching to the Scene, or when a broadcast or recording starts on while the Scene is active.
+Assign the sound to the current Scene. This will play the sound when switching to the Scene, or when a broadcast or recording starts while the Scene is active.
 
 ## Playing Sounds
 
@@ -49,9 +51,9 @@ There are 3 ways to play a sound:
 
 There are 4 ways to stop the current sound:
 
-* Click the sound's pause button in the Sound Levels window. (The currently playing sound's play button will become a pause button.)
+* Click the sound's pause button in the Sound Effects window. (The currently playing sound's play button will become a pause button.)
 * Click the {% inlineicon stop 14 inverted %}Stop Sound Button{% endinlineicon %} button at the bottom of the Sound Effects window.
-* Choose <samp>Stop Current Sound Effect</samp> from the <samp>Edit</samp> menu.
+* Choose <samp>Stop Most Recent Sound Effect</samp> or <samp>Stop All Sound Effects</samp> from the <samp>Edit</samp> menu.
 * Press <kbd>⌘</kbd><kbd>.</kbd>.
 
 ## Renaming Sounds
@@ -80,7 +82,7 @@ There are 5 ways to assign a sound to a Scene:
 * Drag a sound file from the Finder to the Main Window. (This will also add the sound to the Sound Effects window.)
 * Drag a sound file from the Finder to a Scene in the Scenes window. (This will also add the sound to the Sound Effects window.)
 
-To remove a sound effect from a Scene, click the X beside the sound effect name in the top left corner of the Main Window.
+To remove a sound effect from a Scene, click the X beside the sound effect name in the top left corner of the Main Window. Note that this won't remove the sound from the Sound Effects window.
 
 ### Scene Sound Settings
 

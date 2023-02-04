@@ -2,7 +2,7 @@
 
 ---
 
-Ecamm Live's Output menu provides four options for sending your Ecamm Live broadcast's audio and video to other outputs. These feautures are only available in with an Ecamm Live Pro subscription.
+Ecamm Live's Output menu provides four options for sending your Ecamm Live broadcast's audio and video to other outputs. These feautures are only available in with an [Ecamm Live Pro](https://www.ecamm.com/mac/ecammlive/pro.html) subscription.
 
 ## Virtual Webcam (Pro Only)
 

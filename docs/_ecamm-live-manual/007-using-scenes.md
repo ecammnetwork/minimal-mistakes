@@ -28,9 +28,10 @@ Suppose you are running an interview show. You may want to have one Scene where 
 
 Scenes are always auto-saved as you create and edit them.
 
-There are two ways to create a Scene from scratch:
+There are three ways to create a Scene from scratch:
 1. Scene Menu ➝ New Empty Scene
 1. Scenes Window ➝ <samp>+</samp> button.
+1. Type <kbd title="command">⌘</kbd><kbd>B</kbd>.
 
 You may name your Scene within the Scenes Window. Double-click the title in the Scenes Window to rename it. 
 
@@ -77,11 +78,11 @@ Could your Scenes list use some organization? Simply drag Scenes around to re-or
 1. Drag Scenes to the folder. 
 1. Repeat as desired.
 
-#### Automatic Scene Groups
+## Automatic Scene Groups
 
 Automatic Scene Groups allow you to cycle through a series of scenes automatically.
 
-Create an Automatic Scene Group by clicking the {% inlineicon addautogroup 25 inverted %}New Automatic Group{% endinlineicon %} button at the bottom of the Scenes window. 
+Create an Automatic Scene Group by clicking the {% inlineicon addautogroup 45 inverted %}New Automatic Group{% endinlineicon %} button at the bottom of the Scenes window. 
 
 Add scenes as you would a normal scene group folder. To start or stop the automatic scene advance, click the play button.
 
@@ -95,11 +96,11 @@ Click the tiny gear button to change settings:
 
 ## Hot Keys
 
-Click the ⌘⃣ symbol to assign a hot key for a Scene. The hot key can be with a modifier key (shift, command, option, alt), a combination of modifier keys, or with no modifier key.
+Click the ⌘⃣ symbol to assign a hot key for a Scene. The hot key can include a modifier key (shift, command, option, alt), a combination of modifier keys, or no modifier key.
 
 ## Locking Scenes
 
-To prevent a Scene from being edited or deleted by mistake, you can lock it by clicking the {% inlineicon lock 5 %}lock icon{% endinlineicon %} lock icon next to the Scene title.
+To prevent a Scene from being edited, rearranged, or deleted by mistake, you can lock it by clicking the {% inlineicon lock 5 %}lock icon{% endinlineicon %} lock icon next to the Scene title.
 
 ## Deleting Scenes
 

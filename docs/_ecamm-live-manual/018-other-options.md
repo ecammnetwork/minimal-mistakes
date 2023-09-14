@@ -301,6 +301,10 @@ Assign a shortcut to run when a recording or broadcast finishes. For example, de
 
 Assign a shortcut to run when Ecamm Live quits.
 
+#### Super Chat Arrives
+
+Assign a shortcut to run when a YouTube Super Chat arrives during a stream.
+
 ### Remote Control
 
 Tools such as [Elgato Stream Deck](https://amzn.to/34puWA9) and [Loupedeck](https://loupedeck.com/us/products/loupedeck-live/), and third-party apps such as [ELMC](https://elmc.app) and [Beat Sheet](https://squares.tv/posts/beat-sheet-for-mac) can control Ecamm Live. Configure which apps have control using the checkboxes. (Entries will show up here automatically as permission is requested.)

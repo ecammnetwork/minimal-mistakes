@@ -41,6 +41,10 @@ During a broadcast, if there are comments, you'll see a {% inlineicon comment 20
 
 Comments can be marked as a favorite by clicking the comment's {% inlineicon star 15 inverted %}star{% endinlineicon %} button. Favorite comments will show up in the Favorites section. Click the button again to remove the comment from the Favorites section.
 
+#### YouTube Super Chats
+
+When a YouTube Super Chat or Super Sticker arrives, it will automatically be marked as a favorite. It will also be added to a Super Chats tab in the Comments & Reactions window. (The Super Chats tab will only show up once a Super Chat arrives.)
+
 #### Banning Viewers
 
 When broadcasting to YouTube or Twitch, viewers can be banned by clicking the tiny <samp>Ban</samp> button below their comment.

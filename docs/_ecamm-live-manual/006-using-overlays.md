@@ -3,7 +3,7 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text and images in your broadcast. If you don't see the Overlays window, you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the Main Window, or show it using Overlays menu at the very top of your display.
+Overlays are styled text, shapes, images and animations in your broadcast. If you don't see the [Overlays Window](#managing-your-overlays), you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the [Main Window](../002-the-main-window), or show it using <samp>Overlays</samp> menu at the very top of your display.
 
 There are eight types of Overlays:
 
@@ -22,11 +22,13 @@ Text Box Overlays are for adding a larger block of text to a broadcast. The shap
 There are four ways to add a Text Overlay:
 
 * Select <samp>New Dynamic Text Overlay</samp> or <samp>New Text Box Overlay</samp>  in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addtext 20 inverted %}Add Dynamic Text Overlay Button{% endinlineicon %} or {% inlineicon addtextbox 40 inverted %}Add Text Box Overlay Button{% endinlineicon %} buttons at the bottom the Overlays Window.
-* Type <kbd>⌘</kbd><kbd>N</kbd> or <kbd>⌘</kbd>kbd><kbd>option</kbd><kbd>N</kbd> 
+* Click the {% inlineicon addtext 20 inverted %}Add Dynamic Text Overlay Button{% endinlineicon %} or {% inlineicon addtextbox 40 inverted %}Add Text Box Overlay Button{% endinlineicon %} buttons at the bottom the [Overlays Window](#managing-your-overlays).
+* Type <kbd>⌘</kbd><kbd>N</kbd> or <kbd>⌘</kbd><kbd>option</kbd><kbd>N</kbd> 
 * Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as Overlay</samp> will allow you to paste in plain or styled text.
 
 When you create a new Text Overlay, a Text Editing Window will appear. Start typing to enter text. You can hold the <kbd>shift</kbd> key and press the <kbd>return</kbd> key to insert a line break. You can change many properties  including font, font size, text color, kerning (the spacing between characters), and line height. You can apply any of these properties to individual lines or chunks of the text by highlighting them, and selecting your styles.
+
+Use the <samp>Edit Background</samp> button to make changes to the text's background color, border, and margin width.
  
 [![Figure\: Text Overlay Editor Window](/assets/img/text-overlay-editor-sheet.jpg "Click for full-size image.")
 ](/assets/img/text-overlay-editor-sheet.jpg)
@@ -41,25 +43,25 @@ Once you click <samp>Add</samp> in the Text Editing Window, your Overlay will ap
 
 #### Editing Text Overlays
 
-To change the text of the Overlay, click the <samp>Edit Text...</samp> button at the top of the Overlay's settings popover.
+To change the text of the Overlay, click the <samp>Edit Text...</samp> button at the top of the Overlay's [settings popover](#the-overlay-settings-popover).
 
-To change the width of a Dynamic Text Overlay without changing the font size, place your cursor over the right edge of the Overlay. Once the cursor switches to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area.
+To change the width of a Dynamic Text Overlay without changing the font size, place your cursor over the right edge of the Overlay. Once the cursor switches to a left-right arrow, drag left or right to adjust the width. Once you've adjusted the width, the width will remain fixed. To return to an automatically-sized width, double-click the right edge area, or right-click on the overlay and pick <samp>Clear Fixed Width</samp>.
 
 #### Changing The Text Box Style
 
-The <samp>Style</samp> menu in the Overlay's settings popover can be used to change a Text Overlay's style between Dynamic Text, Text Box (Shrink), Text Box (Truncate), and Scrolling Ticker.
+The <samp>Style</samp> menu in the Overlay's [settings popover](#the-overlay-settings-popover) can be used to change a Text Overlay's style between Dynamic Text, Text Box (Shrink), Text Box (Truncate), and Scrolling Ticker.
 
 #### Text Background Options
 
-Use the <samp>Background</samp> menu in Overlay's settings popover to pick a background. A background can be a solid color, linear gradient, motion gradient, or a [visual effect](#visual-effects) such as a blur.
+Use the <samp>Background</samp> menu in the Overlay's [settings popover](#the-overlay-settings-popover) to pick a background. A background can be a solid color, linear gradient, motion gradient, or a [visual effect](#visual-effects) such as a blur.
 
 #### Text Margin Size
 
-Use the <samp>Text Margin</samp> slider in the Overlay's settings popover to determine how much space there is around the edges of the text.
+Use the <samp>Text Margin</samp> slider in the Overlay's [settings popover](#the-overlay-settings-popover) to determine how much space there is around the edges of the text.
 
 #### Cutout Text
 
-The <samp>Cutout Text</samp> option can be found in the <samp>More Options</samp> section of the Overlay's settings popover. Cutout Text mode will create a text-shaped cut out in the Overlay's background color, allowing the scene's background to show through.
+The <samp>Cutout Text</samp> option can be found in the <samp>More Options</samp> section of the Overlay's [settings popover](#the-overlay-settings-popover). Cutout Text mode will create a text-shaped cut out in the Overlay's background color, allowing the scene's background to show through.
 
 ![Figure\: An example of cutout text.](/assets/img/fire.jpg "Fire"){: width="286px"}
 
@@ -99,14 +101,12 @@ Animated Overlays work just like [Image Overlays](#image-overlays) but use a vid
 
 Video files with transparency are best. These can be created in apps such as Adobe After Effects, and should be saved as Apple ProRes 4444, WebM or HEVC video formats. (Other formats will play, but won't have transparency.)
 
-There are 4 ways to create an Animated Overlay:
+There are 4 ways to add an Animated Overlay:
 
 * Drag a movie file from the Finder into the [Overlays Window](#managing-your-overlays).
-* Select <samp>New Animated Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
+* Select <samp>New Animated Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display.
 * Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
-* Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window.
-
-A File Selection Sheet will appear, allowing you to find and select a movie file.
+* Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window. A File Selection Sheet will appear, allowing you to find and select a movie file.
 
 #### Animated Overlay Playback Options
 
@@ -116,19 +116,19 @@ By default, animated overlays will start playing from the beginning. If you'd pr
 
 #### Green Screen and Blue Screen Blend Modes
 
-Image Overlays and Animated Overlays offer a Green Screen and Blue Screen keying option in the <samp>Blend Mode</samp> menu in the Overlay's settings popover. (Find this in the <samp>More Options</samp> section.) Use this to add transparency to images and videos that have a green or blue background. Once picked, a <samp>Fade Level</samp> slider will show up, which can be used to adjust the keying threshold.
+Image Overlays and Animated Overlays offer a Green Screen and Blue Screen keying option in the <samp>Blend Mode</samp> menu in the Overlay's [settings popover](#the-overlay-settings-popover). (Find this in the <samp>More Options</samp> section.) Use this to add transparency to images and videos that have a green or blue background. Once picked, a <samp>Fade Level</samp> slider will show up, which can be used to adjust the keying threshold.
 
 ## Comment Overlays
 
 If you’re broadcasting with Facebook Live, YouTube Live, Amazon Live, Restream, or Twitch, and you receive a comment, you can drag that comment from the [Comments and Reactions Window](../012-streaming/#comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
 
-You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's Profile photo to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
+You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's avatar image to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
 #### Editing Comment Overlays
 
-The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). (Double-click the overlay in the Main Window and then click <samp>Edit Text...</samp>.) Once a Comment Overlay is styled, future comments remember this styling. A separate style can be applied to the comment author.
+The text in a comment Overlay can be edited and styled just like a [Text Overlay](#editing-text-overlays). (Double-click the overlay and then click <samp>Edit Text...</samp> in the Overlay's [settings popover](#the-overlay-settings-popover).) Once a Comment Overlay is styled, future comments remember this styling. A separate style can be applied to the comment author.
 
-#### Positioning and Style Comment Overlays in Advance
+#### Positioning and Styling Comment Overlays in Advance
 
 Comment Overlays will use the position, size, and style of previous Comment Overlays. To set up the appearance of Comment Overlays in your Scene, pick <samp>Add Placeholder Comment Overlay</samp> from the <samp>Overlays</samp> menu or press <kbd>⌘</kbd><kbd>option</kbd><kbd>K</kbd>. A placeholder Comment Overlay will appear, which can be styled and positioned as desired. Once you have finished, it can be deleted. Subsequent comments will use this position, size and style.
 
@@ -138,11 +138,11 @@ Comment Overlays include an avatar image of the viewer. Adjust the maximum size 
 
 #### Showing The Most Recent Comment as an Overlay
 
-Use the <samp>Add Last Comment As Overlay</samp> menu item in the <samp>Overlays</samp> menu to add the most recent comment as a Comment Overlay.  The key command <kbd>⌘</kbd><kbd>K</kbd> or the <samp>Show Comment</samp> Stream Deck key can also be used.
+Use the <samp>Add Last Comment As Overlay</samp> menu item in the <samp>Overlays</samp> menu to add the most recent comment as a Comment Overlay.  The key command <kbd>⌘</kbd><kbd>K</kbd> or the <samp>Show Comment</samp> [Stream Deck key](https://support.ecamm.com/en/articles/3370127-using-elgato-stream-deck-with-ecamm-live) can also be used.
 
 #### Hiding The Current Comment Overlay
 
-Use the <samp>Hide Last Comment Overlay</samp> menu item in the <samp>Overlays</samp> menu to hide the current Comment Overlay.  The key command <kbd>⌘</kbd><kbd>J</kbd> or the <samp>Hide Comment</samp> Stream Deck key can also be used.
+Use the <samp>Hide Last Comment Overlay</samp> menu item in the <samp>Overlays</samp> menu to hide the current Comment Overlay.  The key command <kbd>⌘</kbd><kbd>J</kbd> or the <samp>Hide Comment</samp> [Stream Deck key](https://support.ecamm.com/en/articles/3370127-using-elgato-stream-deck-with-ecamm-live) can also be used.
 
 #### Hiding Comment Overlays Automatically
 
@@ -160,7 +160,7 @@ There are 3 ways to add a Countdown Overlay:
 
 A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown type, such as countdown, clock, or stopwatch. You can edit the End Time and text alignment. Press <samp>Add</samp> to display your timer within the Main Window.
 
-To edit an existing countdown's settings, click the <samp>Edit Countdown...</samp> button at the top of the Overlay's settings popover.
+To edit an existing countdown's settings, click the <samp>Edit Countdown...</samp> button at the top of the Overlay's [settings popover](#the-overlay-settings-popover).
 
 #### Auto-Start Option
 
@@ -181,7 +181,7 @@ There are two ways to add a Shape Overlay:
 
 #### Visual Effects
 
-Shape overlays can be used to apply a visual effect to the broadcast. Visual effects can also be used as the background of [Text Overlays](#text-overlays). Pick an effect in the <samp>Fill</samp> menu in the Overlay's settings popover. (For Text Overlays, use the <samp>Background</samp> menu.)
+Shape overlays can be used to apply a visual effect to the broadcast. Visual effects can also be used as the background of [Text Overlays](#text-overlays). Pick an effect in the <samp>Fill</samp> menu in the Overlay's [settings popover](#the-overlay-settings-popover). (For Text Overlays, use the <samp>Background</samp> menu.)
 
 * **Blur:** Apply a gaussian blur.
 * **Zoom:** Apply a zoom blur.
@@ -195,9 +195,9 @@ Shape overlays can be used to apply a visual effect to the broadcast. Visual eff
  
 ## Camera Overlays
 
-If you need to quickly position a camera feed on the screen to create a custom layout or picture-in-picture, use a Camera Overlay. 
+Use a Camera Overlay to add a live camera view to the broadcast. 
 
-There are 3 ways you can add a Camera Overlay:
+There are 3 ways to add a Camera Overlay:
 
 * Select a camera from the <samp>New Camera Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display.
 * Click the{% inlineicon addcamera 70 inverted %}Add Camera Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
@@ -207,7 +207,7 @@ A Camera Overlay will show up in the center of the Main Window.
 
 #### Editing Camera Overlays
 
-In the Camera Overlay's settings popover, a camera source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner. 
+In the Camera Overlay's [settings popover](#the-overlay-settings-popover), a camera source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner. 
 
 ## Screenshare Overlays
 
@@ -223,7 +223,7 @@ A Screenshare Overlay will show up in the center of the Main Window.
 
 #### Editing Screenshare Overlays
 
-In the Screenshare Overlay's settings popover, screenshare source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner.  
+In the Screenshare Overlay's [settings popover](#the-overlay-settings-popover), screenshare source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner.  
 
 #### Activate System Audio Capture
 
@@ -264,7 +264,7 @@ Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinline
 
 #### Editing Widget Overlays
 
-To return to the widget's setting, click the <samp>Edit Widget...</samp> button at the top of the overlay's settings popover.
+To return to the widget's setting, click the <samp>Edit Widget...</samp> button at the top of the overlay's [settings popover](#the-overlay-settings-popover).
 
 #### Interacting With Widget Overlays
 

@@ -75,6 +75,6 @@ Once activated, NDI Output will remain on until it is turned off in the <samp>Ou
 
 DeckLink Output provides the ability to send your broadcast to any [Blackmagic DeckLink](https://www.blackmagicdesign.com/products/decklink) devices that support video output.
 
-Activate NDI Output by picking a DeckLink outut device in <samp>Outputs</samp> ➝ <samp>DeckLink Output</samp>.
+Activate DeckLink Output by picking a DeckLink outut device in <samp>Outputs</samp> ➝ <samp>DeckLink Output</samp>.
 
 Once activated, DeckLink Output will remain on until it is turned off in the <samp>Outputs</samp> menu.

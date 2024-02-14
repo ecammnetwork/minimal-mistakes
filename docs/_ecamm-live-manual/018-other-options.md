@@ -136,9 +136,13 @@ When recording isolated video for Camera A, Camera B, or Interview guests, check
 
 Ecamm Live can save audio recordings of your audio channels such as primary microphone, secondary microphone, sound effects, and individual [Interview](../008-interview-mode/) guests. This is also referred to as ISO audio recording.
 
-#### Recording File Format
+#### Video Recording File Format
 
 Select the format for Ecamm Live's local recordings. The default is .MOV format, however some services may prefer a .MP4 file instead. Note that the actual video and audio data in the file will be the same H.264 and AAC format for these options. (Only the container format changes.)
+
+#### Record-Only Prompt For File Name
+
+When using record-only mode, Ecamm Live can prompt you for a file name, either when the recording starts, or when it ends. If <samp>Never</samp> is chosen, recordings will be named Ecamm Live Recording with a date and time.
 
 #### Record-Only Countdown
 

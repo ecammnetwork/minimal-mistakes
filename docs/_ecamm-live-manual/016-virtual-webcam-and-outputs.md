@@ -10,19 +10,19 @@ Ecamm Live's Virtual Webcam feature allows you to use all of the features of Eca
 
 Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. It can also be activated using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the Main Window.
 
-![](/assets/img/vcamtoggle.jpg){: width="421px"}
+If this is your first time using the feature, you'll be prompted to install the Virtual Webcam System Extension. The installation process will prompt you for your Mac's administrator password. Once installed, macOS will automatically block the newly installed extension, and then prompt you to unblock it.
 
-If this is your first time using the feature, you'll be prompted to install the Virtual Webcam. Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
+![](/assets/img/blocked.png){: width="372px"}
+
+Click <samp>Allow</samp> in the <samp>Privacy & Security</samp> section of the System Settings application to complete the installation.
+
+![](/assets/img/privacy.png){: width="590px"}
+
+Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
 
 Once activated, Ecamm Virtual Webcam will show up as a camera option in other apps on your Mac, such as Zoom and Google Chrome. Select this option, and the app will use the output from Ecamm Live as a camera, including all Overlays, multi-camera layouts and Green Screen effects.
 
 Virtual Webcam will work even when you are not using Ecamm Live to broadcast or record.
-
-The feature will remain on until it is turned off in the <samp>Outputs</samp> menu, turning it off in the Mode menu at the top of the Main Window, or by clicking on the red {% inlineicon virtualcam 15 redbutton %}Virtual Camera Button{% endinlineicon %} button in the top left corner of the Main Window.
-
-### Some Apps Don't Support Virtual Webcams
-
-Note that some apps don't load virtual cameras at all.  This includes most Apple apps such as FaceTime and iMovie, as well as some third-party apps. Fortunately, Zoom works fine.
 
 ## Virtual Mic (Pro Only)
 
@@ -33,8 +33,6 @@ Activate Virtual Mic by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <sa
 If this is your first time using the feature, you'll be prompted to install the Virtual Mic. Once installed, you may need to quit any apps that are already open before the Virtual Mic is recognized.
 
 Once activated, Ecamm Virtual Mic will show up as a microphone option in other apps on your Mac, such as Zoom.
-
-The feature will remain on until it is turned off in the <samp>Outputs</samp> menu or by clicking on the red {% inlineicon virtualmic 15 redbutton %}Virtual Mic Button{% endinlineicon %} button in the top left corner of the Main Window.
 
 ## Video Monitor (Pro Only)
 

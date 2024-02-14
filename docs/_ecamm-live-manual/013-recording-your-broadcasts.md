@@ -26,7 +26,21 @@ To enable Record-Only mode, click the Mode menu at the top of the Main Window, a
 
 ![](/assets/img/recordonly.jpg){: width="421px"}
 
-When in [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), you'll see a <samp class="blue">Record</samp> button at the bottom of the Main Window. Click to begin recording. Record-Only mode has an [optional 3-second countdown](../018-other-options#record-only-countdown) before recording starts.
+When in [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), you'll see a <samp class="blue">Record</samp> button at the bottom of the Main Window. Click to begin recording. Record-Only mode has an [optional 3-second countdown](../018-other-options#record-only-countdown) before recording starts. You can also [optionally name your recording](../018-other-options/#recording-preferences) either at the beginning or end of your recording.
+
+## After a Recording
+
+After clicking <samp class="blue">Finish</samp> we'll present you with a message confirming your recording has ended, and offer several options for your next steps.
+
+![End Message](/assets/img/endrecording.jpg "End Message")
+
+<samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the recording file in the Finder.
+
+<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to a YouTube channel.
+
+<samp>{% inlineicon descript 15 inverted %}Send to Descript Button{% endinlineicon %} Send to Descript</samp> - click to send the recording to [Descript.com](https://www.descript.com) for editing and transcription.
+
+<samp>{% inlineicon scenery 15 inverted %}Quick Edit with Scenery Button{% endinlineicon %} Quick Edit with Scenery</samp> - click to send the recording to [Scenery](https://www.scenery.video) with three quick edit options: AI assisted edits, automatic subtitle creation, or custom edits.
 
 ## Retrieving Your Past Recordings
 

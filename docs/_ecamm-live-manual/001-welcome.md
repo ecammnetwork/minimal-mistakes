@@ -15,7 +15,7 @@ Why would you choose to use a Mac app to live stream, when you can stream straig
 * **Conduct live video interviews** with up to 10 remote guests. (Up to 4 guests on Intel-based Macs.)
 * **Record individual audio and video tracks** to your Mac.
 * **Add text, scrolling tickers, images, shapes, countdowns, web pages, PDFs and animations to your broadcast as overlays**, on-the-fly, or build them ahead of time.
-* When broadcasting to Facebook Live, YouTube Live, Amazon Live, Restream, and Twitch **view a live feed of your comments and reactions.** 
+* When broadcasting to Facebook Live, Instagram, YouTube Live, Amazon Live, X (Twitter), Restream, and Twitch **view a live feed of your comments and reactions.** 
 * Send your production into other Mac apps via Ecamm's **Virtual Camera** and **Virtual Mic**.
 * **Add viewer comments to your broadcast.** Simply drag them onto the window and they appear automatically as overlays.
 * **Use external video sources** including **HDMI** sources, **Canon DSLRs**, NDI inputs and more. 

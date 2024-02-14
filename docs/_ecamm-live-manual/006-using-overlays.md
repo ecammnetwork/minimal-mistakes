@@ -290,6 +290,8 @@ Many settings have already been mentioned above. Several are common to all Overl
 
 * **Rotation:** Adjust the rotation angle of the Overlay.
 
+* **Perspective:** Apply a 3-D perspective effect to the Overlay.
+
 * **Blend Mode:** Blend modes can be used to create artistic scenes.
 
 * **Transition:** Overlays can slide or spin onto the screen from the left, right, top, or bottom. 

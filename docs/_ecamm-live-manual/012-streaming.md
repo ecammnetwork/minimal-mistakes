@@ -33,7 +33,7 @@ The {% inlineicon sharebutton 15 %}share{% endinlineicon %} buttons in the statu
 
 ### Comments and Reactions
 
-During broadcasts, any chat comments your viewers post in Facebook, YouTube, Twitch, Amazon Live, or Restream will be displayed in the Comments and Reactions window. Reactions from Facebook and YouTube will also be displayed. If you don't see this window, pick it from the <samp>Windows</samp> menu at the top of the screen. 
+During broadcasts, any chat comments your viewers post in Facebook, Instagram, YouTube, Twitch, Amazon Live, X (Twitter), or Restream will be displayed in the Comments and Reactions window. Reactions from Facebook and YouTube will also be displayed. If you don't see this window, pick it from the <samp>Windows</samp> menu at the top of the screen. 
 
 During a broadcast, if there are comments, you'll see a {% inlineicon comment 20 graybutton %}Comment Button{% endinlineicon %} button in the bottom left-hand corner of the Main Window to reveal the Comments and Reactions window.
 
@@ -113,11 +113,13 @@ After clicking <samp class="blue">Finish</samp> we'll present you with a message
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - If Ecamm Live can remove the post, you'll see an option to delete it.
 
-The next three items concern the recording of your broadcast. Much more on Recordings in the [Recording](../013-recording-your-broadcast) section, but for now…
+The next four items concern the recording of your broadcast. Much more on Recordings in the [Recording](../013-recording-your-broadcast) section, but for now…
 
 <samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the recording file in the Finder.
 
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to a YouTube channel. Note that this option will not be shown if your live broadcast was to YouTube.
 
-<samp>{% inlineicon descript 15 inverted %}Edit in Descript Button{% endinlineicon %} Edit in Descript</samp> - click to send the recording to [Descript.com](https://www.descript.com) for editing and transcription.
+<samp>{% inlineicon scenery 15 inverted %}Quick Edit in Scenery Button{% endinlineicon %} Quick Edit in Scenery</samp> - click to send the recording to [Scenery](https://www.scenery.video) with three quick edit options: AI assisted edits, automatic subtitle creation, or custom edits.
+
+<samp>{% inlineicon descript 15 inverted %}Send to Descript Button{% endinlineicon %} Send to Descript</samp> - click to send the recording to [Descript.com](https://www.descript.com) for editing and transcription.
 

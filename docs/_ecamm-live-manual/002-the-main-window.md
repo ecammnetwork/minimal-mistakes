@@ -30,7 +30,7 @@ To record your stream, turn on the <samp>Record</samp> switch.
 
 For [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), turn off <samp>Stream</samp> and turn on <samp>Record</samp>.
 
-Use the <samp>Virtual Cam</samp> switch to quickly activate Ecamm Live's [Virtual Cam](../016-virtual-webcam-and-outputs/) and [Virtual Mic](../016-virtual-webcam-and-outputs/#virtual-mic-pro-only).
+Use the <samp>Virtual Cam</samp> switch to activate Ecamm Live's [Virtual Cam](../016-virtual-webcam-and-outputs/) and [Virtual Mic](../016-virtual-webcam-and-outputs/#virtual-mic-pro-only).
 
 ## Scene Selector
 

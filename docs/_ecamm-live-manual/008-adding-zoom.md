@@ -14,7 +14,7 @@ Ecamm Live's Zoom integration provides for two main use cases:
 
 - To use Ecamm Live's Zoom integration we recommend an iMac, Mac Studio, Mac Mini or MacBook Pro manufactured in 2020 or newer, and at least a 10 Mbps internet connection. 
 
-- An Apple Silicon-based Mac running macOS 11 or newer is required.
+- An Apple Silicon-based Mac running macOS 10.14 or newer is required.
 
 - Wearing headphones is not required, but typically results in better audio quality. If you are not using headphones, be sure to turn on [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) in the Sound Levels window.
 
@@ -90,7 +90,7 @@ To mute a guest in the Zoom meeting, click the ••• button in the top corne
 
 ### Ending the Meeting
 
-End the meeting by clicking the red <samp>End Meeting</samp> button in the Zoom window or Zoom Meeting window. Alternatively, simply close the Zoom Meeting window. Note that the button may say <samp>Leave Meeting</samp> if you're not the meeting host.
+End the meeting by clicking the red <samp>End Meeting</samp> button in the Zoom window or Zoom Meeting window. Alternatively, simply close the Zoom Meeting window. Note that the button will be labeled <samp>Leave Meeting</samp> if you're not the meeting host.
 
 ## Preferences
 
@@ -137,6 +137,14 @@ Zoom chat message are automatically added to Ecamm Live [Comments & Reactions wi
 
 ![Figure\: The Comments & Reactions Window](/assets/img/zoomcomments.png "The Comments & Reactions Window"){:width="300"}
 
+## Maximizing Participant Video Resolution
+
+Zoom participant video resolution will vary based on a wide variety of factors, including your Zoom account level, various Zoom settings, and host and participant internet connection speed and camera capabilities.
+
+Most importantly, a **Zoom Pro** account is required for 720p resolution. A **Zoom Business** account or higher is required for 1080p resolution. You may need to [contact Zoom support](https://support.zoom.com/hc/en/contact?id=contact_us) to request these higher resolutions once your account has been upgraded.
+
+Please refer to Zoom's guide on [Enabling HD video for Zoom Meetings](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066166) for details on ensuring that participants are able to join at higher resolutions. Note that the mention in the linked article about requiring "Active Speaker Layout" does not apply, as Ecamm Live will ensure that the highest available resolutions are requested from each participant.
+
 ## Removing Ecamm Live from Zoom
 
 To log out of your Zoom account in Ecamm Live, click your avatar icon in the Zoom window, and then click <samp>Logout</samp>.
@@ -151,12 +159,3 @@ To revoke Ecamm Live's permission to access your Zoom account:
 
 ![Figure\: Added Apps](/assets/img/added_apps.png "Added Apps"){:width="500"}
 
-## Troubleshooting
-
-#### Maximizing Participant Video Resolution
-
-Zoom participant video resolution will vary based on a wide variety of factors, including your Zoom account level, various Zoom settings, and host and participant internet connection speed.
-
-Most importantly, a Zoom Pro account is required for 720p resolution. Zoom Business accounts are required for 1080p resolution. You may need to [contact Zoom support](https://support.zoom.com/hc/en/contact?id=contact_us) to request these higher resolutions once your account has been upgraded.
-
-Please refer to Zoom's guide on [Enabling HD video for Zoom Meetings](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066166) for details on ensuring that participants are able to join at higher resolutions. Note that the mention in the linked article about requiring "Active Speaker Layout" does not apply, as Ecamm Live will ensure that the highest available resolutions are requested from each participant.

@@ -57,7 +57,7 @@ There are 6 ways you can select a Scene to display:
     * The Scene is automatically saved while you edit it.
 
 
-**_ProTip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands <kbd title="command">⌘</kbd> <kbd>→</kbd> and <kbd title="command">⌘</kbd> <kbd>←</kbd> to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
+**_Pro Tip:_** When you have more than one Scene, it's useful to give them a clear, distinct name. While you're live in front of an audience, you don't want to spend time wondering which Scene is which. In the Scenes Window, double-click the name of the Scene you want to rename.  If your stream is scripted, consider putting your Scenes in chronological order before going live. Then you can use the arrow commands <kbd title="command">⌘</kbd> <kbd>→</kbd> and <kbd title="command">⌘</kbd> <kbd>←</kbd> to quickly jump to the next Scene. For even more organization, see [Arranging and Grouping Scenes](#arranging-and-grouping-scenes) below.
 {:.notice--info}
 
 #### Duplicating Scenes

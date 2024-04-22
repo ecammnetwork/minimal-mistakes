@@ -48,11 +48,11 @@ Certain destinations will offer platform-specific options:
 
 ![Additional Platform Options](/assets/img/options.jpg "Additional Platform Options"){: width="470px"}
 
-<samp>Facebook Privacy</samp> This option will determine who can see a broadcast to your Facebook Profile. Note that this does not apply to Pages or Groups, only your Profile.
+<samp>Facebook Privacy</samp> This option will determine who can see a broadcast to your Facebook Profile. Note that this does not apply to Pages, only your Profile.
 
 <samp>YouTube Visibility</samp>This option will determine who can see your YouTube broadcast. Choose <samp>Unlisted</samp> for test streams. 
 
-<samp>Facebook Page Crossposting</samp>  Automatic crossposting is a Facebook feature that will automatically present your broadcast on more than one Business Page. Note that this does not apply to Groups, and that comments and reactions will not show up between the crossposted Business Pages.
+<samp>Facebook Page Crossposting</samp>  Automatic crossposting is a Facebook feature that will automatically present your broadcast on more than one Business Page. Note that comments and reactions will not show up between the crossposted Business Pages.
 
 Business pages that have crossposting relationships will be listed here automatically. Establish cross-posting relationships using the Page's Crossposting settings on the Facebook website. To find the Crossposting setting, switch to a Page profile that you administer on facebook.com. Pick "Settings & privacy" from the top-right menu, then pick "Settings". In the left-hand sidebar, click "Videos", and then you'll see a Crossposting section.
 

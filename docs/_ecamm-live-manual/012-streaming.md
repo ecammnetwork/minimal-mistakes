@@ -57,32 +57,6 @@ When broadcasting to YouTube, Twitch, or a Facebook business Page, you can add c
 
 Comments are saved to a text file with the file extension .srt. The SRT file is saved alongside your recording file.
 
-#### Restrictions on Facebook Group Comments
-
-Due to Facebook privacy restrictions, when broadcasting to a Facebook Group, Ecamm Live is not able to display Group member names and profile photos unless the Group members have explicitly granted permission to the Ecamm Live app. This means that comments from Group members who have not granted permission will show up anonymously.
-
-![Figure\: Comments & Reactions Window with an anonymous Group comment](/assets/img/comments.png "Comments & Reactions Window with an anonymous Group comment"){:width="600px"}
-
-#### Inviting Facebook Group Members to Grant Permission
-
-To invite Facebook Group members to grant their permission, click the <samp>Invite Group Members</samp> button at the bottom of the Comments and Reactions Window. The window will change to display an invitation link. Provide this link to Facebook Group members.
-
-There is also a checkbox for automatically adding this link to your broadcast's post description on Facebook.
-
-![Figure\: Comments & Reactions Window showing invitation link](/assets/img/group_code.png "Comments & Reactions Window showing invitation link"){:width="334px"}
-
-The link will display a web page where Facebook Group members can log into Facebook and grant permission to Ecamm Live.
-
-![Figure\: ecamm.live/connect web page](/assets/img/permission.png "ecamm.live/connect web page"){:width="547px"}
-
-Facebook Group members will only need to do this once, and from that point on, comments in Ecamm Live will show up with their name and profile photo.
-
-The code number provided in the link is unique to you and the Facebook Group, so it can also be used as a link to invite viewer to your broadcast.
-
-<aside markdown="1" class="notice">
-Note that the above information about anonymous comments and inviting Group members only applies to **Facebook Groups**. Broadcasts to YouTube, Amazon Live, Twitch, and public live streams to a Facebook Profile or business Page will display all comments and their associated names and profile photos without any special action by viewers.
-</aside>
-
 ### Displaying Comments In Your Broadcast
 
 If you would like to share your viewers' comments with the audience, you can add individual comments to the broadcast by dragging them from the Comments and Reactions window to the Main Window, or clicking <samp>Add to Broadcast</samp> under any comment. The comment will become a styled Text Overlay. Read more about your options in the [Overlays section](../006-using-overlays/#comment-overlays).

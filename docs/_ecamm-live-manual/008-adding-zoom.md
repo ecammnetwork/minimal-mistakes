@@ -123,13 +123,13 @@ By default, participants are not automatically added as Ecamm Live camera source
 
 #### Zoom Audio Processing
 
-By default, Ecamm Live will override Zoom's audio processing settings. If you'd prefer to configure your Zoom Audio Profile in Zoom's settings manually, pick <samp>Enabled</samp>.
+By default, Zoom's audio processing such as echo cancellation and background noise removal will apply to your meetings. Pick <samp>Disabled</samp> if you want to disable Zoom's audio processing in order to allow your music and sound effects to be heard by meeting participants. 
 
-Note that if you choose to enable Zoom's audio profile settings such as background noise removal, certain sound from Ecamm Live (such as music and sound effects) may not be heard properly by meeting participants.
+Keep in mind that disabling Zoom's audio processing could result in echo, so ensure that Ecamm Live's [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) feature or headphones are used when this setting is set to <samp>Disabled</samp>.
 
-#### Add Zoom Chat to the Ecamm Comments & Reactions Window
+#### Add Zoom Chat and Q&A Questions to the Ecamm Comments & Reactions Window
 
-Indicate whether you would like Zoom chat messages to [show up in the Comments & Reactions Window.](#adding-zoom-chat-messages-to-your-scene) 
+Indicate whether you would like Zoom chat messages and [Q&A questions](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065237) to [show up in the Comments & Reactions Window.](#adding-zoom-chat-messages-to-your-scene) 
 
 #### Manual Audio Mode
 
@@ -193,9 +193,9 @@ Upon turning on Interview Mode or linking a Zoom account, you'll see guest place
 
 Note that once a guest has been assigned to a placeholder, if the guest disconnects and then calls back later, they will automatically be assigned to the same placeholder.
 
-### Adding Zoom Chat Messages To Your Scene
+### Adding Zoom Chat Messages and Q&A Questions To Your Scene
 
-Zoom chat messages are automatically added to Ecamm Live's [Comments & Reactions window](../012-streaming/#comments-and-reactions). Click the chat message's avatar icon or drag the message to the [Main window](../002-the-main-window) to add the message as an [overlay](../006-using-overlays/#comment-overlays) in your broadcast or recording.
+Zoom chat messages and [Q&A questions](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065237) are automatically added to Ecamm Live's [Comments & Reactions window](../012-streaming/#comments-and-reactions). Click the chat message's avatar icon or drag the message to the [Main window](../002-the-main-window) to add the message as an [overlay](../006-using-overlays/#comment-overlays) in your broadcast or recording.
 
 ![Figure\: The Comments & Reactions Window](/assets/img/zoomcomments.png "The Comments & Reactions Window"){:width="375"}
 
@@ -209,11 +209,15 @@ Most importantly, a **Zoom Pro** account is required for 720p resolution. A **Zo
 
 Please refer to Zoom's guide on [Enabling HD video for Zoom Meetings](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066166) for details on ensuring that participants are able to join at higher resolutions. Note that the mention in the linked article about requiring "Active Speaker Layout" does not apply, as Ecamm Live will ensure that the highest available resolutions are requested from each participant.
 
+## Changing Zoom Accounts
+
+To switch to a different Zoom account, click your avatar icon in the Zoom window, and then click <samp>Change Account</samp>. Then pick an account from the list, or click <samp>Add Account...</samp> to add a new account. Ecamm Live will add the account currently in use by your default web browser. 
+
+![Figure\: The Zoom Window](/assets/img/logout.png "The Zoom Window"){:width="370"}
+
 ## Unlinking Ecamm Live From Zoom
 
 To log out of your Zoom account in Ecamm Live, click your avatar icon in the Zoom window, and then click <samp>Logout</samp>.
-
-![Figure\: The Zoom Window](/assets/img/logout.png "The Zoom Window"){:width="370"}
 
 To revoke Ecamm Live's permission to access your Zoom account:
 

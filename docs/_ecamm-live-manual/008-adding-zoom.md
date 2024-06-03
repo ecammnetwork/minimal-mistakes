@@ -1,10 +1,6 @@
 ---
 
 ---
-**BETA FEATURE!** 
-Ecamm for Zoom is a beta feature! This means that you'll need a beta version of the app to use any of the features describe here. Help us test this exciting new capability by [downloading the Ecamm Live Beta](https://www.ecamm.com/beta).
-{:.notice--info}
-
 ## What Can You Do With Zoom in Ecamm?
 
 Ecamm Live's Zoom integration provides for two main uses:
@@ -120,6 +116,14 @@ Participants can automatically bypass Zoom's waiting room feature. In the ••
 #### Auto-Add Zoom Participants to Ecamm as Camera Sources
 
 By default, participants are not automatically added as Ecamm Live camera sources. This can be changed if you would like all guests to become camera sources immediately upon joining. In the ••• menu in the top right-hand corner of the Zoom window, or in Ecamm Live's Preferences window, choose from the three <samp>Auto-Add Participants to Cameras</samp> options. To only auto-add participants who have previously joined your meetings, pick <samp>Known Participants</samp>.
+
+#### Include a Zoom Active Speaker Camera
+
+Activating this feature will add an active speaker camera source to the <samp>A/B</samp> section of the [camera switcher](../009-camera-switcher).
+
+#### Show Me As An Active Speaker
+
+Include your own camera when you're speaking when using the Zoom Active Speaker feature. 
 
 #### Zoom Audio Processing
 

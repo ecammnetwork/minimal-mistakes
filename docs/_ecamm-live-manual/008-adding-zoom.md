@@ -57,7 +57,7 @@ The Zoom window will now show your avatar image and buttons to create and join Z
 
 ## Creating or Joining a Zoom Meeting
 
-Click <samp>New Meeting</samp> to create a new Zoom meeting. A Zoom meeting window will open. Alternatively, join an existing Zoom Meeting or Zoom Webinar using the <samp>Join By ID or Link</samp> button or the <samp>Scheduled & Events</samp> button. The <samp>Scheduled & Events</samp> button will also provide access to scheduled Zoom Event sessions.
+Click <samp>New Meeting</samp> to create a new Zoom meeting. A Zoom meeting window will open. Alternatively, join an existing Zoom Meeting or Zoom Webinar using the <samp>Join By ID or Link</samp> button or the <samp>Scheduled & Events</samp> button. The <samp>Scheduled & Events</samp> button will also provide access to scheduled Zoom Webinars that you are hosting, and scheduled Zoom Event sessions.
 
 Note that there is no need to open the Zoom app on your Mac. The meeting will be conducted entirely within the Ecamm Live app.
 
@@ -137,7 +137,7 @@ Indicate whether you would like Zoom chat messages and [Q&A questions](https://s
 
 #### Manual Audio Mode
 
-By default, Ecamm Live will route Zoom audio between your Ecamm production and your Zoom audience. (Your Zoom audience will hear sound from Ecamm, and you livestream/recording will include Zoom guest audio.) This all happens automatically. 
+By default, Ecamm Live will route Zoom audio between your Ecamm production and your Zoom audience. (Your Zoom audience will hear sound from Ecamm, and your livestream/recording will include Zoom guest audio.) This all happens automatically. 
 
 However, if you'd rather manage Zoom audio yourself, turn on Manual Audio Mode. 
 

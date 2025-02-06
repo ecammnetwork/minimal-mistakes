@@ -51,10 +51,18 @@ There are 3 ways to play a sound:
 
 There are 4 ways to stop the current sound:
 
-* Click the sound's pause button in the Sound Effects window. (The currently playing sound's play button will become a pause button.)
+* Click the sound's stop button in the Sound Effects window. (The currently playing sound's play button will become a stop button.)
 * Click the {% inlineicon stop 14 inverted %}Stop Sound Button{% endinlineicon %} button at the bottom of the Sound Effects window.
 * Choose <samp>Stop Most Recent Sound Effect</samp> or <samp>Stop All Sound Effects</samp> from the <samp>Edit</samp> menu.
 * Press <kbd>⌘</kbd><kbd>.</kbd>.
+
+## Pausing Sounds
+
+Pausing a sound will cause it to play from the paused position instead of playing from the beginning. There are 2 ways to pause the current sound:
+
+* Hold down the <kbd>option</kbd> key and click the sound's pause button in the Sound Effects window. (The currently playing sound's play button will become a pause button when the <kbd>option</kbd> key is down.)
+* Choose <samp>Pause Most Recent Sound Effect</samp> from the <samp>Edit</samp> menu.
+* Press <kbd>⌘</kbd> <kbd>option</kbd><kbd>.</kbd>.
 
 ## Renaming Sounds
 

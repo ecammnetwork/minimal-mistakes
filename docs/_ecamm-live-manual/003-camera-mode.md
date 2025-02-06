@@ -41,6 +41,8 @@ rtsp://user:password@address:port/path
 
 The <samp>Test Camera</samp> button can be used to test the connection to the camera. 
 
+Many RTSP camera support VISCA for pan-tilt-zoom capabilities. If your camera supports VISCA, configure the VISCA setting here to use Ecamm Live's PTZ features.
+
 Note that network camera audio is not supported.
 
 #### Broadcasting Your iOS Device's Screen
@@ -54,6 +56,25 @@ Macs running macOS Ventura or newer will show your iPhone's [Continuity Camera](
 #### 360° Cameras
 
 Ecamm Live supports streaming from 360° cameras to services like Facebook Live which support them. We have used the Ricoh Theta S camera successfully. If you need help setting that up, read our [Streaming with a 360° Camera](https://support.ecamm.com/en/articles/3217765-streaming-with-a-360-camera/) document. Other cameras that can produce a equirectangular image may also work.
+
+## Pan-Tilt-Zoom (PTZ) Cameras
+
+Ecamm Live can control PTZ camera. Supported cameras include:
+
+* VISCA (Configure in the [Network Cameras](#rtsp-cameras-also-called-network-cameras-or-ip-cameras) window.)
+* UVC (USB webcams such as Insta6360 Link and Logitech PTZ Pro 2.)
+* OBSBot USB
+* NDI
+
+Ecamm Live will automatically detect PTZ capabilities and provide a control window for each camera. To manually open the control window, pick <samp>Show PTZ Controls</samp> from the camera's ••• menu in the [Camera Switcher window](../009-camera-switcher/) or click the {% inlineicon ptzbutton 30 %}PTZ controls{% endinlineicon %} icon.
+
+![PTZ Controls](/assets/img/ptz.png "PTZ Controls"){: width="554px"}
+
+The PTZ control window may look different depending on each camera's supported features. For example, presets or speed options may be missing if a particular camera doesn't support these features.
+
+#### Assigning PTZ Presets To Placeholder Cameras
+
+You can automatically recall a specific PTZ preset position in a Scene by assigning the preset position to a [Placeholder Camera](../009-camera-switcher/#placeholder-cameras).
 
 ## The Video Source Switcher
 

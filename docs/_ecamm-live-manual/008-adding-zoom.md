@@ -117,13 +117,23 @@ Participants can automatically bypass Zoom's waiting room feature. In the ••
 
 By default, participants are not automatically added as Ecamm Live camera sources. This can be changed if you would like all guests to become camera sources immediately upon joining. In the ••• menu in the top right-hand corner of the Zoom window, or in Ecamm Live's Preferences window, choose from the three <samp>Auto-Add Participants to Cameras</samp> options. To only auto-add participants who have previously joined your meetings, pick <samp>Known Participants</samp>.
 
+#### Show Zoom Guest Names in Camera Mode
+
+Ecamm Live will automatically add Zoom guest name text overlays to Zoom guests when in [Camera Mode](../003-camera-mode) Scenes.
+
 #### Include a Zoom Active Speaker Camera
 
 Activating this feature will add an active speaker camera source to the <samp>A/B</samp> section of the [camera switcher](../009-camera-switcher).
 
+The Zoom Active Speaker camera source will begin working once a [Zoom Capture Mode](#zoom-capture-modes) has been activated.
+
 #### Show Me As An Active Speaker
 
 Include your own camera when you're speaking when using the Zoom Active Speaker feature. 
+
+#### Exclude Visible Inputs From Active Speakers Camera
+
+This will avoid duplicated video by automatically excluding any guests or camera that are already in the current Scene. For example, if a Zoom guest's camera source is already visible in your Scene, and the Scene also contain a Zoom Active Speaker camera source, Zoom Active Speaker will not show that Zoom guest as the active speaker when they speak.
 
 #### Zoom Audio Processing
 
@@ -131,9 +141,14 @@ By default, Zoom's audio processing such as echo cancellation and background noi
 
 Keep in mind that disabling Zoom's audio processing could result in echo, so ensure that Ecamm Live's [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) feature or headphones are used when this setting is set to <samp>Disabled</samp>.
 
+#### Automatically Spotlight Myself
+
+Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) will automatically activate once [the requirements for spotlighting](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) have been met.
+
 #### Add Zoom Chat and Q&A Questions to the Ecamm Comments & Reactions Window
 
-Indicate whether you would like Zoom chat messages and [Q&A questions](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065237) to [show up in the Comments & Reactions Window.](#adding-zoom-chat-messages-to-your-scene) 
+Indicate whether you would like Zoom chat messages and [Q&A questions and answers](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065237) to [show up in the Comments & Reactions Window.](#adding-zoom-chat-messages-to-your-scene) 
+
 
 #### Manual Audio Mode
 
@@ -204,6 +219,15 @@ Zoom chat messages and [Q&A questions](https://support.zoom.com/hc/en/article?id
 ![Figure\: The Comments & Reactions Window](/assets/img/zoomcomments.png "The Comments & Reactions Window"){:width="375"}
 
 The Comments & Reactions window can also be used to send Zoom chat messages.
+
+### Zoom Q&A Features
+
+When Zoom Q&A questions arrive, a new <samp>Open Questions</samp> tab will appear in the Comments & Reactions window. Questions will automatically be removed from this section when they've been deleted, dismissed, or marked as answered by you or a co-host.
+
+Options for deleting, dismissing, or answering questions can be accessed by right-clicking or <kbd>option</kbd>-clicking on the question in the Comments & Reactions window. 
+
+![Figure\: The Comments & Reactions Window](/assets/img/questionactions.png "The Comments & Reactions Window"){:width="375"}
+
 
 ## Maximizing Participant Video Resolution
 

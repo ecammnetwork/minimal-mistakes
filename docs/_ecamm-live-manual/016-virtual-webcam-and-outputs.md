@@ -10,13 +10,7 @@ Ecamm Live's Virtual Webcam feature allows you to use all of the features of Eca
 
 Activate Virtual Webcam by choosing <samp>On</samp> in <samp>Outputs</samp> ➝ <samp>Virtual Webcam</samp>. It can also be activated using <samp>Virtual Cam</samp> toggle in the Mode menu at the top of the Main Window.
 
-If this is your first time using the feature, you'll be prompted to install the Virtual Webcam System Extension. The installation process will prompt you for your Mac's administrator password. Once installed, macOS will automatically block the newly installed extension, and then prompt you to unblock it.
-
-![](/assets/img/blocked.png){: width="372px"}
-
-Click <samp>Allow</samp> in the <samp>Privacy & Security</samp> section of the System Settings application to complete the installation.
-
-![](/assets/img/privacy.png){: width="590px"}
+If this is your first time using the feature, you'll be prompted to install [and enable](https://support.ecamm.com/en/articles/3216951-using-the-virtual-camera-pro-only#h_d01a337da5) the Virtual Webcam Extension.
 
 Once installed, you may need to quit any video apps that are already open before the Virtual Webcam is recognized.
 

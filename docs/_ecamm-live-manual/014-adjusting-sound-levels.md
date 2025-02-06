@@ -11,7 +11,7 @@ The Sound Levels Window shows what audio source is in use. Clicking on the name 
 
 A meter in the Sound Levels Window will show the currently selected source's volume level. You can adjust this with the slider. When sharing your screen, you'll also see a sound level adjustment for System Audio.
 
-Each audio channel (microphone, movie audio, Interview mode, Sound Effects and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have an Interview guest online, but only unmute the guest's audio in particular Scenes.
+Each audio channel (microphone, movie audio, Interview mode, Sound Effects, Zoom audio, and System Audio) can be muted using the Sound Level window's <samp>MUTE</samp> buttons. These mute setting will be saved in the Scene. For example, you may have an Interview guest online, but only unmute the guest's audio in particular Scenes.
 
 ### Adding a Second Audio Input
 
@@ -21,6 +21,10 @@ To remove the secondary audio input, click the {% inlineicon remove 15 inverted 
 
 When [an iOS device is connected](../003-camera-mode/#broadcasting-your-ios-devices-screen), Ecamm Live will automatically add it as a second audio device. You will also see a checkbox and popup menu to configure audio play-through for the iOS device. This will allow you to hear sound from the iOS device on your Mac's speakers or a headset.
 
+### Capturing System Audio
+
+If <samp>Broadcast System Audio</samp> is turned on in the [Audio preferences](../018-other-options/#audio-preferences), you will see system sound levels shown in this window, including a popup menu to select which Mac application's audio should be captured. (Note that this menu is only available when using macOS 14.4 or newer.)
+
 ### Mapping Audio Channels for Stereo
 
 Ecamm Live will automatically broadcast System Audio and movie playback audio in stereo. Audio from a connected microphone or mixer works a bit differently.
@@ -29,9 +33,16 @@ By default, Ecamm Live will mix all of an input device's channels together. Howe
 
 Note that when [Echo Cancellation](#echo-cancellation) is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices, so stereo audio will not be available.
 
+### Mapping Audio Channels from Multi-Channel Audio Devices
+
+If Ecamm Live detects a multi-channel audio device, (an audio device with more than two channels), a channel mapping icon will show up. Click this icon to view the channel mapping popover. Each channel can be mapped to <samp>Off</samp>, <samp>Mono</samp>, <samp>Left</samp>, or <samp>Right</samp>. 
+
+Note that this feature will not be available if Echo Cancellation is activated.
+
 #### Stereo for Interview Guests
 
 Ecamm Live provides the option for [Interview](../008-interview-mode) guests to connect in stereo, however the guest must use Chrome on a desktop computer, and [audio processing must be disabled](../008-interview-mode#turn-off-audio-processing-for-guests).
+
 
 ### Echo Cancellation
 
@@ -40,6 +51,20 @@ If you are using your Mac's speakers during your broadcast, that may cause an ec
 If you are using headphones, echo cancellation is disabled automatically. Note that Ecamm Live can't distinguish between headphones and external computer speakers. If you are using external computers speakers, and you wish to use Echo Cancellation, you will need to turn on the <samp>Enable Echo Cancellation for External Speakers</samp> checkbox in the Audio section of the Preferences.
 
 When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 of multi-channel audio input devices. If your audio interface has more than one channel, be sure to turn off Echo Cancellation.
+
+### Audio Filters
+
+Ecamm Live'a Audio Filters window allows you to applue any installed AU Component audio plugins to the primary mic, secondary mic, or [Interview mode](../008-interview-mode/) guest audio. To open the Audio Filters window, click the {% inlineicon hollowpuzzlepiece 35 inverted %}puzzle piece{% endinlineicon %} icon in the bottom-right corner of the Sound Levels window, or pick <samp>Audio Filters</samp> from the <samp>Window</samp> menu.
+
+![Audio Filters Window](/assets/img/audiofilters.png "Audio Filters Window"){: width="340px"}
+
+Click the + button to add a new Audio Filter group. In the details popover, select the desired audio channels, and click <samp>Add Plugin</samp> to add one or more audio plugins. 
+
+![Audio Filters Window Add Plugin](/assets/img/addplugin.png "Audio Filters Window Add Plugin"){: width="540px"}
+
+#### Hearing Your Audio Filters
+
+To hear the effects of your Audio Filters, connect headphones, and use Ecamm Live's Audio Monitor feature. (Pick the headphones in the <samp>Audio Monitor</samp> section of the <samp>Outputs</samp> menu.)
 
 ### Audio Warnings
 

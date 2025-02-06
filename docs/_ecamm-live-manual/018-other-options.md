@@ -126,7 +126,7 @@ Creates a local recording of all broadcasts. Find more about recording in the [R
 
 #### Record Isolated Video Tracks (Pro Only)
 
-In addition to normal recording, Ecamm Live can save a recording of up to two camera sources and all [Interview](../008-interview-mode/) guest video and audio. This is sometimes referred to as ISO video recording. Turn on isolated video recording using the checkboxes for <samp>Camera A</samp>, <samp>Camera B</samp> and <samp>Interview Guests</samp>. You can also select what audio will be added to each recording.
+In addition to normal recording, Ecamm Live can save a recording of up to two camera sources and all [Interview](../008-interview-mode/) guest video and audio. This is sometimes referred to as ISO video recording. Turn on isolated video recording using the checkboxes for <samp>Camera A</samp>, <samp>Camera B</samp>, <samp>Camera C</samp>, <samp>Interview Guests</samp>, <samp>Zoom Guests</samp>, and the Zoom Active Speaker camera. You can also select what audio will be added to each recording.
 
 #### Apply Camera Effects To Recorded Video Sources
 
@@ -172,7 +172,9 @@ The default source mode (Blank, Camera, or Screen Share) for newly created Scene
 
 #### Default Transition
 
-Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Transition</samp>, <samp>Cross Dissolve</samp>,  <samp>Slow Cross Dissolve</samp>,  <samp>Slower Cross Dissolve</samp>, <samp>White Flash</samp>, <samp>Swipe</samp>, <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> transition effects. A Pro-level plan is required for <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> effects.
+Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Transition</samp>, <samp>Live Motion</samp>,  <samp>Cross Dissolve</samp>,  <samp>Slow Cross Dissolve</samp>,  <samp>Slower Cross Dissolve</samp>, <samp>White Flash</samp>, <samp>Swipe</samp>, <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> transition effects. A Pro-level plan is required for <samp>Cross Zoom</samp>, <samp>Light Rays</samp>, <samp>Ripple</samp> and <samp>Copy Machine</samp> effects.
+
+Live Motion will smoothly move overlays that are in both scenes. It supports camera, screen share, widget, and image overlays. Components of the scene that aren't moved by Live Motion will cross dissolve.
 
 This transition effect can also be set on a per-Scene basis by selecting a transition in the <samp>Scene Optons</samp> section of the <samp>Options</samp> menu.
 

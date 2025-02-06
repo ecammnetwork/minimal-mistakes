@@ -10,7 +10,7 @@ By default, Ecamm Live keeps a local, full-quality recording of every broadcast 
 
 ## Isolated Video Recording (Pro Only)
 
-In addition to normal recording, Ecamm Live can save a recording of up to two camera sources. It can also record the audio and video from [Interview](../008-interview-mode/) guests.  Isolated video recording can be turned on in [Recording section](../018-other-options/#recording-preferences) of the app preferences.
+In addition to normal recording, Ecamm Live can save a recording of up to three camera sources. It can also record the audio and video from [Interview](../008-interview-mode/) guests and [Zoom guests](../008-adding-zoom/).  Isolated video recording can be turned on in [Recording section](../018-other-options/#recording-preferences) of the app preferences.
 
 An Apple Silicon (M1 or M2) Mac is required for isolated video recording.
 

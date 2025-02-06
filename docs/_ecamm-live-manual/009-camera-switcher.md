@@ -20,17 +20,23 @@ If you would like to display more than one video source at the same time in a sp
 
 #### Drag to Add a Camera Overlay
 
-To add a [Camera Overlay](../006-using-overlays/#camera-overlays), simply drag a video source from the Camera Switcher window to the Main Window.
+To add a [Camera Overlay](../006-using-overlays/#camera-overlays), simply drag a video source from the Camera Switcher window to the Main Window. You can also drag to an existing Camera Overlay to change its input source.
 
 ### Video Source Options
 
 Each video source in the Camera Switcher has a {% inlineicon tinyeffects 34 %}Camera Effects{% endinlineicon %} button to quickly access the source's [Camera Effects](../010-camera-effects/).
 
-Each source also has a {% inlineicon tinydots 34 %}•••{% endinlineicon %} button to access additional options:
+Cameras that support pan-tilt-zoom (PTZ) controls will also have a {% inlineicon ptzbutton 34 %}PTZ{% endinlineicon %} button.
+
+Each source has a {% inlineicon tinydots 34 %}•••{% endinlineicon %} button to access additional options:
 
 <samp>Show Source in Separate Window</samp> Show the video source in a separate window on the Mac.
 
 <samp>Source Video Monitor</samp> Show the video source on a connected display or AirPlay device. (Requires an Ecamm Live Pro plan.)
+
+<samp>Show PTZ Controls</samp> Show the camera's PTZ controls. (This option only shows up for PTZ cameras.)
+
+<samp>Set As Default Camera</samp> Ecamm Live will use the default camera in newly created Camera Scenes, and fall back to the default camera if a camera can't be found.
 
 <samp>Remove From Switcher</samp> This will hide the video source in the switcher, and the source will not run unless it is being used in the current scene.
 <aside class="notice" markdown="1">
@@ -60,5 +66,11 @@ To see fewer placeholder cameras, click the {% inlineicon tinydots 34 %}••�
 #### Camera Effects
 
 Each placeholder camera has its own [Camera Effects](../010-camera-effects/) settings. This can be helpful if you need more than one zoom level or green screen backdrop assigned to a video source.
+
+#### PTZ Camera Presets
+
+Cameras that support Pan-Tilt-Zoom (PTZ) preset positions will provide a sub-menu to select a preset position for the placeholder camera.  For example, Camera A could be assigned to a camera's preset position 1, and Camera B could assigned to preset position 2.  The camera will recall the desired preset position whenever the associated placeholder camera is included in the current Scene.
+
+![Camera Switcher Window With Presets](/assets/img/presets.png "Camera Switcher Window With Presets"){: width="542px"}
 
 

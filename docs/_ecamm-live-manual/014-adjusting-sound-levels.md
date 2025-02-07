@@ -64,7 +64,7 @@ Click the + button to add a new Audio Filter group. In the details popover, sele
 
 #### Hearing Your Audio Filters
 
-To hear the effects of your Audio Filters, connect headphones, and use Ecamm Live's Audio Monitor feature. (Pick the headphones in the <samp>Audio Monitor</samp> section of the <samp>Outputs</samp> menu.)
+To hear the effects of your Audio Filters, connect headphones, and use Ecamm Live's [Audio Monitor](../016-virtual-webcam-and-outputs#audio-monitor-pro-only) feature. (Pick the headphones in the <samp>Audio Monitor</samp> section of the <samp>Outputs</samp> menu.)
 
 ### Audio Warnings
 

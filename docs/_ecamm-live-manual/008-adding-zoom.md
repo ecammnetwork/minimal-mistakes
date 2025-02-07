@@ -67,7 +67,7 @@ To join using your Personal Meeting ID, click the tiny arrow button beside the <
 
 ## The Zoom Meeting Window
 
-The Zoom Meeting window is essentially the Zoom desktop app, but contained within Ecamm Live. All Zoom features such as screen sharing, chat, whiteboards, and spotlighting can be controlled using the Zoom Meeting window. 
+The Zoom Meeting window is essentially the Zoom desktop app, but contained within Ecamm Live. All Zoom features such as screen sharing, chat, and whiteboards can be controlled using the Zoom Meeting window. 
 
 The meeting will automatically use the output of Ecamm Live as its camera source and microphone source. 
 
@@ -79,7 +79,7 @@ Once a meeting has started, you'll see your Zoom invitation link displayed at th
 
 ![Figure\: The Zoom Window](/assets/img/emptymeeting.png "The Zoom Window"){:width="350px"}
 
-When Zoom Meeting participants and Zoom Webinar panelists join, they will be listed in the Zoom window. Zoom guest audio will be mixed into the broadcast or recording automatically.
+When Zoom Meeting participants and Zoom Webinar panelists join, they will be listed in the Zoom window. Zoom guest audio will not be mixed into the broadcast or recording until a [Capture Mode](#zoom-capture-modes) is started. To start a capture mode, add at least one Zoom guest as a camera, or pick <samp>Start Capturing Audio and Video</samp> from the ••• menu at the top of Ecamm's Zoom window.  
 
 ![Figure\: The Zoom Window](/assets/img/addclarence.png "The Zoom Window"){:width="350px"}
 
@@ -191,6 +191,12 @@ Note that participants will see these messages *even if you are not actually rec
 
 Using the Recording Capture Mode prevents Ecamm Live's embedded Zoom client from using the local or cloud recording features. Other participants can still use local or cloud recording if permitted by the meeting host.
 
+### Starting Capture
+
+To start a capture mode, [add at least one Zoom guest as a camera](#adding-guests-as-cameras), or pick <samp>Start Capturing Audio and Video</samp> from the ••• menu at the top of Ecamm's Zoom window.  
+
+Once capture has started, Zoom audio will be mixed into your broadcast or recording, and the [Zoom Active Speaker camera](#include-a-zoom-active-speaker-camera) will being to function.
+
 ## Adjusting Sound Levels
 
 Zoom participants audio is automatically added to your recording or broadcast. To adjust the volume level or mute the incoming Zoom meeting audio, use the [Sound Levels window](../014-adjusting-sound-levels/). When a Zoom account is linked to Ecamm Live, you'll see a <samp>Zoom Guests</samp> volume control and <samp>MUTE</samp> button. Note that the <samp>MUTE</samp> button's state is part of the current [Scene](../007-using-scenes).
@@ -228,6 +234,9 @@ Options for deleting, dismissing, or answering questions can be accessed by righ
 
 ![Figure\: The Comments & Reactions Window](/assets/img/questionactions.png "The Comments & Reactions Window"){:width="375"}
 
+### Spotlight Yourself
+
+You may wish to [spotlight yourself](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) in the Zoom meeting. This will pin your video feed for other Zoom participants. You can activate Zoom's spotlight feature by picking <samp>Spotlight Myself</samp> from the ••• menu in the top right-hand corner of the Zoom window.
 
 ## Maximizing Participant Video Resolution
 

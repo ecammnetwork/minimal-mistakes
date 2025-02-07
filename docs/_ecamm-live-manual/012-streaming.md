@@ -73,6 +73,10 @@ At any time during the broadcast, you can add a Marker by picking <samp>Add Mark
 
 ![Marker Dialog Box](/assets/img/marker.png "Marker Dialog Box"){:width="391px"}
 
+### Starting a New Recording
+
+During a broadcast, you may wish to end the current local recording and start a new recording.  (For example, if you need to review the recording or re-play it.) To do this, pick <samp>Start New Recording</samp> from the <samp>Ecamm Live</samp> menu at the top of the screen. This will not affect the broadcast, but you will see a recording file show up in your recordings folder. (To reveal your recordings, pick <samp>Show Recordings</samp> from the <samp>Recording</samp> menu.)
+
 ### Ending a Broadcast
 
 Click <samp class="blue">Finish</samp> or type <kbd>⌘</kbd><kbd>E</kbd> to end the broadcast.
@@ -87,13 +91,16 @@ After clicking <samp class="blue">Finish</samp> we'll present you with a message
 
 <samp>{% inlineicon trash 15 inverted %}Trash Button{% endinlineicon %} Delete Post</samp> - If Ecamm Live can remove the post, you'll see an option to delete it.
 
-The next four items concern the recording of your broadcast. Much more on Recordings in the [Recording](../013-recording-your-broadcast) section, but for now…
+The next five items concern the recording of your broadcast. Much more on Recordings in the [Recording](../013-recording-your-broadcast) section, but for now…
 
 <samp>{% inlineicon magnify 15 inverted %}Show File Button{% endinlineicon %} Show File</samp> - click to reveal the recording file in the Finder.
 
+<samp>{% inlineicon trash 15 inverted %}Delete File Button{% endinlineicon %} Delete File</samp> - click to delete the recording.
+
+<samp>{% inlineicon opusclip 15 inverted %}Send to OpusClip{% endinlineicon %} Send to OpusClip</samp> - click to send the recording to [OpusClip](https://www.opus.pro) to create quick edits.
+
+<samp>{% inlineicon descript 15 inverted %}Send to Descript Button{% endinlineicon %} Send to Descript</samp> - click to send the recording to [Descript](https://www.descript.com) for editing and transcription.
+
 <samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to a YouTube channel. Note that this option will not be shown if your live broadcast was to YouTube.
 
-<samp>{% inlineicon scenery 15 inverted %}Quick Edit in Scenery Button{% endinlineicon %} Quick Edit in Scenery</samp> - click to send the recording to [Scenery](https://www.scenery.video) with three quick edit options: AI assisted edits, automatic subtitle creation, or custom edits.
-
-<samp>{% inlineicon descript 15 inverted %}Send to Descript Button{% endinlineicon %} Send to Descript</samp> - click to send the recording to [Descript.com](https://www.descript.com) for editing and transcription.
 

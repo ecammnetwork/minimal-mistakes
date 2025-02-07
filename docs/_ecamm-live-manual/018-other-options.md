@@ -46,6 +46,9 @@ What to do if changes have been made to the current scene while in Preview mode 
 
 When a [viewer comment is added as an overlay](../006-using-overlays/#comment-overlays), use this setting to automatically hide it after a given number of seconds. When this setting is activated, the overlays will also be hidden automatically after changing Scenes. 
 
+#### Hide YouTube Dislikes
+
+Checkbox this checkbox to prevent YouTube dislikes from showing up in Ecamm Live's [Comments & Reactions Window](../012-streaming/#comments-and-reactions).
 
 #### Use Discrete Graphics Card for Main Screen
 

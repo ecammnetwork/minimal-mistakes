@@ -207,7 +207,11 @@ A Camera Overlay will show up in the center of the Main Window.
 
 #### Editing Camera Overlays
 
-In the Camera Overlay's [settings popover](#the-overlay-settings-popover), a camera source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner. 
+In the Camera Overlay's [settings popover](#the-overlay-settings-popover), a camera source picker and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner. 
+
+#### Showing Guest Names Automatically
+
+The settings popover will also include a <samp>Show Guest Name</samp> checkbox. This applies to [Interview Mode](../008-interview-mode) guest and [Zoom guests](../008-adding-zoom). Check this checkbox to automatically add a text overlay containing the guest's name.
 
 ## Screenshare Overlays
 

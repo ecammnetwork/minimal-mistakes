@@ -2,11 +2,11 @@
 
 ---
 
-Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to ten remote guests can join a broadcast on an Apple Silicon (M1 or M2) mac.  Intel-based Macs are limited to four remote guests.
+Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to ten remote guests can join a broadcast on an Apple Silicon (M-series) mac.  Intel-based Macs are limited to four remote guests.
 
 ## Host System Requirements
 
-- To host using Interview, we recommend an iMac, Mac Mini or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection. 
+- To host using Interview, we recommend an iMac, Mac Mini, Mac Studio, or MacBook Pro manufactured in 2015 or newer, and at least a 10 Mbps internet connection. 
 
 - Intel-based Macs are limited to four remote guests.
 
@@ -129,6 +129,8 @@ Note that once a guest has been assigned to a placeholder, if the guest disconne
 Ecamm Live can automatically add an on-screen title to the host and guests. To show the title, click the {% inlineicon hidet 15 inverted %}Title{% endinlineicon %} button next to the host or guest name. Click the button again to hide the title.
 
 Each title's visibility is a Scene-based setting, meaning it can be hidden or shown for each Scene in your broadcast.
+
+Automatic titles can also be added to [Camera Overlays](../006-using-overlays/#camera-overlays) by checking the <samp>Show Guest Name</samp> checkbox in the Overlay's settings popover.
 
 #### Changing Title Style
 

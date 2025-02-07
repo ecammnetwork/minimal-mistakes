@@ -18,7 +18,7 @@ HDMI encoders (also sometimes called video capture cards) such as the [Elgato Ca
 
 #### DSLR and Mirrorless Cameras via USB
 
-You can use [most DSLR or mirrorless cameras](http://support.ecamm.com/en/articles/3968730-connecting-your-dslr-or-mirrorless-camera-via-usb) with Ecamm Live without any extra hardware or software. Connect your camera to your Mac's USB port. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. If the camera provides HDMI output, and you have a video capture device, use the HDMI Encoder method above instead for better video quality.
+You can use [most DSLR or mirrorless cameras](https://support.ecamm.com/en/articles/3968730-connecting-your-dslr-or-mirrorless-camera-via-usb) with Ecamm Live without any extra hardware or software. Connect your camera to your Mac's USB port. Your camera will now be an option in Ecamm Live's <samp>Camera</samp> menu. If the camera provides HDMI output, and you have a video capture device, use the HDMI Encoder method above instead for better video quality.
 
 #### Blackmagic Devices
 
@@ -27,9 +27,9 @@ We've built in special support for cameras connected to your Mac through [Blackm
 **Blackmagic Tip:** If you aren't seeing video from your Blackmagic device, it may need a setting changed. Open Blackmagic's "Desktop Video Setup" application in your Applications folder. Ensure that the device's video input is set to HDMI instead of SDI.
 {: .notice}
 
-#### Newtek NDI® Cameras
+#### NDI Cameras
 
-Ecamm Live will automatically detect [Newtek NDI®](https://www.newtek.com/ndi/) input sources, such as the [NDI HX app](https://apps.apple.com/us/app/ndi-hx-camera/id1477266080). NDI sources will show up as cameras in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
+Ecamm Live will automatically detect [NDI](https://ndi.video) input sources. NDI sources will show up as cameras in Ecamm Live's camera list, and as a microphone in Ecamm Live's microphone list.
 
 #### RTSP Cameras (Also called Network Cameras or IP Cameras)
 

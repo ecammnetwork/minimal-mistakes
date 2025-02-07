@@ -229,6 +229,14 @@ A Screenshare Overlay will show up in the center of the Main Window.
 
 In the Screenshare Overlay's [settings popover](#the-overlay-settings-popover), screenshare source and shape options will appear. If you need a shape that isn't listed in the shape menu, pick <samp>Custom</samp> from the list of shapes. Then adjust the shape by dragging the Overlay from any corner.  
 
+#### Zoom To App Windows
+
+Check this checkbox to automatically adjust the size of the screen capture to just the window being shared.
+
+#### Include Desktop
+
+Check this checkbox to include the desktop image and icons. When sharing an individual app or app window, unchecking this checkbox will result in a transparent background.
+
 #### Activate System Audio Capture
 
 Check this checkbox to automatically turn on system audio capture when the overlay is visible. This option requires setting <samp>Broadcast System Audio</samp> to <samp>When Sharing The Screen</samp> in Ecamm Live's [Audio Preferences](../018-other-options#broadcast-system-audio).

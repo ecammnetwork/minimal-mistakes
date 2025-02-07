@@ -13,7 +13,7 @@ Upon opening Ecamm Live, you’ll be greeted by the Main Window, and several sma
 
 The Main Window is your monitor of what your audience sees, except the tools we’ve laid on top of this window—and your cursor—which are only visible to you. You can resize the Main Window by dragging from any edge or corner of the window.
 
-The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard [shortcut assigned](https://support.ecamm.com/en/articles/3372157-ecamm-live-hot-keys) for easy access.
+The smaller windows are for control of [Sound Levels](../014-adjusting-sound-levels), [Scenes](../007-using-scenes), [Overlays](../006-using-overlays), [Camera Switcher](../009-camera-switcher/), [Camera Effects](../010-camera-effects/), [Interview mode](../008-interview-mode/), [Zoom](../008-adding-zoom), and [Comments and Reactions.](../012-streaming/#comments-and-reactions) If you dismiss any of these windows, you can bring them back by visiting the <samp>Window</samp> menu at the very top of your Mac’s display. Additionally, each of these windows has a keyboard [shortcut assigned](https://support.ecamm.com/en/articles/3372157-ecamm-live-hot-keys) for easy access.
 
 [![Figure\: Annotated Main Window with labels](/assets/img/mainwindow.png "Click for full-size image.")
 ](/assets/img/mainwindow.png)
@@ -29,8 +29,6 @@ For streaming, turn on the <samp>Stream</samp> toggle switch. This will activate
 To record your stream, turn on the <samp>Record</samp> switch.
 
 For [Record-Only mode](../013-recording-your-broadcasts/#record-only-mode), turn off <samp>Stream</samp> and turn on <samp>Record</samp>.
-
-Use the <samp>Virtual Cam</samp> switch to activate Ecamm Live's [Virtual Cam](../016-virtual-webcam-and-outputs/) and [Virtual Mic](../016-virtual-webcam-and-outputs/#virtual-mic-pro-only).
 
 ## Scene Selector
 
@@ -66,6 +64,8 @@ The right side of the Main Window contains buttons for the Camera Switcher, Over
 {% inlineicon comment 35 graybutton %}Comments Button{% endinlineicon %} [Comments](../012-streaming/#comments-and-reactions)
 
 {% inlineicon interview 35 graybutton %}Interview Button{% endinlineicon %} [Interview](../008-interview-mode/)
+
+{% inlineicon zoom 35 graybutton %}Zoom Button{% endinlineicon %} [Zoom](../008-adding-zoom/)
 
 {% inlineicon preferences 35 graybutton %}Preferences Button{% endinlineicon %} [Preferences](../018-other-options)
 

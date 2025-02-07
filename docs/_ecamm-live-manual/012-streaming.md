@@ -33,7 +33,7 @@ The {% inlineicon sharebutton 15 %}share{% endinlineicon %} buttons in the statu
 
 ### Comments and Reactions
 
-During broadcasts, any chat comments your viewers post in Facebook, Instagram, YouTube, Twitch, Amazon Live, X (Twitter), or Restream will be displayed in the Comments and Reactions window. Reactions from Facebook and YouTube will also be displayed. If you don't see this window, pick it from the <samp>Windows</samp> menu at the top of the screen. 
+During broadcasts, any chat comments your viewers post in Facebook, Instagram, YouTube, Twitch, Amazon Live, X, or Restream will be displayed in the Comments and Reactions window. Reactions from Facebook and YouTube will also be displayed. If you don't see this window, pick it from the <samp>Windows</samp> menu at the top of the screen. 
 
 During a broadcast, if there are comments, you'll see a {% inlineicon comment 20 graybutton %}Comment Button{% endinlineicon %} button in the bottom left-hand corner of the Main Window to reveal the Comments and Reactions window.
 

@@ -17,7 +17,7 @@ Other features include:
 
 ## Host System Requirements
 
-- To use Ecamm Live's Zoom integration we recommend an iMac, Mac Studio, Mac Mini or MacBook Pro manufactured in 2020 or newer, and at least a 10 Mbps internet connection. 
+- To use Ecamm Live's Zoom integration we recommend an iMac, Mac Studio, Mac Mini, Mac Studio, or MacBook Pro manufactured in 2020 or newer, and at least a 10 Mbps internet connection. 
 
 - An [Ecamm Live Pro plan](https://appg2.ecamm.com/users/pricingplans) is required.
 
@@ -201,7 +201,7 @@ Once capture has started, Zoom audio will be mixed into your broadcast or record
 
 Zoom participants audio is automatically added to your recording or broadcast. To adjust the volume level or mute the incoming Zoom meeting audio, use the [Sound Levels window](../014-adjusting-sound-levels/). When a Zoom account is linked to Ecamm Live, you'll see a <samp>Zoom Guests</samp> volume control and <samp>MUTE</samp> button. Note that the <samp>MUTE</samp> button's state is part of the current [Scene](../007-using-scenes).
 
-![Figure\: The Sound Levels Window](/assets/img/zoom_sound.png "The Sound Levels Window"){:width="370"}
+![Figure\: The Sound Levels Window](/assets/img/zoom_sound.png "The Sound Levels Window"){:width="449px"}
 
 ## Running Your Show
 

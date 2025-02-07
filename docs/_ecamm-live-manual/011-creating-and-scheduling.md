@@ -34,7 +34,7 @@ To add a destination for any RTMP-capable service, you'll need two pieces of inf
 
 ##### Stream Key Login and Password
 
-Rarely, some RTMP services may require a login and password. ([Dacast](http://dacast.com) is one example.) Use the <samp>Provide Login and Password</samp> checkbox to add this.
+Rarely, some RTMP services may require a login and password. ([Dacast](https://dacast.com) is one example.) Use the <samp>Provide Login and Password</samp> checkbox to add this.
 
 ### Creating a New Broadcast
 
@@ -64,7 +64,7 @@ Business pages that have crossposting relationships will be listed here automati
 
 <samp>Made For Kids</samp> Indicating that a YouTube broadcast is Made For Kids will disable features such as Live Chat.
 
-<samp>Twitter Latency</samp> Choose Low to enhance interaction with your audience by reducing buffering delay.
+<samp>X Latency</samp> Choose Low to enhance interaction with your audience by reducing buffering delay.
 
 ### Scheduling Your Broadcast
 

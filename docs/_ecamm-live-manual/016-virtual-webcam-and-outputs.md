@@ -52,7 +52,7 @@ Once activated, Audio Monitor will remain on until it is turned off in the <samp
 
 ## Sharing Window (Pro Only)
 
-Ecamm Live's  Sharing Window feature can be used to send Ecamm Live's output into Zoom. This is an alternative to using the Virtual Camera feature, and may provide a higher resolution when screen sharing. Details on using the Sharing Window [can be found here](http://support.ecamm.com/en/articles/4004884-ecamm-live-s-sharing-window-pro-only).
+Ecamm Live's  Sharing Window feature can be used to send Ecamm Live's output into apps that support window capture. This is an alternative to using the Virtual Camera feature, and may provide a higher resolution in some situations. Details on using the Sharing Window [can be found here](https://support.ecamm.com/en/articles/4004884-ecamm-live-s-sharing-window-pro-only).
 
 
 ## NDI Output (Pro Only)

@@ -179,7 +179,7 @@ Choose a visual effect when changing Source Modes or Scenes. Select <samp>No Tra
 
 Live Motion will smoothly move overlays that are in both scenes. It supports camera, screen share, widget, and image overlays. Components of the scene that aren't moved by Live Motion will cross dissolve.
 
-This transition effect can also be set on a per-Scene basis by selecting a transition in the <samp>Scene Optons</samp> section of the <samp>Options</samp> menu.
+This transition effect can also be set on a per-Scene basis by selecting a transition in the <samp>Scene Options</samp> section of the <samp>Options</samp> menu.
 
 #### Fade Out When Finished
 

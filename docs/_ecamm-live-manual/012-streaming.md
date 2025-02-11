@@ -101,6 +101,6 @@ The next five items concern the recording of your broadcast. Much more on Record
 
 <samp>{% inlineicon descript 15 inverted %}Send to Descript Button{% endinlineicon %} Send to Descript</samp> - click to send the recording to [Descript](https://www.descript.com) for editing and transcription.
 
-<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to a YouTube channel. Note that this option will not be shown if your live broadcast was to YouTube.
+<samp>{% inlineicon yt 15 inverted %}Send To YouTube Button{% endinlineicon %} Send To YouTube</samp> - click to send the recording to a YouTube channel. Note that this option will not be shown if your live broadcast included YouTube.
 
 

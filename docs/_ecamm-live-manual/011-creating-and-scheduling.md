@@ -54,7 +54,7 @@ Certain destinations will offer platform-specific options:
 
 <samp>Facebook Page Crossposting</samp>  Automatic crossposting is a Facebook feature that will automatically present your broadcast on more than one Business Page. Note that comments and reactions will not show up between the crossposted Business Pages.
 
-Business pages that have crossposting relationships will be listed here automatically. Establish cross-posting relationships using the Page's Crossposting settings on the Facebook website. To find the Crossposting setting, switch to a Page profile that you administer on facebook.com. Pick "Settings & privacy" from the top-right menu, then pick "Settings". In the left-hand sidebar, click "Videos", and then you'll see a Crossposting section.
+Business pages that have crossposting relationships will be listed here automatically. Establish cross-posting relationships using the Page's Crossposting settings on the Facebook website. To find the Crossposting setting, switch to a Page profile that you administer on facebook.com. Pick "Settings & privacy" from the top-right menu, then pick "Settings". In the left-hand sidebar, click "Media", and then you'll see a Crossposting section.
 
 <samp>Amazon Live Broadcast URL</samp> Provide the URL of your Amazon Live broadcast. This is not required but will allow Ecamm Live to retrieve comments, viewer count and follower notifications from Amazon.
 

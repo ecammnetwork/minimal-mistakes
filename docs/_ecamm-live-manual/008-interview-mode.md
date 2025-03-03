@@ -2,7 +2,7 @@
 
 ---
 
-Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to ten remote guests can join a broadcast on an Apple Silicon (M-series) mac.  Intel-based Macs are limited to four remote guests.
+Ecamm Live's Interview feature provides the ability to add remote video guests to your broadcast. Guests join via their web browser on a Mac, Windows PC, iOS device, or Android device. Up to ten remote guests can join a broadcast on an Apple Silicon (M-series) Mac.  Intel-based Macs are limited to four remote guests.
 
 ## Host System Requirements
 
@@ -24,7 +24,7 @@ Ecamm Live's Interview feature provides the ability to add remote video guests t
 
 - Wearing headphones is not required, but typically results in better audio quality.
 
-- Guest screensharing requires a Mac or PC running Google Chrome. 
+- Guest screen sharing requires a Mac or PC running Google Chrome. 
 
 Grab our [Interview Guest Checklist](https://ecamm.com/blog/interview-guest-checklist/) to make sure you don't forget a thing during tech checks.
 
@@ -54,7 +54,7 @@ Send your guests this link in advance of your broadcast. Guests will be able to 
 
 #### Preparing Your Guests
 
-We recommend having your guests join well in advance for a test call. This will allow you to ensure that the guests have a sufficient computer, web browser, camera, and microphone, and a suitable internet connection.
+We recommend having your guests join well in advance for a test call. This will allow you to ensure that the guests have a sufficient computer, web browser, camera, microphone, and a suitable internet connection.
 
 #### When Guests Join
 
@@ -83,7 +83,7 @@ Alternatively, a guest can hang up by clicking <samp>HANG UP</samp> in the inter
 
 ## Running The Interview
 
-Once a guest is connected, a row of blue buttons will show up below the host and guest cameras. Use these buttons to change the layout of broadcast:
+Once a guest is connected, a row of blue buttons will show up below the host and guest cameras. Use these buttons to change the layout of the broadcast:
 
 {% inlineicon solo 38 %}Solo Icon{% endinlineicon %} Click SOLO to show the camera full screen.
 
@@ -120,7 +120,7 @@ Note that greenroom guests will not be muted unless a broadcast or recording is 
 
 Rather than using the blue buttons to change camera layouts, you may wish to set up your camera layouts in advance use Ecamm Live's [Scenes](../007-using-scenes) feature. This can be done using guest placeholders. 
 
-Upon turning on Interview Mode, you'll see four guest placeholder cameras show up in the Camera menu. These placeholder can be used to set up Scenes in advance. When a guest joins your broadcast, use the {% inlineicon assign 38 %}Assign{% endinlineicon %} menu to assign the guest to the desired placeholder.
+Upon turning on Interview Mode, you'll see four guest placeholder cameras show up in the Camera menu. These placeholders can be used to set up Scenes in advance. When a guest joins your broadcast, use the {% inlineicon assign 38 %}Assign{% endinlineicon %} menu to assign the guest to the desired placeholder.
 
 Note that once a guest has been assigned to a placeholder, if the guest disconnects and then calls back later, they will automatically be assigned to the same placeholder.
 
@@ -134,7 +134,7 @@ Automatic titles can also be added to [Camera Overlays](../006-using-overlays/#c
 
 #### Changing Title Style
 
-Change the font, size, color, and background color or your titles by double-clicking one of the titles in the Main Window. This will open a text editing sheet. Note that this will change the font styles for all automatic titles in your broadcast.
+Change the font, size, color, and background color of your titles by double-clicking one of the titles in the Main Window. This will open a text editing sheet. Note that this will change the font styles for all automatic titles in your broadcast.
 
 #### Fly-In Titles
 
@@ -146,7 +146,7 @@ Automatic titles can be on left, on the right, or centered. To change the positi
 
 ## Off-Air Audio
 
-When Ecamm Live detects that both your microphone and the Interview guest microphones are muted, it will automatically allow you to speak with guests. This is useful for communicating with a guest during an introduction video, or while pre-recorded content is playing. When this mode entered, you'll see a red <samp class="red">Off-Air Audio</samp> indicator in the Interview window.  Guests will see a note in their web browser letting them know that they can be heard but not in the broadcast.
+When Ecamm Live detects that both your microphone and the Interview guest microphones are muted, it will automatically allow you to speak with guests. This is useful for communicating with a guest during an introduction video, or while pre-recorded content is playing. When this mode is entered, you'll see a red <samp class="red">Off-Air Audio</samp> indicator in the Interview window.  Guests will see a note in their web browser letting them know that they can be heard but not in the broadcast.
 
 When in this mode, the host can choose if the guest's program audio is automatically lowered, [using a checkbox in the Interview preferences](#lower-music-and-movie-sound-for-guests-when-in-off-air-audio-mode).  
 
@@ -164,7 +164,7 @@ Interview Chat can be enabled or disabled in the [Interview Customization window
 
 ## Customizing Your Interview Page
 
-The Interview page that your guests will see can be customized. A page title and logo can be added to match you broadcast's brand, and various features can be enabled based on the type of guest interaction desired.
+The Interview page that your guests will see can be customized. A page title and logo can be added to match your broadcast's brand, and various features can be enabled based on the type of guest interaction desired.
 
 You can create an unlimited number of customized Interview pages, and switch between them as needed. For example, if you produce two different shows, you may wish to have different customizations for each show, such as a different logo. Each Interview page has its own unique guest link.
 
@@ -245,4 +245,4 @@ When in [Off-Air Audio mode](#off-air-audio), (when the host and guests can spea
 
 #### Guest View
 
-By default, Interview guests will just see the host's camera in their web browser. If you'd rather have guests see the entire show, select <samp>Broadcast</samp>. This is useful if the guests need to see other content in the show, such as other guests. However it can also be distracting, as the guests will see themselves with a slight delay.
+By default, Interview guests will just see the host's camera in their web browser. If you'd rather have guests see the entire show, select <samp>Broadcast</samp>. This is useful if the guests need to see other content in the show, such as other guests. However,  it can also be distracting, as the guests will see themselves with a slight delay.

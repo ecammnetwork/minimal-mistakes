@@ -41,13 +41,13 @@ rtsp://user:password@address:port/path
 
 The <samp>Test Camera</samp> button can be used to test the connection to the camera. 
 
-Many RTSP camera support VISCA for pan-tilt-zoom capabilities. If your camera supports VISCA, configure the VISCA setting here to use Ecamm Live's PTZ features.
+Many RTSP cameras support VISCA for pan-tilt-zoom capabilities. If your camera supports VISCA, configure the VISCA setting here to use Ecamm Live's PTZ features.
 
 Note that network camera audio is not supported.
 
 #### Broadcasting Your iOS Device's Screen
 
-Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is recognized in the Finder sidebar and that is trusted by the Mac. It will then automatically show up as a video source and audio source in Ecamm Live.
+Your iPhone or iPad screen can also become a video source, simply by connecting the device via USB cable. Ensure that the device is recognized in the Finder sidebar and that it is trusted by the Mac. It will then automatically show up as a video source and audio source in Ecamm Live.
 
 #### Apple Continuity Camera
 

@@ -36,7 +36,7 @@ At the top left corner of the Main Window is the <samp>Scenes</samp> menu. The t
 
 ## Source Mode
 
-At the top center of the Main Window you’ll find Ecamm Live’s three primary source modes you can use in your broadcast.
+At the top center of the Main Window you’ll find Ecamm Live’s three primary source modes that you can use in your broadcast.
 
 {% inlineicon cam 20 graybutton %}Camera Icon{% endinlineicon %} [Camera](../003-camera-mode)
 
@@ -76,7 +76,7 @@ The links above go to the manual's sections for each source and explain each in 
 
 When <samp>Stream</samp> is turned on in the Mode menu, the bottom of the Main Window will contain:
 
-A button for for creating a <samp class="blue">New</samp> broadcast.
+A button for creating a <samp class="blue">New</samp> broadcast.
 
 A button to view a list of <samp class="blue">Upcoming</samp> broadcasts. (This will only show up if there are streams scheduled.)
 

@@ -107,8 +107,8 @@ Access Scene Sound settings by clicking the tiny gear button in the Scene Sound 
 
 The volume level and mute setting for all sound effects can be adjusted in the [Sound Levels](../014-adjusting-sound-levels) window.
 
-This volume level is also used for sound effects produce by [Widget Overlays](../006-using-overlays#widget-overlays).
+This volume level is also used for sound effects produced by [Widget Overlays](../006-using-overlays#widget-overlays).
 
 ### Sound Effects and Echo Cancellation
 
-When playing music or sound effects, it is important to use headphone or Ecamm Live's <samp>Echo Cancellation</samp> feature, to prevent sound from your Mac's speakers from getting picked up by your microphone, resulting in an echo/reverberation effect.
+When playing music or sound effects, it is important to use headphones or Ecamm Live's <samp>Echo Cancellation</samp> feature, to prevent sound from your Mac's speakers from getting picked up by your microphone, resulting in an echo/reverberation effect.

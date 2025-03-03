@@ -91,9 +91,9 @@ Add guests to Ecamm Live's camera list by clicking the <samp>Add</samp> button. 
 
 #### Removing Guests
 
-To remove a guest from Ecamm Live's camera list, click the ••• button in the top corner of that guest's video feed, and pick <samp>Remove from Cameras</samp>. You will see their video feed change back to their avatar icon, along with an <samp>Add</samp> button.
+To remove a guest from Ecamm Live's camera list, click the ••• button in the top corner of that guest's video feed and pick <samp>Remove from Cameras</samp>. You will see their video feed change back to their avatar icon, along with an <samp>Add</samp> button.
 
-To remove the participant from the meeting completely, click the ••• button in the top corner of that guest's video feed, and pick <samp>Return to Waiting Room</samp> or <samp>Remove from Zoom Meeting</samp>. Note that if you use the <samp>Remove from Zoom Meeting</samp> feature, the participant may not be able to rejoin the meeting. Also note that neither of these options can be used on a meeting host or [co-host](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066640).
+To remove the participant from the meeting completely, click the ••• button in the top corner of that guest's video feed, and pick <samp>Return to Waiting Room</samp> or <samp>Remove from Zoom Meeting</samp>. Note that if you use the <samp>Remove from Zoom Meeting</samp> feature, the participant may not be able to rejoin the meeting. Also, note that neither of these options can be used on a meeting host or [co-host](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066640).
 
 #### Muting Guests
 
@@ -129,15 +129,15 @@ The Zoom Active Speaker camera source will begin working once a [Zoom Capture Mo
 
 #### Show Me As An Active Speaker
 
-Include your own camera when you're speaking when using the Zoom Active Speaker feature. 
+Include your camera when you're speaking when using the Zoom Active Speaker feature. 
 
 #### Exclude Visible Inputs From Active Speakers Camera
 
-This will avoid duplicated video by automatically excluding any guests or camera that are already in the current Scene. For example, if a Zoom guest's camera source is already visible in your Scene, and the Scene also contain a Zoom Active Speaker camera source, Zoom Active Speaker will not show that Zoom guest as the active speaker when they speak.
+This will avoid duplicated video by automatically excluding any guests or cameras that are already in the current Scene. For example, if a Zoom guest's camera source is already visible in your Scene, and the Scene also contains a Zoom Active Speaker camera source, Zoom Active Speaker will not show that Zoom guest as the active speaker when they speak.
 
 #### Zoom Audio Processing
 
-By default, Zoom's audio processing such as echo cancellation and background noise removal will apply to your meetings. Pick <samp>Disabled</samp> if you want to disable Zoom's audio processing in order to allow your music and sound effects to be heard by meeting participants. 
+By default, Zoom's audio processing, such as echo cancellation and background noise removal, will apply to your meetings. Pick <samp>Disabled</samp> if you want to disable Zoom's audio processing in order to allow your music and sound effects to be heard by meeting participants. 
 
 Keep in mind that disabling Zoom's audio processing could result in echo, so ensure that Ecamm Live's [Echo Cancellation](../014-adjusting-sound-levels/#echo-cancellation) feature or headphones are used when this setting is set to <samp>Disabled</samp>.
 
@@ -248,7 +248,7 @@ Please refer to Zoom's guide on [Enabling HD video for Zoom Meetings](https://su
 
 ## Changing Zoom Accounts
 
-To switch to a different Zoom account, click your avatar icon in the Zoom window, and then click <samp>Change Account</samp>. Then pick an account from the list, or click <samp>Add Account...</samp> to add a new account. Ecamm Live will add the account currently in use by your default web browser. 
+To switch to a different Zoom account, click your avatar icon in the Zoom window, and then click <samp>Change Account</samp>. Then, pick an account from the list or click <samp>Add Account...</samp> to add a new account. Ecamm Live will add the account currently in use by your default web browser. 
 
 ![Figure\: The Zoom Window](/assets/img/logout.png "The Zoom Window"){:width="370"}
 

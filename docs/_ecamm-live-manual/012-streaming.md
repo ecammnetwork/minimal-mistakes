@@ -9,7 +9,7 @@ title: Streaming
 
 Start an unscheduled broadcast by clicking <samp>Go Live Now</samp> in the [Create New Broadcast window](../011-creating-and-scheduling/).
 
-To start a scheduled broadcast,click the <samp class="blue">Upcoming</samp> button at the bottom of the Main Window, and then click the desired broadcast in the broadcast list.
+To start a scheduled broadcast, click the <samp class="blue">Upcoming</samp> button at the bottom of the Main Window, and then click the desired broadcast in the broadcast list.
 
 ![Upcoming Broadcasts](/assets/img/list.jpg "Upcoming Broadcasts")
 
@@ -17,7 +17,7 @@ Upon picking the broadcast, the button at the bottom center of the Main Window w
 
 #### Starting Early
 
-Once the countdown reaches 120 minutes, (or 15 minutes if a LinkedIn destination is included), the countdown button will turn blue, indicating that early start is available. Click the countdown to start the broadcast before the planned start time.
+Once the countdown reaches 120 minutes, (or 15 minutes if a LinkedIn destination is included), the countdown button will turn blue, indicating that an early start is available. Click the countdown to start the broadcast before the planned start time.
 
 ### During the Broadcast
 
@@ -43,7 +43,7 @@ Comments can be marked as a favorite by clicking the comment's {% inlineicon sta
 
 #### YouTube Super Chats
 
-When a YouTube Super Chat or Super Sticker arrives, it will automatically be marked as a favorite. It will also be added to a Super Chats tab in the Comments & Reactions window. (The Super Chats tab will only show up once a Super Chat arrives.)
+When a YouTube Super Chat or Super Sticker arrives, it will automatically be marked as a favorite. It will also be added to a Super Chats tab in the Comments & Reactions window. (The Super Chats tab will only show once a Super Chat arrives.)
 
 #### Banning Viewers
 

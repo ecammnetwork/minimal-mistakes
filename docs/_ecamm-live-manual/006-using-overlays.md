@@ -3,7 +3,7 @@
 ---
 ## What are Overlays?
 
-Overlays are styled text, shapes, images and animations in your broadcast. If you don't see the [Overlays Window](#managing-your-overlays), you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the [Main Window](../002-the-main-window), or show it using <samp>Overlays</samp> menu at the very top of your display.
+Overlays are styled text, shapes, images and animations in your broadcast. If you don't see the [Overlays Window](#managing-your-overlays), you can show it by clicking the {% inlineicon overlays 45 graybutton %}Overlays Menu Button{% endinlineicon %} in the upper right corner of the [Main Window](../002-the-main-window) or show it using the <samp>Overlays</samp> menu at the very top of your display.
 
 There are eight types of Overlays:
 
@@ -22,7 +22,7 @@ Text Box Overlays are for adding a larger block of text to a broadcast. The shap
 There are four ways to add a Text Overlay:
 
 * Select <samp>New Dynamic Text Overlay</samp> or <samp>New Text Box Overlay</samp>  in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addtext 20 inverted %}Add Dynamic Text Overlay Button{% endinlineicon %} or {% inlineicon addtextbox 40 inverted %}Add Text Box Overlay Button{% endinlineicon %} buttons at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the {% inlineicon addtext 20 inverted %}Add Dynamic Text Overlay Button{% endinlineicon %} or {% inlineicon addtextbox 40 inverted %}Add Text Box Overlay Button{% endinlineicon %} buttons at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>⌘</kbd><kbd>N</kbd> or <kbd>⌘</kbd><kbd>option</kbd><kbd>N</kbd> 
 * Copy text from anywhere on your Mac. <samp>Edit</samp> menu ➝ <samp>Paste as Overlay</samp> will allow you to paste in plain or styled text.
 
@@ -81,7 +81,7 @@ Would you like to show your company logo in the corner of your broadcast? That�
 
 * Drag an image file from the Finder or another app into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Image Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the {% inlineicon addimage 50 inverted %}Add Image Overlay Button{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>shift</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window. A file selection sheet will appear, allowing you to find and select one image file. Select a JPG, PNG, GIF, WebP or PDF file.
 
 #### Multi-Page PDFs
@@ -105,14 +105,14 @@ There are 4 ways to add an Animated Overlay:
 
 * Drag a movie file from the Finder into the [Overlays Window](#managing-your-overlays).
 * Select <samp>New Animated Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display.
-* Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the {% inlineicon addmovie 50 inverted %}New Animated Overlay Button{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>O</kbd> while in the Main Window. A File Selection Sheet will appear, allowing you to find and select a movie file.
 
 #### Animated Overlay Playback Options
 
 To pause or play an animated overlay, place your cursor in the middle of the Overlay, and you'll see a small movie player bar show up, with a play/pause button, scrub bar and an options menu. {% inlineicon scrubbar 100 %}Scrub Bar{% endinlineicon %} Click the tiny down arrow to find the Options menu. Options include <samp>Auto-Play</samp>, <samp>Loop</samp>, and options to hide the overlay when finished with playback.
 
-By default, animated overlays will start playing from the beginning. If you'd prefer the animation start from where you left off previously, choose <samp>Start From Last Location</samp> from the player bar's menu.
+By default, animated overlays will start playing from the beginning. If you'd prefer the animation to start from where you left off previously, choose <samp>Start From Last Location</samp> from the player bar's menu.
 
 #### Green Screen and Blue Screen Blend Modes
 
@@ -122,7 +122,7 @@ Image Overlays and Animated Overlays offer a Green Screen and Blue Screen keying
 
 If you’re broadcasting with Facebook Live, YouTube Live, Amazon Live, Restream, or Twitch, and you receive a comment, you can drag that comment from the [Comments and Reactions Window](../012-streaming/#comments-and-reactions) into the Main Window. Ecamm will automatically convert your comment into a styled text Overlay, matching the style of your most recent Comment Overlay. If you want two different Comment Overlays to appear on screen at once, drag a second comment to the Main Window.
 
-You can also click the tiny <samp>Add To Broadcast</samp> button below each comment, or click the comment's avatar image to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
+You can also click the tiny <samp>Add To Broadcast</samp> button below each comment or click the comment's avatar image to place the comment on screen. This feature remembers the placement and style of a previous Comment Overlay. If there’s currently a Comment Overlay on screen, clicking a different comment in the Comments & Reactions window will replace the currently displayed Comment Overlay. This is useful for clicking through a series of comments in succession.
 
 #### Editing Comment Overlays
 
@@ -155,7 +155,7 @@ If you need to display a countdown timer on screen, clock, or stopwatch, use a C
 There are 3 ways to add a Countdown Overlay:
 
 * Select <samp>New Countdown Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the{% inlineicon addcountdown 70 inverted %}Add Countdown Button{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>C</kbd> while in the Main Window.
 
 A Text Editing Window appears, providing all of the same visual styling options as with a Text Overlay. Pick a countdown type, such as countdown, clock, or stopwatch. You can edit the End Time and text alignment. Press <samp>Add</samp> to display your timer within the Main Window.
@@ -177,7 +177,7 @@ Use shape overlays to add a rectangle, square, circle, or squircle shape to your
 There are two ways to add a Shape Overlay:
 
 * Select a shape from the <samp>New Shape Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display.
-* Click the{% inlineicon addshape 70 inverted %}Add Shape Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the{% inlineicon addshape 70 inverted %}Add Shape Overlay{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 
 #### Visual Effects
 
@@ -200,7 +200,7 @@ Use a Camera Overlay to add a live camera view to the broadcast.
 There are 3 ways to add a Camera Overlay:
 
 * Select a camera from the <samp>New Camera Overlay</samp> sub-menu in the <samp>Overlays</samp> menu at the top of your display.
-* Click the{% inlineicon addcamera 70 inverted %}Add Camera Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the{% inlineicon addcamera 70 inverted %}Add Camera Overlay{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Drag a video source from the [Camera Switcher](../009-camera-switcher) window to the Main Window.
 
 A Camera Overlay will show up in the center of the Main Window. 
@@ -220,7 +220,7 @@ If you need to quickly position a screenshare to create a custom layout, use a S
 There are three ways you can add a Screenshare Overlay:
 
 * Select <samp>New Screenshare Overlay</samp> from the <samp>Overlays</samp> menu at the top of your display.
-* Click the{% inlineicon addscreen 60 inverted %}Add Screenshare Overlay{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the{% inlineicon addscreen 60 inverted %}Add Screenshare Overlay{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>shift</kbd><kbd>option</kbd><kbd>⌘</kbd><kbd>S</kbd> while in the Main Window.
 
 A Screenshare Overlay will show up in the center of the Main Window. 
@@ -252,7 +252,7 @@ Ecamm Live supports displaying web widgets as Overlays. Widgets are transparent 
 There are 5 ways you can add a Widget Overlay:
 
 * Select <samp>New Widget Overlay</samp> in the <samp>Overlays</samp> menu at the top of your display
-* Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom the [Overlays Window](#managing-your-overlays).
+* Click the{% inlineicon addwidget 25 inverted %}Add Widget Button{% endinlineicon %} button at the bottom of the [Overlays Window](#managing-your-overlays).
 * Type <kbd>option</kbd><kbd>⌘</kbd><kbd>W</kbd> while in the Main Window.
 * Drag a web URL from the Finder or your web browser's address bar into the Main Window or [Overlays Window](#managing-your-overlays) Window.
 * To add a local HTML or Javascript file as a widget, drag the file from the Finder into the Main Window or [Overlays Window](#managing-your-overlays) Window.
@@ -269,14 +269,14 @@ Clicking the {% inlineicon addwidget 25 inverted %}Add Widget Button{% endinline
 
 * **Fill Entire Frame:** This checkbox will make the widget fill the entire broadcast area. When using this option, the overlay cannot be resized or moved around like a normal overlay.
 
-* **Keep Running:** This checkbox will keep the widget running even after hiding the Overlay or leaving the Overlay's Scene. This is helpful for Overlays that shouldn't be reloaded or that take a while to load up. However setting this should be used judiciously as once loaded, the widget will remain running in the background until the Ecamm Live app quits.
+* **Keep Running:** This checkbox will keep the widget running even after hiding the Overlay or leaving the Overlay's Scene. This is helpful for Overlays that shouldn't be reloaded or that take a while to load up. However, this should be used judiciously as once loaded, the widget will remain running in the background until the Ecamm Live app quits.
 
 
 ![Figure\: Widget Editor](/assets/img/widgets.png "Widget Overlay Editor")
 
 #### Editing Widget Overlays
 
-To return to the widget's setting, click the <samp>Edit Widget...</samp> button at the top of the overlay's [settings popover](#the-overlay-settings-popover).
+To return to the widget's settings, click the <samp>Edit Widget...</samp> button at the top of the overlay's [settings popover](#the-overlay-settings-popover).
 
 #### Interacting With Widget Overlays
 
@@ -376,7 +376,7 @@ If you need to further organize, you can create folders to group Overlays. Click
 The Overlays Window has three sections:
 
 * Overlays in the <samp>SHOW IN ALL SCENES</samp> section will show up throughout your entire broadcast, regardless of your current Scene. 
-* <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current [Scene](../007-using-scenes/). This will list of Overlays will change as you change Scenes.
+* <samp>SHOW IN CURRENT SCENE</samp> Overlays will show up in the current [Scene](../007-using-scenes/). This list of Overlays will change as you change Scenes.
 * <samp>SHOW IN BACKGROUND</samp> Overlays will show up behind everything else in your broadcast. 
 
 There are only a few specific cases where you will be able to see a Background Overlay:
@@ -403,7 +403,7 @@ Linking and unlinking can also be found in the contextual menu when right-clicki
 
 ## Displaying a Series of Overlays
 
-If you need to cycle through a series of Overlays, select an Overlay in the Overlays Window. Then use the <samp>Next Overlay</samp> and <samp>Previous Overlay</samp> options in the <samp>Overlays</samp> menu at the top of the screen, or use the <kbd>shift</kbd><kbd>^</kbd><kbd>→</kbd> and <kbd>shift</kbd><kbd>^</kbd><kbd>←</kbd> shortcut keys. The currently selected Overlay will be hidden and then next Overlay in the list will be shown. 
+If you need to cycle through a series of Overlays, select an Overlay in the Overlays Window. Then use the <samp>Next Overlay</samp> and <samp>Previous Overlay</samp> options in the <samp>Overlays</samp> menu at the top of the screen, or use the <kbd>shift</kbd><kbd>^</kbd><kbd>→</kbd> and <kbd>shift</kbd><kbd>^</kbd><kbd>←</kbd> shortcut keys. The currently selected Overlay will be hidden and then the next Overlay in the list will be shown. 
 
 **Note:** Overlays are always auto-saved as you create and edit them.
 {:.notice--info}

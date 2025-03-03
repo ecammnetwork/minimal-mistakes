@@ -58,7 +58,7 @@ When Echo Cancellation is enabled, Ecamm Live will only use audio on channel 1 o
 
 ### Audio Filters
 
-Ecamm Live'a Audio Filters window allows you to apply any installed AU Component audio plugins to the primary mic, secondary mic, or [Interview mode](../008-interview-mode/) guest audio. To open the Audio Filters window, click the {% inlineicon hollowpuzzlepiece 35 inverted %}puzzle piece{% endinlineicon %} icon in the bottom-right corner of the Sound Levels window, or pick <samp>Audio Filters</samp> from the <samp>Window</samp> menu.
+Ecamm Live's Audio Filters window allows you to apply any installed AU Component audio plugins to the primary mic, secondary mic, or [Interview mode](../008-interview-mode/) guest audio. To open the Audio Filters window, click the {% inlineicon hollowpuzzlepiece 35 inverted %}puzzle piece{% endinlineicon %} icon in the bottom-right corner of the Sound Levels window, or pick <samp>Audio Filters</samp> from the <samp>Window</samp> menu.
 
 ![Audio Filters Window](/assets/img/audiofilters.png "Audio Filters Window"){: width="340px"}
 

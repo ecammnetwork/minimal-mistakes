@@ -205,10 +205,6 @@ When this option is enabled, NDI titler sources such as [NewBlue](https://newblu
 
 You may wish to completely disable the built-in camera to avoid it from being picked accidentally when using other cameras.
 
-#### Show Skype's Active Speaker Camera
-
-When on a Skype call with more than one guest, Skype can offer a camera source what shows the person who is currently speaking.
-
 ### Audio Preferences
 
 #### Speakers

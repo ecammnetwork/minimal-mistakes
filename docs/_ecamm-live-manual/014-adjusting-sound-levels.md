@@ -76,11 +76,6 @@ The Sound Levels window can detect several audio misconfigurations and potential
 
 * *Echo Issues* happen when your Mac's speaker generates sounds that are then picked up by your microphone. If these sounds are already part of your broadcast, this results in an echo. Possible sound sources are [Video File playback](../005-video-file-mode/), a [Interview guest](../008-interview-mode/), [iOS device playthrough](#adding-a-second-audio-input), [Sound Effects](../015-sound-effects/), and broadcasting [System Audio](../004-screenshare-mode/#system-audio). To prevent this, turn on <samp>Echo Cancellation</samp> or use headphones rather than your Mac's speakers.
 
-* *Using Echo Cancellation Along With the Built-in Microphone* can cause microphone issues in other apps such as Skype. A warning will be displayed if Ecamm Live detects that <samp>Echo Cancellation</samp> is being used with the built-in microphone while Skype is also using the built-in microphone.  To prevent this, use a USB microphone instead, or turn off <samp>Echo Cancellation</samp>.
-
-* *Redundant System Audio With Skype* can occur when Ecamm Live is configured to broadcast [System Audio](../004-screenshare-mode/#system-audio) and Skype is set to the default output. Skype audio is picked up automatically by Ecamm Live and picked up again by the System Audio feature, resulting in a doubling effect. Ecamm Live will automatically prevent any echo effect by muting the Skype audio levels. However it will display a warning indicating that the Skype audio level slider and mute button are not being used. To prevent this, turn off the [System Audio](../004-screenshare-mode/#system-audio) feature when using the [Skype Guest](https://support.ecamm.com/en/articles/3323963-remote-guests-via-skype) feature. 
-
-
 <aside class="notice" markdown="1">
 
 ### An Aside on Audio Quality {#an-aside-on-audio-quality}
